@@ -1,0 +1,24 @@
+### Sensations Tab ### <br/>
+Sensations Tab <br/>
+ <br/>
+Your reader can only experience your settings through the eyes and ears of your characters.  To make the setting as effective as possible, you must explore the impressions the setting makes on the five senses. This tab is a reminder to do so. <br/>
+ <br/>
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Setting Sensations Tab.png <br/>
+ <br/>
+ <br/>
+Fields: <br/>
+ <br/>
+Sights <br/>
+This control deals with color, size and enclosure, lighting, texture, and contrasts. <br/>
+ <br/>
+Sounds <br/>
+Sounds have attributes of loudness, tone, complexity, and direction.  The sounds of voices are of special importance: dialog is a character key. But these are setting sounds: bells, cars and trains, barnyard sounds, the rustle of trees in the woods. <br/>
+ <br/>
+Touch <br/>
+This control deals with tactile sensations such as texture, temperature,  or pain.  Physical contact between characters, from the embrace of lovers to a father resting his hand on his son's shoulders, is especially important. <br/>
+ <br/>
+Smell/Taste <br/>
+The other senses are often neglected but can be very important.  Smells in particular can be effective in pulling a reader into a story; the sense of smell is primitive and powerful and taps into deep emotions. <br/>
+ <br/>
+ <br/>
+ <br/>

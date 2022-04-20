@@ -1,0 +1,22 @@
+## Using Various Input Devices ## <br/>
+Using Various Input Devices <br/>
+ <br/>
+You can use a wide range of input devices with StoryBuilder:  keyboard, virtual keyboard, pen or stylus, mouse, and touch, depending on your computer or tablet ‘s capabilities. <br/>
+Invoke pop-up menus using the following actions: <br/>
+ <br/>
+*Input* <br/>
+*Action* <br/>
+Mouse <br/>
+Right click <br/>
+Keyboard <br/>
+Menu key (see below) <br/>
+Touch <br/>
+Long press on item <br/>
+Pen <br/>
+Barrel button press, long press on item <br/>
+Touchpad <br/>
+Right Touchpad button <br/>
+ <br/>
+The menu key(sometimes called document key) looks like this:  <br/>
+ <br/>
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Keyboard Right Mouse Key.bmp <br/>
