@@ -1,3 +1,3 @@
-## Setting Form ## <br/>
-[Setting Tab](Setting_Tab.md) <br/>
-[Sensations Tab](Sensations_Tab.md) <br/>
+## Setting Form ##
+[Setting Tab](Setting_Tab.md) <br/><br/>
+[Sensations Tab](Sensations_Tab.md) <br/><br/>
