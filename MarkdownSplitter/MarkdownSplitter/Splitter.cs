@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using System.Diagnostics;
+using System.Text;
 
 namespace MarkdownSplitter
 {
@@ -78,7 +79,7 @@ namespace MarkdownSplitter
             }
             catch (Exception e)
             {
-                Console.WriteLine(e.Message);
+                Debug.WriteLine(e.Message);
             }
             return found;
         }
@@ -136,7 +137,7 @@ namespace MarkdownSplitter
             {
                 if (line.StartsWith(splitMarker))
                 {
-                    Console.WriteLine(line);
+                    Debug.WriteLine(line);
                     current = new Block(line);
                     int parentLevel = current.Level - 1;
                     parent = level[parentLevel];

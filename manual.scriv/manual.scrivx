@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="342E5DD6-5812-45AB-982C-E2EAC46CF8EE" Creator="SCRWIN-3.1.1.0" Device="Minerva" Modified="2022-07-05 08:16:05 -0400" ModID="A67B7FC8-22CA-432B-A2F9-311FD0C6A912">
+<ScrivenerProject Template="No" Version="2.0" Identifier="342E5DD6-5812-45AB-982C-E2EAC46CF8EE" Creator="SCRWIN-3.1.1.0" Device="Minerva" Modified="2022-07-08 10:10:44 -0400" ModID="33259BEC-5A94-4AF0-8D03-C5867C38F77B">
     <Binder>
         <BinderItem UUID="9FFBA333-8432-41C1-91F5-1302DFE283CA" Type="Text" Created="2019-05-14 13:29:37 -0400" Modified="2019-05-14 13:29:46 -0400">
             <Title>Non-Fiction Format</Title>
@@ -83,7 +83,7 @@
                                 <NotesTextSelection>43,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>484,0</TextSelection>
+                                <TextSelection>2,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="61BBD8DE-7B7E-4D05-BC4E-517D726E4D25" Type="Folder" Created="2021-11-01 09:06:28 -0400" Modified="2022-01-13 04:19:43 -0400">
@@ -737,6 +737,14 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
+                        <BinderItem UUID="EEE57423-DE87-4087-AA23-DFC19A6DA85E" Type="Text" Created="2022-07-08 10:09:19 -0400" Modified="2022-07-08 10:09:47 -0400">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>26,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                         <BinderItem UUID="BD9E2BDD-60DC-4A2E-9EA0-CEBAFA61AA52" Type="Text" Created="2019-06-12 17:07:30 -0400" Modified="2022-06-14 04:19:03 -0400">
                             <Title>Creating a Story pt 1</Title>
                             <MetaData>
@@ -769,18 +777,6 @@
                             <TextSettings>
                                 <TextSelection>295,130</TextSelection>
                             </TextSettings>
-                            <Children>
-                                <BinderItem UUID="BAA8E03C-5D77-44E2-8CBD-2E4619A0F2C2" Type="Text" Created="2019-06-12 17:07:30 -0400" Modified="2020-09-07 12:30:13 -0400">
-                                    <Title>Creating a Story pt 9</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <FileExtension>rtf</FileExtension>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>5473,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
                         </BinderItem>
                         <BinderItem UUID="675387D2-0324-47E3-9A41-4C46441C6D3A" Type="Text" Created="2019-06-12 17:07:30 -0400" Modified="2022-06-26 10:24:40 -0400">
                             <Title>Creating a Story pt 4</Title>
@@ -790,7 +786,7 @@
                                 <NotesTextSelection>8,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>5101,0</TextSelection>
+                                <TextSelection>487,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="4D4CCDD3-95DD-44BD-8BBF-A45E5302112C" Type="Text" Created="2019-06-12 17:07:30 -0400" Modified="2020-09-07 12:30:40 -0400">
@@ -801,7 +797,7 @@
                                 <NotesTextSelection>8,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2737,0</TextSelection>
+                                <TextSelection Caret="470">467,3</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="26B6DF7B-A7DE-48E5-8189-1A71DD277D2D" Type="Text" Created="2019-06-12 17:07:30 -0400" Modified="2020-09-07 12:30:44 -0400">
@@ -812,7 +808,7 @@
                                 <NotesTextSelection>7,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>83,0</TextSelection>
+                                <TextSelection Caret="237">154,83</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="9ABBB1C7-C372-4D68-B8E4-5771238B6D56" Type="Text" Created="2019-06-12 17:07:30 -0400" Modified="2020-09-07 12:30:49 -0400">
@@ -834,6 +830,16 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>1219,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="BAA8E03C-5D77-44E2-8CBD-2E4619A0F2C2" Type="Text" Created="2019-06-12 17:07:30 -0400" Modified="2020-09-07 12:30:13 -0400">
+                            <Title>Creating a Story pt 9</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>5473,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -2894,7 +2900,7 @@
         </Collection>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.901961 0.901961 0.980392">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No">F1</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No">Let's return</SearchSettings>
         </Collection>
     </Collections>
     <SectionTypes>
@@ -2954,12 +2960,12 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2022-07-05 08:16:05 -0400"/>
+        <PreviousSession Words="4" Characters="26" Date="2022-07-08 10:10:44 -0400"/>
     </ProjectTargets>
     <BookmarksFolderUUID>07B0D7C6-57CE-4D6F-8AD9-11F06A261A5F</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2022-07-05 00:00:00 -0400">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
+    <RecentWritingHistory Date="2022-07-08 00:00:00 -0400">
+        <DraftWordCount>4</DraftWordCount>
+        <DraftCharCount>26</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
