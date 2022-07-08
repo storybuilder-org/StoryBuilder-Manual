@@ -26,7 +26,7 @@ namespace MarkdownSplitter
 
         private void RunButton_Click(object sender, EventArgs e)
         {
-            splitter.EmptyGitHubPagesFolder();
+            splitter.EmptyDocsFolder();
             if (!splitter.ProcessMarkdownFolder())
             {
                 StatusMessage.Text = @"Markdown file not found. Try again.";

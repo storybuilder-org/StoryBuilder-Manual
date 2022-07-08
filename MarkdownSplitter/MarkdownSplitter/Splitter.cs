@@ -1,7 +1,4 @@
-﻿using System;
-using System.IO;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Text;
 
 namespace MarkdownSplitter
 {
@@ -15,30 +12,36 @@ namespace MarkdownSplitter
     /// or indententation level in the Scrivener file.
     /// 
     /// The workflow is as follows:
-    ///    Verify that the StoryBuilder-Manual folder browsed to is valid.
-    ///    Empty the (output) gh-pages folder.
-    ///    Process the compileFolder's contents into markdownFolder.
-    ///    Create the index.md file into ghPagesFolder by reading markdownFolder.
-    ///    Write the child .md files for each block as a link statement in its
-    ///    parent node.
+    ///    Empty the (output) /docs folder. This folder is where the final
+    ///       GitHub Pages .md files (and .png) images go. When your local repository
+    ///       changes (your manual edits processed by Compile and MarkdownSplitter)
+    ///       are pushed to the online repository, the /docs folder will be processed
+    ///       by YAML to generate the test website.
+    ///    Process the Scrivener project's Compile output folder contents. This is
+    ///       the .md folder (typically manual.md) and contains single MultiMarkdown
+    ///       .md file and its .png image files.
+    ///    Create the index.md file in the docs folder by reading the .md markdown
+    ///       file and reformatting it as a series of blocks.
+    ///    Write the child .md files for each block as a set of link statements. That
+    ///       is, each child node is a markdown link in its parent's .md file.
     /// </summary>
     public class Splitter
     {
         public string MarkdownFolder = @"manual.md";
         private string repositoryPath = Directory.GetCurrentDirectory();
-        private string ghPagesFolder = @"gh-pages";
+        private string docsFolder = @"docs";
         private string splitMarker = "#";
-        private Block[] level = new Block[7];
-        private List<string> toc = new();
+        private readonly Block[] level = new Block[7];
+        // private List<string> toc = new();
 
         /// <summary>
-        /// Creates an empty github pages folder
+        /// Creates an empty github pages (/docs) folder
         /// </summary>
-        public void EmptyGitHubPagesFolder()
+        public void EmptyDocsFolder()
         {
             repositoryPath = Directory.GetParent(MarkdownFolder)!.Name;
-            ghPagesFolder = Path.Join(repositoryPath, @"gh-pages");
-            DirectoryInfo di = new(ghPagesFolder);
+            docsFolder = Path.Join(repositoryPath, @"docs");
+            DirectoryInfo di = new(docsFolder);
             if (di.Exists)
             {
                 di.Delete(true);
@@ -46,6 +49,15 @@ namespace MarkdownSplitter
 
             di.Create();
         }
+        
+        /// <summary>
+        /// Process the folder written by Scrivener Compile. This contains a single
+        /// .md markdown file and a set of .png image files. Find the .md file and
+        /// process it. All other files (the images) are copied to the /docs folder.
+        ///
+        /// If the .md file can't be found, the Compile wasn't performed properly.
+        /// </summary>
+        /// <returns></returns>
         public bool ProcessMarkdownFolder()
         {
             bool found = false;
@@ -61,7 +73,7 @@ namespace MarkdownSplitter
                         found = true;
                     }
                     else
-                        File.Copy(currentFile, Path.Combine(ghPagesFolder, fileName));
+                        File.Copy(currentFile, Path.Combine(docsFolder, fileName));
                 }
             }
             catch (Exception e)
@@ -78,7 +90,7 @@ namespace MarkdownSplitter
         }
         public void CreateIndexFile()
         {
-            using (StreamWriter file = new(Path.Combine(ghPagesFolder, "index.md")))
+            using (StreamWriter file = new(Path.Combine(docsFolder, "index.md")))
             {
                 file.WriteLine("# Table of Contents");
                 file.WriteLine("");
@@ -98,13 +110,26 @@ namespace MarkdownSplitter
                 WriteChildFile(child);
             }
         }
+
+        /// <summary>
+        /// Process the Compiler's .md MultiMarkdown file.
+        ///
+        /// It's parsed as a series of linked Block objects. A new block is
+        /// created everytime a Markdown Header (#, ##, etc.) is found in the
+        /// Compiler output file, and added to it's parent block. The level of
+        /// nesting for a block is determined by its heading level.
+        ///
+        /// If a line doesn't start a new block, it's added to the current block.
+        /// </summary>
+        /// <param name="currentFile"></param>
         private void ProcessMarkdownFile(string currentFile)
         {
+            // Read the .md file into memory.     
             string[] markdown = File.ReadAllLines(currentFile);
             // When a new markdown line (splitMarker) is detected, its
             // parent block is the level just above its level.
             Block current = new Block("");
-            level[0] = current;
+            level[0] = current;   // level zero is the table of contents.
             Block parent;
 
             foreach (string line in markdown)
@@ -125,6 +150,11 @@ namespace MarkdownSplitter
                 }
             }
         }
+
+        /// <summary>
+        /// Write the 
+        /// </summary>
+        /// <param name="block"></param>
         private void RecurseMarkdownBlocks(Block block)
         {
             WriteMarkdownBlock(block);
@@ -133,7 +163,7 @@ namespace MarkdownSplitter
         }
         private void WriteMarkdownBlock(Block block)
         {
-            string filepath = Path.Combine(ghPagesFolder, block.Filename);
+            string filepath = Path.Combine(docsFolder, block.Filename);
             using (StreamWriter file = new StreamWriter(filepath))
             {
                 file.WriteLine(block.Header);
@@ -156,7 +186,7 @@ namespace MarkdownSplitter
                 sb.AppendLine(CleanupMarkdown($"[{child.Title}]({child.Filename}) <br/><br/>"));
             } //This writes any links
 
-            File.WriteAllText(Path.Combine(ghPagesFolder, bloc.Filename),
+            File.WriteAllText(Path.Combine(docsFolder, bloc.Filename),
                 sb.ToString()); //This actually writes the file.
             foreach (var child in bloc.Children)
             {
