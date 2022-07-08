@@ -1,4 +1,4 @@
-Title: scrivener-manual
+Title: manual
 Author: 
 Base Header Level: 2
 Copyright: Copyright 2022, . All rights reserved.
@@ -679,7 +679,7 @@ This is another rabbit hole. But a very interesting one.
 ### Role Tab ###
 Role Tab
 
-![][Clipboard-Image-1]
+![][Clipboard-Image-17]
 
 The role tab contains the information which defines the relationship between this character and the story.
 
@@ -744,7 +744,7 @@ Use these notes to provide a thumbnail picture of the character and the overall 
 ### Physical Tab ###
 Physical and Appearance Tabs
 
-![][Clipboard-Image-2]
+![][Clipboard-Image-18]
 
 
 These character traits describe the external physical characteristics and appearance of the character.  They are generally self-explanatory.
@@ -759,7 +759,7 @@ The Appearance tab is a companion to the Physical tab.
 
 Use this note area to describe your character's looks, style of dress and movement, and the impression he leaves.  
 
-![][Clipboard-Image-3]
+![][Clipboard-Image-19]
 
 
 
@@ -957,7 +957,7 @@ Setting Tab
 
 The Setting tab contains elements which make the setting specific and unique.
 
-![][Clipboard-Image-4]
+![][Clipboard-Image-20]
 
 
 Locale	The location of the setting in space.
@@ -1082,7 +1082,7 @@ The resolution of a problem is more than what happens.  It also includes how the
 
 Key Questions
 
-![][Clipboard-Image-5]
+![][Clipboard-Image-21]
 
 [tk: Format]
 
@@ -1097,7 +1097,7 @@ The questions for a story element are a circular list.  That is, when you've dis
 1
 Topic Information
 
-![][Clipboard-Image-6]
+![][Clipboard-Image-22]
 
 The Topic Information sub-menu on the Tools menu contains a list containing information specific to certain topics.  These items will be displayed either on a card file-like list or a Windows notepad, depending on the contents. 
 
@@ -1236,11 +1236,11 @@ To do so in StoryBuilder, launch the program. The first time you launch the prog
 
 Back to our story idea. Use the File menu’s  Open/Create file option:
 
-![][File-Open-Dialog-1]
+![][File-Open-Dialog-2]
 
 Click on Create New Story to start a new outline:
 
-![][Create-New-Story-Dialog-1]
+![][Create-New-Story-Dialog-2]
 
 Select ‘Empty Folders’ for the Template. If it’s not already there, change the Project path to the folder you’d like to save your outline in (usually the Preferences location) using the Browse button. And finally, assign a Project Name. This will be the file name of the story outline file. In our case, use ‘Danger Calls’. Click on Create project, and you’ll have created your first story outline:
 
@@ -1272,7 +1272,7 @@ At the moment, the story outline for "Danger Calls" exists only in your computer
 
 The indicator will change from red to green, indicating that all changes have been saved to disk.
 
-![][Changed-Indicator-1]
+![][Changed-Indicator-2]
 
 Alternatively, from the File menu, you can select Save Story, or enter the Ctrl+S shortcut keys.  Remember to save your work periodically.
 
@@ -1781,7 +1781,7 @@ Your Premise is the answer to the question the Concept poses.
 
 Your story can have more than one Problem story element, and every Problem has its own Premise, contained on the Resolution tab. But only one of these problems is your Story Problem, and that Problem  (and its Premise) is the one you select on the Story Overview form, Premise tab:
 
-![][Clipboard-Image-7]
+![][Clipboard-Image-23]
 
 The heart of plotted fiction is drama--- a struggle in which the outcome is in doubt. Your Story Problem will lead you to understand whose problem it is (your major character), what her or she want (the goal), and what stands in their way (opposition.) The Story Problem is the wormhole you enter to understand your story.
 
@@ -1869,7 +1869,7 @@ An inner problem is some want or need within the character himself, a need to gr
 
 It's often constructive to use StoryBuilder to define both an external and an internal problem for your protagonist, with separate Problem forms for each  of them. Both problems help to shape the story's plot. There’s even a Create New Story template for this:
 
-![][Clipboard-Image-8]
+![][Clipboard-Image-24]
 
 The outer problem asks 'what does the character want?'  The inner problem asks 'why does he want it?'  The outer problem is tangible. The inner problem is intangible, invisible.  The outer problem faces an external adversary.  The inner problem is Man against Himself, usually with something to decide or discover. The outer problem is solved when (win or loose) something is accomplished.  The inner problem is solved when the character grows or changes, or fails to do so.  The inner problem is related to theme. The two problems are connected because your protagonist must come to grips with his inner demon before he can solve the external, outer problem.
 Complications
@@ -1880,11 +1880,11 @@ A good example of this is found in Hemingway's The Old Man and the Sea.  This no
 
 Rather than arrange these problems in a list:
 
-![][Clipboard-Image-9]
+![][Clipboard-Image-25]
 
 You may want arrange them as children of the original problem, which won’t be solved until the complications are:
 
-![][Clipboard-Image-10]
+![][Clipboard-Image-26]
 
 Where possible, complications should be ordered to make things progressively worse for the protagonist. By the end of the shark attack, the marlin is nothing but a head and tail and skeleton; things can’t get much worse for Santiago.
 Subplots
@@ -2317,20 +2317,20 @@ Critiquing others’ stories is a great way to improve your art, because it’s 
 # Miscellaneous #
 Changelog Pop-up / What’s new menu
 Occasionally, when StoryBuilder updates a window will be shown. This will summarise what has changed in this update and which developer made that change.
-![][Clipboard-Image-11]
+![][Clipboard-Image-27]
 
 If you decide you want to see this popup again, you can access it in Preferences
-![][Clipboard-Image-12]
+![][Clipboard-Image-28]
 Developing StoryBuilder
 If you are a C# developer and are somewhat familar with WinUI (or another XAML based UI language) then you can contribute to StoryBuilder (Which is written in C# and uses WinUI 3).
 for more information about contributing, please check the GitHub Repository.
 
 Developer only menus / pop-ups
-![][Clipboard-Image-13]
+![][Clipboard-Image-29]
 If you have cloned storybuilder and built it for the first time then you may be surprised to see this screen, this is because a key file is missing from your local clone. This will not cause any issues with the app functioning however your copy will not report errors via Elmah.io and you may see pops such as syncfusion licensing errors.
 Regardless, congratulations on successfully compiling StoryBuilder.
 
-![][Clipboard-Image-14]
+![][Clipboard-Image-30]
 If StoryBuilder notices you have a debugger attached to the process, the developer menu will appear.
 This shows info about the computer and may contain buttons to test some parts of the storybuilder.
 If running without a keyfile (which is standard for those contributing to the storybuilder project.) then some of these buttons may not work or cause intended behavior.
@@ -2343,11 +2343,11 @@ If you are a C# developer and are somewhat familar with WinUI (or another XAML b
 for more information about contributing, please check the GitHub Repository.
 
 Developer only menus / pop-ups
-![][Clipboard-Image-15]
+![][Clipboard-Image-31]
 If you have cloned storybuilder and built it for the first time then you may be surprised to see this screen, this is because a key file is missing from your local clone. This will not cause any issues with the app functioning however your copy will not report errors via Elmah.io and you may see pops such as syncfusion licensing errors.
 Regardless, congratulations on successfully compiling StoryBuilder.
 
-![][Clipboard-Image-16]
+![][Clipboard-Image-32]
 If StoryBuilder notices you have a debugger attached to the process, the developer menu will appear.
 This shows info about the computer and may contain buttons to test some parts of the storybuilder.
 If running without a keyfile (which is standard for those contributing to the storybuilder project.) then some of these buttons may not work or cause intended behavior.
@@ -2676,11 +2676,11 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Clipboard-Image]: Clipboard-Image.png width=440px height=264px
 
-[Clipboard-Image-1]: Clipboard-Image-1.png width=680px height=449px
+[Clipboard-Image-17]: Clipboard-Image-17.png width=680px height=449px
 
-[Clipboard-Image-2]: Clipboard-Image-2.png width=680px height=494px
+[Clipboard-Image-18]: Clipboard-Image-18.png width=680px height=494px
 
-[Clipboard-Image-3]: Clipboard-Image-3.png width=680px height=495px
+[Clipboard-Image-19]: Clipboard-Image-19.png width=680px height=495px
 
 [Character-Relationships-Tab]: Character-Relationships-Tab.png width=680px height=456px
 
@@ -2700,7 +2700,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Trait-Builder]: Trait-Builder.png width=352px height=304px
 
-[Clipboard-Image-4]: Clipboard-Image-4.png width=680px height=491px
+[Clipboard-Image-20]: Clipboard-Image-20.png width=680px height=491px
 
 [Setting-Sensations-Tab]: Setting-Sensations-Tab.png width=680px height=454px
 
@@ -2714,9 +2714,9 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Problem-Resolution-Tab]: Problem-Resolution-Tab.png width=680px height=456px
 
-[Clipboard-Image-5]: Clipboard-Image-5.png width=443px height=496px
+[Clipboard-Image-21]: Clipboard-Image-21.png width=443px height=496px
 
-[Clipboard-Image-6]: Clipboard-Image-6.png width=384px height=516px
+[Clipboard-Image-22]: Clipboard-Image-22.png width=384px height=516px
 
 [Tools-Master-Plots]: Tools-Master-Plots.png width=544px height=631px
 
@@ -2724,9 +2724,9 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Tools-Stock-Scenes]: Tools-Stock-Scenes.png width=475px height=628px
 
-[File-Open-Dialog-1]: File-Open-Dialog-1.png width=559px height=595px
+[File-Open-Dialog-2]: File-Open-Dialog-2.png width=559px height=595px
 
-[Create-New-Story-Dialog-1]: Create-New-Story-Dialog-1.png width=555px height=565px
+[Create-New-Story-Dialog-2]: Create-New-Story-Dialog-2.png width=555px height=565px
 
 [Danger-Calls-New-Story-Outline]: Danger-Calls-New-Story-Outline.png width=680px height=489px
 
@@ -2740,7 +2740,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Tutorial-1-Changed-Indicator-(Red)]: Tutorial-1-Changed-Indicator-(Red).png width=53px height=47px
 
-[Changed-Indicator-1]: Changed-Indicator-1.png width=55px height=40px
+[Changed-Indicator-2]: Changed-Indicator-2.png width=55px height=40px
 
 [Tutorial-1-Empty-Struture-Tab]: Tutorial-1-Empty-Struture-Tab.png width=651px height=708px
 
@@ -2774,13 +2774,13 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Tutorial-4-Renamed-third-problem]: Tutorial-4-Renamed-third-problem.png width=680px height=510px
 
-[Clipboard-Image-7]: Clipboard-Image-7.png width=491px height=171px
+[Clipboard-Image-23]: Clipboard-Image-23.png width=491px height=171px
 
-[Clipboard-Image-8]: Clipboard-Image-8.png width=228px height=208px
+[Clipboard-Image-24]: Clipboard-Image-24.png width=228px height=208px
 
-[Clipboard-Image-9]: Clipboard-Image-9.png width=256px height=129px
+[Clipboard-Image-25]: Clipboard-Image-25.png width=256px height=129px
 
-[Clipboard-Image-10]: Clipboard-Image-10.png width=265px height=137px
+[Clipboard-Image-26]: Clipboard-Image-26.png width=265px height=137px
 
 [Tools-Master-Plots-2]: Tools-Master-Plots-2.png width=548px height=639px
 
@@ -2808,14 +2808,14 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Plotting-with-StoryBuilder-Manolin-Subplot]: Plotting-with-StoryBuilder-Manolin-Subplot.png width=277px height=224px
 
-[Clipboard-Image-11]: Clipboard-Image-11.png width=390px height=534px
+[Clipboard-Image-27]: Clipboard-Image-27.png width=390px height=534px
 
-[Clipboard-Image-12]: Clipboard-Image-12.png width=548px height=670px
+[Clipboard-Image-28]: Clipboard-Image-28.png width=548px height=670px
 
-[Clipboard-Image-13]: Clipboard-Image-13.png width=543px height=281px
+[Clipboard-Image-29]: Clipboard-Image-29.png width=543px height=281px
 
-[Clipboard-Image-14]: Clipboard-Image-14.png width=568px height=355px
+[Clipboard-Image-30]: Clipboard-Image-30.png width=568px height=355px
 
-[Clipboard-Image-15]: Clipboard-Image-15.png width=543px height=281px
+[Clipboard-Image-31]: Clipboard-Image-31.png width=543px height=281px
 
-[Clipboard-Image-16]: Clipboard-Image-16.png width=568px height=355px
+[Clipboard-Image-32]: Clipboard-Image-32.png width=568px height=355px
