@@ -16,8 +16,6 @@ Coming up with these scenes is an act of imagination- it’s storytelling, play 
 
 In the previous topic Plotting In Scenes, we introduced the idea that every scene must advance the story’s plot: it must move toward the resolution of the story problem it’s a piece of.  This is another way of saying that every scene must have a purpose: show the Ordinary World, introduce the problem, resolve the conflict. A scene can and usually does have more than one purpose, but  must always contribute toward solving the Problem is a part of; otherwise, the story will meander aimlessly. A plotted story must aim toward its outcome as an arrow flies towards its target. Think of each story problem as having structure, of consisting of plot points or story beats. Each plot point is a potential scene, and the plot point’s function is that scene’s purpose. <br/>
 
-[tk Scene Purpose image] <br/>
-
 Scene Count (Story Length) <br/>
 
 A frequent concern when plotting at the scene level is story length, which can be rephrased as ‘How many scenes do I need?’ As with many writing questions, this one has more than one answer.  <br/>

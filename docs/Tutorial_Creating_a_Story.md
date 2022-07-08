@@ -1,5 +1,6 @@
-## Tutorial: Creating a Story ##
-[Creating a Story pt1](Creating_a_Story_pt1.md) <br/><br/>
+# Tutorial: Creating a Story #
+Tutorial: Creating a Story <br/>
+[Creating a Story pt 1](Creating_a_Story_pt_1.md) <br/><br/>
 [Creating a Story pt 2](Creating_a_Story_pt_2.md) <br/><br/>
 [Creating a Story pt 3](Creating_a_Story_pt_3.md) <br/><br/>
 [Creating a Story pt 4](Creating_a_Story_pt_4.md) <br/><br/>

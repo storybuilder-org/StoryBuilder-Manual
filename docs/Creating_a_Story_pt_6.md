@@ -1,4 +1,4 @@
-### Creating a Story pt 6 ###
+## Creating a Story pt 6 ##
 Let's use the 'Lacas walks out of the courtroom, a free man' scene as our narrative hook.  We'll use the Three Act Play as it was intended,  a scaffolding, and replace the plot point for 'Narrative Hook' with our scene.  To do so, we'll move our scene where it belongs.   First we double-click on the 'Lacas walks out of the courtroom' label on the list of plot points on the left hand side of the screen. <br/>
 
 

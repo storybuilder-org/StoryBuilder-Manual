@@ -1,7 +1,7 @@
 ### Role Tab ###
 Role Tab <br/>
 
-![](Character-Role-Tab.png)
+![](Clipboard-Image-17.png)
 
 The role tab contains the information which defines the relationship between this character and the story. <br/>
 

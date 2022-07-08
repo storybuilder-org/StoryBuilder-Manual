@@ -11,5 +11,4 @@
 [Plotting with StoryBuilder](Plotting_with_StoryBuilder.md) <br/><br/>
 [Defining Scenes](Defining_Scenes.md) <br/><br/>
 [Reviewing Your Outline](Reviewing_Your_Outline.md) <br/><br/>
-[Tutorial: Creating a Story](Tutorial_Creating_a_Story.md) <br/><br/>
 [Other Uses of StoryBuilder](Other_Uses_of_StoryBuilder.md) <br/><br/>

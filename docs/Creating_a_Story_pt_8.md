@@ -1,4 +1,4 @@
-### Creating a Story pt 8 ###
+## Creating a Story pt 8 ##
 Having developed the characters better, we can look at the plot.  So far we have a skeleton plot, created with the Master Plots tool, and have added a couple of specific scenes: <br/>
 
 

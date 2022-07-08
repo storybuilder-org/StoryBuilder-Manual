@@ -25,6 +25,9 @@ namespace MarkdownSplitter
     ///       file and reformatting it as a series of blocks.
     ///    Write the child .md files for each block as a set of link statements. That
     ///       is, each child node is a markdown link in its parent's .md file.
+    ///
+    /// Note that top-level functions, called from SplitterForm, are public; subordinate
+    /// functions, called from the top-level ones, have private accessors.
     /// </summary>
     public class Splitter
     {
@@ -40,7 +43,7 @@ namespace MarkdownSplitter
         /// </summary>
         public void EmptyDocsFolder()
         {
-            repositoryPath = Directory.GetParent(MarkdownFolder)!.Name;
+            repositoryPath = Directory.GetParent(MarkdownFolder)!.FullName;
             docsFolder = Path.Join(repositoryPath, @"docs");
             DirectoryInfo di = new(docsFolder);
             if (di.Exists)
@@ -83,35 +86,6 @@ namespace MarkdownSplitter
             }
             return found;
         }
-        public void SplitMarkdownFile()
-        {
-            Block root = level[0];
-            foreach (Block child in root.Children)
-                RecurseMarkdownBlocks(child);
-        }
-        public void CreateIndexFile()
-        {
-            using (StreamWriter file = new(Path.Combine(docsFolder, "index.md")))
-            {
-                file.WriteLine("# Table of Contents");
-                file.WriteLine("");
-                foreach (var block in level[0].Children)
-                {
-                    file.WriteLine($"[{block.Title}]({block.Filename}) <br/><br/>");
-                }
-
-                file.Close();
-            }
-        }
-        public void CreateChildMarkdownFiles()
-        {
-            //This creates the other md files.
-            foreach (var child in level[0].Children)
-            {
-                WriteChildFile(child);
-            }
-        }
-
         /// <summary>
         /// Process the Compiler's .md MultiMarkdown file.
         ///
@@ -131,7 +105,6 @@ namespace MarkdownSplitter
             // parent block is the level just above its level.
             Block current = new Block("");
             level[0] = current;   // level zero is the table of contents.
-            Block parent;
 
             foreach (string line in markdown)
             {
@@ -140,7 +113,7 @@ namespace MarkdownSplitter
                     Debug.WriteLine(line);
                     current = new Block(line);
                     int parentLevel = current.Level - 1;
-                    parent = level[parentLevel];
+                    var parent = level[parentLevel];
                     parent.Children.Add(current);
                     level[current.Level] = current;
                 }
@@ -153,15 +126,35 @@ namespace MarkdownSplitter
         }
 
         /// <summary>
-        /// Write the 
+        /// The output of the Scrivener Compile process is a single .md Markdown file.
+        /// Having created a series of Block instances containing each chuck of text,
+        /// write each block as a separate file, transversing the blocks via recursive
+        /// descent, starting with the single top-level block.
+        /// </summary>
+        public void SplitMarkdownFile()
+        {
+            Block root = level[0];
+            foreach (Block child in root.Children)
+                RecurseMarkdownBlock(child);
+        }
+
+        /// <summary>
+        /// Write the passed block of Markdown text as a separate .md file
+        /// and then process each of its children.
         /// </summary>
         /// <param name="block"></param>
-        private void RecurseMarkdownBlocks(Block block)
+        private void RecurseMarkdownBlock(Block block)
         {
             WriteMarkdownBlock(block);
             foreach (Block child in block.Children)
-                RecurseMarkdownBlocks(child);
+                RecurseMarkdownBlock(child);
         }
+
+
+        /// <summary>
+        /// Write one block's text as a .md file in the /docs folder.
+        /// </summary>
+        /// <param name="block"></param>
         private void WriteMarkdownBlock(Block block)
         {
             string filepath = Path.Combine(docsFolder, block.Filename);
@@ -173,6 +166,33 @@ namespace MarkdownSplitter
                 file.Close();
             }
         }
+
+        /// <summary>
+        /// Write the top-level index.md file by looping through and printing
+        /// </summary>
+        public void CreateIndexFile()
+        {
+            string filepath = Path.Combine(docsFolder, "index.md");
+            using (StreamWriter file = new StreamWriter(filepath))
+            {
+                file.WriteLine("# Table of Contents #");
+                file.WriteLine("");
+                foreach (var block in level[0].Children)
+                {
+                    string line = $"[{block.Title}]({block.Filename}) <br/><br/>";
+                    file.WriteLine(line);
+                }
+            }
+        }
+        public void CreateChildMarkdownFiles()
+        {
+            //This creates the other md files.
+            foreach (var child in level[0].Children)
+            {
+                WriteChildFile(child);
+            }
+        }
+
         private void WriteChildFile(Block bloc)
         {
             StringBuilder sb = new();
@@ -194,6 +214,7 @@ namespace MarkdownSplitter
                 WriteChildFile(child);
             } //This causes it to recursively run this on its children
         }
+
         private string CleanupMarkdown(string line)
         {
             if (line.Contains("[Front Page (Image)](Front_Page_(Image).md)"))

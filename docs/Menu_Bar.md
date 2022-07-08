@@ -24,3 +24,4 @@ Each of these options is discussed in the next topics of this manual.   <br/>
 [Search](Search.md) <br/><br/>
 [Reports](Reports.md) <br/><br/>
 [Preferences](Preferences.md) <br/><br/>
+[Key Binds](Key_Binds.md) <br/><br/>

@@ -3,8 +3,8 @@ Defining Problems <br/>
 
 In StoryBuilder the Problem form is the key to creating an outline. You want to motivate your audience to keep reading or viewing your story, and Problems create suspense and tension through uncertain outcomes.  <br/>
 
-StoryBuilder’s Problem form is based on three  elements: Goal, Motivation, and Conflict, and is based on the book GMC: Goal, Motivation, and Conflict by Debra Dixon. The goal is what your character wants, the motivation is why they want it, and the conflict is what they’ll have to overcome to achieve the goal. <br/>
-What makes GMC interesting is that it deals with the intersection of character and plot. The literature of the craft of writing often discusses the need for strong characters, and of the need for good plots. GMC ties them together. Plot is the character's attempt to overcome the opposition and achieve the goal. The Problem form links to the problem’s protagonist and antagonist, which you must have defined as Character story elements. This leads you further down the wormhole towards fully developing your outline. <br/>
+StoryBuilder’s Problem form is based on three  elements: Goal, Motivation, and Conflict, and is based on the book GMC: Goal, Motivation, and Conflict by Debra Dixon. The goal is what your character wants, the motivation is why they want it, and the conflict is what they’ll have to overcome to achieve the goal. Both your Protagonist and your Antagonist have their goals and motivations, and generally they are each other’s conflicts. <br/>
+What makes GMC interesting is that it deals with the intersection of character and plot. The literature of the craft of writing often discusses the need for strong characters and of the need for good plots. GMC ties them together. Plot is the character's attempt to overcome the opposition and achieve the goal. The Problem form links to the problem’s protagonist and antagonist, which you must have defined as Character story elements. This leads you further down the wormhole towards fully developing your outline. <br/>
 The Problem form’s tie to Character forms supports various approaches to story creation. You may start from an idea, concept or situation, and think of your problems more in terms of the events that must unfold (plot-oriented), or you may start from the conception of a character, and find that character’s problem. Your story needs both a plot and characters, and centering on your outline’s Problems can give you both. <br/>
 Problems server a variety of roles in a story: <br/>
 Story Problem <br/>
@@ -20,7 +20,7 @@ An inner problem is some want or need within the character himself, a need to gr
 
 It's often constructive to use StoryBuilder to define both an external and an internal problem for your protagonist, with separate Problem forms for each  of them. Both problems help to shape the story's plot. There’s even a Create New Story template for this: <br/>
 
-![](Clipboard-Image-1.png)
+![](Clipboard-Image-24.png)
 
 The outer problem asks 'what does the character want?'  The inner problem asks 'why does he want it?'  The outer problem is tangible. The inner problem is intangible, invisible.  The outer problem faces an external adversary.  The inner problem is Man against Himself, usually with something to decide or discover. The outer problem is solved when (win or loose) something is accomplished.  The inner problem is solved when the character grows or changes, or fails to do so.  The inner problem is related to theme. The two problems are connected because your protagonist must come to grips with his inner demon before he can solve the external, outer problem. <br/>
 Complications <br/>
@@ -31,11 +31,11 @@ A good example of this is found in Hemingway's The Old Man and the Sea.  This no
 
 Rather than arrange these problems in a list: <br/>
 
-![](Clipboard-Image-2.png)
+![](Clipboard-Image-25.png)
 
 You may want arrange them as children of the original problem, which won’t be solved until the complications are: <br/>
 
-![](Clipboard-Image-3.png)
+![](Clipboard-Image-26.png)
 
 Where possible, complications should be ordered to make things progressively worse for the protagonist. By the end of the shark attack, the marlin is nothing but a head and tail and skeleton; things can’t get much worse for Santiago. <br/>
 Subplots <br/>

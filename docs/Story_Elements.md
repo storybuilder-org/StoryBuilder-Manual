@@ -18,8 +18,8 @@ Every Story Element type is a different form. These are the story elements: <br/
 	•	Folder <br/>
 	•	Section <br/>
 
-Your outline has only one Story Overview; it’s created automatically when you open or create a new outline. The Story Overview is the root of the Navigation  Pane tree, and all other Story Elements are below it.  <br/>
+Your outline has only one Story Overview; it’s created automatically when you open or create a new outline. The Story Overview is the root of the Navigation Pane tree, and all other Story Elements are below it.  <br/>
 
-Every form has a full-page tab (labeled Notes) which holds your general notes and thoughts regarding the story element.  <br/>
+Every form also has a full-page tab (labeled Notes) which holds your general notes and thoughts regarding the story element. We won’t talk about these again; just be aware that they’re there. <br/>
 
 
