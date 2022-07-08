@@ -1,0 +1,17 @@
+C:\dev\src\StoryBuilder-Manual\MarkdownSplitter\MarkdownSplitter\obj\Debug\net6.0-windows\MarkdownSplitter.csproj.AssemblyReference.cache
+C:\dev\src\StoryBuilder-Manual\MarkdownSplitter\MarkdownSplitter\obj\Debug\net6.0-windows\MarkdownSplitter.SplitterForm.resources
+C:\dev\src\StoryBuilder-Manual\MarkdownSplitter\MarkdownSplitter\obj\Debug\net6.0-windows\MarkdownSplitter.csproj.GenerateResource.cache
+C:\dev\src\StoryBuilder-Manual\MarkdownSplitter\MarkdownSplitter\obj\Debug\net6.0-windows\MarkdownSplitter.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\src\StoryBuilder-Manual\MarkdownSplitter\MarkdownSplitter\obj\Debug\net6.0-windows\MarkdownSplitter.AssemblyInfoInputs.cache
+C:\dev\src\StoryBuilder-Manual\MarkdownSplitter\MarkdownSplitter\obj\Debug\net6.0-windows\MarkdownSplitter.AssemblyInfo.cs
+C:\dev\src\StoryBuilder-Manual\MarkdownSplitter\MarkdownSplitter\obj\Debug\net6.0-windows\MarkdownSplitter.csproj.CoreCompileInputs.cache
+C:\dev\src\StoryBuilder-Manual\MarkdownSplitter\MarkdownSplitter\bin\Debug\net6.0-windows\MarkdownSplitter.exe
+C:\dev\src\StoryBuilder-Manual\MarkdownSplitter\MarkdownSplitter\bin\Debug\net6.0-windows\MarkdownSplitter.deps.json
+C:\dev\src\StoryBuilder-Manual\MarkdownSplitter\MarkdownSplitter\bin\Debug\net6.0-windows\MarkdownSplitter.runtimeconfig.json
+C:\dev\src\StoryBuilder-Manual\MarkdownSplitter\MarkdownSplitter\bin\Debug\net6.0-windows\MarkdownSplitter.dll
+C:\dev\src\StoryBuilder-Manual\MarkdownSplitter\MarkdownSplitter\bin\Debug\net6.0-windows\MarkdownSplitter.pdb
+C:\dev\src\StoryBuilder-Manual\MarkdownSplitter\MarkdownSplitter\obj\Debug\net6.0-windows\MarkdownSplitter.dll
+C:\dev\src\StoryBuilder-Manual\MarkdownSplitter\MarkdownSplitter\obj\Debug\net6.0-windows\refint\MarkdownSplitter.dll
+C:\dev\src\StoryBuilder-Manual\MarkdownSplitter\MarkdownSplitter\obj\Debug\net6.0-windows\MarkdownSplitter.pdb
+C:\dev\src\StoryBuilder-Manual\MarkdownSplitter\MarkdownSplitter\obj\Debug\net6.0-windows\MarkdownSplitter.genruntimeconfig.cache
+C:\dev\src\StoryBuilder-Manual\MarkdownSplitter\MarkdownSplitter\obj\Debug\net6.0-windows\ref\MarkdownSplitter.dll
