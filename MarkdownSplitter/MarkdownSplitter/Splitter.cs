@@ -32,7 +32,6 @@ namespace MarkdownSplitter
         private string docsFolder = @"docs";
         private string splitMarker = "#";
         private readonly Block[] level = new Block[7];
-        // private List<string> toc = new();
 
         /// <summary>
         /// Creates an empty github pages (/docs) folder
