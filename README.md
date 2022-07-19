@@ -35,7 +35,23 @@ to update the User Manual:
 
 ## Setup for testing
 
+## Scrivener 
+
+You MUST have a Scrivener license and Scrivener 3.0 installed
+to update the StoryBuilder User Manual.
+
+NOTE: The Scrivener project can only be edited by one person at 
+a time. If multiple people are working on documentation changes,
+you must coordinate with each other.
+
 ## Edit the User Manual
+
+1. Make sure you are in the 'manual' branch. 
+2. Navigate to the manual.scriv folder in your StoryBUilder-Manual 
+repository clone. Open the scriner-manual.scrivx file using Scrivener.
+3. Make you text changes as per any large Scrivener document.
+4. The StoryBuilder Scrivener project has a great many images. An 
+image inserted in an .rtf file is 
 
 ## Build and test the StoryBuilder User Manual
 
