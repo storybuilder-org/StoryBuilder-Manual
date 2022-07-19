@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="342E5DD6-5812-45AB-982C-E2EAC46CF8EE" Creator="SCRWIN-3.1.1.0" Device="Minerva" Modified="2022-07-19 10:35:18 -0400" ModID="A67B7FC8-22CA-432B-A2F9-311FD0C6A912">
+<ScrivenerProject Template="No" Version="2.0" Identifier="342E5DD6-5812-45AB-982C-E2EAC46CF8EE" Creator="SCRWIN-3.1.1.0" Device="Minerva" Modified="2022-07-19 13:42:18 -0400" ModID="009021A4-26BA-4DE4-97D5-2848BB80E8D6">
     <Binder>
         <BinderItem UUID="9FFBA333-8432-41C1-91F5-1302DFE283CA" Type="Text" Created="2019-05-14 13:29:37 -0400" Modified="2019-05-14 13:29:46 -0400">
             <Title>Non-Fiction Format</Title>
@@ -433,13 +433,13 @@
                                         <TextSelection>436,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="609F13B0-7E95-4632-AD6E-F37262B36A58" Type="Text" Created="2021-11-08 11:21:49 -0400" Modified="2021-11-23 09:25:32 -0400">
+                                <BinderItem UUID="609F13B0-7E95-4632-AD6E-F37262B36A58" Type="Text" Created="2021-11-08 11:21:49 -0400" Modified="2022-07-19 13:41:33 -0400">
                                     <Title>Relationships Tab</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>299,0</TextSelection>
+                                        <TextSelection>1695,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="5B2B1C8E-1B6B-4F4D-8364-84F6DE5AAB62" Type="Text" Created="2021-11-08 14:35:37 -0400" Modified="2022-01-12 02:29:50 -0400">
@@ -1477,19 +1477,6 @@
                 </BinderItem>
                 <BinderItem UUID="B18778D5-5242-41A0-881A-2F7FA839BC01" Type="Image" Created="2022-04-20 05:09:07 -0400" Modified="2022-04-20 05:09:07 -0400">
                     <Title>Character Psychological Tab</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>png</FileExtension>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                    </MetaData>
-                    <MediaSettings>
-                        <ImageScaleFactor>1</ImageScaleFactor>
-                        <ImageRotation>None</ImageRotation>
-                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
-                    </MediaSettings>
-                </BinderItem>
-                <BinderItem UUID="CEDA8454-7B55-4D72-8FB6-A2788E8678D3" Type="Image" Created="2022-04-20 05:09:07 -0400" Modified="2022-04-20 05:09:07 -0400">
-                    <Title>Character Relationships Tab</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>png</FileExtension>
@@ -2847,6 +2834,54 @@
                         <Bookmark BinderUUID="675387D2-0324-47E3-9A41-4C46441C6D3A">Creating a Story pt 4</Bookmark>
                     </Bookmarks>
                 </BinderItem>
+                <BinderItem UUID="8696A899-34F3-48AA-A7B6-02B84136AC39" Type="Image" Created="2022-07-19 12:50:51 -0400" Modified="2022-07-19 12:53:54 -0400">
+                    <Title>Character Relationships Tab</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>png</FileExtension>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScaleFactor>1</ImageScaleFactor>
+                        <ImageRotation>None</ImageRotation>
+                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                    </MediaSettings>
+                    <Bookmarks>
+                        <Bookmark BinderUUID="609F13B0-7E95-4632-AD6E-F37262B36A58">Relationships Tab</Bookmark>
+                    </Bookmarks>
+                </BinderItem>
+                <BinderItem UUID="188B240E-8625-4D2E-94E2-F05079AFF4EB" Type="Image" Created="2022-07-19 13:01:49 -0400" Modified="2022-07-19 13:08:18 -0400">
+                    <Title>Add a Relationship</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>png</FileExtension>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScaleFactor>1</ImageScaleFactor>
+                        <ImageRotation>None</ImageRotation>
+                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                    </MediaSettings>
+                    <Bookmarks>
+                        <Bookmark BinderUUID="609F13B0-7E95-4632-AD6E-F37262B36A58">Relationships Tab</Bookmark>
+                    </Bookmarks>
+                </BinderItem>
+                <BinderItem UUID="18E0E9B0-E553-41DE-9B4D-1C879951CE6C" Type="Image" Created="2022-07-19 13:27:50 -0400" Modified="2022-07-19 13:30:05 -0400">
+                    <Title>Inverse Relationship</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>png</FileExtension>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScaleFactor>1</ImageScaleFactor>
+                        <ImageRotation>None</ImageRotation>
+                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                    </MediaSettings>
+                    <Bookmarks>
+                        <Bookmark BinderUUID="609F13B0-7E95-4632-AD6E-F37262B36A58">Relationships Tab</Bookmark>
+                    </Bookmarks>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem UUID="A41BA2A1-C599-43C2-99CC-8C1A7FFC2C24" Type="TrashFolder" Created="2019-05-14 13:29:37 -0400" Modified="2019-05-14 13:29:37 -0400">
@@ -2885,6 +2920,41 @@
                         <Bookmark BinderUUID="061B0597-902D-46BD-8590-683976AE05C1">Creating a Story pt 3</Bookmark>
                     </Bookmarks>
                 </BinderItem>
+                <BinderItem UUID="CEDA8454-7B55-4D72-8FB6-A2788E8678D3" Type="Image" Created="2022-04-20 05:09:07 -0400" Modified="2022-04-20 05:09:07 -0400">
+                    <Title>Character Relationships Tab</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>png</FileExtension>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScaleFactor>1</ImageScaleFactor>
+                        <ImageRotation>None</ImageRotation>
+                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                    </MediaSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="6E732396-8660-4DE2-8681-51A652651E21" Type="Folder" Created="2022-07-19 13:40:52 -0400" Modified="2022-07-19 13:40:52 -0400">
+            <Title>Recovered Files (7/19/2022, 1:40 PM)</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Warning.tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="EEE57423-DE87-4087-AA23-DFC19A6DA85E" Type="Text" Created="2022-07-19 13:40:52 -0400" Modified="2022-07-19 13:40:52 -0400">
+                    <Title>Recovered File-1</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -2894,7 +2964,7 @@
         </Collection>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.901961 0.901961 0.980392">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No">F1</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No">Add</SearchSettings>
         </Collection>
     </Collections>
     <SectionTypes>
@@ -2954,12 +3024,12 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2022-07-19 10:35:18 -0400"/>
+        <PreviousSession Words="160" Characters="886" Date="2022-07-19 13:42:18 -0400"/>
     </ProjectTargets>
     <BookmarksFolderUUID>07B0D7C6-57CE-4D6F-8AD9-11F06A261A5F</BookmarksFolderUUID>
     <RecentWritingHistory Date="2022-07-19 00:00:00 -0400">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
+        <DraftWordCount>158</DraftWordCount>
+        <DraftCharCount>881</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>

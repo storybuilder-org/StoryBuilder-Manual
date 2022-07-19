@@ -6,7 +6,7 @@ Copyright: Copyright 2022, . All rights reserved.
 # Front Matter #
 ## Front Page (Image) ##
 
-![][StoryBuilder]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/StoryBuilder.jpg
 ##  Preface ##
 Preface
 
@@ -72,7 +72,7 @@ Right Touchpad button
 
 The menu key(sometimes called document key) looks like this: 
 
-![][Keyboard-Right-Mouse-Key]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Keyboard Right Mouse Key.bmp
 ## Navigating in StoryBuilder ##
 ### Starting and Stopping StoryBuilder ###
 Starting and Stopping StoryBuilder
@@ -88,7 +88,7 @@ Reading and Writing Outlines
 
 The File Menu button displays a drop-down menu of file options:
 
-![][File-Menu]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/File Menu.png
 
 
 A StoryBuilder outline is a single file with a file extension of .stbx: for instance, ‘The Maltese Falcon.stbx.’   A StoryBuilder file can be moved, copied, etc.
@@ -97,11 +97,11 @@ The Open command identifies which outline you wish to work on. The Save command 
 
 File Open displays the following open dialog:
 
-![][File-Open-Dialog]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/File Open Dialog.png
 
 This dialog will by default display recently opened outlines. Clicking on Open story from disk will open a file browser to allow you to pick a particular outline to pen.  Clicking on the Create new story tab on the left will display a dialog for a new story outline. The Project path defaults to the file folder specified in Preferences.
 
-![][Create-New-Story-Dialog] 
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Create New Story Dialog.png 
 Clicking on Sample Stories on the left tab displays a list of sample outlines installed with StoryBuilder for you to play with. If you intend to change a sample, we recommend saving it to a different location before doing so.
 
 Only one story outline can be open at a time.  If you open a new file you'll be prompted to save the current file first if it’s been modified.
@@ -109,7 +109,7 @@ Only one story outline can be open at a time.  If you open a new file you'll be 
 ### The StoryBuilder User Interface ###
 The StoryBuilder User Interface
 
-![][User-Interface]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/User Interface.png
 
 The form’s sections are as follows. They’ll be explained in more detail as we go.
 
@@ -122,7 +122,7 @@ The form’s sections are as follows. They’ll be explained in more detail as w
 #### Status Bar ####
 Status Bar
 
-![][Status-Bar]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Status Bar.png
 
 
 The Status Bar reports information you may find useful during program execution. It contains the following controls:
@@ -145,7 +145,7 @@ Indicates if a Search is active.
 
 Changed Indicator
 
- ![][Changed-Indicator]
+ MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Changed Indicator.png
 
 The Changed Indicator displays red if any editing has been done to the outline and green if not. It’s a reminder to save your work.
 ### Menu Bar ###
@@ -155,13 +155,13 @@ The Menu bar is located just below the title bar on the StoryBuilder form and pr
 
 Clicking the See more (...) button will display labels below each menu button:
 
-![][Menu-Bar]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Menu Bar.png
 
 Clicking the same button will toggle the button labels off again.
 
 Hovering your mouse or stylus over a button will display a tool tip describing the button’s function:
 
-![][Menu-Bar-Tooltip]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Menu Bar Tooltip.png
 
 
 The menu bar buttons either display drop-down menus (such as File), or launch particular actions (such as Preferences.)
@@ -173,7 +173,7 @@ Show/Hide Navigation Pane
 
 This button toggles the Navigation Pane to either display or be hidden. Hiding the Navigation Pane makes better use of screen space on a smaller screens or when the main form is sized smaller. It also encourages focus on just the one screen.
 
-![][Show-and-Hide-Navigation]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Show and Hide Navigation.png
 
 (Hint: StoryBuilder detects and reports spelling errors on text fields.)
 #### File Menu  ####
@@ -189,11 +189,11 @@ Add/Remove Story Elements
 
 You can add or remove Story Elements in two ways. There’s a Menu Bar button which opens an ‘Add/Remove Story Elements’ menu:
 
-![][Add-Story-Element-Menu]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Add Story Element Menu.png
 
 There’s also a pop-up menu which displays when you right-click on any Story Element node in the Navigation Pane:
 
-![][Story-Element-Flyout]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Story Element Flyout.bmp
 
 (Hint: Holding your mouse or stylus over any of the buttons on a menu or pop-up menu will display a tip describing the button.)
 
@@ -206,7 +206,7 @@ The Add to Narrative/Remove from Narrative buttons copy a Scene story element to
 #### Move Story Elements ####
 Move Story Elements
 
-![][Move-Story-Elements]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Move Story Elements.png
 
 The Move Story Element button displays a pop-up which allows you to move the selected Story Element node on the Navigation Pane up, down, left, or right. The one exception is the root of the Navigation node tree, Story Overview. 
 
@@ -223,7 +223,7 @@ The Move Story Element button displays a pop-up which allows you to move the sel
 Search
 StoryBuilder contains a search field, located at the left on the Menu Bar, which will perform narrow searches of your outline for specific items. To use it, enter text to search for in the search field and click the search button (hourglass.) The story elements containing the search text in selected fields will be highlighted:
 
-![][Search-Function]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Search Function.png
 
 To clear the search, click on the search button a second time.
 
@@ -239,7 +239,7 @@ Print Reports
 
 If you select the Print Reports option, a dialog will appear which allows you to check the particular reports you wish to print:
 
-![][Generate-Reports-Dialog]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Generate Reports Dialog.png
 
 Clicking Generate will cause all of the selected reports to print on your default printer.
 
@@ -247,23 +247,23 @@ Scrivener Reports
 
 If you use Scrivener, clicking Scrivener Reports will open a file picker to allow you to select a Scrivener .scrivx file from a Scrivener project. The Scrivener project you select is the one you’ll be writing your draft in, and it must have been created before you generate the reports.
 
-![][Scrivener-Reports-File-Picker]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Scrivener Reports File Picker.png
 
-When the reports are done:    ![][Scrivener-Reports-Generated-Status-Message]  you can open your Scrivener project. You’ll see a set of nodes added to the Binder, which contain your reports:
+When the reports are done:    MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Scrivener Reports Generated Status Message.png  you can open your Scrivener project. You’ll see a set of nodes added to the Binder, which contain your reports:
 
-![][Scrivener-Binder-with-StoryBuilder-Outline]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Scrivener Binder with StoryBuilder Outline.png
 
 A convenient way to use these embedded reports is to split your screen, with one pane open to a text node in the Manuscript and the other to a node in the outline:
 
-![][Scrivener-Split-Screen-with-StoryBuilder]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Scrivener Split Screen with StoryBuilder.png
 #### Preferences ####
 Preferences
 
 The Preferences dialog is launched when you click on the Preferences button on the Menu Bar:
 
-![][Prefences-CommandBar-Button]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Prefences CommandBar Button.png
 
-![][Preferences-Dialog]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Preferences Dialog.png
 
 This dialog will also be displayed the first time you launch StoryBuilder.
 
@@ -316,7 +316,7 @@ Here, clicking on the first or root node in the tree displays the Story  Overvie
 
 On some screen sizes and orientations the Navigation and Content panes may be stacked with the Navigation pane above the Content pane. In those cases the Show/Hide Navigation button (the hamburger menu button) acts differently; it toggles from the Navigation Pane to the Content Pane and back.
 
-![][Navigation-and-Content-Pane]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Navigation and Content Pane.png
 
 Every Story Element type is a different form. These are the story elements:
 
@@ -340,14 +340,14 @@ For most story element types, that Form contains multiple tabs. Clicking or touc
 
 In some cases (and particularly if you resize the StoryBuilder window down) not all tabs will show. In that case  the tabs will form a carousel you can scroll left or right by using the left or right arrows that appear at the edges of the tab area.
 
-![][Tabs]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Tabs.png
 
 ### Story Explorer and Story Narrator Views ###
 Story Explorer and Story Narrator Views
 
 A drop-down list on the Status Bar allows you to switch between two views of your story:
 
-![][Explorer-and-Navigator-Views]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Explorer  and Navigator Views.png
 
 Story Explorer View is the view you’ll use when you’re outlining your story and adding or removing story elements. Explorer displays every story element (of all types) in your outline and can be ordered any way you like. Scenes, in particular, may arrive in any order or time.
 
@@ -381,7 +381,7 @@ Story Idea Tab
 
 Not every story idea will become a story you want to write, but the habit of being on the lookout for and recording story ideas is useful.  Recording that initial idea here.
 
-![][Overview-Story-Idea-Tab]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Overview Story Idea Tab.png
 
 Fields:
 
@@ -402,7 +402,7 @@ Story Idea				This is the place to record the original idea that led you to want
 ### Concept Tab ###
 
 
-![][Overview-Concept-Tab]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Overview Concept Tab.png
 
 A concept is an idea that asks a question that implies conflict.  The answer to that question is your story.  
 
@@ -447,7 +447,7 @@ When Harry Met Sally
 ### Premise Tab ###
 Premise Tab
 
-![][Overview-Premise]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Overview Premise.png
 
 
 Story Problem
@@ -464,7 +464,7 @@ Structure Tab
 
 Structure is the order and manner in which you tell your story. Structure has two meanings. This tab is concerned with the constraints you put on the story (hopefully early in your story development.) The second meaning is concerned with the order and arrangement of story elements; you’ll create this as you develop your outline. 
 
-![][Overview-Structure-Tab]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Overview Structure Tab.png
 
 
 Fields:
@@ -493,7 +493,7 @@ Problem Tab
 
 This tabs contains elements which help to define a story problem.
 
-![][Problem-Problem-Tab]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Problem Problem Tab.png
 
 
 Problem Type
@@ -554,7 +554,7 @@ The provided choices are generalized sources from which many problems spring. Be
 ### Protagonist Tab ###
 Protagonist Tab
 
-![][Problem-Protagonist-Tab]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Problem Protagonist Tab.png
 
 The  protagonist is the character who has the problem.  The protagonist of of the story problem is the main driver of the plot.  In the case of a subplot, that problem's protagonist may be a different character than the story's protagonist.
 
@@ -584,7 +584,7 @@ As with all story elements, the more specific the goal, the better.  The Goal co
 ### Antagonist Tab ###
 Antagonist Tab
 
-![][Problem-Antagonist-Tab]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Problem Antagonist Tab.png
 
 The problem's antagonist is the source of the opposition to the problem protagonist's goal.
 
@@ -679,7 +679,7 @@ This is another rabbit hole. But a very interesting one.
 ### Role Tab ###
 Role Tab
 
-![][Clipboard-Image-17]
+![][Clipboard-Image-33]
 
 The role tab contains the information which defines the relationship between this character and the story.
 
@@ -744,7 +744,7 @@ Use these notes to provide a thumbnail picture of the character and the overall 
 ### Physical Tab ###
 Physical and Appearance Tabs
 
-![][Clipboard-Image-18]
+![][Clipboard-Image-34]
 
 
 These character traits describe the external physical characteristics and appearance of the character.  They are generally self-explanatory.
@@ -759,7 +759,7 @@ The Appearance tab is a companion to the Physical tab.
 
 Use this note area to describe your character's looks, style of dress and movement, and the impression he leaves.  
 
-![][Clipboard-Image-19]
+![][Clipboard-Image-35]
 
 
 
@@ -775,54 +775,73 @@ In writing plays, where the characters must be cast, try to avoid writing dialog
 
 The Relationship tab on the Character form describes significant character-to-character relationships.
 
-Relationships are made when two people with a different set of values and often varying personalities come together. Relationships in fiction  can be a source of conflict.
+Relationships are made when two people with a different set of values and often varying personalities come together. Relationships in fiction (and in life)  can be a source of conflict.
+
 Most stories involve interactions between characters: adversarial, social, familial, romantic. A character in a relationship is distinct from a character as an individual; the relationship is a dynamic. Characters in a relationship behave differently when they’re together- a sort of role.
 
-This tab is only one half  of the relationship; go to the Relation character  to define  the other half. Be aware that relationships seldom have the same dynamic.
+This tab is only one half  of the relationship; go to the Relation character  to define  the other half. Be aware that the two sides of a relationship seldom have the same dynamic.
 
-Relation
+Create a new Relationship
 
-Pick the character this relationship exists with.
+Click on this button to add a new relationship:
+
+![][Add-a-Relationship]
+
 
 Relation Type
 
-Typical relationship types are 
+Select the type of relationship from the ‘is a’ ComboBox. If you can’t find the one you want, add a new one.
 
+Relation
+
+Select the character the relationship is with from the ‘to’ list of characters.
+
+Make a relationship on the other character
+
+Check this box to define the inverse relationship. To complete that relationship, however, you must navigate to the other character.
+
+Once you’ve added a relationship, you can update its defining details:
+![][Inverse-Relationship]
 Trait
 
-(tk The Odd Couple example)
+Select from list of traits, or add your own.
 
-Contrasting qualities tend to pull them apart. CONTRAST is the key
+Contrasting qualities tend to pull or push characters apart.
 
 Attitude
 
-(tk Parent / Child example)
-(tk Watson / Holmes example)
-(tk Character arc in a relationship is often about evolution of attitude)
+If the trait is the external behavior defining the relationship, attitude is the internal counterpart, often a feeling.
+If a Character has a character arc of growth centered on a relationship, it’s often about an evolution of attitude.
 
 Notes
 
 Use this field to record your ideas and observations on the relationship.
 
-Add Relation / Remove Relation buttons
+Remove Relation button
  
-Use these to add or remove a new relationship for this character.
+If you click on the ‘X’ button on a relationship, you’ll be asked to verify that you wish to remove that relationship.
+
+Show and Hide a relationship
+
+If you feel that the relationship takes too much space up you can hide the extra info (Traits, Attitude and notes) by click the little arrow in top right of the relationship. You can click the arrow to show this info again.
+
+
 ### Flaw Tab ###
 Flaw Tab
 
-![][Character-Flaw-Tab]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Character Flaw Tab.png
 
 A character flaw is a negative trait that affects your character or others in a bad way. Flaws vary in severity; some are just unpleasant quirks, but a major flaw will have story consequences. It’s almost always at the root of a character arc, and must be corrected (a redemption arc) or will lead to your character’s downfall  (a fatal flaw.)
 
 Flaw Builder
 
-![][Flaw-Builder]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Flaw Builder.png
 
 This tool explores some common examples of character flaws.
 ### Backstory Tab ###
 Backstory Tab
 
-![][Character-Backstory-Tab]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Character Backstory Tab.png
 
  Backstory is what happened to your character before the story. It’s usually introduced as explanation  for traits or beliefs- as the root of a character’s motivations or reactions to story situations.
 
@@ -830,7 +849,7 @@ Backstory deserves caution for two reasons, however. If you’re shoehorning exp
 ### Social Tab ###
 Social Tab
 
-![][Character-Social-Tab]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Character Social Tab.png
 
 These elements are the major factors which affect this character's behavior and which come from the influence of others or the community.
 
@@ -880,7 +899,7 @@ But religion can provide a foundation for characters in crisis, a source of comf
 ### Psychological Tab ###
 Psychological Tab
 
-![][Character-Psychological-Tab]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Character Psychological Tab.png
 
 This tab contains information about the mental states and processes of the character.
 
@@ -925,7 +944,7 @@ The character may discover that what he thinks is important isn't, or that value
 ### Inner Traits ###
 Inner Traits Tab
 
-![][Character-Inner-Traits-Tab]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Character Inner Traits Tab.png
 
 A trait is a distinguishing characteristic or quality.  As a fiction writer, you may find it useful to think of inner and outer (external) traits.  Inner traits are aspects of  character stemming from psychological and social causes.  External traits are habits and behaviors which reflect and illustrate the inner traits.  For instance, a girl may be submissive toward her mother (an inner trait) and may reflect it by bringing her small presents each day (an outer trait.)  You will want to find external traits to illuminate the inner traits of your characters, following the 'show, don't tell' maxim.
 
@@ -940,13 +959,13 @@ Both the Inner Traits tab and the Virtues and Vices list in StoryBuilder can be 
 ### Outer Traits ###
 Outer Traits Tab
 
-![][Character-Outer-Traits]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Character Outer Traits.png
 
 Trait Builder
 
 This tool provides several categories of examples of outer (external) traits.
 
-![][Trait-Builder]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Trait Builder.png
 
 When you assign one of these traits to your character, think of how he came to have this characteristic.  Was there some incident in his background or element in his upbringing which fostered this trait? The Backstory Tab can be used to record this.
 
@@ -957,7 +976,7 @@ Setting Tab
 
 The Setting tab contains elements which make the setting specific and unique.
 
-![][Clipboard-Image-20]
+![][Clipboard-Image-36]
 
 
 Locale	The location of the setting in space.
@@ -978,7 +997,7 @@ Sensations Tab
 
 Your reader can only experience your settings through the eyes and ears of your characters.  To make the setting as effective as possible, you must explore the impressions the setting makes on the five senses. This tab is a reminder to do so.
 
-![][Setting-Sensations-Tab]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Setting Sensations Tab.png
 
 
 Fields:
@@ -1001,7 +1020,7 @@ The other senses are often neglected but can be very important.  Smells in parti
 ### Scene Tab ###
 Scene Tab
 
-![][Scene-Scene-Tab]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Scene Scene Tab.png
 
 Date and Time		Identify when the scene occurs.
 
@@ -1017,13 +1036,13 @@ Scene Sketch		A thumbnail sketch of the scene.
 ### Develpment Tab ###
 Development Tab
 
-![][Scene-Development-Tab]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Scene Development Tab.png
 ### Conflict Tab ###
 Conflict Tab
 
 The Conflict tab helps define the drama in a scene.
 
-![][Scene-Conflict-Tab]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Scene Conflict Tab.png
 
 A scene is a 'small story', which has the same key elements of the overall story: a goal,  opposition to that goal, and an outcome.  The Conflict tab compresses the elements on the Problem form into a single tab.
 
@@ -1049,7 +1068,7 @@ The Dramatic Situations tool on the Plotting Aids sub‑  menu of the Tools  men
 Sequel Sequel Tab
 Sequel Tab
 
-![][Scene-Sequel-Tab]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Scene Sequel Tab.png
 
 The prose which immediately follows a scene usually ties that scene to the next.  The two literary devices which serve this purpose are the transition and the sequel.
 
@@ -1066,7 +1085,7 @@ See "Scene and Sequel" for more information.
 ### Resolution Tab ###
 Resolution Tab
 
-![][Problem-Resolution-Tab]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Problem Resolution Tab.png
 
 The resolution is the outcome of the problem.  Not every problem in a story must be resolved, but the important ones which affect the protagonist's desire and show his growth must be.  If they are not, the reader, who has been turning pages to find out what happens, will feel cheated.
 
@@ -1082,7 +1101,7 @@ The resolution of a problem is more than what happens.  It also includes how the
 
 Key Questions
 
-![][Clipboard-Image-21]
+![][Clipboard-Image-37]
 
 [tk: Format]
 
@@ -1097,7 +1116,7 @@ The questions for a story element are a circular list.  That is, when you've dis
 1
 Topic Information
 
-![][Clipboard-Image-22]
+![][Clipboard-Image-38]
 
 The Topic Information sub-menu on the Tools menu contains a list containing information specific to certain topics.  These items will be displayed either on a card file-like list or a Windows notepad, depending on the contents. 
 
@@ -1156,7 +1175,7 @@ The Stock Scenes tool provides lists of scenes frequently found in certain plott
 1
 Master Plots
 
-![][Tools-Master-Plots]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Tools Master Plots.png
 
 Plots tend to include the same story elements.  Aristotle was the first to identify and expand upon some of these elements, which have been elaborated in the centuries since his time.  These elements have to do with the shape of the plot.
 
@@ -1175,7 +1194,7 @@ The master plots can be changed according to your preferences.  See "Customizing
 #### Dramatic Situations ####
 Dramatic Situations
 
-![][Tools-Dramatic-Situations]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Tools Dramatic Situations.png
 
 Georges Polti, in his 1895 book The Thirty-Six Dramatic Situations, proposed that there are only a limited number of dramatic situations, based on fundamental human conflicts.   He defined each of his situations in terms of dramatic elements and examples.
 
@@ -1190,7 +1209,7 @@ This tool works with the Scene tab on the Plot form to help define the conflict 
 #### Stock Scenes ####
 Stock Scenes
 
-![][Tools-Stock-Scenes]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Tools Stock Scenes.png
 
 This tool, invoked from the Plotting Aids sub-menu of the Tools menu, provides a list of several categories of stock scenes. These are scenic situations which recur frequently in fiction. 
 
@@ -1217,7 +1236,6 @@ Copy Characters & Settings
 This tool is coming soon. The purpose is to allow you to copy story elements from one story outline to another, such as in a series of novels.
 
 # Tutorial: Creating a Story #
-Tutorial: Creating a Story
 ## Creating a Story pt 1 ##
 Creating a Story
 
@@ -1237,11 +1255,11 @@ To do so in StoryBuilder, launch the program. The first time you launch the prog
 
 Back to our story idea. Use the File menu’s  Open/Create file option:
 
-![][File-Open-Dialog-2]
+![][File-Open-Dialog]
 
 Click on Create New Story to start a new outline:
 
-![][Create-New-Story-Dialog-2]
+![][Create-New-Story-Dialog]
 
 Select ‘Empty Folders’ for the Template. If it’s not already there, change the Project path to the folder you’d like to save your outline in (usually the Preferences location) using the Browse button. And finally, assign a Project Name. This will be the file name of the story outline file. In our case, use ‘Danger Calls’. Click on Create project, and you’ll have created your first story outline:
 
@@ -1273,7 +1291,7 @@ At the moment, the story outline for "Danger Calls" exists only in your computer
 
 The indicator will change from red to green, indicating that all changes have been saved to disk.
 
-![][Changed-Indicator-2]
+![][Changed-Indicator]
 
 Alternatively, from the File menu, you can select Save Story, or enter the Ctrl+S shortcut keys.  Remember to save your work periodically.
 
@@ -1399,6 +1417,69 @@ Neither of these problems are fleshed out, but we’ll work on that in a minute.
 
 
 
+
+### Creating a Story pt 9 ###
+We know how our story starts and how it ends; we're left with the middle story that ties these two parts together.
+
+We need to figure out how the two detectives can find out where the next drug deal is to be held.  One way is to enlist an ally who knows all about wireless communications.  Let's say he's the owner of a small radio-electronics shop.  But as with the interplay between Leonard and Tony, we need conflict.  Let's make this character a reluctant ally, one who's coerced into helping our protagonists.  We might make him a petty criminal of some sort, for instance, and have Leonard threaten or blackmail him.  That fits Leonard's character as we know it: he'll go to any lengths to catch Lacas.  Let's call our new character Joe Edwards. For his crime, we need something serious enough to get him into trouble, but not too serious, or the reader will be outraged that Leonard's left him on the street.  Let's say that he's used his electronics skills to bug the people in the apartment where he lives;  and in particular, the single woman who lives downstairs--- he's a Peeping Tom.  We can also add the scene where Kraskin threatens Edwards with arrest and exposure unless he cooperates.
+
+
+1
+
+We've also gotten rid of the rest of the scaffolding plot points; we know where we're going now and don't need additional directions.  The Dramatic Situations entry (had we used it) would have been 'Obtaining (through force)'. 
+
+The question now turns to what Edwards will provide our detectives to enable them to eavesdrop on Lacas' cellular phone.   This is the place where some research might be useful, to make the story more believable.  However, we'll just have Edwards pull out a modified scanner and key Lacas' phone number, which the detectives provide.  This gizmo will be our detectives' 'listening post' and will let them overhear anything the drug dealer says on the phone.  We'll add a plot point for this, although technically it's a continuation of the preceding scene. 
+ 
+It's vital, when plotting, to keep the readers in mind, and to think about what will keep them turning pages. This particular plot point isn't too dramatic, but it does have appeal to curiosity.  We can spice this up further by having Tony remind Lacas of the laws they're breaking.
+
+We've developed two story problems.  The first or external problem is the one we just gave the reader--- the setup or first act.  We've also just resolved this problem, by giving the detectives the means to eavesdrop Lacas.   The second problem, based on Leonard's impulsiveness, has him captured by Lacas, and we'll want the reader to know if Tony can rescue him.  The second problem provides us with a complication, the capture.  We could therefore look at the middle story as a way to leapfrog from the one story problem to the other.  Since a story problem is a sort of story in miniature (so is a scene), plotting will frequently involve working this way; see "Plotting and the Problem form" for more details.
+
+Let's look for a way to get Leonard captured.  Turning once more to the Tools menu, we select Stock Scenes from the Plotting Aids sub-menu.  Several further choices appear.  Let's look at the Twists and Turns choice. 
+
+ This provides us with a number of stock scenes which offer dramatic twists: 
+
+
+
+
+2
+
+In this case the first twist listed might help us; our electronics buff ally, Joe Edwards, could be tied to Lacas in some fashion and tip him off that the two detectives are listing in on his call.   Lacas could then set the cops up.  We decide to go with this.  Clicking on the first item in the list, and then on the Copy button, adds this stock scene into our plot outline.
+
+
+
+3
+
+We can change the scene summary to read 'Edwards has tipped Lacas, who traps Kraskin.'  
+
+There's something missing, a piece in which the detectives overhear the Charlie Lacas setting up a drug deal, and which leads Leonard to rush impulsively into the ambush.  But why would Leonard rush to catch Lacas and leave his partner behind?
+
+We know that our detectives are using an illegal bug to catch Lacas, so they can't implicate their boss or other cops in their quest.  It's just the two of them.  The two of them might have decided to take turns on an unoffical stake out.  That way we can have Leonard working the stake out when the deal goes down.
+
+So let's add a plot point immediately prior to this where this takes place, and title it 'Leonard, on stake out, learns of a drug deal .'  We can add notes to explain the details of the stake out.
+
+Our plot outline now looks like this:
+
+
+4
+This is a relatively complete plot.  We could sit down and start writing the story now, but that would be a mistake.  There's a lot left unfinished: we haven't created settings, the characters are still unrefined, etc.  The more these things are worked out, the richer and more complete the first draft will be when you write it. 
+
+We should evaluate our work so far.  The creation of the story outline is an excellent time to review and revise.  For one thing, changes at this point in the story's development, while it's still just an outline, are relatively cheap and easy; you're not sacrificing prose and dialog that took time and effort to produce.  There's also another advantage: at this point you're looking only at the structure of the story.  Every story has these components of problems, characters, setting and plot; but once you begin to write, the bones will be fleshed out in narrative and dialog and dressed with your writing style.  The naked structure will be, in a sense, hidden by the prose. This makes spotting and correcting structural problems more difficult. 
+
+StoryBuilder offers a tool, Key Questions, to assist in refining and testing your story elements.  There are questions for Story, Problem, Character, Setting, and Plot.  From the Tools menu, select Key Questions and then Story Questions.  A form displaying a series of questions for the overall story will appear.  We can test the story concept against these questions.  If one is worth further study, notes can be recorded in the Answer section.  For example, scrolling through the questions, we find:
+
+
+5
+
+
+The second part of the question is a good one; we haven't selected a market, and therefore don't know if the story will match slant, length requirements, etc.
+
+It's a good idea to use Key Questions frequently while creating the concept, and to review them before going on to the draft.
+
+In this tutorial we've produced most of a story outline.  We've worked through problem refinement, created several characters, drafted a plot, and along the way we've examined several tools to help these processes.  The story outline was created as this tutorial was being written, exactly as shown. We feel that any story idea can be converted into a fully developed concept using these techniques. 
+
+"Danger Call"  is a action-oriented suspense tale and stresses plot over character development.  A character-driven story would be developed in much the same way, but the character profiles and relationships would, of course, developed more fully before developing the plot.
+
+  
 
 ## Creating a Story pt 4 ##
 Let’s return to our original problem’s Story Question again:
@@ -1616,69 +1697,6 @@ To illustrate the universality of the Dramatic Situations tool, we chose a drama
 
 We also got rid of the first two placeholder plot points by clicking on them on the outline side of the form and then clicking on the Delete command button.
 
-## Creating a Story pt 9 ##
-We know how our story starts and how it ends; we're left with the middle story that ties these two parts together.
-
-We need to figure out how the two detectives can find out where the next drug deal is to be held.  One way is to enlist an ally who knows all about wireless communications.  Let's say he's the owner of a small radio-electronics shop.  But as with the interplay between Leonard and Tony, we need conflict.  Let's make this character a reluctant ally, one who's coerced into helping our protagonists.  We might make him a petty criminal of some sort, for instance, and have Leonard threaten or blackmail him.  That fits Leonard's character as we know it: he'll go to any lengths to catch Lacas.  Let's call our new character Joe Edwards. For his crime, we need something serious enough to get him into trouble, but not too serious, or the reader will be outraged that Leonard's left him on the street.  Let's say that he's used his electronics skills to bug the people in the apartment where he lives;  and in particular, the single woman who lives downstairs--- he's a Peeping Tom.  We can also add the scene where Kraskin threatens Edwards with arrest and exposure unless he cooperates.
-
-
-1
-
-We've also gotten rid of the rest of the scaffolding plot points; we know where we're going now and don't need additional directions.  The Dramatic Situations entry (had we used it) would have been 'Obtaining (through force)'. 
-
-The question now turns to what Edwards will provide our detectives to enable them to eavesdrop on Lacas' cellular phone.   This is the place where some research might be useful, to make the story more believable.  However, we'll just have Edwards pull out a modified scanner and key Lacas' phone number, which the detectives provide.  This gizmo will be our detectives' 'listening post' and will let them overhear anything the drug dealer says on the phone.  We'll add a plot point for this, although technically it's a continuation of the preceding scene. 
- 
-It's vital, when plotting, to keep the readers in mind, and to think about what will keep them turning pages. This particular plot point isn't too dramatic, but it does have appeal to curiosity.  We can spice this up further by having Tony remind Lacas of the laws they're breaking.
-
-We've developed two story problems.  The first or external problem is the one we just gave the reader--- the setup or first act.  We've also just resolved this problem, by giving the detectives the means to eavesdrop Lacas.   The second problem, based on Leonard's impulsiveness, has him captured by Lacas, and we'll want the reader to know if Tony can rescue him.  The second problem provides us with a complication, the capture.  We could therefore look at the middle story as a way to leapfrog from the one story problem to the other.  Since a story problem is a sort of story in miniature (so is a scene), plotting will frequently involve working this way; see "Plotting and the Problem form" for more details.
-
-Let's look for a way to get Leonard captured.  Turning once more to the Tools menu, we select Stock Scenes from the Plotting Aids sub-menu.  Several further choices appear.  Let's look at the Twists and Turns choice. 
-
- This provides us with a number of stock scenes which offer dramatic twists: 
-
-
-
-
-2
-
-In this case the first twist listed might help us; our electronics buff ally, Joe Edwards, could be tied to Lacas in some fashion and tip him off that the two detectives are listing in on his call.   Lacas could then set the cops up.  We decide to go with this.  Clicking on the first item in the list, and then on the Copy button, adds this stock scene into our plot outline.
-
-
-
-3
-
-We can change the scene summary to read 'Edwards has tipped Lacas, who traps Kraskin.'  
-
-There's something missing, a piece in which the detectives overhear the Charlie Lacas setting up a drug deal, and which leads Leonard to rush impulsively into the ambush.  But why would Leonard rush to catch Lacas and leave his partner behind?
-
-We know that our detectives are using an illegal bug to catch Lacas, so they can't implicate their boss or other cops in their quest.  It's just the two of them.  The two of them might have decided to take turns on an unoffical stake out.  That way we can have Leonard working the stake out when the deal goes down.
-
-So let's add a plot point immediately prior to this where this takes place, and title it 'Leonard, on stake out, learns of a drug deal .'  We can add notes to explain the details of the stake out.
-
-Our plot outline now looks like this:
-
-
-4
-This is a relatively complete plot.  We could sit down and start writing the story now, but that would be a mistake.  There's a lot left unfinished: we haven't created settings, the characters are still unrefined, etc.  The more these things are worked out, the richer and more complete the first draft will be when you write it. 
-
-We should evaluate our work so far.  The creation of the story outline is an excellent time to review and revise.  For one thing, changes at this point in the story's development, while it's still just an outline, are relatively cheap and easy; you're not sacrificing prose and dialog that took time and effort to produce.  There's also another advantage: at this point you're looking only at the structure of the story.  Every story has these components of problems, characters, setting and plot; but once you begin to write, the bones will be fleshed out in narrative and dialog and dressed with your writing style.  The naked structure will be, in a sense, hidden by the prose. This makes spotting and correcting structural problems more difficult. 
-
-StoryBuilder offers a tool, Key Questions, to assist in refining and testing your story elements.  There are questions for Story, Problem, Character, Setting, and Plot.  From the Tools menu, select Key Questions and then Story Questions.  A form displaying a series of questions for the overall story will appear.  We can test the story concept against these questions.  If one is worth further study, notes can be recorded in the Answer section.  For example, scrolling through the questions, we find:
-
-
-5
-
-
-The second part of the question is a good one; we haven't selected a market, and therefore don't know if the story will match slant, length requirements, etc.
-
-It's a good idea to use Key Questions frequently while creating the concept, and to review them before going on to the draft.
-
-In this tutorial we've produced most of a story outline.  We've worked through problem refinement, created several characters, drafted a plot, and along the way we've examined several tools to help these processes.  The story outline was created as this tutorial was being written, exactly as shown. We feel that any story idea can be converted into a fully developed concept using these techniques. 
-
-"Danger Call"  is a action-oriented suspense tale and stresses plot over character development.  A character-driven story would be developed in much the same way, but the character profiles and relationships would, of course, developed more fully before developing the plot.
-
-  
-
 # Writing with StoryBuilder #
 ## How to Think About Outlining ##
 How to Think About Outlining
@@ -1782,7 +1800,7 @@ Your Premise is the answer to the question the Concept poses.
 
 Your story can have more than one Problem story element, and every Problem has its own Premise, contained on the Resolution tab. But only one of these problems is your Story Problem, and that Problem  (and its Premise) is the one you select on the Story Overview form, Premise tab:
 
-![][Clipboard-Image-23]
+![][Clipboard-Image-39]
 
 The heart of plotted fiction is drama--- a struggle in which the outcome is in doubt. Your Story Problem will lead you to understand whose problem it is (your major character), what her or she want (the goal), and what stands in their way (opposition.) The Story Problem is the wormhole you enter to understand your story.
 
@@ -1870,7 +1888,7 @@ An inner problem is some want or need within the character himself, a need to gr
 
 It's often constructive to use StoryBuilder to define both an external and an internal problem for your protagonist, with separate Problem forms for each  of them. Both problems help to shape the story's plot. There’s even a Create New Story template for this:
 
-![][Clipboard-Image-24]
+![][Clipboard-Image-40]
 
 The outer problem asks 'what does the character want?'  The inner problem asks 'why does he want it?'  The outer problem is tangible. The inner problem is intangible, invisible.  The outer problem faces an external adversary.  The inner problem is Man against Himself, usually with something to decide or discover. The outer problem is solved when (win or loose) something is accomplished.  The inner problem is solved when the character grows or changes, or fails to do so.  The inner problem is related to theme. The two problems are connected because your protagonist must come to grips with his inner demon before he can solve the external, outer problem.
 Complications
@@ -1881,11 +1899,11 @@ A good example of this is found in Hemingway's The Old Man and the Sea.  This no
 
 Rather than arrange these problems in a list:
 
-![][Clipboard-Image-25]
+![][Clipboard-Image-41]
 
 You may want arrange them as children of the original problem, which won’t be solved until the complications are:
 
-![][Clipboard-Image-26]
+![][Clipboard-Image-42]
 
 Where possible, complications should be ordered to make things progressively worse for the protagonist. By the end of the shark attack, the marlin is nothing but a head and tail and skeleton; things can’t get much worse for Santiago.
 Subplots
@@ -2133,14 +2151,14 @@ MasterPlots
 
 In recent decades, the three-act structure has been joined by a bevy of other story structures, with different plot points:  Dan Wells’ Seven Point Structure, The Hero’s Journey, Blake Snyder’s Save the Cat, and many more.  Since plot points are also called story beats, these structures are often called ‘beat sheets’. A beat sheet can serve as a sort of plot template. StoryBuilder’s Master Plots tool provides a number of these templates, which will insert a set of Scene story elements into your outline at the place of your choosing:
 
-![][Tools-Master-Plots-2]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Tools Master Plots 2.png
 
 
 Since every Problem is a ‘small story’ and has its own set of events that define it, a Problem is good place to use this tool. A Problem can be thought of as a sequence, a term used frequently in scriptwriting, which is defined as ‘a series of scenes with a beginning, middle, and end.’ Or, if you prefer, setup, development, and resolution. 
 
 Here’s what using the Three Act Play will do if you add it after a problem:
 
-![][Tools-Master-Plots-Result]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Tools Master Plots Result.png
 
 These are not scene summaries; it’s up to you to outline the scene itself, and the process will be described a little later. These are plot points, or story beats.  Master Plots populates the template scene’s Notes tab with what should happen at that point in the template. The actual scenes might start off like this:
 
@@ -2150,13 +2168,13 @@ Dramatic Situations
 
 The Dramatic Situations tool, based on Polti’s and Figgis’ books (both titled The Thirty-Six Dramatic Situations), lists a set of situations with roles in opposition and uncertain outcomes- which is to say, situations with built-in drama and conflict:
 
-![][Dramatic-Situations-List-of-SItuations]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Dramatic Situations List of SItuations.png
 
 Although the world has changed greatly since Polti’s 1895 book,  the situations remain relevant, because they’re very  human situations. Mike Figgis recommends using loose rather than literal interpretations of the situations. He points out that these 36 situations work for both outer and inner problems and at varied scales: Disaster, one of the situations, ‘can be a war or an earthquake or the sinking of the Titanic’, but also  ‘in a more intimated love story, it could be a case of unrequited love, the loved one marries another person, a personal disaster of the highest magnitude.’
 
 StoryBuilder’s adjusts to scale by allowing you to select a dramatic situation as either a Problem or a Scene story element:
 
-![][Dramtic-Situations-tool]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Dramtic Situations tool.png
 
 Frequently, a Dramatic Situation is both Problem and Scene (usually the climax.). For example: courtroom drama is a case of Supplication, and in To Kill a Mockingbird,  Atticus Finch’s defense of Tom Robinson is the Story Problem and the courtroom scene (but not the climax.) Basing the central story problem on a Dramatic Situation s is discussed at length in Story Structure Architect, by Victoria Schmidt (Writer’s Digest Books, 2005.) And of course any Problem can be thought of as a sequence, a series of scenes.  Stories are in a sense recursive: A story’s Story Problem can decompose into a series of Problems, each of which is a smaller story with its own setup, complication, and resolution. In turn, each Problem can be decomposed into a sequence, a series of Scenes, each of which is also a little story, typically with setup, complication, and resolution. And in fact, scene outcomes and problem outcomes are often complications for the story problem, with bad endings making things worse for the protagonist.
 
@@ -2166,11 +2184,11 @@ Stock Scenes
 
 Another StoryBuilder tool, Stock Scenes, lists a number of categories of scenes:
 
-![][Stock-Scenes-Categories]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Stock Scenes Categories.png
 
 Each of these categories contains a number of scenes examples:
 
-![][Stock-Scenes-Examples]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Stock Scenes Examples.png
 
 Unlike Dramatic Situations, this tool works just with Scenes. One use is to help develop Master Plot plot points / story beats. For example,  the Climatic Moments category can suggest Resolution examples, Ticking Clocks can suggest scenes that ratchet up drama, Obstacles to the Chase (or Discovery, or Romance) can be a Pinch Point, and so forth. As with all examples, if you use it, own it, make it yours. Be specific.
 
@@ -2208,28 +2226,28 @@ How do you go about finding those 50-60  (or however many you need) scenes?
 
 Don’t think in terms of scene count. Think of plotting as finding the scenes you need to resolve your story’s problems.  If you’ve been following this dialog, you know that you  have a top-level problem, the Story Problem, defined on the Story Overview form, and you’ve summarized the problem in its Premise:
 
-![][Plotting-with-StoryBuilder-Premise]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Plotting with StoryBuilder - Premise.png
  When that problem is resolved, the story is finished. This is the top level design of your story.
 
 If you were to use Master Plots to create of Scene story elements for the plot points in this problem with the Three Act Structure template, it might look like this:
 
-![][Plotting-with-StoryBuilder-Story-Problem-MasterPlots-Scene-list]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Plotting with StoryBuilder - Story Problem MasterPlots Scene list.png
 
 This is what plotting the main Story Problem might look like if it were, say, a short story. But it’s longer story (a Novella, in this case), and there aren’t enough scenes to carry the longer work. So instead of thinking of each part as  a scene, consider it just as a story beat or plot point. Ignoring the other plot points, consider First Obstacle and Subsequent Obstacles not as Scenes but as Problems= subproblems, Complications, in this case):
 
-![][Plotting-with-StoryBuilder-Complication-SubProblems]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Plotting with StoryBuilder - Complication SubProblems.png
 
 In real life one strategy to solve a problem is to decompose it into smaller problems. That same approach works when plotting, the twist being that you’ll be creating rather than solving subproblems. Don’t plot in Scenes;  plot in Problems. These problems can be further decomposed into scenes:
 
-![][Plotting-with-StoryBuilder-SubProblems-Epanded-into-Scenes]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Plotting with StoryBuilder - SubProblems Epanded into Scenes.png
 
 This process works not only with complications (subplots with bad outcomes which are designed to increase the conflict), but with other subplots. In The Old Man and the Sea, Manolin, the boy Santiago mentored and who loves him, has a character arc based on his relationship with the old man:
 
-![][StoryBuilder-Manolin-Problem]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/StoryBuilder Manolin Problem.png
 
 This is an inner problem for Manolin, a coming of age arc, and it’s plotted in just six scenes:
 
-![][Plotting-with-StoryBuilder-Manolin-Subplot]
+MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Plotting with StoryBuilder - Manolin Subplot.png
 
 Hemingway uses this problem as a frame around Santiago’s battle, splitting the scenes and using the first three to introduce Santiago before his battle, and the last three to show Manolin vowing to fish with the old man again. Plot your scenes for your Problems, but you don’t have to arrange them in that order in your narrative. That’s what Story Narrator View is for.
 
@@ -2318,20 +2336,20 @@ Critiquing others’ stories is a great way to improve your art, because it’s 
 # Miscellaneous #
 Changelog Pop-up / What’s new menu
 Occasionally, when StoryBuilder updates a window will be shown. This will summarise what has changed in this update and which developer made that change.
-![][Clipboard-Image-27]
+![][Clipboard-Image-43]
 
 If you decide you want to see this popup again, you can access it in Preferences
-![][Clipboard-Image-28]
+![][Clipboard-Image-44]
 Developing StoryBuilder
 If you are a C# developer and are somewhat familar with WinUI (or another XAML based UI language) then you can contribute to StoryBuilder (Which is written in C# and uses WinUI 3).
 for more information about contributing, please check the GitHub Repository.
 
 Developer only menus / pop-ups
-![][Clipboard-Image-29]
+![][Clipboard-Image-45]
 If you have cloned storybuilder and built it for the first time then you may be surprised to see this screen, this is because a key file is missing from your local clone. This will not cause any issues with the app functioning however your copy will not report errors via Elmah.io and you may see pops such as syncfusion licensing errors.
 Regardless, congratulations on successfully compiling StoryBuilder.
 
-![][Clipboard-Image-30]
+![][Clipboard-Image-46]
 If StoryBuilder notices you have a debugger attached to the process, the developer menu will appear.
 This shows info about the computer and may contain buttons to test some parts of the storybuilder.
 If running without a keyfile (which is standard for those contributing to the storybuilder project.) then some of these buttons may not work or cause intended behavior.
@@ -2344,11 +2362,11 @@ If you are a C# developer and are somewhat familar with WinUI (or another XAML b
 for more information about contributing, please check the GitHub Repository.
 
 Developer only menus / pop-ups
-![][Clipboard-Image-31]
+![][Clipboard-Image-47]
 If you have cloned storybuilder and built it for the first time then you may be surprised to see this screen, this is because a key file is missing from your local clone. This will not cause any issues with the app functioning however your copy will not report errors via Elmah.io and you may see pops such as syncfusion licensing errors.
 Regardless, congratulations on successfully compiling StoryBuilder.
 
-![][Clipboard-Image-32]
+![][Clipboard-Image-48]
 If StoryBuilder notices you have a debugger attached to the process, the developer menu will appear.
 This shows info about the computer and may contain buttons to test some parts of the storybuilder.
 If running without a keyfile (which is standard for those contributing to the storybuilder project.) then some of these buttons may not work or cause intended behavior.
@@ -2609,125 +2627,31 @@ vignette: A term derived from the art work which decorated the front plates of n
 
 villain: A character who represents an evil or unwelcome force.  The villain is a stock character frequently cast as the antagonist in stories.
 
-[StoryBuilder]: StoryBuilder.png width=480px height=480px
-
-[Keyboard-Right-Mouse-Key]: Keyboard-Right-Mouse-Key.png width=59px height=51px
-
-[File-Menu]: File-Menu.png width=440px height=415px
-
-[File-Open-Dialog]: File-Open-Dialog.png width=536px height=589px
-
-[Create-New-Story-Dialog]: Create-New-Story-Dialog.png width=540px height=548px
-
-[User-Interface]: User-Interface.png width=680px height=461px
-
-[Status-Bar]: Status-Bar.png width=680px height=35px
-
-[Changed-Indicator]: Changed-Indicator.png width=55px height=40px
-
-[Menu-Bar]: Menu-Bar.png width=657px height=64px
-
-[Menu-Bar-Tooltip]: Menu-Bar-Tooltip.png width=209px height=81px
-
-[Show-and-Hide-Navigation]: Show-and-Hide-Navigation.png width=680px height=539px
-
-[Add-Story-Element-Menu]: Add-Story-Element-Menu.png width=243px height=444px
-
-[Story-Element-Flyout]: Story-Element-Flyout.png width=472px height=116px
-
-[Move-Story-Elements]: Move-Story-Elements.png width=680px height=181px
-
-[Search-Function]: Search-Function.png width=680px height=454px
-
 [Print-Reports-Button-and-Menu]: Print-Reports-Button-and-Menu.png width=165px height=161px
-
-[Generate-Reports-Dialog]: Generate-Reports-Dialog.png width=552px height=671px
-
-[Scrivener-Reports-File-Picker]: Scrivener-Reports-File-Picker.png width=680px height=280px
-
-[Scrivener-Reports-Generated-Status-Message]: Scrivener-Reports-Generated-Status-Message.png width=296px height=44px
-
-[Scrivener-Binder-with-StoryBuilder-Outline]: Scrivener-Binder-with-StoryBuilder-Outline.png width=680px height=331px
-
-[Scrivener-Split-Screen-with-StoryBuilder]: Scrivener-Split-Screen-with-StoryBuilder.png width=680px height=511px
-
-[Prefences-CommandBar-Button]: Prefences-CommandBar-Button.png width=299px height=43px
-
-[Preferences-Dialog]: Preferences-Dialog.png width=444px height=683px
-
-[Navigation-and-Content-Pane]: Navigation-and-Content-Pane.png width=680px height=454px
-
-[Tabs]: Tabs.png width=680px height=549px
-
-[Explorer-and-Navigator-Views]: Explorer-and-Navigator-Views.png width=332px height=125px
-
-[Overview-Story-Idea-Tab]: Overview-Story-Idea-Tab.png width=680px height=454px
-
-[Overview-Concept-Tab]: Overview-Concept-Tab.png width=680px height=454px
-
-[Overview-Premise]: Overview-Premise.png width=680px height=454px
-
-[Overview-Structure-Tab]: Overview-Structure-Tab.png width=680px height=454px
-
-[Problem-Problem-Tab]: Problem-Problem-Tab.png width=680px height=432px
-
-[Problem-Protagonist-Tab]: Problem-Protagonist-Tab.png width=680px height=454px
-
-[Problem-Antagonist-Tab]: Problem-Antagonist-Tab.png width=680px height=454px
 
 [Clipboard-Image]: Clipboard-Image.png width=440px height=264px
 
-[Clipboard-Image-17]: Clipboard-Image-17.png width=680px height=449px
+[Clipboard-Image-33]: Clipboard-Image-33.png width=680px height=449px
 
-[Clipboard-Image-18]: Clipboard-Image-18.png width=680px height=494px
+[Clipboard-Image-34]: Clipboard-Image-34.png width=680px height=494px
 
-[Clipboard-Image-19]: Clipboard-Image-19.png width=680px height=495px
+[Clipboard-Image-35]: Clipboard-Image-35.png width=680px height=495px
 
-[Character-Relationships-Tab]: Character-Relationships-Tab.png width=680px height=456px
+[Character-Relationships-Tab]: Character-Relationships-Tab.png width=680px height=516px
 
-[Character-Flaw-Tab]: Character-Flaw-Tab.png width=680px height=456px
+[Add-a-Relationship]: Add-a-Relationship.png width=548px height=320px
 
-[Flaw-Builder]: Flaw-Builder.png width=547px height=316px
+[Inverse-Relationship]: Inverse-Relationship.png width=680px height=415px
 
-[Character-Backstory-Tab]: Character-Backstory-Tab.png width=680px height=454px
+[Clipboard-Image-36]: Clipboard-Image-36.png width=680px height=491px
 
-[Character-Social-Tab]: Character-Social-Tab.png width=680px height=454px
+[Clipboard-Image-37]: Clipboard-Image-37.png width=443px height=496px
 
-[Character-Psychological-Tab]: Character-Psychological-Tab.png width=680px height=454px
+[Clipboard-Image-38]: Clipboard-Image-38.png width=384px height=516px
 
-[Character-Inner-Traits-Tab]: Character-Inner-Traits-Tab.png width=680px height=454px
+[File-Open-Dialog]: File-Open-Dialog.png width=559px height=595px
 
-[Character-Outer-Traits]: Character-Outer-Traits.png width=680px height=454px
-
-[Trait-Builder]: Trait-Builder.png width=352px height=304px
-
-[Clipboard-Image-20]: Clipboard-Image-20.png width=680px height=491px
-
-[Setting-Sensations-Tab]: Setting-Sensations-Tab.png width=680px height=454px
-
-[Scene-Scene-Tab]: Scene-Scene-Tab.png width=680px height=454px
-
-[Scene-Development-Tab]: Scene-Development-Tab.png width=680px height=454px
-
-[Scene-Conflict-Tab]: Scene-Conflict-Tab.png width=680px height=454px
-
-[Scene-Sequel-Tab]: Scene-Sequel-Tab.png width=680px height=454px
-
-[Problem-Resolution-Tab]: Problem-Resolution-Tab.png width=680px height=456px
-
-[Clipboard-Image-21]: Clipboard-Image-21.png width=443px height=496px
-
-[Clipboard-Image-22]: Clipboard-Image-22.png width=384px height=516px
-
-[Tools-Master-Plots]: Tools-Master-Plots.png width=544px height=631px
-
-[Tools-Dramatic-Situations]: Tools-Dramatic-Situations.png width=472px height=227px
-
-[Tools-Stock-Scenes]: Tools-Stock-Scenes.png width=475px height=628px
-
-[File-Open-Dialog-2]: File-Open-Dialog-2.png width=559px height=595px
-
-[Create-New-Story-Dialog-2]: Create-New-Story-Dialog-2.png width=555px height=565px
+[Create-New-Story-Dialog]: Create-New-Story-Dialog.png width=555px height=565px
 
 [Danger-Calls-New-Story-Outline]: Danger-Calls-New-Story-Outline.png width=680px height=489px
 
@@ -2741,7 +2665,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Tutorial-1-Changed-Indicator-(Red)]: Tutorial-1-Changed-Indicator-(Red).png width=53px height=47px
 
-[Changed-Indicator-2]: Changed-Indicator-2.png width=55px height=40px
+[Changed-Indicator]: Changed-Indicator.png width=55px height=40px
 
 [Tutorial-1-Empty-Struture-Tab]: Tutorial-1-Empty-Struture-Tab.png width=651px height=708px
 
@@ -2775,48 +2699,24 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Tutorial-4-Renamed-third-problem]: Tutorial-4-Renamed-third-problem.png width=680px height=510px
 
-[Clipboard-Image-23]: Clipboard-Image-23.png width=491px height=171px
+[Clipboard-Image-39]: Clipboard-Image-39.png width=491px height=171px
 
-[Clipboard-Image-24]: Clipboard-Image-24.png width=228px height=208px
+[Clipboard-Image-40]: Clipboard-Image-40.png width=228px height=208px
 
-[Clipboard-Image-25]: Clipboard-Image-25.png width=256px height=129px
+[Clipboard-Image-41]: Clipboard-Image-41.png width=256px height=129px
 
-[Clipboard-Image-26]: Clipboard-Image-26.png width=265px height=137px
-
-[Tools-Master-Plots-2]: Tools-Master-Plots-2.png width=548px height=639px
-
-[Tools-Master-Plots-Result]: Tools-Master-Plots-Result.png width=680px height=353px
+[Clipboard-Image-42]: Clipboard-Image-42.png width=265px height=137px
 
 [Scenes-Tied-to-Master-Plots-Plot-Points]: Scenes-Tied-to-Master-Plots-Plot-Points.png width=331px height=637px
 
-[Dramatic-Situations-List-of-SItuations]: Dramatic-Situations-List-of-SItuations.png width=680px height=462px
+[Clipboard-Image-43]: Clipboard-Image-43.png width=390px height=534px
 
-[Dramtic-Situations-tool]: Dramtic-Situations-tool.png width=467px height=229px
+[Clipboard-Image-44]: Clipboard-Image-44.png width=548px height=670px
 
-[Stock-Scenes-Categories]: Stock-Scenes-Categories.png width=463px height=623px
+[Clipboard-Image-45]: Clipboard-Image-45.png width=543px height=281px
 
-[Stock-Scenes-Examples]: Stock-Scenes-Examples.png width=465px height=628px
+[Clipboard-Image-46]: Clipboard-Image-46.png width=568px height=355px
 
-[Plotting-with-StoryBuilder-Premise]: Plotting-with-StoryBuilder-Premise.png width=680px height=307px
+[Clipboard-Image-47]: Clipboard-Image-47.png width=543px height=281px
 
-[Plotting-with-StoryBuilder-Story-Problem-MasterPlots-Scene-list]: Plotting-with-StoryBuilder-Story-Problem-MasterPlots-Scene-list.png width=680px height=338px
-
-[Plotting-with-StoryBuilder-Complication-SubProblems]: Plotting-with-StoryBuilder-Complication-SubProblems.png width=305px height=133px
-
-[Plotting-with-StoryBuilder-SubProblems-Epanded-into-Scenes]: Plotting-with-StoryBuilder-SubProblems-Epanded-into-Scenes.png width=273px height=356px
-
-[StoryBuilder-Manolin-Problem]: StoryBuilder-Manolin-Problem.png width=680px height=452px
-
-[Plotting-with-StoryBuilder-Manolin-Subplot]: Plotting-with-StoryBuilder-Manolin-Subplot.png width=277px height=224px
-
-[Clipboard-Image-27]: Clipboard-Image-27.png width=390px height=534px
-
-[Clipboard-Image-28]: Clipboard-Image-28.png width=548px height=670px
-
-[Clipboard-Image-29]: Clipboard-Image-29.png width=543px height=281px
-
-[Clipboard-Image-30]: Clipboard-Image-30.png width=568px height=355px
-
-[Clipboard-Image-31]: Clipboard-Image-31.png width=543px height=281px
-
-[Clipboard-Image-32]: Clipboard-Image-32.png width=568px height=355px
+[Clipboard-Image-48]: Clipboard-Image-48.png width=568px height=355px

@@ -269,29 +269,37 @@ StoryBuilder's Master Plots tool helps you shape your story's plot based on sugg
 
 The Master Plots tool is invoked from the Plotting Aids sub-menu of the Tools menu.  It provides a list of plot skeletons, or master plots.  Selecting one of the master plots from the list at the top of the form will display  notes relevant to that master plot. 
 
-#
-
 The first few master plots (Three Act Play, W-Diagram,  and Hero's Journey) are story outlines.  Selecting Copy when one of these master plots is selected will copy a skeleton plot into your plot outline, which can then be edited from the Plot form. The remaining master plots concern story forms or patterns.  Selecting Copy when one of these master plots is selected will add a plot point to your  plot outline.  This plot point contains notes and suggestions for stock scenes which are relevant to this story form.  You can copy more than one master plot into an outline.
 
 Ronald Tobias' excellent book 20 Master Plots (And How to Build Them) is a detailed look at the fundamental plots which recur through all fiction.
 
+The master plots can be changed according to your preferences.  See &quot;Customizing  Storybuilder&quot; for details on how to add, delete, or modify the listed items.
 </Text>
             <Notes>PAMASTER
 
 See if my doc is up to date; I’ve added the 7-point master plot.</Notes>
         </Document>
+        <Document ID="188B240E-8625-4D2E-94E2-F05079AFF4EB">
+            <Title>Add a Relationship</Title>
+        </Document>
+        <Document ID="18E0E9B0-E553-41DE-9B4D-1C879951CE6C">
+            <Title>Inverse Relationship</Title>
+        </Document>
         <Document ID="1C01E3E1-FC6B-429D-B867-B8C815B7543A">
             <Title>Inner Traits</Title>
             <Text>Inner Traits Tab
 
+#
+
 A trait is a distinguishing characteristic or quality.  As a fiction writer, you may find it useful to think of inner and outer (external) traits.  Inner traits are aspects of  character stemming from psychological and social causes.  External traits are habits and behaviors which reflect and illustrate the inner traits.  For instance, a girl may be submissive toward her mother (an inner trait) and may reflect it by bringing her small presents each day (an outer trait.)  You will want to find external traits to illuminate the inner traits of your characters, following the 'show, don't tell' maxim.
 
-In the real world, there are countless external traits, but fewer inner traits. The Inner Traits tab describes them.
+In the real world there are countless external traits, but fewer inner traits.  The Inner Traits tab can be used to select your character's inner characteristics.  Record external traits in the note areas for characteristics such as Likes and Dislikes,  Habits, and Skills and Abilities.
 
-# 
+A menu item on the Characterization Aids sub-menu of the Tools menu,  Virtues and Vices, lists some external traits which can be positive and negative forces in the story, as well as sources of conflict.
 
 Don't go overboard and provide every possible trait for a character.  Focus on the traits which serve your story's premise (see &quot;Plotting through character&quot;.)  Real people are often  complicated and confusing.  Characters should be multi-dimensional, but their motives, strengths, flaws, and growth should be clear and understandable to the reader.
 
+Both the Inner Traits tab and the Virtues and Vices list in StoryBuilder can be tailored to your needs and wishes.  See &quot;Customizing StoryBuilder&quot; for details on how to add, delete, or modify the listed traits.
 </Text>
             <Notes>CHTRAIT</Notes>
         </Document>
@@ -1273,7 +1281,9 @@ The other senses are often neglected but can be very important.  Smells in parti
         <Document ID="517776A7-309A-4FBA-BF34-0CE64853AB69">
             <Title>Topic Information</Title>
             <Synopsis>TOPICS</Synopsis>
-            <Text>Topic Information
+            <Text>[tk needs screen, reformatting]
+1
+Topic Information
 
 #
 
@@ -1491,38 +1501,57 @@ This chapter describes the tools StoryBuilder provides to assist you in crafting
 
 The Relationship tab on the Character form describes significant character-to-character relationships.
 
-Relationships are made when two people with a different set of values and often varying personalities come together. Relationships in fiction  can be a source of conflict.
+Relationships are made when two people with a different set of values and often varying personalities come together. Relationships in fiction (and in life)  can be a source of conflict.
+
 Most stories involve interactions between characters: adversarial, social, familial, romantic. A character in a relationship is distinct from a character as an individual; the relationship is a dynamic. Characters in a relationship behave differently when they’re together- a sort of role.
 
-This tab is only one half  of the relationship; go to the Relation character  to define  the other half. Be aware that relationships seldom have the same dynamic.
+This tab is only one half  of the relationship; go to the Relation character  to define  the other half. Be aware that the two sides of a relationship seldom have the same dynamic.
 
-Relation
+Create a new Relationship
 
-Pick the character this relationship exists with.
+Click on this button to add a new relationship:
+
+#
+
 
 Relation Type
 
-Typical relationship types are 
+Select the type of relationship from the ‘is a’ ComboBox. If you can’t find the one you want, add a new one.
 
+Relation
+
+Select the character the relationship is with from the ‘to’ list of characters.
+
+Make a relationship on the other character
+
+Check this box to define the inverse relationship. To complete that relationship, however, you must navigate to the other character.
+
+Once you’ve added a relationship, you can update its defining details:
+#
 Trait
 
-(tk The Odd Couple example)
+Select from list of traits, or add your own.
 
-Contrasting qualities tend to pull them apart. CONTRAST is the key
+Contrasting qualities tend to pull or push characters apart.
 
 Attitude
 
-(tk Parent / Child example)
-(tk Watson / Holmes example)
-(tk Character arc in a relationship is often about evolution of attitude)
+If the trait is the external behavior defining the relationship, attitude is the internal counterpart, often a feeling.
+If a Character has a character arc of growth centered on a relationship, it’s often about an evolution of attitude.
 
 Notes
 
 Use this field to record your ideas and observations on the relationship.
 
-Add Relation / Remove Relation buttons
+Remove Relation button
  
-Use these to add or remove a new relationship for this character.</Text>
+If you click on the ‘X’ button on a relationship, you’ll be asked to verify that you wish to remove that relationship.
+
+Show and Hide a relationship
+
+If you feel that the relationship takes too much space up you can hide the extra info (Traits, Attitude and notes) by click the little arrow in top right of the relationship. You can click the arrow to show this info again.
+
+</Text>
         </Document>
         <Document ID="60D37027-5A0F-4CA1-BA8F-0F527FC7BB6D">
             <Title>Contents</Title>
@@ -1883,7 +1912,7 @@ Does this work?  The story's over when Lacas is captured, and Leonard's inner pr
         </Document>
         <Document ID="67C0817A-D695-420E-81EA-6117B897DFC5">
             <Title>Physical Tab</Title>
-            <Text>Physical Tab
+            <Text>Physical and Appearance Tabs
 
 #
 
@@ -1948,6 +1977,9 @@ The gap between these two perspectives,  and the answer to the original question
         </Document>
         <Document ID="6E6E90B7-4530-4C8E-986C-5593C09C1B0B">
             <Title>Navigation and Content Pane</Title>
+        </Document>
+        <Document ID="6E732396-8660-4DE2-8681-51A652651E21">
+            <Title>Recovered Files (7/19/2022, 1:40 PM)</Title>
         </Document>
         <Document ID="6E91D8A2-2F6A-4C70-AE1F-B7E40CCB0642">
             <Title>Dramatic Situations List of SItuations</Title>
@@ -2140,6 +2172,8 @@ We recommend using Key Questions frequently, as you work, rather than waiting un
             <Title>Conflict Builder</Title>
             <Text>Conflict Builder
 
+This 
+
 #
 
 While we often think we’d like to live our lives with a minimum of conflict, we’re fascinated by the stuff, and our fiction absolutely depends on it.  
@@ -2162,12 +2196,13 @@ Structural Conflicts
 Structural conflicts are caused by forces external to the people in dispute. Limited physical resources or authority, geographic constraints (distance or proximity), time (too little or too much), organizational changes, and so forth can make structural conflict seem like a crisis. One possible outcome of a structural conflict- rare in fiction- is cooperation or a structural change. 
 Value Conflicts
 Value conflicts are caused by perceived or actual incompatible belief systems. Values are beliefs that people use to give meaning to their lives. People frequently coach values in terms of right and wrong. Value disputes arise when people attempt to force one set of values on others or lay claim to exclusive value systems that do not allow for divergent beliefs. Value conflicts are generally intractable.
-Sub-Categories
+SubCategories
 Each of these five categories can be further divided into subcategories.
 Relationship Conflicts differ according the the type of relationship. 
 Data Conflicts differ according the type of information mismatch between the two parties.
 Interest Conflicts
 Where crime fits:
+
 In General:
 Antisocial Behavior (SOCIAL PSYCHOLOGY) iResearchNet 
 Sociopathy
@@ -2323,8 +2358,6 @@ Coming up with these scenes is an act of imagination- it’s storytelling, play 
 
 In the previous topic Plotting In Scenes, we introduced the idea that every scene must advance the story’s plot: it must move toward the resolution of the story problem it’s a piece of.  This is another way of saying that every scene must have a purpose: show the Ordinary World, introduce the problem, resolve the conflict. A scene can and usually does have more than one purpose, but  must always contribute toward solving the Problem is a part of; otherwise, the story will meander aimlessly. A plotted story must aim toward its outcome as an arrow flies towards its target. Think of each story problem as having structure, of consisting of plot points or story beats. Each plot point is a potential scene, and the plot point’s function is that scene’s purpose.
 
-[tk Scene Purpose image]
-
 Scene Count (Story Length)
 
 A frequent concern when plotting at the scene level is story length, which can be rephrased as ‘How many scenes do I need?’ As with many writing questions, this one has more than one answer. 
@@ -2367,6 +2400,9 @@ Eliminating Scenes
 A quite different answer to the ‘How many scenes?’ question is ‘As few as possible’, following Robert Heinlein’s adage: “The most important lesson in the writing trade is that any manuscript is improved if you cut away the fat.” Or, if you prefer, William Faulkner’s: “In writing, you must kill your darlings.”
 
 The urge will be to create a scene for every plot point.  But you have a wonderful tool at your disposal, your reader’s imagination. If you can remove a scene and the reader can follow your story line, that thing can and should be cut.</Text>
+        </Document>
+        <Document ID="8696A899-34F3-48AA-A7B6-02B84136AC39">
+            <Title>Character Relationships Tab</Title>
         </Document>
         <Document ID="86DCBE1C-901C-40A4-9223-86098BC0CD5A">
             <Title>Tutorial 2 - Concept</Title>
@@ -2675,7 +2711,7 @@ Click on “Compile”.
 Adding Sub-Heads
 If you want your chapters divided into sections that each have their own sub-headings, simply use blank file groups for each heading, with each section under that heading a subdocument of the file group, like this:
 
- 
+#
 
 Customising the Ebook Table of Contents
 When exporting to ebook format, Scrivener automatically generates a table of contents. If you would like to customise what appears in the contents, follow these instructions:
@@ -3622,6 +3658,7 @@ This chapter describes the Scene form, which is used to define and manipulate th
 #</Text>
         </Document>
         <Document ID="EEE57423-DE87-4087-AA23-DFC19A6DA85E">
+            <Title>Recovered File-1</Title>
             <Text>Tutorial: Creating a Story</Text>
         </Document>
         <Document ID="EEEAFE25-3BBC-43BA-A930-F116053650A3">
