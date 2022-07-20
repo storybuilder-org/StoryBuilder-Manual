@@ -7,7 +7,7 @@ https://github.com/storybuilder-org/StoryBuilder-2
 
 The User Manual is generated from a series of static pages in 
 Markdown (.md) format, but StoryBuilder's user manual is stored
-as s Scrivener project, and compiled as a MultiMarkdown file.
+as a Scrivener project and compiled as a MultiMarkdown file.
 
 Scrivener is a popular WSIWYG ('what you see is what you get') text editor
 which allows generating its output in multiple formats.Scrivener's 
@@ -35,26 +35,86 @@ to update the User Manual:
 
 ## Setup for testing
 
-## Scrivener 
-
 You MUST have a Scrivener license and Scrivener 3.0 installed
 to update the StoryBuilder User Manual.
 
 NOTE: The Scrivener project can only be edited by one person at 
 a time. If multiple people are working on documentation changes,
-you must coordinate with each other.
+coordinate with each other.
 
 ## Edit the User Manual
 
-1. Make sure you are in the 'manual' branch. 
+1. IMPORTANT: Make sure you are in the 'manual' branch. 
 2. Navigate to the manual.scriv folder in your StoryBUilder-Manual 
-repository clone. Open the scriner-manual.scrivx file using Scrivener.
+repository clone  and open the manual.scrivx file using Scrivener.
 3. Make you text changes as per any large Scrivener document.
-4. The StoryBuilder Scrivener project has a great many images. An 
-image inserted in an .rtf file is 
+
+The StoryBuilder Scrivener project has a great many images, mostly 
+screenshots of StoryBuilder. Because the StoryBuilder-Manual repository
+is self-contained, the images are kept in the Scrivener project itself,
+under the Research node. To include a new or changed image into the manuscript:
+
+1. Take the image as a .png file using any screen capture software, such as Snag-It.
+2. In Scrivener, in the manual.scrivx document, click on the Research node in the Binder.
+3. Select File | Import | Files on the menu. Using the file picker, select your .png 
+image file, which will be imported at the end of the Research folder.
+4. At the point in the Manuscript you wish to import the image into your document, 
+select Insert | Image Linked to Document and select your .png image from  under the 
+Reserch folder in manual.scrivx.
+5. Save your work.
 
 ## Build and test the StoryBuilder User Manual
 
+1. After you've made your revisions and saved them to manual.scrivx (see above):
+2. Select File | Compile from the Scrivener menu.
+3. On the Compile Overview popup window, set Compile For: to MultiMarkdown and
+select 'Markdown Splitter' under Markdown Formats.
+4. Click on the Compile button.
+5. In the destination file picker, select manual.md in the manual.md folder. Again,
+this folder is contained within the StoryBuilder-Manual repository. 
+6. Allow the Compile to run to completion. 
+ 
+The output of the compile, in Markdown (.md) format, will be in the markdown.md
+folder and will consist of a single .md file (StoryBuilder User Manual.md) 
+and all of the .png images contained in it. 
+
+The website **could** be generated direclty from this file, but would consist of
+a single, very large web page. We prefer a collapsable document, consisting of
+multiple web pages and links: hypertext, which can be drilled into by expanding
+and contracting links. In order to do so, we split the one .md file into a 
+hierarchy of multiple files, each of which contains links to its child markdown
+pages, using a program, MarkdownSplitter, which is also included in the
+StoryBuilder-Manual repository.
+
+7. Find and click on MarkdownSPlitter.exe by browsing to the ..\bin\debug 
+folder in your clone of the repository. 
+8. Click on the 'Select manual.md folder' button and browse to the \manial.md
+folder, which contains your Scrivener Compile output. 
+9. Click Run. The StoryBuilder-Manual repo contains a /docs folder. The MarkdownSplitter 
+program will replace the contents of the \docs folder with the manual.md contents 
+reformatted into the set of .md markdown files.
+
+The configuration for GitHub Pages in StoryBuilder-Manual is to process 
+the /docs folder in the manual branch to generate the 
+https://storybuilder-org.github.io/StoryBuilder-Manual/ 
+test version of the user manual.
+
+10. Commit your changes to the 
+[StoryBuilder-Manual](https://github.com/storybuilder-org/StoryBuilder-Manual).
+11. Push your changes. This expose the /docs folder and cause the GitHub Pages
+action to invoke the YAML compiler to build the website. 
+12. There is no need to merge the 'manual' branch changes to master. Just
+repeat the above process until you're satisfied. Keep the 'manual' branch
+for further revisions. 
+
 ## Update the production User Manual
 
+When you are completely satisfied with your documentation changes:
 
+1. Create a new branch on the StoryBuilder production repository. 
+2. Delete the contents of the /docs folder and copy the contents of the 
+StoryBuilder-Manual repository's /docs folder into the StoryBuilder 
+repository's /docs folder.  
+3. Create a PR and merge the new branch'es changes into the master branch's
+/docs folder. This will invoke the YAML compiler and build the production
+StoryBuilder User Manual website.
