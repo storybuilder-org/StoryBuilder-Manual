@@ -8,7 +8,6 @@ public class Block
     public string Title;
     public List<Block> Children;
     public string Filename;
-    public string WebPage;
     public List<string> Text;
     public int Level;
 
