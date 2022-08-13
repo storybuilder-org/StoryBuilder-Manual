@@ -269,12 +269,11 @@ StoryBuilder's Master Plots tool helps you shape your story's plot based on sugg
 
 The Master Plots tool is invoked from the Plotting Aids sub-menu of the Tools menu.  It provides a list of plot skeletons, or master plots.  Selecting one of the master plots from the list at the top of the form will display  notes relevant to that master plot. 
 
-#
-
 The first few master plots (Three Act Play, W-Diagram,  and Hero's Journey) are story outlines.  Selecting Copy when one of these master plots is selected will copy a skeleton plot into your plot outline, which can then be edited from the Plot form. The remaining master plots concern story forms or patterns.  Selecting Copy when one of these master plots is selected will add a plot point to your  plot outline.  This plot point contains notes and suggestions for stock scenes which are relevant to this story form.  You can copy more than one master plot into an outline.
 
 Ronald Tobias' excellent book 20 Master Plots (And How to Build Them) is a detailed look at the fundamental plots which recur through all fiction.
 
+The master plots can be changed according to your preferences.  See &quot;Customizing  Storybuilder&quot; for details on how to add, delete, or modify the listed items.
 </Text>
             <Notes>PAMASTER
 
@@ -284,14 +283,17 @@ See if my doc is up to date; I’ve added the 7-point master plot.</Notes>
             <Title>Inner Traits</Title>
             <Text>Inner Traits Tab
 
+#
+
 A trait is a distinguishing characteristic or quality.  As a fiction writer, you may find it useful to think of inner and outer (external) traits.  Inner traits are aspects of  character stemming from psychological and social causes.  External traits are habits and behaviors which reflect and illustrate the inner traits.  For instance, a girl may be submissive toward her mother (an inner trait) and may reflect it by bringing her small presents each day (an outer trait.)  You will want to find external traits to illuminate the inner traits of your characters, following the 'show, don't tell' maxim.
 
-In the real world, there are countless external traits, but fewer inner traits. The Inner Traits tab describes them.
+In the real world there are countless external traits, but fewer inner traits.  The Inner Traits tab can be used to select your character's inner characteristics.  Record external traits in the note areas for characteristics such as Likes and Dislikes,  Habits, and Skills and Abilities.
 
-# 
+A menu item on the Characterization Aids sub-menu of the Tools menu,  Virtues and Vices, lists some external traits which can be positive and negative forces in the story, as well as sources of conflict.
 
 Don't go overboard and provide every possible trait for a character.  Focus on the traits which serve your story's premise (see &quot;Plotting through character&quot;.)  Real people are often  complicated and confusing.  Characters should be multi-dimensional, but their motives, strengths, flaws, and growth should be clear and understandable to the reader.
 
+Both the Inner Traits tab and the Virtues and Vices list in StoryBuilder can be tailored to your needs and wishes.  See &quot;Customizing StoryBuilder&quot; for details on how to add, delete, or modify the listed traits.
 </Text>
             <Notes>CHTRAIT</Notes>
         </Document>
@@ -913,18 +915,7 @@ Of course, I don’t have one yet…</Notes>
         </Document>
         <Document ID="3B425F17-6AEB-4983-8C67-5167CFE5B4E9">
             <Title>Dedication</Title>
-            <Text>
-
-
-
-
-
-
-
-
-
-
-Insert dedication here.</Text>
+            <Text>Insert dedication here.</Text>
             <Notes>Feel free to delete this document if you don’t need it.</Notes>
         </Document>
         <Document ID="3C913DB9-D461-4D84-A54D-517B0106BDA1">
@@ -1017,28 +1008,7 @@ We hope you enjoy StoryBuilder and find it useful to your craft. </Text>
         </Document>
         <Document ID="3ECF6511-EC5A-4B9A-B12F-039C0CDD2CB7">
             <Title>Copyright</Title>
-            <Text>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Copyright © &lt;$year&gt; &lt;$author&gt;
-All rights reserved.
-ISBN:
-ISBN-13:
-</Text>
+            <Text>Copyright © &lt;$year&gt; &lt;$author&gt;All rights reserved.ISBN:ISBN-13:</Text>
             <Notes>Feel free to delete this document if you don’t need it, or edit it for your needs.</Notes>
         </Document>
         <Document ID="403C7EA5-4910-4461-BFA5-23110C2A36FB">
@@ -1273,7 +1243,9 @@ The other senses are often neglected but can be very important.  Smells in parti
         <Document ID="517776A7-309A-4FBA-BF34-0CE64853AB69">
             <Title>Topic Information</Title>
             <Synopsis>TOPICS</Synopsis>
-            <Text>Topic Information
+            <Text>[tk needs screen, reformatting]
+1
+Topic Information
 
 #
 
@@ -1312,20 +1284,7 @@ Contains a list of books on or about the craft of writing.
         </Document>
         <Document ID="520C484F-808A-4651-B417-C1CF776CEA07">
             <Title>Title Page</Title>
-            <Text>
-
-
-
-
-
-
-
-
-
-
-&lt;$PROJECTTITLE&gt;
-
-&lt;$author&gt;</Text>
+            <Text>&lt;$PROJECTTITLE&gt;&lt;$author&gt;</Text>
             <Notes>These tags get replaced with the information set in the Metadata pane of Compile. Alternatively, you can simply replace this text altogether.</Notes>
         </Document>
         <Document ID="55251B68-CDE2-4EC6-8ED4-5E7F469AB6AA">
@@ -1883,7 +1842,7 @@ Does this work?  The story's over when Lacas is captured, and Leonard's inner pr
         </Document>
         <Document ID="67C0817A-D695-420E-81EA-6117B897DFC5">
             <Title>Physical Tab</Title>
-            <Text>Physical Tab
+            <Text>Physical and Appearance Tabs
 
 #
 
@@ -2140,6 +2099,8 @@ We recommend using Key Questions frequently, as you work, rather than waiting un
             <Title>Conflict Builder</Title>
             <Text>Conflict Builder
 
+This 
+
 #
 
 While we often think we’d like to live our lives with a minimum of conflict, we’re fascinated by the stuff, and our fiction absolutely depends on it.  
@@ -2162,12 +2123,13 @@ Structural Conflicts
 Structural conflicts are caused by forces external to the people in dispute. Limited physical resources or authority, geographic constraints (distance or proximity), time (too little or too much), organizational changes, and so forth can make structural conflict seem like a crisis. One possible outcome of a structural conflict- rare in fiction- is cooperation or a structural change. 
 Value Conflicts
 Value conflicts are caused by perceived or actual incompatible belief systems. Values are beliefs that people use to give meaning to their lives. People frequently coach values in terms of right and wrong. Value disputes arise when people attempt to force one set of values on others or lay claim to exclusive value systems that do not allow for divergent beliefs. Value conflicts are generally intractable.
-Sub-Categories
+SubCategories
 Each of these five categories can be further divided into subcategories.
 Relationship Conflicts differ according the the type of relationship. 
 Data Conflicts differ according the type of information mismatch between the two parties.
 Interest Conflicts
 Where crime fits:
+
 In General:
 Antisocial Behavior (SOCIAL PSYCHOLOGY) iResearchNet 
 Sociopathy
@@ -2323,8 +2285,6 @@ Coming up with these scenes is an act of imagination- it’s storytelling, play 
 
 In the previous topic Plotting In Scenes, we introduced the idea that every scene must advance the story’s plot: it must move toward the resolution of the story problem it’s a piece of.  This is another way of saying that every scene must have a purpose: show the Ordinary World, introduce the problem, resolve the conflict. A scene can and usually does have more than one purpose, but  must always contribute toward solving the Problem is a part of; otherwise, the story will meander aimlessly. A plotted story must aim toward its outcome as an arrow flies towards its target. Think of each story problem as having structure, of consisting of plot points or story beats. Each plot point is a potential scene, and the plot point’s function is that scene’s purpose.
 
-[tk Scene Purpose image]
-
 Scene Count (Story Length)
 
 A frequent concern when plotting at the scene level is story length, which can be rephrased as ‘How many scenes do I need?’ As with many writing questions, this one has more than one answer. 
@@ -2471,11 +2431,7 @@ Only one story outline can be open at a time.  If you open a new file you'll be 
         </Document>
         <Document ID="96776348-B035-46DA-A5A5-210E99B93774">
             <Title>Front Matter</Title>
-            <Notes>Note that in the “Metadata” pane of the Inspector, under “Section Type”, the “Default Subdocument Type” is set to “Front Matter”. This setting causes all subdocuments of this folder to use the “Front Matter” section type by default (that is, when “Structure-Based” is selected as the section type).
-
-This saves us from having to manually assign the “Front Matter” section type for each document we place into this folder.
-
-During Compile, documents assigned the “Front Matter” section type will be laid out differently from documents in the main body of the manuscript.</Notes>
+            <Notes>Note that in the “Metadata” pane of the Inspector, under “Section Type”, the “Default Subdocument Type” is set to “Front Matter”. This setting causes all subdocuments of this folder to use the “Front Matter” section type by default (that is, when “Structure-Based” is selected as the section type).This saves us from having to manually assign the “Front Matter” section type for each document we place into this folder.During Compile, documents assigned the “Front Matter” section type will be laid out differently from documents in the main body of the manuscript.</Notes>
         </Document>
         <Document ID="96C9B71A-8232-4DB4-BC13-CA1E17849800">
             <Title>File Menu </Title>
@@ -2578,125 +2534,7 @@ In writing plays, where the characters must be cast, try to avoid writing dialog
         </Document>
         <Document ID="9FFBA333-8432-41C1-91F5-1302DFE283CA">
             <Title>Non-Fiction Format</Title>
-            <Text>GENERAL NON-FICTION
-
-About This Template
-When compiled (File &gt; Compile), this project will generate a document in the standard manuscript format used for many types of non-fiction. Settings are also provided to make it easy to compile to a paperback-style PDF for self-publishing or an EPUB or Kindle ebook.
-
-How To Use This Template
-Inside the “Manuscript” folder, create a new folder for each chapter and title each folder with the name of the chapter. (You do not need to—and indeed shouldn’t—title the folders “Chapter One” and so on, because chapter numbering will be taken care of automatically during the Compile process.) The first chapter folder has been created for you with the placeholder title “Chapter”.
-Note: The “Manuscript” folder is what we refer to in the documentation as the “Draft folder”. It’s just been renamed “Manuscript” in this template.
-Create a new text document for each section inside the chapter folders. (Upon export, sections will be separated with the “#” character for standard manuscript format, or with a blank line for other formats.)
-If you don’t require a foreword, move the “Foreword” document to the Trash folder. Alternatively, rename it “Preface” or “Introduction” if you prefer.
-“Notes” and “Ideas” folders have been provided for your convenience, although you can replace them or create different top-level folders for your research materials if necessary (these are just regular folders that have had custom icons assigned to them using the Documents &gt; Change Icon feature).
-
-Tables and Figures
-If you need to use tables or figures in your manuscript, you can label them using the following tags, replacing “KEYWORD” with a unique word that identifies your table or figure.
-
-!fig(KEYWORD)
-!table(KEYWORD)
-
-These tags will be replaced with numbers in the compiled document, with the numbering stream for figures being separate from the numbering stream for tables.
-
-You can refer to such tags as follows:
-
-#fig(KEYWORD)
-#table(KEYWORD)
-
-Here’s an example:
-
-Table !table(sales): Sales 2011
-Table !table(dates): Shipment dates
-Figure !fig(skeleton): The skeleton of the gnu.
-Figure !fig(malcolmreynolds): The second coolest character in Firefly.
-
-… (For sales figures, see table #table(sales))… For shipment dates, see table #table(dates)… where he discovered the skeleton of a gnarled gnu (see figure #fig(skeleton))… Chronicles providing a similar role, albeit without the Castle actor (see figure #fig(malcolmreynolds)).
-
-In the compiled document, the above text would look like this:
-
-Table 1: Sales 2011
-Table 2: Shipment dates
-Figure 1: The skeleton of the gnu.
-Figure 2: The second coolest character in Firefly.
-
-… (For sales figures, see table 1)… For shipment dates, see table 2… where he discovered the skeleton of a gnarled gnu (see figure 1)… Chronicles providing a similar role, albeit without the Castle actor (see figure 2).
-
-Compiling
-Title pages and front matter are all provided in the “Front Matter” folder. Different front matter is used for different formats.
-A “Back Matter” folder is also provided. Here you can add any back matter that is specific to each Compile format. Currently this only contains documents for storying endnotes (see below).
-Tip: You can open this document in a Quick Reference panel and have it open alongside the Compile panel if you need to refer to these instructions while compiling.
-
-To compile to standard manuscript format:
-Edit the “Title Page” document inside the Front Matter/Manuscript Format folder to ensure that it contains the correct information (by default it will use information from Contacts).
-To create your table of contents:
-Holding down the Command key, select all the documents you wish to be included in the contents listing. (Usually this will be “Foreword” and all chapter folders, but not the individual sections inside chapter folders. If you have footnotes and wish them to be added to the end of the manuscript as endnotes, you should also include the “Endnotes” document inside “Back Matter”.)
-Go to Edit &gt; Copy Special &gt; Copy Documents as ToC.
-Paste into the “Contents” document in the “Manuscript Format” front matter folder. (Tip: Use Format &gt; Font &gt; Underline to change or remove the dotted underline between the chapter names and page numbers.)
-The resulting linked text and page number tags will be replaced with the final chapter names and page numbers in the compiled document.
-Note that you don’t need to do this every time you compile, only when chapters have been added, deleted, renamed or moved around. (Note to Microsoft Word users: If you export to Word, you may need to generate a print preview in Word to force the page numbers to show up correctly - they may appear as question marks before doing so.)
-You don’t have to use “Copy Documents as ToC” to create a table of contents, by the way. You could equally construct one yourself using document links and placeholders - see “List of All Placeholders…” in the Help menu for more information on the latter.
-Go to File &gt; Compile…
-Next to “Compile for”, select “Print”, “PDF” or one of the rich text file formats such as RTF, Word or OpenOffice.
-Select either “Non-Fiction Manuscript (Courier)” or “Non-Fiction Manuscript (Times)” from the list of formats on the left.
-Ensure that the “Add front matter” button is ticked under the contents list on the right and that the “Manuscript Format” folder is selected in the pop-up button next to it. (This has already been set up for you.)
-If you have footnotes in your text, they can either be included at the end of each page (the default) or as endnotes. To have them included as endnotes:
-Beneath the list of documents on the right side of the Compile pane, tick “Add back matter”. This will include the “Endnotes” document from the Back Matter/Manuscript Format folder.
-Click on the gear icon in the right-most header bar in Compile.
-Tick “Export inspector footnotes as endnotes” and “Export inline footnotes as endnotes”.
-Click on “Compile”.
-
-•	To compile to paperback PDF format:
-Edit the front matter pages contained inside the Front Matter/Paperback folder.
-Follow the instructions under compiling for standard manuscript format for creating a table of contents, but this time paste the contents list into the Front Matter/Paperback/Contents document.
-Go to File &gt; Compile…
-Next to “Compile for”, select “PDF”.
-Select “Paperback (5.06” x 7.81”)” from the list of formats on the left.
-Ensure that the “Add front matter” button is ticked under the contents list on the right and that the “Paperback” folder is selected in the pop-up button next to it if it. (This has already been set up for you.)
-If you have footnotes in your text, they can either be included at the end of each page or as endnotes. See the instructions under compiling for standard manuscript format for information on how to include footnotes as endnotes (in this case, however, clicking “Add Back Matter” will include the “Paperback” back matter folder).
-Click on “Compile”.
-
-To compile to ebook format:
-Edit or remove the dedication page contained inside the Front Matter/Ebook folder. Feel free to add any other front matter documents as required.
-Import a cover image (preferably in JPG or PNG format).
-You can store this anywhere, but it makes sense to place it in the “Ebook” front matter folder. A placeholder cover image is already provided—you will want to delete that once you have imported your own.
-Be sure to check online for recommended image sizes, because the recommendations are constantly changing. The sample cover image provided is 2,500 x 1,563 pixels, based on Amazon’s recommended size and proportions for a Kindle cover at the time this template was created.
-Go to File &gt; Compile…
-From the “Compile for” menu, select one of the ebook formats.
-To create an ePub file, choose the “ePub 3” format.
-To create a Kindle file, choose the “Kindle KF8/Mobi” format.
-“ePub 2” and “Kindle Mobi” are older versions of the formats. They are mainly provided for supporting projects created in older versions of Scrivener.
-Select “Ebook” from the list of formats on the left.
-If you have front matter documents other than the cover image, ensure that the “Add front matter” button is ticked under the contents list on the right and that the “Ebook” folder is selected in the pop-up button next to it. If you don’t have any front matter documents, you can un-tick “Add front matter”. (Un-ticking this does not affect the cover image.)
-Above the contents list in the rightmost header bar are six buttons. Click on each of them in turn to go through the various available settings, changing what you need. In particular:
-Fill in the metadata such as author name and book title.
-Ensure your cover image is selected and shown.
-Click on “Compile”.
-
-Adding Sub-Heads
-If you want your chapters divided into sections that each have their own sub-headings, simply use blank file groups for each heading, with each section under that heading a subdocument of the file group, like this:
-
- 
-
-Customising the Ebook Table of Contents
-When exporting to ebook format, Scrivener automatically generates a table of contents. If you would like to customise what appears in the contents, follow these instructions:
-Create a document for your table of contents inside the Front Matter/Ebook folder.
-Name the document “Contents”.
-In the binder, select the documents you would like to appear in the table of contents (hold down Command to select more than one document).
-For a simple flat list, hit Cmd-C or use Edit &gt; Copy. Alternatively, if you would like the table of contents indented to match the binder structure, go to Edit &gt; Copy Special &gt; Copy Documents as Structured Link List.
-Click into the text of the “Contents” document and hit Cmd-V or use Edit &gt; Paste. The documents you wish to appear in the table of contents will now appear as a list of links.
-If you intend to export to an older ebook format (ePub 2 or non-KF8 Mobi), select all of the text and change it to use a 12-point font.
-If you wish to centre the table of contents, select the text and centre it.
-In the Inspector, change the “Section Type” of the “Contents” document to “Table of Contents”. Now, when you Compile, your custom “Contents” document will be used instead of the automatically-generated one. The titles in the links of the “Contents” document will automatically be updated to match those of the final compiled ebook.
-
-Sample Document
-See the “Sample MS” PDF file in the Research folder for an example of a document that has been created using this template.
-
-Final Note
-Scrivener project templates are flexible and are not intended to restrict you to a particular workflow. You can change, delete or move the files and folders contained in the template to suit how you work.
-
-Like all templates in Scrivener, this project was originally created from the “Blank” template. We’ve simply added a few folders and set everything up in ways that should be useful to non-fiction authors. Everything you can do with this project, you could equally do by creating a “Blank” project and setting it up yourself.
-
-You can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File &gt; Save As Template.</Text>
+            <Text>GENERAL NON-FICTIONAbout This TemplateWhen compiled (File &gt; Compile), this project will generate a document in the standard manuscript format used for many types of non-fiction. Settings are also provided to make it easy to compile to a paperback-style PDF for self-publishing or an EPUB or Kindle ebook.How To Use This TemplateInside the “Manuscript” folder, create a new folder for each chapter and title each folder with the name of the chapter. (You do not need to—and indeed shouldn’t—title the folders “Chapter One” and so on, because chapter numbering will be taken care of automatically during the Compile process.) The first chapter folder has been created for you with the placeholder title “Chapter”.Note: The “Manuscript” folder is what we refer to in the documentation as the “Draft folder”. It’s just been renamed “Manuscript” in this template.Create a new text document for each section inside the chapter folders. (Upon export, sections will be separated with the “#” character for standard manuscript format, or with a blank line for other formats.)If you don’t require a foreword, move the “Foreword” document to the Trash folder. Alternatively, rename it “Preface” or “Introduction” if you prefer.“Notes” and “Ideas” folders have been provided for your convenience, although you can replace them or create different top-level folders for your research materials if necessary (these are just regular folders that have had custom icons assigned to them using the Documents &gt; Change Icon feature).Tables and FiguresIf you need to use tables or figures in your manuscript, you can label them using the following tags, replacing “KEYWORD” with a unique word that identifies your table or figure.!fig(KEYWORD)!table(KEYWORD)These tags will be replaced with numbers in the compiled document, with the numbering stream for figures being separate from the numbering stream for tables.You can refer to such tags as follows:#fig(KEYWORD)#table(KEYWORD)Here’s an example:Table !table(sales): Sales 2011Table !table(dates): Shipment datesFigure !fig(skeleton): The skeleton of the gnu.Figure !fig(malcolmreynolds): The second coolest character in Firefly.… (For sales figures, see table #table(sales))… For shipment dates, see table #table(dates)… where he discovered the skeleton of a gnarled gnu (see figure #fig(skeleton))… Chronicles providing a similar role, albeit without the Castle actor (see figure #fig(malcolmreynolds)).In the compiled document, the above text would look like this:Table 1: Sales 2011Table 2: Shipment datesFigure 1: The skeleton of the gnu.Figure 2: The second coolest character in Firefly.… (For sales figures, see table 1)… For shipment dates, see table 2… where he discovered the skeleton of a gnarled gnu (see figure 1)… Chronicles providing a similar role, albeit without the Castle actor (see figure 2).CompilingTitle pages and front matter are all provided in the “Front Matter” folder. Different front matter is used for different formats.A “Back Matter” folder is also provided. Here you can add any back matter that is specific to each Compile format. Currently this only contains documents for storying endnotes (see below).Tip: You can open this document in a Quick Reference panel and have it open alongside the Compile panel if you need to refer to these instructions while compiling.To compile to standard manuscript format:Edit the “Title Page” document inside the Front Matter/Manuscript Format folder to ensure that it contains the correct information (by default it will use information from Contacts).To create your table of contents:Holding down the Command key, select all the documents you wish to be included in the contents listing. (Usually this will be “Foreword” and all chapter folders, but not the individual sections inside chapter folders. If you have footnotes and wish them to be added to the end of the manuscript as endnotes, you should also include the “Endnotes” document inside “Back Matter”.)Go to Edit &gt; Copy Special &gt; Copy Documents as ToC.Paste into the “Contents” document in the “Manuscript Format” front matter folder. (Tip: Use Format &gt; Font &gt; Underline to change or remove the dotted underline between the chapter names and page numbers.)The resulting linked text and page number tags will be replaced with the final chapter names and page numbers in the compiled document.Note that you don’t need to do this every time you compile, only when chapters have been added, deleted, renamed or moved around. (Note to Microsoft Word users: If you export to Word, you may need to generate a print preview in Word to force the page numbers to show up correctly - they may appear as question marks before doing so.)You don’t have to use “Copy Documents as ToC” to create a table of contents, by the way. You could equally construct one yourself using document links and placeholders - see “List of All Placeholders…” in the Help menu for more information on the latter.Go to File &gt; Compile…Next to “Compile for”, select “Print”, “PDF” or one of the rich text file formats such as RTF, Word or OpenOffice.Select either “Non-Fiction Manuscript (Courier)” or “Non-Fiction Manuscript (Times)” from the list of formats on the left.Ensure that the “Add front matter” button is ticked under the contents list on the right and that the “Manuscript Format” folder is selected in the pop-up button next to it. (This has already been set up for you.)If you have footnotes in your text, they can either be included at the end of each page (the default) or as endnotes. To have them included as endnotes:Beneath the list of documents on the right side of the Compile pane, tick “Add back matter”. This will include the “Endnotes” document from the Back Matter/Manuscript Format folder.Click on the gear icon in the right-most header bar in Compile.Tick “Export inspector footnotes as endnotes” and “Export inline footnotes as endnotes”.Click on “Compile”.•	To compile to paperback PDF format:Edit the front matter pages contained inside the Front Matter/Paperback folder.Follow the instructions under compiling for standard manuscript format for creating a table of contents, but this time paste the contents list into the Front Matter/Paperback/Contents document.Go to File &gt; Compile…Next to “Compile for”, select “PDF”.Select “Paperback (5.06” x 7.81”)” from the list of formats on the left.Ensure that the “Add front matter” button is ticked under the contents list on the right and that the “Paperback” folder is selected in the pop-up button next to it if it. (This has already been set up for you.)If you have footnotes in your text, they can either be included at the end of each page or as endnotes. See the instructions under compiling for standard manuscript format for information on how to include footnotes as endnotes (in this case, however, clicking “Add Back Matter” will include the “Paperback” back matter folder).Click on “Compile”.To compile to ebook format:Edit or remove the dedication page contained inside the Front Matter/Ebook folder. Feel free to add any other front matter documents as required.Import a cover image (preferably in JPG or PNG format).You can store this anywhere, but it makes sense to place it in the “Ebook” front matter folder. A placeholder cover image is already provided—you will want to delete that once you have imported your own.Be sure to check online for recommended image sizes, because the recommendations are constantly changing. The sample cover image provided is 2,500 x 1,563 pixels, based on Amazon’s recommended size and proportions for a Kindle cover at the time this template was created.Go to File &gt; Compile…From the “Compile for” menu, select one of the ebook formats.To create an ePub file, choose the “ePub 3” format.To create a Kindle file, choose the “Kindle KF8/Mobi” format.“ePub 2” and “Kindle Mobi” are older versions of the formats. They are mainly provided for supporting projects created in older versions of Scrivener.Select “Ebook” from the list of formats on the left.If you have front matter documents other than the cover image, ensure that the “Add front matter” button is ticked under the contents list on the right and that the “Ebook” folder is selected in the pop-up button next to it. If you don’t have any front matter documents, you can un-tick “Add front matter”. (Un-ticking this does not affect the cover image.)Above the contents list in the rightmost header bar are six buttons. Click on each of them in turn to go through the various available settings, changing what you need. In particular:Fill in the metadata such as author name and book title.Ensure your cover image is selected and shown.Click on “Compile”.Adding Sub-HeadsIf you want your chapters divided into sections that each have their own sub-headings, simply use blank file groups for each heading, with each section under that heading a subdocument of the file group, like this:#Customising the Ebook Table of ContentsWhen exporting to ebook format, Scrivener automatically generates a table of contents. If you would like to customise what appears in the contents, follow these instructions:Create a document for your table of contents inside the Front Matter/Ebook folder.Name the document “Contents”.In the binder, select the documents you would like to appear in the table of contents (hold down Command to select more than one document).For a simple flat list, hit Cmd-C or use Edit &gt; Copy. Alternatively, if you would like the table of contents indented to match the binder structure, go to Edit &gt; Copy Special &gt; Copy Documents as Structured Link List.Click into the text of the “Contents” document and hit Cmd-V or use Edit &gt; Paste. The documents you wish to appear in the table of contents will now appear as a list of links.If you intend to export to an older ebook format (ePub 2 or non-KF8 Mobi), select all of the text and change it to use a 12-point font.If you wish to centre the table of contents, select the text and centre it.In the Inspector, change the “Section Type” of the “Contents” document to “Table of Contents”. Now, when you Compile, your custom “Contents” document will be used instead of the automatically-generated one. The titles in the links of the “Contents” document will automatically be updated to match those of the final compiled ebook.Sample DocumentSee the “Sample MS” PDF file in the Research folder for an example of a document that has been created using this template.Final NoteScrivener project templates are flexible and are not intended to restrict you to a particular workflow. You can change, delete or move the files and folders contained in the template to suit how you work.Like all templates in Scrivener, this project was originally created from the “Blank” template. We’ve simply added a few folders and set everything up in ways that should be useful to non-fiction authors. Everything you can do with this project, you could equally do by creating a “Blank” project and setting it up yourself.You can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File &gt; Save As Template.</Text>
         </Document>
         <Document ID="A1D3D631-8A82-4906-9A62-F6305758D38F">
             <Title>Scene Development Tab</Title>
@@ -2812,12 +2650,7 @@ As such this menu may be removed, updated or abandoned at any point.
         </Document>
         <Document ID="B5BAD6CD-B8F5-469F-9D65-288D1D5001DD">
             <Title>Dedication</Title>
-            <Text>
-
-
-
-
-Your dedication here.</Text>
+            <Text>Your dedication here.</Text>
             <Notes>Feel free to delete this document if you don’t need it.</Notes>
         </Document>
         <Document ID="B669EE55-F3E9-4E31-B211-1F81ABD519F9">
@@ -2940,13 +2773,7 @@ tcox@terrywcox.com
 &lt;$projecttitle&gt;
 
 by &lt;$fullname&gt;</Text>
-            <Notes>This is the title page of the manuscript. Note that its “Section Type” is automatically set to “Front Matter” in the Metadata pane of the Inspector, allowing the title page to be formatted differently from body text during Compile.
-
-The &lt;$PROJECTTITLE&gt; and &lt;$fullname&gt; tags get replaced with metadata information you can set when compiling. Other information is taken from Contacts when the project is created.
-
-The &lt;$wc100&gt; words tag will be replaced with the word count rounded to the nearest 100 during Compile (this and other tags can be inserted from the Insert menu).
-
-Feel free to edit the text of the title page as required.</Notes>
+            <Notes>This is the title page of the manuscript. Note that its “Section Type” is automatically set to “Front Matter” in the Metadata pane of the Inspector, allowing the title page to be formatted differently from body text during Compile.The &lt;$PROJECTTITLE&gt; and &lt;$fullname&gt; tags get replaced with metadata information you can set when compiling. Other information is taken from Contacts when the project is created.The &lt;$wc100&gt; words tag will be replaced with the word count rounded to the nearest 100 during Compile (this and other tags can be inserted from the Insert menu).Feel free to edit the text of the title page as required.</Notes>
         </Document>
         <Document ID="BC0DC62B-D666-419C-A37C-870C3C678050">
             <Title>Manuscript Format</Title>
@@ -3356,6 +3183,27 @@ Here are a list of the options (Besides information fields such as name, email e
         </Document>
         <Document ID="CB0EEE35-84F6-4D12-9A81-6827BED783B8">
             <Title>Paperback</Title>
+        </Document>
+        <Document ID="CBD44193-2975-4B14-B6E8-D0444B7EDC27">
+            <Title>Using the Narrative Editor</Title>
+            <Text>Using the Narrative Editor
+The Narrative Editor is a useful way to quickly turn your Story Plan from the explorer into an actual story.
+You can access the Narrator Editor by clicking the Book Icon in the top bar, if you cannot see it try clicking … or updating your copy of StoryBuilder.
+#
+
+Once you open the Narrative Editor, it will look similar to this. On one side you will the Story Explorer View (The view where you plan your story) and the Narrator View (This is the view that shows your story as it’s told.) 
+#
+The narrative view is different from the Explorer view and can only contain Scenes and Sections/Folders. Along the bottom there are several buttons:
+Add Scene - Adds a node from the Story Explorer View (Only scenes and folders can be copied over, other types will not be copied over)
+Add all unused scenes  - Copies all scenes in the explorer view that are not currently contained in the Narrative view.
+^/v - Moves the selected node will be moved up / down 
+Folder Icon - Creates a Section/Folder in the narrator view
+Trash Icon - Moves a node to the trash
+Done - Closes the Narrative Editor
+
+Notes: 
+- Internally this is refered to as NarratorTool or NTool
+-</Text>
         </Document>
         <Document ID="CC41D78E-670E-4403-ABA4-F488C52BF1D2">
             <Title>Defining Scenes</Title>
