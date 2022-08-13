@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="342E5DD6-5812-45AB-982C-E2EAC46CF8EE" Creator="SCRWIN-3.1.1.0" Device="Minerva" Modified="2022-07-19 13:42:18 -0400" ModID="009021A4-26BA-4DE4-97D5-2848BB80E8D6">
+<ScrivenerProject Template="No" Version="2.0" Identifier="342E5DD6-5812-45AB-982C-E2EAC46CF8EE" Creator="SCRWIN-3.1.1.0" Device="Minerva" Modified="2022-08-10 09:56:23 -0400" ModID="5F53ADB3-CA5E-48A3-A96F-DAE9070FE60B">
     <Binder>
         <BinderItem UUID="9FFBA333-8432-41C1-91F5-1302DFE283CA" Type="Text" Created="2019-05-14 13:29:37 -0400" Modified="2019-05-14 13:29:46 -0400">
             <Title>Non-Fiction Format</Title>
@@ -135,7 +135,7 @@
                                                 <NotesTextSelection>25,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>644,0</TextSelection>
+                                                <TextSelection>12,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -782,7 +782,7 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="675387D2-0324-47E3-9A41-4C46441C6D3A" Type="Text" Created="2019-06-12 17:07:30 -0400" Modified="2022-06-26 10:24:40 -0400">
+                        <BinderItem UUID="675387D2-0324-47E3-9A41-4C46441C6D3A" Type="Text" Created="2019-06-12 17:07:30 -0400" Modified="2022-08-10 09:33:13 -0400">
                             <Title>Creating a Story pt 4</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -790,7 +790,7 @@
                                 <NotesTextSelection>8,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>5757,0</TextSelection>
+                                <TextSelection>5197,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="4D4CCDD3-95DD-44BD-8BBF-A45E5302112C" Type="Text" Created="2019-06-12 17:07:30 -0400" Modified="2020-09-07 12:30:40 -0400">
@@ -958,7 +958,7 @@
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4417,0</TextSelection>
+                                <TextSelection>2624,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="CC41D78E-670E-4403-ABA4-F488C52BF1D2" Type="Text" Created="2019-06-12 17:07:30 -0400" Modified="2021-12-19 19:02:09 -0400">
@@ -3024,12 +3024,12 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="160" Characters="886" Date="2022-07-19 13:42:18 -0400"/>
+        <PreviousSession Words="21" Characters="119" Date="2022-08-10 09:56:23 -0400"/>
     </ProjectTargets>
     <BookmarksFolderUUID>07B0D7C6-57CE-4D6F-8AD9-11F06A261A5F</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2022-07-19 00:00:00 -0400">
-        <DraftWordCount>158</DraftWordCount>
-        <DraftCharCount>881</DraftCharCount>
+    <RecentWritingHistory Date="2022-08-10 00:00:00 -0400">
+        <DraftWordCount>21</DraftWordCount>
+        <DraftCharCount>118</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
