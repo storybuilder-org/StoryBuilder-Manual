@@ -484,7 +484,7 @@ This button toggles the Navigation Pane to either display or be hidden. Hiding t
 
 #
 
-(Hint: StoryBuilder detects and reports spelling errors on text fields.)</Text>
+(Hint: StoryBuilder detects and reports spelling errors on most text fields.)</Text>
             <Notes>HELP</Notes>
         </Document>
         <Document ID="21367FCF-411C-4F60-AC86-6F91F91E357D">
@@ -581,7 +581,7 @@ Plotting is usually the last thing to worry about, for several reasons.  The cha
             <Synopsis>PRRESOL</Synopsis>
             <Text>Resolution Tab
 
-#
+
 
 The resolution is the outcome of the problem.  Not every problem in a story must be resolved, but the important ones which affect the protagonist's desire and show his growth must be.  If they are not, the reader, who has been turning pages to find out what happens, will feel cheated.
 
@@ -906,9 +906,13 @@ This chapter discusses the importance of setting, and describes StoryBuilder's s
             <Synopsis>[3] GETHELP</Synopsis>
             <Text>Getting Help
 
-Currently StoryBuilder’s only support mechanism is to email support@storybuilder.org.
+We suggest you first use this manual to try to find the information you’re looking for.
 
-We plan to provide a FAQ and an online help request form as soon as possible.
+The StoryBuilder Discord Server (a link can be found on the main menu’s Preferences | About tab) contains a ‘frequently-asked-questions’ channel, and a ‘writers-chat’ channel.
+
+Currently StoryBuilder’s only direct support mechanism is to email support@storybuilder.org.
+
+We plan to provide an on-line help request form as soon as possible.
 
 Please write us with ideas or suggestions for improvements.  We want to make StoryBuilder the best possible tool to help you achieve your fiction writing goals.
 </Text>
@@ -1119,11 +1123,11 @@ Confined settings increase dramatic tension: for example, Murder on the Orient E
 
 Georges Polti, in his 1895 book The Thirty-Six Dramatic Situations, proposed that there are only a limited number of dramatic situations, based on fundamental human conflicts.   He defined each of his situations in terms of dramatic elements and examples.
 
-In 2017 Mike Figgis, whose film credits include Internal Affairs and Leaving Los Vegas, revised and republished The Thirty-Six Dramatic Situations, adapting the dated examples from long-forgotten writers Polti used to the more modern era and borrowing examples from cinema. This is the source we use. 
+In 2017 Mike Figgis, whose film credits include Internal Affairs and Leaving Los Vegas, revised and republished The Thirty-Six Dramatic Situations, adapting the dated examples from long-forgotten writers Polti used to the more modern era, and borrowing examples from cinema. This is the source we use. 
 
 The Dramatic Situations form is invoked from the Plotting Aids sub-menu of the Tools menu.  It contains the thirty-six dramatic situations and the dramatic elements of each.
 
-The central story problem will frequently be based upon one of these situations, but the Dramatic Situations tool is intended more for use with the plot outline and with scenes.  Every scene can be thought of as a 'little story' with its own conflict; and each scene will generally, therefore, involve one or more of these dramatic situations.
+The central story problem will frequently be based upon one of these situations, but the Dramatic Situations tool is intended more for use with the plot outline and with scenes.  Every scene can be thought of as a 'little story' with its own conflict; and each scene will therefore generally involve one or more of these dramatic situations.
 
 This tool works with the Scene tab on the Plot form to help define the conflict for a scene.  If you select Copy from the  Dramatic Situations form, the elements of the situation you have selected will be copied into the elements on the Scene tab of the Plot form for the currently selected plot point.
 </Text>
@@ -1209,8 +1213,6 @@ Concept is what begins to shape your idea into a story. Taking the time to creat
 Initially, phrase your concept as a &quot;what if&quot; question. Then use ‘What if? And ‘What happens is’ to flesh out your idea. 
 
 A good concept sparks more “what if” questions.
-
-[tk: Move exapanded discussion and the following examples to Reference]
 
 Other Examples:
 
@@ -2173,11 +2175,10 @@ We recommend using Key Questions frequently, as you work, rather than waiting un
             <Title>Conflict Builder</Title>
             <Text>Conflict Builder
 
-This 
 
 #
 
-While we often think we’d like to live our lives with a minimum of conflict, we’re fascinated by the stuff, and our fiction absolutely depends on it.  
+While we often think we’d like to live our lives with a minimum of conflict, we’re fascinated by the stuff, our fiction absolutely depends on it.  
 
 Conflict is easy to define: it’s what prevents your character from achieving his or her goal. Picking the right conflict is arguably the most important decision you’ll make in designing your story. If there’s no struggle, there’s no story. Robert McKee puts it this way: Nothing moves forward in a story except through conflict.
 
@@ -2202,13 +2203,25 @@ Each of these five categories can be further divided into subcategories.
 Relationship Conflicts differ according the the type of relationship. 
 Data Conflicts differ according the type of information mismatch between the two parties.
 Interest Conflicts
-Where crime fits:
-
-In General:
-Antisocial Behavior (SOCIAL PSYCHOLOGY) iResearchNet 
+Where Crime Fits
+Conflict Resolution Theory has a shortcoming: it’s based on work to reduce and resolve conflict. The criminal justice system, however, exists because conflict, when it passes a breaking point, becomes the perview of crime and punishment. 
+We’ve added a Conflict Category, Criminal, with the following subcategories:
+Crimes of Passion
+Antisocial Behavior
 Sociopathy
+Psychopathy
+Notes
+Crimes of Passion are different than the other subcategories. The legal definition of a crime of passion is that it’s committed ‘in a moment of passion’ in response to some provocation. We all known provocation, and have probably all acted in ways we regret in response to provocation. It’s easy to see ourselves  committing  some crimes: stealing, in order to feed our starving child, or beating up a bully who ‘deserves it.’  
+The other crime subcategories are different because they’re deliberate and premeditated. We somehow feel that they’re organic, a part of the individual’s nature, and it’s interesting to note that these other categories all may relate to narcissistic personality disorder. But it’s also worth noting that every one of us possess some basic traits of narcissism, such as being self-focused, having a lack of empathy, and desiring power and control, in one degree or another.  
+When thinking about conflict in your fiction, you may want to consider how a resolvable conflict can devolve into a more serious one: the process of finding complications.
+Other resources:
+Antisocial Behavior (SOCIAL PSYCHOLOGY) iResearchNet 
 Antisocial personality disorder - Symptoms and causes - Mayo Clinic 
 Antisocial Personality Disorder (Sociopathy): Causes and Symptoms (psycom.net) 
+
+Sociopathy
+
+[tba]
 
 Psychopathy
 
@@ -2222,22 +2235,20 @@ Structural Sources of Conflict (eolss.net)
 The 8 causes of conflict (and what to do about them) | by Duane Rohrbacher | Medium 
 The Relevance of Clausewitz's Theory of War to Contemporary Conflict Resolution (jstor.org) 
 
-
 Take a look at this last one (‘8 causes’) against the categories I have. For example, ‘Policy’ may automatically point to structural issues.
 
 Clausewitz describes war as “…a clash between major interests, which is resolved by bloodshed – that is the only way in which it differs from other conflicts.” 
 
 The issue of information warfare
 
-When it comes to an extremely important point, the morality of war, Clausewitz says: “the moral factor is the most fluid element of all, and therefore spreads most easily to affect everything else.” 9 
+When it comes to an extremely important point, the morality of war, Clausewitz says: “the moral factor is the most fluid element of all, and therefore spreads most easily to affect everything else.”  9 
 
-warfare is “Trinitarian.” Simply put, it is about people, armed forces, and government.12 
+Warfare is “Trinitarian.” Simply put, it is about people, armed forces, and government. 12 
 
-These dynamics are also part of a new strategic landscape of conflict. Traditionally, violent conflict has been associated with inter-state wars or civil wars, but there is increasing agreement among conflict analysts that most current violent conflicts do not fit these ‘traditional’ categories. For instance, most violent deaths occur in non-traditional conflict settings. The new landscape of conflict frequently I’nvolves a mix of ingredients such as local and cross-border organised crime, socio-economic exclusion, rapid urbanisation, political change after years of stasis, or long-standing disputes over land or identity. 
-
+These dynamics are also part of a new strategic landscape of conflict. Traditionally, violent conflict has been associated with inter-state wars or civil wars, but there is increasing agreement among conflict analysts that most current violent conflicts do not fit these ‘traditional’ categories. For instance, most violent deaths occur in non-traditional conflict settings. The new landscape of conflict frequently involves a mix of ingredients such as local and cross-border organized crime, socio-economic exclusion, rapid urbanization, political change after years of stasis, or long-standing disputes over land or identity. 
 Something for Everyone in the Military-Industrial Complex | War Is Boring 
 This is another rabbit hole. But a very interesting one. 
-‘It turns out that all the advising and assisting, all the training and coaching, has only made matters worse. As for those overstretched forces, relentless deployments are evidently breaking them down as reports indicate that rates of mental distress and suicide are again on the rise among them. 
+‘It turns out that all the advising and assisting, all the training and coaching, has only made matters worse. As for those overstretched forces, relentless deployments are evidently breaking them down as reports indicate that rates of mental distress and suicide are again on the rise among them.’ 
 
 </Text>
         </Document>
@@ -2435,6 +2446,8 @@ These are not scene summaries; it’s up to you to outline the scene itself, and
 
 #
 
+StoryBuilder won’t create these scenes for you (although the next topic, Plotting with StoryBuilder, can help you do soFor help in how to do so, MasterPlots  created one Scene story element for each plot point, which suggests that a scene can do only one thing. That’s far from the truth; a scene can and usually should do multiple things: introduce or develop character, advance the plot, etc. The Scene story element’s Development tab contains a field, Purpose of Scene, which includes many of these purposes (not surprisingly related to the Notes in a Scene generated by MasterPlots.) Purpose of Scene is different from most controls in that you can check off multiple purposes. 
+
 Dramatic Situations
 
 The Dramatic Situations tool, based on Polti’s and Figgis’ books (both titled The Thirty-Six Dramatic Situations), lists a set of situations with roles in opposition and uncertain outcomes- which is to say, situations with built-in drama and conflict:
@@ -2499,12 +2512,16 @@ File Open displays the following open dialog:
 
 This dialog will by default display recently opened outlines. Clicking on Open story from disk will open a file browser to allow you to pick a particular outline to pen.  Clicking on the Create new story tab on the left will display a dialog for a new story outline. The Project path defaults to the file folder specified in Preferences.
 
-# 
+#
+ 
 Clicking on Sample Stories on the left tab displays a list of sample outlines installed with StoryBuilder for you to play with. If you intend to change a sample, we recommend saving it to a different location before doing so.
 
 Only one story outline can be open at a time.  If you open a new file you'll be prompted to save the current file first if it’s been modified.
 </Text>
             <Notes>FILEMENU</Notes>
+        </Document>
+        <Document ID="96491CDA-E177-42A5-B22C-EEEA5A10EE7D">
+            <Title>Create New Outline Dialog</Title>
         </Document>
         <Document ID="96776348-B035-46DA-A5A5-210E99B93774">
             <Title>Front Matter</Title>
@@ -2772,11 +2789,11 @@ Backstory deserves caution for two reasons, however. If you’re shoehorning exp
 
 Story Problem
 
-Your story can (and usually will) have more than one Problem. Every Problem has a Premise, but only one of your Problem story elements is the Story Problem. It’s the spine of your story; when it’s resolved, your story is over. Select one of your  Problem pages from the drop-down list as the ‘Story Problem’.
+Your story can (and usually will) have more than one Problem. Every Problem has a Premise, but only one of your Problem story elements is the Story Problem. It’s the spine of your story; when it’s resolved, your story is over. Select one of your  Problem pages from the drop-down list as the ‘Story Problem’ (here, ‘Hamlet wants to avenge his father’s murder’.)
 
 Premise
 
-This field, on the Story Overview form, is a read-only copy of the Premise field on the Story Problem’s Resolution tab. 
+The Premise field on the Story Overview form is a read-only copy of the Premise field on the selected Story Problem’s Resolution tab.  Every Problem can contain a Premise, and you would do well to create one for each problem.
 
 </Text>
         </Document>
@@ -2807,7 +2824,7 @@ Change the name field for the Story Overview to your working title for the story
             <Synopsis>[1] LEGAL</Synopsis>
             <Text>Legal Matters
 
-The text of and illustrations in this document are licensed by Seven Valleys Software under a Creative Commons Attribution–Share Alike 3.0 Unported license (&quot;CC-BY-SA&quot;). An explanation of CC-BY-SA is available at http://creativecommons.org/licenses/by-sa/3.0/ . 
+The text of and illustrations in this document are licensed by Seven Valleys Software under a Creative Commons Attribution–Share Alike 3.0 Unported license (&quot;CC-BY-SA&quot;). An explanation of CC-BY-SA is available at http://creativecommons.org/licenses/by-sa/3.0/ 
 
 In accordance with CC-BY-SA, if you distribute this document or an adaptation of it, you must provide the URL for the original version. Seven Valleys Software, as the licensor of this document, waives the right to enforce, and agrees not to assert, Section 4d of CC-BY-SA to the fullest extent permitted by applicable law.
 
@@ -2819,7 +2836,7 @@ Redistribution and use in source and binary forms, with or without modification,
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot;AS IS&quot; AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
-Copyright © 2021
+Copyright © 2021, 2022
 - by -
 Seven Valleys Software
 
@@ -2932,14 +2949,15 @@ In this tutorial we've produced most of a story outline.  We've worked through p
         <Document ID="BAAFD32A-3AAE-4595-82AB-CF46F5BE1420">
             <Text>Developing StoryBuilder
 If you are a C# developer and are somewhat familar with WinUI (or another XAML based UI language) then you can contribute to StoryBuilder (Which is written in C# and uses WinUI 3).
-for more information about contributing, please check the GitHub Repository.
-
+For more information about contributing, please check the GitHub Repository.
 Developer only menus / pop-ups
 #
-If you have cloned storybuilder and built it for the first time then you may be surprised to see this screen, this is because a key file is missing from your local clone. This will not cause any issues with the app functioning however your copy will not report errors via Elmah.io and you may see pops such as syncfusion licensing errors.
+
+If you have cloned StoryBuilder to a separate repo and built it for the first time then you may be surprised to see this screen. It indicates a key file related to licensing is missing from your local clone. These licenses are in effect for the storybuilder.org repo only. The missing licenses won’t cause any issues with the app functioning, but your copy won’t report errors via Elmah.io and you may see pops relating to syncfusion licensing errors.
 Regardless, congratulations on successfully compiling StoryBuilder.
 
 #
+
 If StoryBuilder notices you have a debugger attached to the process, the developer menu will appear.
 This shows info about the computer and may contain buttons to test some parts of the storybuilder.
 If running without a keyfile (which is standard for those contributing to the storybuilder project.) then some of these buttons may not work or cause intended behavior.
@@ -2952,18 +2970,6 @@ As such this menu may be removed, updated or abandoned at any point.
             <Title>Title Page</Title>
             <Synopsis>Title page to the manuscript.</Synopsis>
             <Text>
-T. W. Cox
-38 Hanover St.				
-Glen Rock
-PA
-17327
-717 495-0540
-tcox@terrywcox.com
-
-(Your agent’s name)
-(Your agent’s address)
-&lt;$wc100&gt; words
-
 
 
 
@@ -3799,7 +3805,7 @@ Before diving into plotting in detail, we should define a few terms.
 
 Let’s start with plot. The definition we like is borrowed from science fiction writer Jack Williamson, who defines plot as a patterned sequence of events, related by cause and effect, which portrays the whole response of a set of characters to a situation. 
 
-Each separate event is a Scene story element. A scene takes place at one location and time, and has a specific cast of characters interacting with each other. Stage plays and movie scripts are necessarily written almost exclusively in scenes. Other story forms, such as novels and short stories can contain foreshortened prose, but these days even those forms are mainly written in scenes, perhaps due to the influence of movies and television.
+Each separate event is a Scene story element. A scene takes place at one location and time, and has a specific cast of characters interacting with each other. Stage plays and movie scripts are necessarily written almost exclusively in scenes. Other story forms, such as novels and short stories, can contain foreshortened prose, but these days even those forms are mainly written in scenes, perhaps due to the influence of movies and television.
 
 Certain events usually happen at fixed places in a story, a pattern called story structure. A plot has a beginning, middle, and end.  Aristotle described it as consisting of three movements, or acts. The first act, or setup, introduces us with characters with problems that must be solved. The second act, or rising action, presents obstacles as the characters try to solve their problems. The third act contains the logical outcome of the events in the first two acts. Most stories’ plots follow Aristotle's idea of story structure. 
 

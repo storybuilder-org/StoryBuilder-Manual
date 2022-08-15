@@ -17,7 +17,7 @@ To do so in StoryBuilder, launch the program. The first time you launch the prog
 
 Back to our story idea. Use the File menu’s  Open/Create file option: <br/>
 
-![](File-Open-Dialog.png)
+![](File-Open-Dialog-3.png)
 
 Click on Create New Story to start a new outline: <br/>
 
@@ -53,7 +53,7 @@ At the moment, the story outline for "Danger Calls" exists only in your computer
 
 The indicator will change from red to green, indicating that all changes have been saved to disk. <br/>
 
-![](Changed-Indicator.png)
+![](Changed-Indicator-3.png)
 
 Alternatively, from the File menu, you can select Save Story, or enter the Ctrl+S shortcut keys.  Remember to save your work periodically. <br/>
 

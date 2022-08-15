@@ -250,15 +250,73 @@ vignette: A term derived from the art work which decorated the front plates of n
 
 villain: A character who represents an evil or unwelcome force.  The villain is a stock character frequently cast as the antagonist in stories. <br/>
 
+[StoryBuilder]: StoryBuilder.png width=480px height=480px <br/>
+
+[Keyboard-Right-Mouse-Key]: Keyboard-Right-Mouse-Key.png width=59px height=51px <br/>
+
+[File-Open-Dialog]: File-Open-Dialog.png width=559px height=595px <br/>
+
+[Create-New-Outline-Dialog]: Create-New-Outline-Dialog.png width=548px height=563px <br/>
+
+[User-Interface]: User-Interface.png width=680px height=461px <br/>
+
+[Menu-Bar]: Menu-Bar.png width=599px height=64px <br/>
+
+[Menu-Bar-Tooltip]: Menu-Bar-Tooltip.png width=185px height=85px <br/>
+
+[Show-and-Hide-Navigation]: Show-and-Hide-Navigation.png width=680px height=488px <br/>
+
+[Menu-Bar-1]: Menu-Bar-1.png width=599px height=64px <br/>
+
+[Story-Element-Flyout]: Story-Element-Flyout.png width=472px height=116px <br/>
+
+[Search-Function]: Search-Function.png width=680px height=486px <br/>
+
 [Print-Reports-Button-and-Menu]: Print-Reports-Button-and-Menu.png width=165px height=161px <br/>
+
+[Generate-Reports-Dialog]: Generate-Reports-Dialog.png width=548px height=759px <br/>
+
+[Scrivener-Reports-File-Picker]: Scrivener-Reports-File-Picker.png width=680px height=280px <br/>
+
+[Scrivener-Binder-with-StoryBuilder-Outline]: Scrivener-Binder-with-StoryBuilder-Outline.png width=680px height=331px <br/>
+
+[Scrivener-Split-Screen-with-StoryBuilder]: Scrivener-Split-Screen-with-StoryBuilder.png width=680px height=511px <br/>
+
+[Prefences-CommandBar-Button]: Prefences-CommandBar-Button.png width=299px height=43px <br/>
+
+[Preferences-Dialog]: Preferences-Dialog.png width=444px height=683px <br/>
+
+[Status-Bar]: Status-Bar.png width=680px height=34px <br/>
+
+[Changed-Indicator]: Changed-Indicator.png width=55px height=40px <br/>
+
+[Navigation-and-Content-Pane]: Navigation-and-Content-Pane.png width=680px height=547px <br/>
+
+[Tabs]: Tabs.png width=680px height=488px <br/>
+
+[Explorer-and-Navigator-Views]: Explorer-and-Navigator-Views.png width=332px height=125px <br/>
+
+[Overview-Story-Idea-Tab]: Overview-Story-Idea-Tab.png width=680px height=454px <br/>
+
+[Overview-Concept-Tab]: Overview-Concept-Tab.png width=680px height=546px <br/>
+
+[Overview-Premise]: Overview-Premise.png width=680px height=542px <br/>
+
+[Overview-Structure-Tab]: Overview-Structure-Tab.png width=680px height=546px <br/>
+
+[Problem-Problem-Tab]: Problem-Problem-Tab.png width=680px height=456px <br/>
+
+[Problem-Protagonist-Tab]: Problem-Protagonist-Tab.png width=680px height=454px <br/>
+
+[Problem-Antagonist-Tab]: Problem-Antagonist-Tab.png width=680px height=488px <br/>
 
 [Clipboard-Image]: Clipboard-Image.png width=440px height=264px <br/>
 
-[Clipboard-Image-33]: Clipboard-Image-33.png width=680px height=449px <br/>
+[Clipboard-Image-49]: Clipboard-Image-49.png width=680px height=449px <br/>
 
-[Clipboard-Image-34]: Clipboard-Image-34.png width=680px height=494px <br/>
+[Clipboard-Image-50]: Clipboard-Image-50.png width=680px height=494px <br/>
 
-[Clipboard-Image-35]: Clipboard-Image-35.png width=680px height=495px <br/>
+[Clipboard-Image-51]: Clipboard-Image-51.png width=680px height=495px <br/>
 
 [Character-Relationships-Tab]: Character-Relationships-Tab.png width=680px height=516px <br/>
 
@@ -266,13 +324,45 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Inverse-Relationship]: Inverse-Relationship.png width=680px height=415px <br/>
 
-[Clipboard-Image-36]: Clipboard-Image-36.png width=680px height=491px <br/>
+[Character-Flaw-Tab]: Character-Flaw-Tab.png width=680px height=487px <br/>
 
-[Clipboard-Image-37]: Clipboard-Image-37.png width=443px height=496px <br/>
+[Flaw-Builder]: Flaw-Builder.png width=551px height=325px <br/>
 
-[Clipboard-Image-38]: Clipboard-Image-38.png width=384px height=516px <br/>
+[Character-Backstory-Tab]: Character-Backstory-Tab.png width=680px height=489px <br/>
 
-[File-Open-Dialog]: File-Open-Dialog.png width=559px height=595px <br/>
+[Character-Social-Tab]: Character-Social-Tab.png width=680px height=454px <br/>
+
+[Character-Psychological-Tab]: Character-Psychological-Tab.png width=680px height=466px <br/>
+
+[Character-Inner-Traits-Tab]: Character-Inner-Traits-Tab.png width=680px height=488px <br/>
+
+[Character-Outer-Traits]: Character-Outer-Traits.png width=680px height=454px <br/>
+
+[Trait-Builder]: Trait-Builder.png width=352px height=304px <br/>
+
+[Clipboard-Image-52]: Clipboard-Image-52.png width=680px height=491px <br/>
+
+[Setting-Sensations-Tab]: Setting-Sensations-Tab.png width=680px height=454px <br/>
+
+[Scene-Scene-Tab]: Scene-Scene-Tab.png width=680px height=487px <br/>
+
+[Scene-Development-Tab]: Scene-Development-Tab.png width=680px height=454px <br/>
+
+[Scene-Conflict-Tab]: Scene-Conflict-Tab.png width=680px height=487px <br/>
+
+[Scene-Sequel-Tab]: Scene-Sequel-Tab.png width=680px height=454px <br/>
+
+[Clipboard-Image-53]: Clipboard-Image-53.png width=443px height=496px <br/>
+
+[Clipboard-Image-54]: Clipboard-Image-54.png width=384px height=516px <br/>
+
+[Tools-Master-Plots]: Tools-Master-Plots.png width=544px height=631px <br/>
+
+[Tools-Dramatic-Situations]: Tools-Dramatic-Situations.png width=472px height=227px <br/>
+
+[Tools-Stock-Scenes]: Tools-Stock-Scenes.png width=475px height=628px <br/>
+
+[File-Open-Dialog-3]: File-Open-Dialog-3.png width=559px height=595px <br/>
 
 [Create-New-Story-Dialog]: Create-New-Story-Dialog.png width=555px height=565px <br/>
 
@@ -288,7 +378,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Tutorial-1-Changed-Indicator-(Red)]: Tutorial-1-Changed-Indicator-(Red).png width=53px height=47px <br/>
 
-[Changed-Indicator]: Changed-Indicator.png width=55px height=40px <br/>
+[Changed-Indicator-3]: Changed-Indicator-3.png width=55px height=40px <br/>
 
 [Tutorial-1-Empty-Struture-Tab]: Tutorial-1-Empty-Struture-Tab.png width=651px height=708px <br/>
 
@@ -322,24 +412,40 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Tutorial-4-Renamed-third-problem]: Tutorial-4-Renamed-third-problem.png width=680px height=510px <br/>
 
-[Clipboard-Image-39]: Clipboard-Image-39.png width=491px height=171px <br/>
+[Clipboard-Image-55]: Clipboard-Image-55.png width=491px height=171px <br/>
 
-[Clipboard-Image-40]: Clipboard-Image-40.png width=228px height=208px <br/>
+[Clipboard-Image-56]: Clipboard-Image-56.png width=228px height=208px <br/>
 
-[Clipboard-Image-41]: Clipboard-Image-41.png width=256px height=129px <br/>
+[Clipboard-Image-57]: Clipboard-Image-57.png width=256px height=129px <br/>
 
-[Clipboard-Image-42]: Clipboard-Image-42.png width=265px height=137px <br/>
+[Clipboard-Image-58]: Clipboard-Image-58.png width=265px height=137px <br/>
+
+[Tools-Master-Plots-1]: Tools-Master-Plots-1.png width=544px height=631px <br/>
+
+[Tools-Master-Plots-Result]: Tools-Master-Plots-Result.png width=680px height=353px <br/>
 
 [Scenes-Tied-to-Master-Plots-Plot-Points]: Scenes-Tied-to-Master-Plots-Plot-Points.png width=331px height=637px <br/>
 
-[Clipboard-Image-43]: Clipboard-Image-43.png width=390px height=534px <br/>
+[Dramatic-Situations-List-of-SItuations]: Dramatic-Situations-List-of-SItuations.png width=680px height=490px <br/>
 
-[Clipboard-Image-44]: Clipboard-Image-44.png width=548px height=670px <br/>
+[Dramatic-Situations-tool]: Dramatic-Situations-tool.png width=468px height=227px <br/>
 
-[Clipboard-Image-45]: Clipboard-Image-45.png width=543px height=281px <br/>
+[Stock-Scenes-Categories]: Stock-Scenes-Categories.png width=463px height=623px <br/>
 
-[Clipboard-Image-46]: Clipboard-Image-46.png width=568px height=355px <br/>
+[Stock-Scenes-Examples]: Stock-Scenes-Examples.png width=465px height=628px <br/>
 
-[Clipboard-Image-47]: Clipboard-Image-47.png width=543px height=281px <br/>
+[Plotting-with-StoryBuilder-Premise]: Plotting-with-StoryBuilder-Premise.png width=680px height=307px <br/>
 
-[Clipboard-Image-48]: Clipboard-Image-48.png width=568px height=355px <br/>
+[Plotting-with-StoryBuilder-Story-Problem-MasterPlots-Scene-list]: Plotting-with-StoryBuilder-Story-Problem-MasterPlots-Scene-list.png width=680px height=338px <br/>
+
+[Plotting-with-StoryBuilder-Complication-SubProblems]: Plotting-with-StoryBuilder-Complication-SubProblems.png width=312px height=103px <br/>
+
+[Plotting-with-StoryBuilder-SubProblems-Epanded-into-Scenes]: Plotting-with-StoryBuilder-SubProblems-Epanded-into-Scenes.png width=273px height=356px <br/>
+
+[Clipboard-Image-59]: Clipboard-Image-59.png width=390px height=534px <br/>
+
+[Clipboard-Image-60]: Clipboard-Image-60.png width=548px height=670px <br/>
+
+[Clipboard-Image-61]: Clipboard-Image-61.png width=543px height=281px <br/>
+
+[Clipboard-Image-62]: Clipboard-Image-62.png width=568px height=355px <br/>

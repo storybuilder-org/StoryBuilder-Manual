@@ -1,4 +1,4 @@
-#### Move Story Elements ####
+##### Move Story Elements #####
 Move Story Elements <br/>
 
 MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Move Story Elements.png <br/>
