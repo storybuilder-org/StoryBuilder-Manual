@@ -114,7 +114,7 @@ Only one story outline can be open at a time.  If you open a new file you'll be 
 ### The StoryBuilder User Interface ###
 The StoryBuilder User Interface
 
-![][Research-User-Interface]
+![][User-Interface]
 
 The form’s sections are as follows. They’ll be explained in more detail as we go.
 
@@ -165,7 +165,7 @@ Add/Remove Story Elements
 
 You can add or remove Story Elements in two ways. There’s a Menu Bar button which opens an ‘Add/Remove Story Elements’ menu:
 
-![][Menu-Bar-2]
+![][Menu-Bar-3]
 
 There’s also a pop-up menu which displays when you right-click on any Story Element node in the Navigation Pane:
 
@@ -691,7 +691,7 @@ This is another rabbit hole. But a very interesting one.
 ### Role Tab ###
 Role Tab
 
-![][Clipboard-Image-63]
+![][Clipboard-Image-77]
 
 The role tab contains the information which defines the relationship between this character and the story.
 
@@ -756,7 +756,7 @@ Use these notes to provide a thumbnail picture of the character and the overall 
 ### Physical Tab ###
 Physical and Appearance Tabs
 
-![][Clipboard-Image-64]
+![][Clipboard-Image-78]
 
 
 These character traits describe the external physical characteristics and appearance of the character.  They are generally self-explanatory.
@@ -771,7 +771,7 @@ The Appearance tab is a companion to the Physical tab.
 
 Use this note area to describe your character's looks, style of dress and movement, and the impression he leaves.  
 
-![][Clipboard-Image-65]
+![][Clipboard-Image-79]
 
 
 
@@ -988,7 +988,7 @@ Setting Tab
 
 The Setting tab contains elements which make the setting specific and unique.
 
-![][Clipboard-Image-66]
+![][Clipboard-Image-80]
 
 
 Locale	The location of the setting in space.
@@ -1103,7 +1103,7 @@ See "Scene and Sequel" for more information.
 
 Key Questions
 
-![][Clipboard-Image-67]
+![][Clipboard-Image-81]
 
 [tk: Format]
 
@@ -1118,7 +1118,7 @@ The questions for a story element are a circular list.  That is, when you've dis
 1
 Topic Information
 
-![][Clipboard-Image-68]
+![][Clipboard-Image-82]
 
 The Topic Information sub-menu on the Tools menu contains a list containing information specific to certain topics.  These items will be displayed either on a card file-like list or a Windows notepad, depending on the contents. 
 
@@ -1205,6 +1205,27 @@ Selecting one of the categories will result in the display of a form listing som
 
 Stock Scenes can be tailored to display any sub-menus of stock scenes you wish.  You can modify the contents of the exiting sub-menus, or add or replace sub-menus.  See "Customizing StoryBuilder" for more details.
 
+### Using the Narrative Editor ###
+Using the Narrative Editor
+The Narrative Editor is a useful way to quickly turn your Story Plan from the explorer into an actual story.
+You can access the Narrator Editor by clicking the Book Icon in the top bar, if you cannot see it try clicking ... or updating your copy of StoryBuilder.
+![][Clipboard-Image-83]
+
+Once you open the Narrative Editor, it will look similar to this. On one side you will the Story Explorer View (The view where you plan your story) and the Narrator View (This is the view that shows your story as it’s told.) 
+![][Clipboard-Image-84]
+The narrative view is different from the Explorer view and can only contain Scenes and Sections/Folders. Along the bottom there are several buttons:
+
+	•	Add Scene - Adds a node from the Story Explorer View (Only scenes and folders can be copied over, other types will not be copied over)
+	•	Add all unused scenes  - Copies all scenes in the explorer view that are not currently contained in the Narrative view.
+	•	^/v - Moves the selected node will be moved up / down 
+	•	Folder Icon - Creates a Section/Folder in the narrator view
+	•	Trash Icon - Moves a node to the trash
+	•	Done - Closes the Narrative Editor
+
+
+Notes: 
+- Internally this is refered to as NarratorTool or NTool
+-
 ### Copy Characters and Settings-1 ###
 Copy Characters & Settings
 
@@ -1230,7 +1251,7 @@ To do so in StoryBuilder, launch the program. The first time you launch the prog
 
 Back to our story idea. Use the File menu’s  Open/Create file option:
 
-![][File-Open-Dialog-4]
+![][File-Open-Dialog-5]
 
 Click on Create New Story to start a new outline:
 
@@ -1266,7 +1287,7 @@ At the moment, the story outline for "Danger Calls" exists only in your computer
 
 The indicator will change from red to green, indicating that all changes have been saved to disk.
 
-![][Changed-Indicator-4]
+![][Changed-Indicator-5]
 
 Alternatively, from the File menu, you can select Save Story, or enter the Ctrl+S shortcut keys.  Remember to save your work periodically.
 
@@ -1776,7 +1797,7 @@ Your Premise is the answer to the question the Concept poses.
 
 Your story can have more than one Problem story element, and every Problem has its own Premise, contained on the Resolution tab. But only one of these problems is your Story Problem, and that Problem  (and its Premise) is the one you select on the Story Overview form, Premise tab:
 
-![][Clipboard-Image-69]
+![][Clipboard-Image-85]
 
 The heart of plotted fiction is drama--- a struggle in which the outcome is in doubt. Your Story Problem will lead you to understand whose problem it is (your major character), what her or she want (the goal), and what stands in their way (opposition.) The Story Problem is the wormhole you enter to understand your story.
 
@@ -1864,7 +1885,7 @@ An inner problem is some want or need within the character himself, a need to gr
 
 It's often constructive to use StoryBuilder to define both an external and an internal problem for your protagonist, with separate Problem forms for each  of them. Both problems help to shape the story's plot. There’s even a Create New Story template for this:
 
-![][Clipboard-Image-70]
+![][Clipboard-Image-86]
 
 The outer problem asks 'what does the character want?'  The inner problem asks 'why does he want it?'  The outer problem is tangible. The inner problem is intangible, invisible.  The outer problem faces an external adversary.  The inner problem is Man against Himself, usually with something to decide or discover. The outer problem is solved when (win or loose) something is accomplished.  The inner problem is solved when the character grows or changes, or fails to do so.  The inner problem is related to theme. The two problems are connected because your protagonist must come to grips with his inner demon before he can solve the external, outer problem.
 Complications
@@ -1875,11 +1896,11 @@ A good example of this is found in Hemingway's The Old Man and the Sea.  This no
 
 Rather than arrange these problems in a list:
 
-![][Clipboard-Image-71]
+![][Clipboard-Image-87]
 
 You may want arrange them as children of the original problem, which won’t be solved until the complications are:
 
-![][Clipboard-Image-72]
+![][Clipboard-Image-88]
 
 Where possible, complications should be ordered to make things progressively worse for the protagonist. By the end of the shark attack, the marlin is nothing but a head and tail and skeleton; things can’t get much worse for Santiago.
 Subplots
@@ -2127,7 +2148,7 @@ MasterPlots
 
 In recent decades, the three-act structure has been joined by a bevy of other story structures, with different plot points:  Dan Wells’ Seven Point Structure, The Hero’s Journey, Blake Snyder’s Save the Cat, and many more.  Since plot points are also called story beats, these structures are often called ‘beat sheets’. A beat sheet can serve as a sort of plot template. StoryBuilder’s Master Plots tool provides a number of these templates, which will insert a set of Scene story elements into your outline at the place of your choosing:
 
-![][Tools-Master-Plots-3]
+![][Tools-Master-Plots-4]
 
 
 Since every Problem is a ‘small story’ and has its own set of events that define it, a Problem is good place to use this tool. A Problem can be thought of as a sequence, a term used frequently in scriptwriting, which is defined as ‘a series of scenes with a beginning, middle, and end.’ Or, if you prefer, setup, development, and resolution. 
@@ -2314,20 +2335,20 @@ Critiquing others’ stories is a great way to improve your art, because it’s 
 # Miscellaneous #
 Changelog Pop-up / What’s new menu
 Occasionally, when StoryBuilder updates a window will be shown. This will summarise what has changed in this update and which developer made that change.
-![][Clipboard-Image-73]
+![][Clipboard-Image-89]
 
 If you decide you want to see this popup again, you can access it in Preferences
-![][Clipboard-Image-74]
+![][Clipboard-Image-90]
 Developing StoryBuilder
 If you are a C# developer and are somewhat familar with WinUI (or another XAML based UI language) then you can contribute to StoryBuilder (Which is written in C# and uses WinUI 3).
 For more information about contributing, please check the GitHub Repository.
 Developer only menus / pop-ups
-![][Clipboard-Image-75]
+![][Clipboard-Image-91]
 
 If you have cloned StoryBuilder to a separate repo and built it for the first time then you may be surprised to see this screen. It indicates a key file related to licensing is missing from your local clone. These licenses are in effect for the storybuilder.org repo only. The missing licenses won’t cause any issues with the app functioning, but your copy won’t report errors via Elmah.io and you may see pops relating to syncfusion licensing errors.
 Regardless, congratulations on successfully compiling StoryBuilder.
 
-![][Clipboard-Image-76]
+![][Clipboard-Image-92]
 
 If StoryBuilder notices you have a debugger attached to the process, the developer menu will appear.
 This shows info about the computer and may contain buttons to test some parts of the storybuilder.
@@ -2597,7 +2618,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Create-New-Outline-Dialog]: Create-New-Outline-Dialog.png width=548px height=563px
 
-[Research-User-Interface]: Research-User-Interface.png width=680px height=461px
+[User-Interface]: User-Interface.png width=680px height=461px
 
 [Menu-Bar]: Menu-Bar.png width=599px height=64px
 
@@ -2605,7 +2626,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Show-and-Hide-Navigation]: Show-and-Hide-Navigation.png width=680px height=488px
 
-[Menu-Bar-2]: Menu-Bar-2.png width=599px height=64px
+[Menu-Bar-3]: Menu-Bar-3.png width=599px height=64px
 
 [Story-Element-Flyout]: Story-Element-Flyout.png width=472px height=116px
 
@@ -2651,11 +2672,11 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Clipboard-Image]: Clipboard-Image.png width=440px height=264px
 
-[Clipboard-Image-63]: Clipboard-Image-63.png width=680px height=449px
+[Clipboard-Image-77]: Clipboard-Image-77.png width=680px height=449px
 
-[Clipboard-Image-64]: Clipboard-Image-64.png width=680px height=494px
+[Clipboard-Image-78]: Clipboard-Image-78.png width=680px height=494px
 
-[Clipboard-Image-65]: Clipboard-Image-65.png width=680px height=495px
+[Clipboard-Image-79]: Clipboard-Image-79.png width=680px height=495px
 
 [Character-Relationships-Tab]: Character-Relationships-Tab.png width=680px height=516px
 
@@ -2679,7 +2700,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Trait-Builder]: Trait-Builder.png width=352px height=304px
 
-[Clipboard-Image-66]: Clipboard-Image-66.png width=680px height=491px
+[Clipboard-Image-80]: Clipboard-Image-80.png width=680px height=491px
 
 [Setting-Sensations-Tab]: Setting-Sensations-Tab.png width=680px height=454px
 
@@ -2691,9 +2712,9 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Scene-Sequel-Tab]: Scene-Sequel-Tab.png width=680px height=454px
 
-[Clipboard-Image-67]: Clipboard-Image-67.png width=443px height=496px
+[Clipboard-Image-81]: Clipboard-Image-81.png width=443px height=496px
 
-[Clipboard-Image-68]: Clipboard-Image-68.png width=384px height=516px
+[Clipboard-Image-82]: Clipboard-Image-82.png width=384px height=516px
 
 [Tools-Master-Plots]: Tools-Master-Plots.png width=544px height=631px
 
@@ -2701,7 +2722,11 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Tools-Stock-Scenes]: Tools-Stock-Scenes.png width=475px height=628px
 
-[File-Open-Dialog-4]: File-Open-Dialog-4.png width=559px height=595px
+[Clipboard-Image-83]: Clipboard-Image-83.png width=680px height=375px
+
+[Clipboard-Image-84]: Clipboard-Image-84.png width=551px height=707px
+
+[File-Open-Dialog-5]: File-Open-Dialog-5.png width=559px height=595px
 
 [Create-New-Story-Dialog]: Create-New-Story-Dialog.png width=555px height=565px
 
@@ -2717,7 +2742,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Tutorial-1-Changed-Indicator-(Red)]: Tutorial-1-Changed-Indicator-(Red).png width=53px height=47px
 
-[Changed-Indicator-4]: Changed-Indicator-4.png width=55px height=40px
+[Changed-Indicator-5]: Changed-Indicator-5.png width=55px height=40px
 
 [Tutorial-1-Empty-Struture-Tab]: Tutorial-1-Empty-Struture-Tab.png width=651px height=708px
 
@@ -2751,15 +2776,15 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Tutorial-4-Renamed-third-problem]: Tutorial-4-Renamed-third-problem.png width=680px height=510px
 
-[Clipboard-Image-69]: Clipboard-Image-69.png width=491px height=171px
+[Clipboard-Image-85]: Clipboard-Image-85.png width=491px height=171px
 
-[Clipboard-Image-70]: Clipboard-Image-70.png width=228px height=208px
+[Clipboard-Image-86]: Clipboard-Image-86.png width=228px height=208px
 
-[Clipboard-Image-71]: Clipboard-Image-71.png width=256px height=129px
+[Clipboard-Image-87]: Clipboard-Image-87.png width=256px height=129px
 
-[Clipboard-Image-72]: Clipboard-Image-72.png width=265px height=137px
+[Clipboard-Image-88]: Clipboard-Image-88.png width=265px height=137px
 
-[Tools-Master-Plots-3]: Tools-Master-Plots-3.png width=544px height=631px
+[Tools-Master-Plots-4]: Tools-Master-Plots-4.png width=544px height=631px
 
 [Tools-Master-Plots-Result]: Tools-Master-Plots-Result.png width=680px height=353px
 
@@ -2781,10 +2806,10 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Plotting-with-StoryBuilder-SubProblems-Epanded-into-Scenes]: Plotting-with-StoryBuilder-SubProblems-Epanded-into-Scenes.png width=273px height=356px
 
-[Clipboard-Image-73]: Clipboard-Image-73.png width=390px height=534px
+[Clipboard-Image-89]: Clipboard-Image-89.png width=390px height=534px
 
-[Clipboard-Image-74]: Clipboard-Image-74.png width=548px height=670px
+[Clipboard-Image-90]: Clipboard-Image-90.png width=548px height=670px
 
-[Clipboard-Image-75]: Clipboard-Image-75.png width=543px height=281px
+[Clipboard-Image-91]: Clipboard-Image-91.png width=543px height=281px
 
-[Clipboard-Image-76]: Clipboard-Image-76.png width=568px height=355px
+[Clipboard-Image-92]: Clipboard-Image-92.png width=568px height=355px

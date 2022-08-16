@@ -1,20 +1,20 @@
 # Miscellaneous #
 Changelog Pop-up / What’s new menu <br/>
 Occasionally, when StoryBuilder updates a window will be shown. This will summarise what has changed in this update and which developer made that change. <br/>
-![](Clipboard-Image-73.png)
+![](Clipboard-Image-89.png)
 
 If you decide you want to see this popup again, you can access it in Preferences <br/>
-![](Clipboard-Image-74.png)
+![](Clipboard-Image-90.png)
 Developing StoryBuilder <br/>
 If you are a C# developer and are somewhat familar with WinUI (or another XAML based UI language) then you can contribute to StoryBuilder (Which is written in C# and uses WinUI 3). <br/>
 For more information about contributing, please check the GitHub Repository. <br/>
 Developer only menus / pop-ups <br/>
-![](Clipboard-Image-75.png)
+![](Clipboard-Image-91.png)
 
 If you have cloned StoryBuilder to a separate repo and built it for the first time then you may be surprised to see this screen. It indicates a key file related to licensing is missing from your local clone. These licenses are in effect for the storybuilder.org repo only. The missing licenses won’t cause any issues with the app functioning, but your copy won’t report errors via Elmah.io and you may see pops relating to syncfusion licensing errors. <br/>
 Regardless, congratulations on successfully compiling StoryBuilder. <br/>
 
-![](Clipboard-Image-76.png)
+![](Clipboard-Image-92.png)
 
 If StoryBuilder notices you have a debugger attached to the process, the developer menu will appear. <br/>
 This shows info about the computer and may contain buttons to test some parts of the storybuilder. <br/>
