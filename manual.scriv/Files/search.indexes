@@ -60,8 +60,17 @@ Theme can sometimes be difficult to define.  The problem subject (contained in t
             <Text>
 #</Text>
         </Document>
+        <Document ID="04A57E9E-65EA-47B4-A80B-5B444A7FB694">
+            <Title>Danger Calls Story Premise</Title>
+        </Document>
+        <Document ID="04C62115-4763-4DBE-9274-615F703F1FD8">
+            <Title>Danger Calls First Scene Sketch</Title>
+        </Document>
         <Document ID="04E171B4-20CB-47AF-A2DA-46CA458D459A">
             <Title>Tutorial 4 - Renamed third problem</Title>
+        </Document>
+        <Document ID="054656A5-02E5-4F2D-88DD-C4750C4ED742">
+            <Title>Problems and Scenes Reordered</Title>
         </Document>
         <Document ID="061B0597-902D-46BD-8590-683976AE05C1">
             <Title>Creating a Story pt 3</Title>
@@ -118,6 +127,9 @@ Neither of these problems are fleshed out, but we’ll work on that in a minute.
         <Document ID="07E44666-A186-49ED-9B4B-39AF188DC2EE">
             <Title>Trait Builder</Title>
         </Document>
+        <Document ID="085520A0-CDA4-4161-9433-9EB1DC2EA6E9">
+            <Title>Lacas Psychological</Title>
+        </Document>
         <Document ID="0879F6E1-F2D5-4031-87A2-F79264BC2286">
             <Title>Character Flaw Tab</Title>
         </Document>
@@ -132,13 +144,11 @@ Key Questions
 
 #
 
-[tk: Format]
-
-Key Questions are accessible from the Tools menu.  There are sub-menus which contain lists of questions appropriate to the Story, Problem, Character, Setting, and Plot forms and story elements.
+Key Questions contains sub-menus which contain lists of questions appropriate to the Story Overview, Problem, Character, Setting, and Plot forms and story elements.
 
 Use the key questions to refine and test your story elements.   If you wish, you can record  answers or notes to questions that need highlighting or require more thought. 
 
-The questions for a story element are a circular list.  That is, when you've displayed the last question for this form, the next question to display will be the first question for the form.  To navigate through the questions, use the Next (&gt;&gt;) and Previous (&lt;&lt;) buttons.
+The questions for a story element type are a circular list.  That is, when you've displayed the last question for this form, the next question to display will be the first question for the form.  To navigate through the questions, use the Next (&gt;&gt;) and Previous (&lt;&lt;) buttons.
 </Text>
             <Notes>KEYQUEST</Notes>
         </Document>
@@ -205,41 +215,40 @@ Goal, Motivation, Conflict Builder, Conflict
         <Document ID="0DA85121-D2EF-42BB-A1E1-97E6185680C3">
             <Title>Creating a Story pt 8</Title>
             <Synopsis>TUTOR08</Synopsis>
-            <Text>Having developed the characters better, we can look at the plot.  So far we have a skeleton plot, created with the Master Plots tool, and have added a couple of specific scenes:
+            <Text>Having developed the characters better, we can return to the plot.  So far we have a skeleton plot, created with the Master Plots tool, and have added a couple of specific scenes, an opening scene and a climax. Our goal is to replace the rest of the skeleton plot points with specific scenes, not in count but in content and shape. Having a beginning and an ending is a good start. Every story is a journey. Of course, you're not bound to follow the skeleton, but our goal here is to illustrate StoryBuilder's tools.  
 
+Let’s return to our opening scene (‘He’s like a ghost’) for a moment. .  Both scenes and problems are miniature stories in their own right. The Scene form contains several tabs, Development and Conflict, that address what might be called ‘intra-scene plotting.’  Here’s the use of the Development tab:
 
-1
+#
 
-Our goal is to replace the skeleton plot points with specific scenes.   Of course, you're not bound to follow the skeleton, but our partial goal here is to illustrate StoryBuilder's tools.  We'll write in scenes (see &quot;Plotting in Scenes&quot; for reasons.)  The opening narrative hook will have introduced the antagonist, Charlie Lacas, so we next need to introduce the detectives. 
-We can do this with a scene of dialog between the two detectives right there in the courtroom.  
+ Every scene in the story should have conflict or suspense, and this one is no exception:
 
-Every  scene in the story should have conflict or suspense, and this one is no exception.  Since the scene's between Leonard and Tony, the conflict has to be between them.  We'll let them argue over Lacas walking, and the scene summary becomes 'Leonard and Tony argue over Lacas' verdict.'  Going to the Conflict tab, we change the summary and consider the conflict:
+#
 
+Our initial thought was that the conflict was between Tony (or Leonard) and Charlie Lacas, but since Lacas isn’t present in the scene (even though he’s the focus of it), the scene's conflict has to between Leonard and Tony, the ones who are there.  Conflict doesn’t have to be a fight, it’s any kind of opposition to your character’s goals or values. On the Problem form there’s a tool, Conflict Builder, which affords various types of conflict, but at the scene level, a property, Value Exchange, addresses this more subtly.  Our choice, Challenge - Acceptance, implies a choice to try to find a solution to their lack of information, and that in turn suggest a conflict: the alternative is Challenge - Refusal, giving up. The conflict in this scene, then, can be a difference in approach, mirrored in their feelings. 
 
-2
+The next point in the skeleton is 'Present Problem to be Solved'.   Since we've worked over the problems, we know what the problem is— the Story Question for our first, external problem: 'How can Leonard and Tony overcome the 'cellular phone advantage' and find out where Charlie Lacas' next drug deal will be held, so that they can catch him?' 
 
+All we need to do is to change the skeleton plot point into one which presents this problem.  We can let Leonard present it to the reader, by discussing Lacas' use of technology. A single scene can, and should, server multiple purposes.
 
-The Dramatic Situations form, which is invoked from the Plotting Aids sub-menu of the Tools menu, might have also been of use in finding conflict for this scene.   The shortcut keys [Ctrl+D] bring the form up:
+There are other tools to help you plot- for example, Stock Scenes:
 
+#
 
-3
-It takes some imagination to see how the dramatic situations can fit to a scene, but once you get the hang of it you'll see these same 36 situations repeated endlessly in fiction.  In this case, we've chosen Fatal Imprudence.  The purpose of this scene is to introduce the characters Leonard and Tony, and this dramatic situation allows us to show Leonard's character flaw, as well as to create conflict. 
+Stock Scenes are exactly what their name implies: scenes that you’ve seen so often you recognize them instantly.   We used ‘The chase leads into an ambush’ as the setup to our ‘Leonard's impulsiveness lets Lacas capture him’ problem.
+We didn’t call it that, of course, and in fact the capture idea we started with didn’t work: capture implies escape, and it just didn’t fit. Instead, our ‘The chase leads into an ambush became this:
 
- The Copy button copied roles from the dramatic situation into our Scene tab.  We can assign these two roles to two of our characters (the choices are obvious):
+#
 
+Although the Scene Type we selected was ‘Action scene’, this is actually the Climax. If we go back to our Master Plots Three Act Play, we’ll find one more piece:
 
-4
+# 
 
-The next point in the skeleton is 'Present Problem to be Solved'.   Since we've worked over the problems, we know what the problem is— the Story Question for our first, external problem: 'How can Leonard and Tony overcome the 'cellular phone advantage' and find out where Charlie Lacas' next drug deal will be held, so that they can catch him?'
+We’ve added two scenes after Shootout, ‘Tony updates Leonard on the aftermath’ and ‘Tony confronts Jack Chun’, both of which constitute the denouement for our story. The  confrontation scene, we think, closes a plot hole, how the bad guys came to set up the ambush, namely, a double-cross by Chun. The Problem, ‘Leonard’s impulsiveness lets Lacas capture him’, turns out not to be the second problem all.  ‘Jack Chun double-crosses the detectives.’  Might be a better title, and one question to address is why the double-cross: the question of motive. 
 
-All we need to do is to change the skeleton plot point into one which presents this problem.  We can let Leonard present it to the reader, by discussing Lacas' use of technology:
+These changes, in the climax scene, Shootout, and a better understanding of the second sub-problem, are typical of what occurs when you’re plotting in scenes. Your story, whether a novel or a short story or an episodic television script, is a series of events which are process the problems your protagonist is trying to solve, and which are linked by cause and effect. Understanding your problems, and using story structure, are the workflow that drives your plotting process.
 
-
-5
-
-To illustrate the universality of the Dramatic Situations tool, we chose a dramatic situation for this scene, as well: Enigma.
-
-We also got rid of the first two placeholder plot points by clicking on them on the outline side of the form and then clicking on the Delete command button.
+Danger Calls is melodramatic and its characters aren’t as well drawn as they should be, but this exercise has been meant to show how an idea can evolve via a repeatable process into a workable story outline, and how StoryBuilder can help you do that. The following section of the manual, Writing with StoryBuilder, elaborates on this process, but the best way to learn is to do, making your own mistakes and solving your own problems. We hope StoryBuilder helps you in your writing journey.
 </Text>
         </Document>
         <Document ID="0E751959-7570-49F0-B8F8-180DCCFFA8DB">
@@ -351,16 +360,8 @@ Always honor your muse by recording whatever it gifts you about your story: a bi
 
 </Text>
         </Document>
-        <Document ID="1D99119B-1061-43A2-AD8C-2933269ED445">
-            <Title>Character Names</Title>
-            <Text>
-Character Names
-
-The Male First Names,  Female First Names, and Last Names tools can be selected from the Characterization Aids sub-menu of the Tools menu.  These menu entries will cause a list of common names to appear to help you in selecting a name for your character.
-
-All three of these lists can be tailored to your preferences. See &quot;Customizing StoryBuilder&quot; for details on how to add, delete, or modify the lists.
-</Text>
-            <Notes>CHNAMES</Notes>
+        <Document ID="1E8F987B-B03B-418D-96DB-BE975F9A3AF4">
+            <Title>Danger Calls after Scene Move</Title>
         </Document>
         <Document ID="1EBE4EDA-09F8-43DC-9B55-BD5161FD02C7">
             <Title>Stock Scenes</Title>
@@ -557,37 +558,49 @@ Critiquing others’ stories is a great way to improve your art, because it’s 
         <Document ID="26B6DF7B-A7DE-48E5-8189-1A71DD277D2D">
             <Title>Creating a Story pt 6</Title>
             <Synopsis>TUTOR06</Synopsis>
-            <Text>Let's use the 'Lacas walks out of the courtroom, a free man' scene as our narrative hook.  We'll use the Three Act Play as it was intended,  a scaffolding, and replace the plot point for 'Narrative Hook' with our scene.  To do so, we'll move our scene where it belongs.   First we double-click on the 'Lacas walks out of the courtroom' label on the list of plot points on the left hand side of the screen.
+            <Text>Story structure is the closest you have to a recipe for plotting your story. Your goal, in following a template story structure like the ones the Master Plots tool provides, is to create scenes for your story that fit into the structure you’ve chosen, and to position them accordingly. The scenes you’ll use are what develops from your characters trying to solve their problems.
+ 
+We can replace the plot point for ‘Narrative Hook’ with  ‘He’s like a ghost’, the scene we added earlier. Let’s move our scene where it belongs, treating the MasterPlot scenes as they’re intended, temporary scaffolding. First, right-click on the scene, and then click on the ‘Move’ icon on the menu bar:
+#
+
+Click on the down arrow repeatedly until you’ve positioned it where you wish:
+
+#
 
 
-1
+After we've moved our scene to where we want it, we can get rid of the placeholder by right-clicking on the 'Narrative hook' scene and clicking the Move to Trashcan icon. 
 
-A Move Pending label appears in the bottom left hand corner of the screen.  This indicates that the label we double clicked has been marked to be moved.  We then click once on the 'Narrative hook' plot point.  Our scene is moved after it.  If you're moving in a downward direction, the plot point is moved after (below) the target, as in this case.  If you're moving upwards in the list, the plot point will be moved above (before) the target.  See &quot;Moving plot points&quot; in the &quot;Plotting&quot; chapter  for more information.
+#
+
+The scene will be moved under Deleted Story Elements. At the bottom of the Navigation Pane. If you think deleting a story element is a bad idea, you can move it back by right-clicking on it and clicking on the Restore Story Element from Trashcan button. 
+
+The placeholder scenes added by Master Plots each describe one function, but it’s wrong to think that a real scene only does one thing. The ‘He’s like a ghost’ scene, our Narrative Hook, also Introduces Characters- not all of them, but our protagonists, Leonard Kraskin and Tony Irwin, and, from a remove, our antagonist, Charlie Lacas. It also Presents a Problem to be Solved- ‘How will Leonard and Tony get past Charlie's tech?’, which is in fact a sub-problem of the Story Problem, ‘Catching the drug dealer Lacas’.  To illustrate, here’s a reorder of the Problems.
+
+#
+
+The two sub-problems have been moved under the main problem, and our one scene so far (‘He’s like a ghost’) has been moved under the problem it’s a part of.  The MasterPlots tool was also used a second time, to copy a slightly different kind of story structure, a pattern of action- the Escape.  Back when we worked on our story idea we already had an idea of what our climax scene  would be; this placeholder represents that. Clicking on this scene, we can make it our own by renaming it to 'Tony diverts Lacas by paging him and allows Leonard to escape’ and using our story Premise description. We also added the scene cast members by selecting their names from New Cast Member drop-down and clicking the ‘+’ Add Cast Member button.
+
+#
+
+The Three Act Play structure we added under the Scenes folder contains a ‘Climax’ plot point, with Notes that read:
+
+   This is the point in which the story problem is solved, one
+way or another. Either the protagonist succeeds in obtaining her
+goal, or she fails, or she decides that the goal isn't worth obtaining
+any more, or she discovers something that changes the situation- usually
+something about herself. It's important that your protagonist takes
+her fate in her own hands and solve, or try to solve, her own problem.
+Having the calvary ride up at the last minute is no longer acceptable.
 
 
+Our ‘Escape’ scene under the ‘Leonard’s impulsiveness lets Lacas capture him’ problem is this part of the story’s structure as well. 
 
-2
-
-After we've moved our scene to where we want it, we can get rid of the placeholder by clicking on the 'Narrative hook' plot point once more and then clicking the Delete button.
-
-We also have an idea of what our climax scene is—  the showdown we visualized when we were thinking about our problem's resolution.  Clicking on the 'Climax' plot point, change the description to 'Tony diverts Lacas with the phone and wounds him.'   The idea is that Tony calls Lacas' phone, which interrupts him.
-
-Plotting is usually the last thing to worry about, for several reasons.  The characters should be well defined, so that their actions are consistent with their natures.  The story problems should also be clearly understood, especially the resolutions.  Every problem is a story in miniature; plotting a story is largely a matter of arranging events from one or more problems into a satisfactory sequence.  But writing is a process of accumulation, and the ideas which you collect to create your story concept can come to you at any time.  If you visualize a plot point, don't hesitate to record it. 
+Plotting is usually the last thing in story design to worry about, for several reasons.  The characters should be well defined, so that their actions are consistent with their natures.  The story problems should also be clearly understood, especially the resolutions.  Every problem is a story in miniature; plotting a story is largely a matter of arranging events from one or more problems into a satisfactory sequence.  But writing is a process of accumulation, and the ideas which you collect to create your story concept can come to you at any time.  If you visualize a scene.
 </Text>
             <Notes>TUTOR06</Notes>
         </Document>
-        <Document ID="2A548D22-00F7-4E85-AC2F-76D1AE85CDDA">
-            <Title>Resolution Tab</Title>
-            <Synopsis>PRRESOL</Synopsis>
-            <Text>Resolution Tab
-
-
-
-The resolution is the outcome of the problem.  Not every problem in a story must be resolved, but the important ones which affect the protagonist's desire and show his growth must be.  If they are not, the reader, who has been turning pages to find out what happens, will feel cheated.
-
-The resolution of a problem is more than what happens.  It also includes how the outcome came to be reached, and for the major story problems (especially inner problems which deal with character growth), what the story means— the lessons learned.
-
-</Text>
+        <Document ID="29DF0683-214A-4D08-96D9-DA2BB2B7BB18">
+            <Title>Danger Callse - Stock Scenes</Title>
         </Document>
         <Document ID="2A7612FD-CB60-4695-9203-A4787E70F3A5">
             <Title>Story Explorer and Story Narrator Views</Title>
@@ -607,14 +620,23 @@ Story Narrator View is the view you’ll use when you’re ready to structure yo
 </Text>
             <Notes>To be added</Notes>
         </Document>
+        <Document ID="2AA06161-69C9-466B-9048-AFC30593C440">
+            <Title>Tony Irwin Inner Traits</Title>
+        </Document>
         <Document ID="2C36ADB2-13B2-4D74-B489-02F92CB2DE87">
             <Title>Tutorial 4 - Lacas gets the drop on Kraskin</Title>
         </Document>
         <Document ID="2CCBF812-DD9C-4651-8D32-C6F20F526538">
             <Title>Prefences CommandBar Button</Title>
         </Document>
+        <Document ID="2DD85FEB-3231-419C-890D-FDE83A7EEA93">
+            <Title>Danger Calls - Denouement</Title>
+        </Document>
         <Document ID="2F6B587C-0A26-4CF9-8D14-E3A587E0081F">
             <Title>Plotting with StoryBuilder - Story Problem MasterPlots Scene list</Title>
+        </Document>
+        <Document ID="301C3F47-4306-459B-8916-14AACD9B6B04">
+            <Title>Danger Calls Narrative Hook</Title>
         </Document>
         <Document ID="3119D876-985A-427A-925C-0AF45FDDB811">
             <Title>Protagonist Tab</Title>
@@ -668,25 +690,24 @@ Using your outline as your guide gives you a number of places to start editing- 
             <Title>Tools Conflict Builder</Title>
         </Document>
         <Document ID="338AE67A-2D80-4ED4-8AA3-BD5178955ED9">
-            <Title>Using the Narrative Editor</Title>
-            <Text>Using the Narrative Editor
-The Narrative Editor is a useful way to quickly turn your Story Plan from the explorer into an actual story.
-You can access the Narrator Editor by clicking the Book Icon in the top bar, if you cannot see it try clicking … or updating your copy of StoryBuilder.
-#
+            <Title>Narrative Editor</Title>
+            <Text>Narrative Editor
+As is discussed in Story Explorer and Story Narrator Views, the sequence of scenes you choose to tell your story in (it’s narrative order) will frequently be different than the order you create the scenes as you develop your outline in Story Explorer.
+You can move a scene from Story Explorer to Story Narrator at any time with the aid of the Navigation Pane Flyout Command Bar’s ‘Move to Narrative’ button, but another tool, Narrative Editor, can help you quickly develop your Narrator View by moving scenes en masse. This might be done late in the outline’s development, for instance.
 
 Once you open the Narrative Editor, it will look similar to this. On one side you will the Story Explorer View (The view where you plan your story) and the Narrator View (This is the view that shows your story as it’s told.) 
+
 #
-The narrative view is different from the Explorer view and can only contain Scenes and Sections/Folders. Along the bottom there are several buttons:
+
+The Narrative view is different from the Explorer view and contains only Scenes and Sections. Along the bottom there are several buttons:
+
 Add Scene - Adds a node from the Story Explorer View (Only scenes and folders can be copied over, other types will not be copied over)
 Add all unused scenes  - Copies all scenes in the explorer view that are not currently contained in the Narrative view.
 ^/v - Moves the selected node will be moved up / down 
-Folder Icon - Creates a Section/Folder in the narrator view
-Trash Icon - Moves a node to the trash
-Done - Closes the Narrative Editor
-
-Notes: 
-- Internally this is refered to as NarratorTool or NTool
--</Text>
+Folder Icon - Creates a Section (Chapter, Act, etc.) in the narrator view
+Trash Icon - Removes a Narrator View node
+The Done button closes the Narrative Editor when you’re finished.
+</Text>
         </Document>
         <Document ID="34350595-678B-47A9-87C9-ED3C221E099D">
             <Title>Defining Characters</Title>
@@ -867,6 +888,9 @@ The menu key(sometimes called document key) looks like this:
             <Notes>Multiple User Inputs Note.docx
 
 Needs added</Notes>
+        </Document>
+        <Document ID="35E30DF3-0AEF-49EA-BD60-A682593299DC">
+            <Title>Tools Main Menu</Title>
         </Document>
         <Document ID="363E5E47-E2D7-4599-A7AE-5E65DBC0924A">
             <Title>Story Idea Tab</Title>
@@ -1162,64 +1186,63 @@ Refer to the replacement to Polti. Also, need to change the tool itself to use t
         <Document ID="4A68CC97-601D-4478-BF3C-CFB520D9790C">
             <Title>Scrivener Reports Generated Status Message</Title>
         </Document>
-        <Document ID="4BBA2BB8-F8A1-4BDC-8C53-9A03304FD6A1">
-            <Title>Characterization Aids</Title>
-            <Text>
-Characterization Aids
-
-The Characterization Aids sub-menu of the Tools menu displays a pull-down list of tools specific to the process of character definition.
-
-These include tools to refine Character Relationships, lists of Virtues and Vices and Skills and Abilities to develop character traits, and naming aids.
-</Text>
-            <Notes>CHARAIDS</Notes>
+        <Document ID="4C503087-4471-444C-948C-C1AAD8DF8229">
+            <Title>Navigation Pane Flyout CommandBar</Title>
         </Document>
         <Document ID="4D4CCDD3-95DD-44BD-8BBF-A45E5302112C">
             <Title>Creating a Story pt 5</Title>
-            <Synopsis>TUTOR05</Synopsis>
-            <Text>The original external problem is solved at the same time and in the same scene in this story.  This isn't always the case; often the story's turning point is the resolution of the inner problem, and the solution of the outer problem depends on the protagonist's change.  We should state the resolution of the external problem.  Clicking on the first problem from the list at the left of the screen, and then on the Resolution tab, allows us to key this information:
+            <Text>The original external problem (‘Catching the drug dealer Lacas’) is solved through the resolution of the inner problem (‘Leonard's impulsiveness lets Lacas capture him’.) The story's turning point is the resolution of the inner problem, but an additional bit is needed, what we started with, getting the drop on Lacas. We should state the resolution of the external problem.  Clicking on the first problem from the list at the left of the screen, and then on the Resolution tab, allows us to key the Premise:
 
+Lacas has avoided being caught before because of his cunning use of technology to communicate with his street dealers and customers. But Leonard and Tony have figured out how to trace the calls, and think they know where Lacas is. Using their new tech, and in two cars, Leonard and Tony zero in on Lacas when Bob Luhrs calls to place an order. They follow and find the house Lacas is using to dispense drugs.. Tony thinks it's too easy, but Leonard rushes in. It's a trap, however, and Lacas and Luhrs captures Leonard but hesitate, not knowing what to do with him.
 
+The Premise is the same as the inner problem, with the extract bit (scene) added: ‘Tony's able to free his partner by communicating to Lacas with the Luhrs pager channel, distracting Lacas and Luhrs while he gets the drop on the dealers.’ 
 1
 
+Most stories have more than one problem, but an important thing to keep in mind is that only one of them is the story problem. The story problem’s easy to recognize: when it’s resolved: the story is over. Failure to understand that will lead to an unsatisfactory conclusion. The other Problem story elements must support that Problem, in various ways: inner vs. Outer problem, as a subplot, etc. If a Problem doesn’t relate to the story problem, it doesn’t belong to this story. The main problem is often implicit in the original story idea, but not always. You may find out which question your story is going to answer only after exploring the various problems.
 
-It's a good idea to be precise about the story's problems, so let's look at the Protagonist tab while we're visiting this one.
+StoryBuilder acknowledges the need for a main story problem by having you pick the Problem that is your story problem, back on the Overview node. Overview’s Premise tab looks like this:
+
+#
+
+The Story Problem drop-down lists your outline’s Problem story elements. If you select the problem we’ve been developing you’ll see:
+
+#
+
+Note that the Premise here is just a read-only copy of the Premise on the Problem story node’s Resolution tab. Don’t forget to save your work- the red pencil on the Status bar is a reminder that you have unsaved work. You may want to take a look at the various backup and autosave options available in Preferences.
+
+Your workflow may be different, but we recommend focusing on Problem and Character story elements to the degree that you know your major characters and their problems, know how your problems relate to each other, and know which problem is your story problem. When you know these things, you’re ready to start plotting.
+
+Back when we started, we envisioned a scene in which Lacas walks out of the courtroom, a free man, talking on his cellular phone to someone, and laughing at Leonard, because of lack of evidence. That might be a good way to introduce the story, but our research suggests that with a lack of evidence, our guys wouldn’t have enough to charge Lacas; no prosecutor would charge. Maybe instead it opens with with our guys bemoaning the lack of something concrete to catch Lacas in the act with? Let’s try adding that scene.
+
+Right-clicking the Scenes folder displays a fly-out command bar.
+
+#
+
+Clicking on the Add Scene icon on the fly-out bar will insert a new scene, which you can click on and rename by keying into the Name field. A sketch might also be added:
+
+#
 
 
-2
+Of course, one scene isn't a plot. This scene might or might not fit. If it’s something you envision when you’re working through your story idea and concept and premise, trust your intuition and record it. Honor your muse by paying attention to those early thoughts. This goes for any story elements that suggest themselves. If they don’t fit, they can always be trashed.
 
-The Name control lists the characters who have been defined on the Character form.  We'll click on Leonard's name to select him as the protagonist.  The Goal is to catch Charlie Lacas.  Motivation is why Leonard wants to catch him.  It's his job, of course, but it's a good idea to invest a major character with strong, emotional motives.  The Motivation control contains a list of a number of motives; the first one, Vengeance, sounds good.  Leonard might want revenge for any number of reasons, but let's say that Lacas has shamed him by being freed from earlier charges.  For now, let's select this motive.
+Let's put a skeleton of a plot together, using the problems and story premise you’ve developed.
 
-We can visualize a scene in which Lacas walks out of a courtroom, a free man, talking on his cellular phone to someone, and laughing at Leonard.  That might be a good way to open the story, in fact.  Let's record it while the idea is fresh.  
+On the Tools menu there's a sub-menu with several tools to assist plotting.  One of them, Master Plots, could be useful in this situation.  The master plots available from this sub-menu suggest certain events which take place at different places in a story, and can quickly provide a skeleton plot outline which provides a shape for the plot. With the Scenes folder node selected, rather than go through the menus, let's use a shortcut and type in [Ctrl+M].  This will display the Master Plots menu:
 
-Clicking on the Plot entry on the menu bar takes us to the Plot form, and clicking on the Add button adds a new item labelled 'Plot Point'.  We can key our scene title into the control; when we hit Enter the 'Plot Point' label will be replaced with the title.
-
-
-3
-
-Of course, one scene isn't a plot.  While it's premature to worry about plotting before the characters are better defined, let's at least put a skeleton of a plot together.
-
-On the Tools menu there's a sub-menu with several tools to assist plotting.  One of them, Master Plots, would be useful in this situation.   The master plots available from this sub-menu suggest certain events which take place at different places in a story, and can quickly provide a skeleton plot outline which provides a shape for the plot.
-
-Rather than go through the menus, let's use a shortcut and type in [Ctrl+M].  This will display the Master Plots menu:
-
-
-4
+#
 
 Not all of the master plots are true plot outlines; other master plots suggest common story types which recur in fiction.  But we're looking for an outline, and the first few master plots do just that.
 
-Let's use the first one on the list, the Three Act Play.  Clicking on the Copy button will populate our story with a set of plot points which serve as the outline.
+Let's use the first one on the list, the Three Act Play.  Click on the Copy button. 
+
+#
 
 
+The copy function populated the Scene folder with a series of plot points which suggest where in the dramatic progression of a story certain things should happen.  The Notes tabs on these plot points contain some suggestions.  For example, the Notes for 'Narrative hook' looks like this:
 
+#
 
-5
-
-The copy function populated the Plots form with a series of plot points which suggest where in the dramatic progression of a story certain things should happen.  The Notes tabs on these plot points contain some suggestions.  For example, the notes for 'Narrative hook' read:
-
-It's important to capture the reader's interest at the beginning of the story sufficiently to keep him reading until the story itself (the protagonist and the problem) have engaged his attention.  The opening paragraphs of the story must serve as an advertisement that it's worth reading.
-</Text>
-            <Notes>TUTOR05
-</Notes>
+Although these are Scene story elements, they are not scenes, but placeholders: a reminder of things that your scenes need to do,   and roughly the order they need to do them in. In short, they are the structure of your story, its spine. Since your story is centered on one of your Problems, the main Story Problem, the story’s structure is the structure of that problem.  </Text>
         </Document>
         <Document ID="4D7CA8B4-0659-4AC0-81D3-45651FEBD0B7">
             <Title>Concept Tab</Title>
@@ -1304,40 +1327,27 @@ The other senses are often neglected but can be very important.  Smells in parti
         <Document ID="517776A7-309A-4FBA-BF34-0CE64853AB69">
             <Title>Topic Information</Title>
             <Synopsis>TOPICS</Synopsis>
-            <Text>[tk needs screen, reformatting]
-1
-Topic Information
+            <Text>Topic Information
+
+The Topic Information sub-menu on the Tools menu contains a list containing information specific to certain topic categories:
 
 #
 
-The Topic Information sub-menu on the Tools menu contains a list containing information specific to certain topics.  These items will be displayed either on a card file-like list or a Windows notepad, depending on the contents. 
+A topic, once selected, may contain sub-topics:
 
- The card file entries look like this:
+#
+. 
 
-2
+Information on some of the topic categories follows.
+Aspects of a Crime
 
-
-Notepad entries invoke the Windows Notepad accessory to browse the topic document.
-
-Topic information can be tailored to display any information you wish, using the two provided tools.  You can modify the contents of the exiting sub-menus, or add or replace sub-menus.  See &quot;Customizing StoryBuilder&quot; and &quot;Changing Topic Information&quot; for more details.
-
-Information on some of the default topics follows.
-
-Parts of a Crime
 When plotting a mystery, it's useful to plot 'backwards' from the crime itself.  Parts of a Crime provides a reminder of aspects of a crime you should take into consideration.
-
-
 Milieus
+
 Each genre contains certain elements which tend to recur as environment, backdrop, settings, and situations.  The Milieu entries contain lists of some of these elements.
-Sub-genres
+Subgenres
+
 Contains brief descriptions of some of  the finer classifications of a particular genre.
-
-
-
-Bibliography
-Contains a list of books on or about the craft of writing.
-
-
 </Text>
         </Document>
         <Document ID="51BFCF02-01B6-4090-B436-329F3C808E54">
@@ -1373,8 +1383,11 @@ Contains a list of books on or about the craft of writing.
         <Document ID="56B40265-3BA3-4640-8C5D-0324D5A89FB2">
             <Title>Tutorial 4 - Behaviors</Title>
         </Document>
-        <Document ID="57D1F0D2-65AC-4BCF-9F6E-587AF9EE31C0">
-            <Title>Tutorial 3 - Catching the drug dealer</Title>
+        <Document ID="5809B9FD-6FAA-4A78-ABEE-E7DF9339F4A8">
+            <Title>Danger Calls Delete Placeholder</Title>
+        </Document>
+        <Document ID="5810E1FC-0F0D-4D24-ACAC-A3914313F015">
+            <Title>Move Story Elements</Title>
         </Document>
         <Document ID="5849F931-02F4-456D-A1B5-8782ADC79471">
             <Title>Character Outer Traits</Title>
@@ -1423,8 +1436,14 @@ What makes GMC unique in its discussion of Conflict is that Dixon not only creat
 I can’t say enough about this book. Buy it and read it. Then re-read it. Then use it.</Text>
             <Notes>Need to talk about GMC somewhere…</Notes>
         </Document>
+        <Document ID="58FA31B5-AFA5-4D00-92FA-CCF918DEE204">
+            <Title>Danger Calls Move Scene</Title>
+        </Document>
         <Document ID="599DDC12-670E-4BA8-B534-67C2F887978F">
             <Title>Tutorial 2 - Third Character</Title>
+        </Document>
+        <Document ID="5A7B3721-D380-4C2C-B3F3-0170FD56B3CB">
+            <Title>Danger Calls - Shootout</Title>
         </Document>
         <Document ID="5AE23344-2DF1-4124-8BC6-36C26B92C904">
             <Title>Search Function</Title>
@@ -1499,20 +1518,16 @@ Each of these options is discussed in the next topics of this manual.  </Text>
         <Document ID="5F6E0960-9C74-4FBC-9843-F78043724CE4">
             <Title>Preferences Dialog</Title>
         </Document>
-        <Document ID="5FED98B0-BC46-4193-877C-52067B60C116">
-            <Title>Tutorial 3 - Catching the drug dealer</Title>
-        </Document>
         <Document ID="603F8EE8-D387-475A-B33B-457171F8D376">
             <Title>Tools Menu</Title>
             <Synopsis>TOOLS</Synopsis>
-            <Text>
-[tk The old Tools menu is now launched from a Tools Button. Other tools, specific to one Story Element such as Problem, are launched from buttons on those forms.
+            <Text>Tools Menu
 
-Revise this as needed.]
 
-The Tools menu displays a pull-down menu of tools to assist in creating effective story outlines.  These tools include lists of  questions to help you test and refine your story, various topics related to writing, including information particular to various genres, and sub‑  menus of aids specific to the process of character definition and to the plotting process.
+The Tools menu is launched when you click the Tools Menu (wrench) button on the Menu Bar. It displays a pull-down menu of tools to assist in creating effective story outlines.  
 
-This chapter describes the tools StoryBuilder provides to assist you in crafting your story.
+#
+
 </Text>
         </Document>
         <Document ID="609F13B0-7E95-4632-AD6E-F37262B36A58">
@@ -1902,32 +1917,34 @@ Leonard Kraskin, trying to capture the drug dealer Charlie Lacas. Lacas has avoi
 
 This isn’t too satisfactorily; it has quite a few flaws. We haven’t spelled out exactly how Lacas uses his communications to his advantage, so we don’t know how our detectives are countering it. The Premise has the detectives in separate cars- are  they trying to triangulate a location?  Do they expect to send a message that Lacas will respond to? Who does he normally communicate with? Besides, he knows what the two detectives look like. Whatever they intercept wasn’t obtained with a warrant, and thus would be inadmissible. 
 
-Not knowing Lacas uses his communications suggests two weaknesses in our outlining: research and specificity. Here’s hoping it won’t result in an FBI van parked across the street, but some research in how drug deals operate and in the communications technology  they use resulted in a clearer understanding of the story.  StoryBuilder doesn’t yet have much in the way of research tools, but every story element node except folders has a ‘Notes’ tab. I’ve added my research notes on the Notes tab on the ‘How will Leonard and Tony get past Charlie's tech?’ Problem.
+Not knowing Lacas uses his communications suggests two weaknesses in our outlining: research and specificity. Here’s hoping it won’t result in an FBI van parked across the street, but some research in how drug deals operate and in the communications technology  they use led to a clearer understanding of the story.  StoryBuilder doesn’t have much in the way of research tools (yet), but every story element node except folders has a ‘Notes’ tab. I’ve added my research notes on the Notes tab on the ‘How will Leonard and Tony get past Charlie's tech?’ Story Problem.
 
-Let’s start with the ‘Who does he normally communicate with’ question. The tool to fix this is the same one that gave us our Concept: ‘What if?’ 
+Let’s start with the ‘Who does he normally communicate with’ question. The tool to fix this is the same one that gave us our Concept: ‘What if?’.  Our Problem becomes:
 
-What 
+Can the detectives thwart Charlie's secretive communications network and find out when and where he'll be dealing drugs?
 
-Pick story problems
+What if Charlie Lacas normally only communicates with a handful of selected street dealers using a paging system (see Notes)?
+
+What if Leonard and Tony acquire a system that can intercept the paging messages?  This needs someone who can set it up. And I doubt it's legal to intercept communications like this. Information Privacy Laws say something like 'Information collected by an individual can't be disclosed to other organizations or individuals unless specifically allowed by law or by consent of the individual.'
 
 
 The story is beginning to take on substance; we can start to visualize some scenes.  In fact, if a plot point occurs to you,  there's no reason not to add it, now or at any time.  Stories are conceived through a process of accumulation, and one of StoryBuilder's strong points is that you can collect whatever pieces fit as you find them.  But before we start plotting let's continue with the problems. 
 
 Character traits are also a means of achieving conflict.  Many stories don't have enough built-in conflict, which leads to contrived plots.  But conflict isn't necessarily limited to the interplay of protagonist and antagonist.  We can create conflict by giving Tony a trait which clashes with Leonard's.  The opposite of impulsiveness isn't necessarily caution, though.  Going back to the Inner Traits tab on Tony's record, we select Thoughtful from the Shrewdness trait:
 
+#
 
 
-4
 
 It's tempting to fill up the screen, by selecting other inner traits at this time, but it's better for the story to focus on just one or two traits in a character.  
 
 We can clarify the problems further.  The Resolution tab on the Problem form identifies the outcome of a problem. The outcome of the story's major outer or external problem is the most important; the story's over when this problem is resolved.  In this case, though, we might solve both problems at once, in a confrontational scene. Let's assume that we want a happy ending, and think about the inner problem's outcome:
 
+Lacas has avoided being caught before because of his cunning use of technology to communicate with his street dealers and customers. But Leonard and Tony have figured out how to trace the calls, and think they know where Lacas is. Using their new tech, and in two cars, Leonard and Tony zero in on Lacas when Bob Luhrs calls to place an order. They follow and find the house Lacas is using to dispense drugs.. Tony thinks it's too easy, but Leonard rushes in. It's a trap, however, and Lacas and Luhrs capture Leonard but hesitate, not knowing what to do with him.
 
-5
+Tony's able to free his partner by communicating to Lacas with the Luhrs pager channel, distracting Lacas and Luhrs while he gets the drop on the dealers.
 
-Does this work?  The story's over when Lacas is captured, and Leonard's inner problem, his impulsiveness, which might have gotten him killed, ends in his rescue.  The question is whether he learns and grows from the experience.  In an action-oriented story, this is less important, so we'll leave it alone for now.  However, it's worth coming back to; our story's theme will probably have to do with this character flaw (for example, 'Imprudence leads to danger'.)
-
+Does this work?  The story's over when Lacas is captured, and Leonard's inner problem, his impulsiveness, which might have gotten him killed, ends in his rescue.  The question is whether he learns and grows from the experience. A common pattern for inner problems is the ‘came to realize’ story, in which learning a lesson contributes to the   In an action-oriented story, this is less important, so we'll leave it alone for now.  However our story's theme  probably has to do with this character flaw (for example, 'Imprudence leads to danger'.)
 
  You can find out more about Problems here. 
 </Text>
@@ -1961,9 +1978,6 @@ Use the Appearance tab to round out the physical description of the character wi
         </Document>
         <Document ID="6A5734F5-3B3E-4D36-B4EB-9839976CDB4C">
             <Title>File Menu</Title>
-        </Document>
-        <Document ID="6C8DAA8A-5EA2-4041-8472-9B753D090580">
-            <Title>Move Story Elements</Title>
         </Document>
         <Document ID="6CEA9538-D6B8-4BFA-9F73-13A818996C5A">
             <Title>Tutorial 2 - Key Questions</Title>
@@ -2002,19 +2016,19 @@ The gap between these two perspectives,  and the answer to the original question
         <Document ID="6E6E90B7-4530-4C8E-986C-5593C09C1B0B">
             <Title>Navigation and Content Pane</Title>
         </Document>
-        <Document ID="6E732396-8660-4DE2-8681-51A652651E21">
-            <Title>Recovered Files (7/19/2022, 1:40 PM)</Title>
-        </Document>
         <Document ID="6E91D8A2-2F6A-4C70-AE1F-B7E40CCB0642">
             <Title>Dramatic Situations List of SItuations</Title>
         </Document>
         <Document ID="6F1C5153-DAD2-4EB0-B596-6AF840D4AD91">
-            <Title>Copy Characters and Settings-1</Title>
+            <Title>Copy Characters and Settings</Title>
             <Text>Copy Characters &amp; Settings
 
 This tool is coming soon. The purpose is to allow you to copy story elements from one story outline to another, such as in a series of novels.
 </Text>
             <Notes>Function is not coded yet</Notes>
+        </Document>
+        <Document ID="707865B7-D30D-4080-9B7F-B455F9A488DD">
+            <Title>Lacas Role</Title>
         </Document>
         <Document ID="73B95EBB-B710-4683-B60C-94E62CD0B900">
             <Title>Tutorial: Creating a Story</Title>
@@ -2040,6 +2054,9 @@ A story can  and usually will have multiple problems, but only one of them is th
         </Document>
         <Document ID="77748CF4-843C-4AE5-A17F-D2A486647641">
             <Title>Changed Indicator</Title>
+        </Document>
+        <Document ID="77CB0C00-0A3F-4A9A-8793-AA7B057A0ED1">
+            <Title>Danger Calls Three Act Play</Title>
         </Document>
         <Document ID="77F4A942-448A-449D-9E97-603660CDB626">
             <Title>Explorer and Navigator Views</Title>
@@ -2285,6 +2302,9 @@ In some cases (and particularly if you resize the StoryBuilder window down) not 
 </Text>
             <Notes>Function is not coded yet</Notes>
         </Document>
+        <Document ID="7FB5321A-85A7-4685-849C-2AA1F4B5DC94">
+            <Title>Opening Scene - Development</Title>
+        </Document>
         <Document ID="833DF1C1-C636-4034-9053-01C6641E9578">
             <Title>Contents</Title>
         </Document>
@@ -2467,7 +2487,7 @@ These are not scene summaries; it’s up to you to outline the scene itself, and
 
 #
 
-StoryBuilder won’t create these scenes for you (although the next topic, Plotting with StoryBuilder, can help you do soFor help in how to do so, MasterPlots  created one Scene story element for each plot point, which suggests that a scene can do only one thing. That’s far from the truth; a scene can and usually should do multiple things: introduce or develop character, advance the plot, etc. The Scene story element’s Development tab contains a field, Purpose of Scene, which includes many of these purposes (not surprisingly related to the Notes in a Scene generated by MasterPlots.) Purpose of Scene is different from most controls in that you can check off multiple purposes. 
+StoryBuilder won’t create these scenes for you (although the next topic, Plotting with StoryBuilder, can help you. For help in how to do so, MasterPlots  created one Scene story element for each plot point, which suggests that a scene can do only one thing. That’s far from the truth; a scene can and usually should do multiple things: introduce or develop character, advance the plot, etc. The Scene story element’s Development tab contains a field, Purpose of Scene, which includes many of these purposes (not surprisingly related to the Notes in a Scene generated by MasterPlots.) Purpose of Scene is different from most controls in that you can check off multiple purposes. 
 
 Dramatic Situations
 
@@ -2502,6 +2522,15 @@ Unlike Dramatic Situations, this tool works just with Scenes. One use is to help
 
 </Text>
         </Document>
+        <Document ID="87B4CF19-5435-4608-AD2C-2A209FF33E60">
+            <Title>Danger Calls Add Scene</Title>
+        </Document>
+        <Document ID="89A3D248-F618-455E-B077-B48FCBFB5D2F">
+            <Title>Danger Calls - Dramatic Situation</Title>
+        </Document>
+        <Document ID="8B450F82-808C-4228-929A-5840F719D2A3">
+            <Title>Danger Calls - Ally turns out to be on wrong side</Title>
+        </Document>
         <Document ID="8B97C5F7-9DCC-4ECD-ADF5-7F0B50A5B812">
             <Title>Plotting with StoryBuilder - Premise</Title>
         </Document>
@@ -2513,6 +2542,9 @@ Unlike Dramatic Situations, this tool works just with Scenes. One use is to help
         </Document>
         <Document ID="93BD73CF-E299-4042-A788-4CD5CEFBCBB9">
             <Title>File Open Dialog</Title>
+        </Document>
+        <Document ID="94332E8D-45B1-46C4-B0BA-9B6915336FD9">
+            <Title>Danger Calls Climax</Title>
         </Document>
         <Document ID="94DE8837-CDC3-4E44-9D13-B37F161D9029">
             <Title>Reading and Writing Outlines</Title>
@@ -2586,39 +2618,32 @@ StoryBuilder follows regular Windows conventions.  The app can be re-sized, maxi
             <Synopsis>TUTOR07</Synopsis>
             <Text>The characters, so far, have been defined by their roles; the only specific traits we've given them (Leonard and Tony) have been shaped by the story's needs.  It's time to put some flesh on these skeletons.
 
-Let's start with Charlie Lacas.  We know a few things about him.  He's young, he deals drugs, and he uses technology that the detectives don't have.  That absence of technology suggests that the story doesn't take place in a big city.  But perhaps Charlie is a city boy who's figured out that he can use his supplier contacts in New York to deal drugs in a small city, say in Pennsylvania somewhere.   It's safer, the competition is less, and he has an edge over the small-town cops.   This implies that he's fairly bright, which makes him a more worthy adversary for our detectives.
+Let's start with Charlie Lacas.  We know a few things about him.  He's young, he deals drugs, and he uses technology that the detectives don't have.  That absence of technology suggests that the story doesn't take place in a big city.  But perhaps Charlie is a city boy who's figured out that he can use his supplier contacts in New York to deal drugs in a smaller city, say in upstate New York somewhere.   It's safer, the competition is less, and he has an edge over the small-town cops.   This implies that he's fairly bright, which makes him a more worthy adversary for our detectives.
 
-Going to the Character form, we can start creating some of this:
+Going to his Character form, we can start creating some of this, starting with the Role tab:
 
-
-1
-
-Details of appearance were created also.
-
-We then turn to psychological considerations:
+#
 
 
-2
+We then turn to Psychological considerations:
 
-Personality Type  is based on the theory of enneagrams (see &quot;Personality Type&quot; under &quot;Psychology Tab&quot; in the &quot;Characters&quot; chapter  of this manual for more about enneagrams.)   A stereotype such as this can suggest how the character might react in certain situations.  
+#
 
-Let's also define some social factors:
+Personality Type is based on the theory of enneagrams (see &quot;Personality Type&quot; under &quot;Psychology Tab&quot; in the &quot;Characters&quot; chapter  of this manual for more about enneagrams.)   A stereotype such as this can suggest how the character might react in certain situations.  
 
+Let's also define some Social tab factors:
 
-3
+#
 
 The goal of all of this is to create a fully rounded human being, one who is believable and who you can visualize talking and acting in your story. 
 
 The other major consideration is that the character should support the role you've given him.  Had the initial story idea been for a character, you might have fleshed the character out before you started looking for story problems, and then looked for a role to fit the character, but in this case the role came first and the character should fit the part.
 
-We'll look at one last tab, the Back story tab:
+We'll look at one last tab, the Backstory tab:
 
+#
 
-4
-
-There's always a question of how much detail to provide, for characters, problems, settings, etc.  The answer will vary from story to story.  For example, this is an action-oriented story, so the characterizations aren't quite as important.  But although not everything you know about the character has to be in the story, everything you know will affect the story as you write it.  
-
-You can look at the DANGER.STB outline on the StoryBuilder default directory to see the rest of the character tabs, and to see the developments of the other two characters.
+There's always a question of how much detail to provide, for characters, problems, settings, etc.  The answer will vary from story to story.  For example, this is an action-oriented story, so the characterizations aren't quite as important.  Whether or not they make it to your writing, the more you know about your characters the better.
 </Text>
             <Notes>TUTOR07
 
@@ -2828,6 +2853,9 @@ The Story Overview contains your notes and choices about the overall story. This
 
 Change the name field for the Story Overview to your working title for the story. </Text>
         </Document>
+        <Document ID="AEB36A78-E5BF-4F00-B818-B6E22426DFD9">
+            <Title>Topic Information</Title>
+        </Document>
         <Document ID="AF0C7E4C-4079-478D-8C47-0FEC62024A5E">
             <Title>Overview Structure Tab</Title>
         </Document>
@@ -2836,6 +2864,9 @@ Change the name field for the Story Overview to your working title for the story
         </Document>
         <Document ID="B18778D5-5242-41A0-881A-2F7FA839BC01">
             <Title>Character Psychological Tab</Title>
+        </Document>
+        <Document ID="B23715EF-44DC-4288-8810-03550137ED57">
+            <Title>Overview Empty Premis tab</Title>
         </Document>
         <Document ID="B30A0255-6731-4AD4-9C56-0414785F7919">
             <Title>Plotting with StoryBuilder - Manolin Subplot</Title>
@@ -2865,25 +2896,6 @@ Seven Valleys Software
         </Document>
         <Document ID="B42F2FBA-0250-4157-9806-EF5207EC3886">
             <Title>Problem Problem Tab</Title>
-        </Document>
-        <Document ID="B4C83AFF-FDEB-4F4C-912A-9A4430159A67">
-            <Text>Developing StoryBuilder
-If you are a C# developer and are somewhat familar with WinUI (or another XAML based UI language) then you can contribute to StoryBuilder (Which is written in C# and uses WinUI 3).
-for more information about contributing, please check the GitHub Repository.
-
-Developer only menus / pop-ups
-#
-If you have cloned storybuilder and built it for the first time then you may be surprised to see this screen, this is because a key file is missing from your local clone. This will not cause any issues with the app functioning however your copy will not report errors via Elmah.io and you may see pops such as syncfusion licensing errors.
-Regardless, congratulations on successfully compiling StoryBuilder.
-
-#
-If StoryBuilder notices you have a debugger attached to the process, the developer menu will appear.
-This shows info about the computer and may contain buttons to test some parts of the storybuilder.
-If running without a keyfile (which is standard for those contributing to the storybuilder project.) then some of these buttons may not work or cause intended behavior.
-
-As such this menu may be removed, updated or abandoned at any point.
-(This menu can also be forced to shown by setting your name to ShowMeTheDevTab)
-</Text>
         </Document>
         <Document ID="B5BAD6CD-B8F5-469F-9D65-288D1D5001DD">
             <Title>Dedication</Title>
@@ -3077,7 +3089,7 @@ These individuals don't have normal feelings and reactions to social influences,
 
 
 
-The best  way to learn about StoryBuilder is to actually create a story with it.  That's what this tutorial is for.  We'll create a story outline with StoryBuilder and show you exactly what we did at each step along the way. We don’t claim it’s a great outline; actually, it’s pretty trite. But it tries to make the point that any story idea, with work and process, can be developed into a workable story.
+The best  way to learn about StoryBuilder is to actually create a story with it.  That's what this tutorial is for.  We'll create a story outline with StoryBuilder and show you exactly what we did at each step along the way. We don’t claim it’s a great outline; actually, it’s pretty trite. But the point is that any story idea, with work and process, can be developed into a workable story.
 
 The tutorial assumes you can navigate in StoryBuilder, so if you haven’t yet done so, please take a look at the Quick Start  section of this manual, and particularly at the Navigating in StoryBuilder subsection. That  said, let’s begin.
 
@@ -3327,6 +3339,9 @@ Scene Sketch		A thumbnail sketch of the scene.
 
 </Text>
         </Document>
+        <Document ID="C2E53FAA-2573-42C8-8257-28A38EE47F82">
+            <Title>Danger Calls - MasterPlots menu</Title>
+        </Document>
         <Document ID="C353F50A-5B46-4F53-AF4B-9537E411E9B1">
             <Title>Sequel Tab</Title>
             <Synopsis>PLSEQUEL</Synopsis>
@@ -3348,6 +3363,9 @@ New Goal		The period of thought leads to a new plan, by which the protagonist ca
 
 See &quot;Scene and Sequel&quot; for more information.
 </Text>
+        </Document>
+        <Document ID="C5079624-2746-4C47-A509-F417632A500A">
+            <Title>Lacas Backstory</Title>
         </Document>
         <Document ID="C68DFD6E-04A4-4709-8CF8-8079ECF91486">
             <Title>Back Matter</Title>
@@ -3418,6 +3436,9 @@ Here are a list of the options (Besides information fields such as name, email e
 </Text>
             <Notes>CUPREFER</Notes>
         </Document>
+        <Document ID="CA2CC3B2-9A61-4BE2-9CC3-123BC4237B41">
+            <Title>Lacas Social</Title>
+        </Document>
         <Document ID="CB0EEE35-84F6-4D12-9A81-6827BED783B8">
             <Title>Paperback</Title>
         </Document>
@@ -3448,26 +3469,8 @@ The scene is the actions your character takes to achieve a goal (and the actions
 
 </Text>
         </Document>
-        <Document ID="CE21B9D3-9FA6-45AB-87AC-2D39117FC9B8">
-            <Title>Quotes</Title>
-            <Synopsis>QUOTE</Synopsis>
-            <Text>
-Quotes
-1
-
-Who understands writing better than writers? The Quotes tool provides some of that…
-
-Selecting this item from the Tools menu will cause a randomly selected quote about the craft of writing to be displayed.
-
-The Preferences form, invoked from the File menu, can specify that a quote be displayed each time StoryBuilder starts, if you wish.
-</Text>
-            <Notes>Attempt at a better intro to this tool… not too successful…</Notes>
-        </Document>
         <Document ID="CE56FD2D-B11A-46B2-A26B-F75E9E2555A4">
             <Title>Scene Sequel Tab</Title>
-        </Document>
-        <Document ID="CEDA8454-7B55-4D72-8FB6-A2788E8678D3">
-            <Title>Character Relationships Tab</Title>
         </Document>
         <Document ID="CF3793BA-BAB0-4F88-AE84-697EA897783D">
             <Title>Tools Master Plots Result</Title>
@@ -3504,6 +3507,9 @@ Tense						Tense indicates when events or actions occurred in time—in the past
 Style						Style is the way you use language, based on word choice, tone, syntax, and use of literary devices. Particular style are chosen depending on the desired effect.
 
 Tone						Tone indicates the mood or impression you wish the reader to feel.</Text>
+        </Document>
+        <Document ID="D553C999-C896-4982-96B1-8F43723416C3">
+            <Title>Opening Scene - Conflict</Title>
         </Document>
         <Document ID="D8D809E6-FF72-4372-A63F-33B45CB33C37">
             <Title>Setting Tab</Title>
@@ -3574,6 +3580,26 @@ Needs added</Notes>
             <Title>Front Matter</Title>
             <Notes>Move to Front Matter outside of manuscript?
 See sect. 7.6 (structure, section type)</Notes>
+        </Document>
+        <Document ID="E0D1F7E0-6875-4473-B6F0-3E26263DFC98">
+            <Title>Navigation Pane Flyout CommandBar</Title>
+            <Text>Navigation Pane Flyout Commands
+
+Right-clicking any node on the Navigation Pane will display a  flyout command bar:
+#
+
+The left-most group of icons will add a new Story Element as a child of the node you right-clicked.
+In order from left to right, the Add Story Elment icons are:
+Folder
+Problem
+Character
+Setting 
+Scene
+The next group of icons (to the right of the divider) operate directly on the item you clicked. They are:
+Move Story Element to Trashcan
+Restore Story Element from Trashcan 
+Add Scene to Story Narrative View (see Story Explorer and Story Narrator Views)
+</Text>
         </Document>
         <Document ID="E17E8BB7-8E12-4469-AFEE-ACD12A954D33">
             <Title>Paperback</Title>
@@ -3684,10 +3710,6 @@ This chapter describes the Scene form, which is used to define and manipulate th
             <Text>Development Tab
 
 #</Text>
-        </Document>
-        <Document ID="EEE57423-DE87-4087-AA23-DFC19A6DA85E">
-            <Title>Recovered File-1</Title>
-            <Text>Tutorial: Creating a Story</Text>
         </Document>
         <Document ID="EEEAFE25-3BBC-43BA-A930-F116053650A3">
             <Title>Psychological Tab</Title>

@@ -2,7 +2,7 @@
 Conflict Builder <br/>
 
 
-![](Clipboard-Image.png)
+![](Clipboard-Image-95.png)
 
 While we often think we’d like to live our lives with a minimum of conflict, we’re fascinated by the stuff, our fiction absolutely depends on it.   <br/>
 

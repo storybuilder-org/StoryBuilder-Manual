@@ -264,13 +264,29 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Menu-Bar-Tooltip]: Menu-Bar-Tooltip.png width=185px height=85px <br/>
 
+[Search-Function]: Search-Function.png width=680px height=486px <br/>
+
 [Show-and-Hide-Navigation]: Show-and-Hide-Navigation.png width=680px height=488px <br/>
 
-[Menu-Bar-3]: Menu-Bar-3.png width=599px height=64px <br/>
+[Menu-Bar-4]: Menu-Bar-4.png width=599px height=64px <br/>
 
 [Story-Element-Flyout]: Story-Element-Flyout.png width=472px height=116px <br/>
 
-[Search-Function]: Search-Function.png width=680px height=486px <br/>
+[Move-Story-Elements]: Move-Story-Elements.png width=217px height=284px <br/>
+
+[Clipboard-Image]: Clipboard-Image.png width=551px height=707px <br/>
+
+[Clipboard-Image-93]: Clipboard-Image-93.png width=443px height=496px <br/>
+
+[Topic-Information]: Topic-Information.png width=680px height=489px <br/>
+
+[Clipboard-Image-94]: Clipboard-Image-94.png width=384px height=516px <br/>
+
+[Tools-Master-Plots]: Tools-Master-Plots.png width=544px height=631px <br/>
+
+[Tools-Dramatic-Situations]: Tools-Dramatic-Situations.png width=472px height=227px <br/>
+
+[Tools-Stock-Scenes]: Tools-Stock-Scenes.png width=475px height=628px <br/>
 
 [Print-Reports-Button-and-Menu]: Print-Reports-Button-and-Menu.png width=165px height=161px <br/>
 
@@ -292,6 +308,8 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Navigation-and-Content-Pane]: Navigation-and-Content-Pane.png width=680px height=547px <br/>
 
+[Navigation-Pane-Flyout-CommandBar]: Navigation-Pane-Flyout-CommandBar.png width=680px height=484px <br/>
+
 [Tabs]: Tabs.png width=680px height=488px <br/>
 
 [Explorer-and-Navigator-Views]: Explorer-and-Navigator-Views.png width=332px height=125px <br/>
@@ -310,13 +328,13 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Problem-Antagonist-Tab]: Problem-Antagonist-Tab.png width=680px height=488px <br/>
 
-[Clipboard-Image]: Clipboard-Image.png width=440px height=264px <br/>
+[Clipboard-Image-95]: Clipboard-Image-95.png width=440px height=264px <br/>
 
-[Clipboard-Image-77]: Clipboard-Image-77.png width=680px height=449px <br/>
+[Clipboard-Image-96]: Clipboard-Image-96.png width=680px height=449px <br/>
 
-[Clipboard-Image-78]: Clipboard-Image-78.png width=680px height=494px <br/>
+[Clipboard-Image-97]: Clipboard-Image-97.png width=680px height=494px <br/>
 
-[Clipboard-Image-79]: Clipboard-Image-79.png width=680px height=495px <br/>
+[Clipboard-Image-98]: Clipboard-Image-98.png width=680px height=495px <br/>
 
 [Character-Relationships-Tab]: Character-Relationships-Tab.png width=680px height=516px <br/>
 
@@ -340,7 +358,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Trait-Builder]: Trait-Builder.png width=352px height=304px <br/>
 
-[Clipboard-Image-80]: Clipboard-Image-80.png width=680px height=491px <br/>
+[Clipboard-Image-99]: Clipboard-Image-99.png width=680px height=491px <br/>
 
 [Setting-Sensations-Tab]: Setting-Sensations-Tab.png width=680px height=454px <br/>
 
@@ -352,21 +370,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Scene-Sequel-Tab]: Scene-Sequel-Tab.png width=680px height=454px <br/>
 
-[Clipboard-Image-81]: Clipboard-Image-81.png width=443px height=496px <br/>
-
-[Clipboard-Image-82]: Clipboard-Image-82.png width=384px height=516px <br/>
-
-[Tools-Master-Plots]: Tools-Master-Plots.png width=544px height=631px <br/>
-
-[Tools-Dramatic-Situations]: Tools-Dramatic-Situations.png width=472px height=227px <br/>
-
-[Tools-Stock-Scenes]: Tools-Stock-Scenes.png width=475px height=628px <br/>
-
-[Clipboard-Image-83]: Clipboard-Image-83.png width=680px height=375px <br/>
-
-[Clipboard-Image-84]: Clipboard-Image-84.png width=551px height=707px <br/>
-
-[File-Open-Dialog-5]: File-Open-Dialog-5.png width=559px height=595px <br/>
+[File-Open-Dialog-6]: File-Open-Dialog-6.png width=559px height=595px <br/>
 
 [Create-New-Story-Dialog]: Create-New-Story-Dialog.png width=555px height=565px <br/>
 
@@ -382,7 +386,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Tutorial-1-Changed-Indicator-(Red)]: Tutorial-1-Changed-Indicator-(Red).png width=53px height=47px <br/>
 
-[Changed-Indicator-5]: Changed-Indicator-5.png width=55px height=40px <br/>
+[Changed-Indicator-6]: Changed-Indicator-6.png width=55px height=40px <br/>
 
 [Tutorial-1-Empty-Struture-Tab]: Tutorial-1-Empty-Struture-Tab.png width=651px height=708px <br/>
 
@@ -416,15 +420,59 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Tutorial-4-Renamed-third-problem]: Tutorial-4-Renamed-third-problem.png width=680px height=510px <br/>
 
-[Clipboard-Image-85]: Clipboard-Image-85.png width=491px height=171px <br/>
+[Tony-Irwin-Inner-Traits]: Tony-Irwin-Inner-Traits.png width=680px height=490px <br/>
 
-[Clipboard-Image-86]: Clipboard-Image-86.png width=228px height=208px <br/>
+[Overview-Empty-Premis-tab]: Overview-Empty-Premis-tab.png width=680px height=478px <br/>
 
-[Clipboard-Image-87]: Clipboard-Image-87.png width=256px height=129px <br/>
+[Danger-Calls-Story-Premise]: Danger-Calls-Story-Premise.png width=680px height=481px <br/>
 
-[Clipboard-Image-88]: Clipboard-Image-88.png width=265px height=137px <br/>
+[Danger-Calls-Add-Scene]: Danger-Calls-Add-Scene.png width=680px height=483px <br/>
 
-[Tools-Master-Plots-4]: Tools-Master-Plots-4.png width=544px height=631px <br/>
+[Danger-Calls-First-Scene-Sketch]: Danger-Calls-First-Scene-Sketch.png width=680px height=488px <br/>
+
+[Danger-Calls-MasterPlots-menu]: Danger-Calls-MasterPlots-menu.png width=680px height=491px <br/>
+
+[Danger-Calls-Three-Act-Play]: Danger-Calls-Three-Act-Play.png width=680px height=487px <br/>
+
+[Danger-Calls-Narrative-Hook]: Danger-Calls-Narrative-Hook.png width=680px height=361px <br/>
+
+[Danger-Calls-Move-Scene]: Danger-Calls-Move-Scene.png width=680px height=478px <br/>
+
+[Danger-Calls-after-Scene-Move]: Danger-Calls-after-Scene-Move.png width=680px height=497px <br/>
+
+[Danger-Calls-Delete-Placeholder]: Danger-Calls-Delete-Placeholder.png width=680px height=483px <br/>
+
+[Problems-and-Scenes-Reordered]: Problems-and-Scenes-Reordered.png width=680px height=494px <br/>
+
+[Danger-Calls-Climax]: Danger-Calls-Climax.png width=680px height=486px <br/>
+
+[Lacas-Role]: Lacas-Role.png width=680px height=489px <br/>
+
+[Lacas-Psychological]: Lacas-Psychological.png width=680px height=490px <br/>
+
+[Lacas-Social]: Lacas-Social.png width=680px height=482px <br/>
+
+[Lacas-Backstory]: Lacas-Backstory.png width=680px height=492px <br/>
+
+[Opening-Scene-Development]: Opening-Scene-Development.png width=680px height=492px <br/>
+
+[Opening-Scene-Conflict]: Opening-Scene-Conflict.png width=680px height=486px <br/>
+
+[Research-Danger-Callse-Stock-Scenes]: Research-Danger-Callse-Stock-Scenes.png width=465px height=660px <br/>
+
+[Research-Danger-Calls-Shootout]: Research-Danger-Calls-Shootout.png width=680px height=530px <br/>
+
+[Research-Danger-Calls-Denouement]: Research-Danger-Calls-Denouement.png width=680px height=534px <br/>
+
+[Clipboard-Image-100]: Clipboard-Image-100.png width=491px height=171px <br/>
+
+[Clipboard-Image-101]: Clipboard-Image-101.png width=228px height=208px <br/>
+
+[Clipboard-Image-102]: Clipboard-Image-102.png width=256px height=129px <br/>
+
+[Clipboard-Image-103]: Clipboard-Image-103.png width=265px height=137px <br/>
+
+[Tools-Master-Plots-5]: Tools-Master-Plots-5.png width=544px height=631px <br/>
 
 [Tools-Master-Plots-Result]: Tools-Master-Plots-Result.png width=680px height=353px <br/>
 
@@ -446,10 +494,10 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Plotting-with-StoryBuilder-SubProblems-Epanded-into-Scenes]: Plotting-with-StoryBuilder-SubProblems-Epanded-into-Scenes.png width=273px height=356px <br/>
 
-[Clipboard-Image-89]: Clipboard-Image-89.png width=390px height=534px <br/>
+[Clipboard-Image-104]: Clipboard-Image-104.png width=390px height=534px <br/>
 
-[Clipboard-Image-90]: Clipboard-Image-90.png width=548px height=670px <br/>
+[Clipboard-Image-105]: Clipboard-Image-105.png width=548px height=670px <br/>
 
-[Clipboard-Image-91]: Clipboard-Image-91.png width=543px height=281px <br/>
+[Clipboard-Image-106]: Clipboard-Image-106.png width=543px height=281px <br/>
 
-[Clipboard-Image-92]: Clipboard-Image-92.png width=568px height=355px <br/>
+[Clipboard-Image-107]: Clipboard-Image-107.png width=568px height=355px <br/>
