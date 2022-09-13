@@ -77,17 +77,5 @@
     <Day dwc="21" dcc="118" dtwc="31098" owc="0" occ="0" dtcc="188430">2022-08-10</Day>
     <Day dwc="303" dcc="1934" dtwc="31131" owc="-22" occ="-140" dtcc="188723">2022-08-14</Day>
     <Day dwc="320" dcc="1863" owc="0" occ="0">2022-08-15</Day>
-    <Day dwc="218" dcc="1303" dtwc="31463" owc="0" occ="0" dtcc="190642">2022-08-17</Day>
-    <Day dwc="425" dcc="2500" dtwc="31888" owc="0" occ="0" dtcc="193142">2022-08-18</Day>
-    <Day dwc="12" dcc="109" dtwc="31900" owc="0" occ="0" dtcc="193251">2022-08-19</Day>
-    <Day dwc="0" dcc="6" dtwc="31900" owc="0" occ="0" dtcc="193257">2022-08-20</Day>
-    <Day dwc="118" dcc="678" owc="0" occ="0">2022-08-22</Day>
-    <Day dwc="-93" dcc="-470" owc="0" occ="0">2022-08-23</Day>
-    <Day dwc="85" dcc="457" dtwc="32010" owc="0" occ="0" dtcc="193922">2022-08-24</Day>
-    <Day dwc="213" dcc="1209" dtwc="32223" owc="0" occ="0" dtcc="195131">2022-08-25</Day>
-    <Day dwc="45" dcc="290" dtwc="32266" owc="-478" occ="-2912" dtcc="195419">2022-08-26</Day>
-    <Day dwc="2" dcc="2" dtwc="32266" owc="0" occ="0" dtcc="195419">2022-08-27</Day>
-    <Day dwc="-38" dcc="-223" owc="0" occ="0">2022-08-29</Day>
-    <Day dwc="-63" dcc="-347" dtwc="32165" owc="0" occ="0" dtcc="194849">2022-08-31</Day>
-    <Day dwc="253" dcc="1529" owc="0" occ="0">2022-09-01</Day>
+    <Day dwc="0" dcc="1" owc="0" occ="0">2022-09-13</Day>
 </WritingHistory>
