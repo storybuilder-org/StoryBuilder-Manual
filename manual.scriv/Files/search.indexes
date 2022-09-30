@@ -260,6 +260,13 @@ Danger Calls is melodramatic and its characters aren’t as well drawn as they s
         <Document ID="102552F7-F1FE-45C3-B194-81036BD3F481">
             <Title>Tutorial 3 - Catching the drug dealer</Title>
         </Document>
+        <Document ID="11F918D2-8361-49C6-8AE5-81CBA1BA8E0D">
+            <Title>Researching your story</Title>
+            <Text>Notes Form
+In the lifecycle of a story, StoryBuilder is often used in the steps leading towards a first draft. These steps normally include research, particularly for world-building. 
+
+To help you plan out your story better, StoryBuilder contains two nodes dedicated to research. These are Website and Notes Forms and allow you store websites and your thoughts respectively.</Text>
+        </Document>
         <Document ID="13E96C90-ECB3-4A69-877E-AE3946EA425B">
             <Title>Editing Menu Popup.bmp</Title>
         </Document>
@@ -860,6 +867,15 @@ A trait is a distinguishing quality.  Unlike Psychological qualities which are h
 
 </Text>
         </Document>
+        <Document ID="346F39DB-E20C-400E-8F08-131F8B3DFCF8">
+            <Title>Notes Form</Title>
+            <Text>Notes Form
+
+The notes form is another way of recording research or just your thoughts but 				ultimately your creativity is the limit.
+
+#
+</Text>
+        </Document>
         <Document ID="347BA8FF-F1CE-45C8-8D1D-E0767BBC6B6E">
             <Title>Using Various Input Devices</Title>
             <Text>Using Various Input Devices
@@ -1211,8 +1227,6 @@ The copy function populated the Scene folder with a series of plot points which 
 #
 
 Although these are Scene story elements, they are not scenes, but placeholders: a reminder of things that your scenes need to do,   and roughly the order they need to do them in. In short, they are the structure of your story, its spine. Since your story is centered on one of your Problems, the main Story Problem, the story’s structure is the structure of that problem.  </Text>
-            <Notes>
-</Notes>
         </Document>
         <Document ID="4D7CA8B4-0659-4AC0-81D3-45651FEBD0B7">
             <Title>Concept Tab</Title>
@@ -1816,6 +1830,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
         <Document ID="64FD0DF6-2B14-47CF-AB61-EA596D02A6C4">
             <Title>Create New Story Dialog</Title>
         </Document>
+        <Document ID="66C0C71D-3D6A-4192-9087-08BFE8F19A90"/>
         <Document ID="67173266-8C12-4379-ADDA-78A5EB636731">
             <Title>Button ToolTips</Title>
         </Document>
@@ -2493,6 +2508,41 @@ Unlike Dramatic Situations, this tool works just with Scenes. One use is to help
         </Document>
         <Document ID="8D7BEA86-220B-4876-8D71-30623A83A8F1">
             <Title>Story Elements</Title>
+        </Document>
+        <Document ID="905AF05F-4D82-4365-AD2D-D71ABB173F15">
+            <Title>Website Form</Title>
+            <Text>Website Form
+
+The website form allows you store and view webpages easily and functions like a 			smaller version of your web browser, this should be intuitive to use but lets break it 	
+down.
+
+#
+
+#
+These buttons allow you to refresh, go forwards and respectively.
+
+#
+This is the search bar, if you have a website link (URL) then you can paste it here and 		after clicking the search button it will load the website. Conversely if you don’t have a 		URL you can search a query such as a map of the world and it will search it using 
+Google.
+
+Example -  Planning out a fictional character.
+
+1) Create a new website node, you can do this by right clicking a node and then clicking 		the webpage icon.
+#
+
+2) Now navigate to it by clicking on it, it should now look similar the picture below.
+#
+
+3) Now lets make a fictional map, so search below fictional map generator
+#
+
+3) Select any website below, for this example we will use the first one.
+#
+
+Congrats, we have now got a map our fictional word and can start planning our story 		around this world
+
+Note: The Website Form requires the Microsoft Edge WebView 2 runtime, most 				Windows computers will already have this installed by default however if you are for 		any reason missing it, StoryBuilder will ask to automatically install it.
+</Text>
         </Document>
         <Document ID="936471BC-3FBF-4BC1-881F-D35ED1DBD915">
             <Title>Character Appearance Tab</Title>

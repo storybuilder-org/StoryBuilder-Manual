@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="342E5DD6-5812-45AB-982C-E2EAC46CF8EE" Creator="SCRWIN-3.1.1.0" Device="NSR-MAXIMA" Modified="2022-09-13 14:57:30 +0100" ModID="D4ABC1AA-7BD5-4463-85A8-8DA9F21E63F9">
+<ScrivenerProject Template="No" Version="2.0" Identifier="342E5DD6-5812-45AB-982C-E2EAC46CF8EE" Creator="SCRWIN-3.1.1.0" Device="MAXIMA" Modified="2022-09-30 22:56:15 +0100" ModID="56882B90-6E03-415D-9FAD-AC9280E7758F">
     <Binder>
         <BinderItem UUID="9FFBA333-8432-41C1-91F5-1302DFE283CA" Type="Text" Created="2019-05-14 18:29:37 +0100" Modified="2019-05-14 18:29:46 +0100">
             <Title>Non-Fiction Format</Title>
@@ -673,7 +673,7 @@
                                         <FileExtension>rtf</FileExtension>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>12,0</TextSelection>
+                                        <TextSelection Caret="9">0,9</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="ECDFB895-7C71-4402-888D-A4048168E01C" Type="Text" Created="2021-12-02 07:13:45 +0100" Modified="2022-08-14 22:56:20 +0100">
@@ -707,6 +707,35 @@
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="11F918D2-8361-49C6-8AE5-81CBA1BA8E0D" Type="Folder" Created="2022-09-30 22:42:11 +0100" Modified="2022-09-30 22:45:13 +0100">
+                    <Title>Researching your story</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>374,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="346F39DB-E20C-400E-8F08-131F8B3DFCF8" Type="Text" Created="2022-09-30 22:27:14 +0100" Modified="2022-09-30 22:45:32 +0100">
+                            <Title>Notes Form</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>137,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="905AF05F-4D82-4365-AD2D-D71ABB173F15" Type="Text" Created="2022-09-30 22:13:29 +0100" Modified="2022-09-30 22:56:14 +0100">
+                            <Title>Website Form</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>185,0</TextSelection>
+                            </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -3451,6 +3480,16 @@
         <BinderItem UUID="A41BA2A1-C599-43C2-99CC-8C1A7FFC2C24" Type="TrashFolder" Created="2019-05-14 18:29:37 +0100" Modified="2019-05-14 18:29:37 +0100">
             <Title>Trash</Title>
             <MetaData/>
+            <Children>
+                <BinderItem UUID="66C0C71D-3D6A-4192-9087-08BFE8F19A90" Type="Text" Created="2022-09-30 22:27:00 +0100" Modified="2022-09-30 22:27:00 +0100">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
     </Binder>
     <Collections>
@@ -3519,12 +3558,12 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="2" Date="2022-09-13 14:57:30 +0100"/>
+        <PreviousSession Words="305" Characters="1801" Date="2022-09-30 22:56:15 +0100"/>
     </ProjectTargets>
     <BookmarksFolderUUID>07B0D7C6-57CE-4D6F-8AD9-11F06A261A5F</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2022-09-13 00:00:00 +0100">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>1</DraftCharCount>
+    <RecentWritingHistory Date="2022-09-30 00:00:00 +0100">
+        <DraftWordCount>305</DraftWordCount>
+        <DraftCharCount>1801</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
