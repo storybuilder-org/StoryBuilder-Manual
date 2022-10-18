@@ -1,7 +1,9 @@
 ### Topic Information ###
+[tk needs screen, reformatting] <br/>
+1 <br/>
 Topic Information <br/>
 
-![](Tools-Topic-Information.png)
+![](Clipboard-Image-6.png)
 
 The Topic Information sub-menu on the Tools menu contains a list containing information specific to certain topics.  These items will be displayed either on a card file-like list or a Windows notepad, depending on the contents.  <br/>
 
@@ -28,3 +30,6 @@ Bibliography <br/>
 Contains a list of books on or about the craft of writing. <br/>
 
 
+ <br/>
+ <br/>
+[Prev](Key_Questions.md)[Next](Characterization_Aids.md) <br/>

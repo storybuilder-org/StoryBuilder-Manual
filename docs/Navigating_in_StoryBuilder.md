@@ -1,4 +1,7 @@
 ## Navigating in StoryBuilder ##
+ <br/>
+ <br/>
+[Prev](Using_Various_Input_Devices.md)[Next](Backups_Protecting_Your_Work.md) <br/>
 [Starting and Stopping StoryBuilder](Starting_and_Stopping_StoryBuilder.md) <br/><br/>
 [Reading and Writing Outlines](Reading_and_Writing_Outlines.md) <br/><br/>
 [The StoryBuilder User Interface](The_StoryBuilder_User_Interface.md) <br/><br/>

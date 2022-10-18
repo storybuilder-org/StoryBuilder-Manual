@@ -20,3 +20,6 @@ Right Touchpad button <br/>
 The menu key(sometimes called document key) looks like this:  <br/>
 
 ![](Keyboard-Right-Mouse-Key.png)
+ <br/>
+ <br/>
+[Prev](Getting_Help.md)[Next](Navigating_in_StoryBuilder.md) <br/>

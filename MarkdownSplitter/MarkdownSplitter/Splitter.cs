@@ -1,4 +1,6 @@
-﻿using System.Text;
+﻿using System.Diagnostics;
+using System.Text;
+using System.Windows.Forms.Design;
 
 namespace MarkdownSplitter
 {
@@ -9,7 +11,7 @@ namespace MarkdownSplitter
     ///
     /// The .md markdown files are rewritten as a tree of nodes (blocks) each 
     /// of which contains links to its child nodes, according to its depth
-    /// or indententation level in the Scrivener file.
+    /// or indententation nestingLevel in the Scrivener file.
     /// 
     /// The workflow is as follows:
     ///    Empty the (output) /docs folder. This folder is where the final
@@ -27,18 +29,28 @@ namespace MarkdownSplitter
     /// </summary>
     public class Splitter
     {
-        public string MarkdownFolder = @"manual.md";
-        private string repositoryPath = Directory.GetCurrentDirectory();
-        private string docsFolder = @"docs";
+        public string MarkdownFolder;
+        private string repositoryPath;
+        private string docsFolder;
         private string splitMarker = "#";
-        private readonly Block[] level = new Block[7];
+        private readonly Block[] nestingLevel = new Block[7];
+        private Block? previousBlock;
+
+        public Splitter()
+        {
+            MarkdownFolder = @"manual.md";
+            repositoryPath = Directory.GetCurrentDirectory();
+            this.docsFolder = @"docs";
+            this.splitMarker = splitMarker;
+            this.previousBlock = null;
+        }
 
         /// <summary>
         /// Creates an empty github pages (/docs) folder
         /// </summary>
         public void EmptyDocsFolder()
         {
-            repositoryPath = Directory.GetParent(MarkdownFolder)!.Name;
+            repositoryPath = Directory.GetParent(MarkdownFolder)!.FullName;
             docsFolder = Path.Join(repositoryPath, @"docs");
             DirectoryInfo di = new(docsFolder);
             if (di.Exists)
@@ -83,7 +95,8 @@ namespace MarkdownSplitter
         }
         public void SplitMarkdownFile()
         {
-            Block root = level[0];
+            Block root = nestingLevel[0];
+            root.Filename = "index.md";
             foreach (Block child in root.Children)
                 RecurseMarkdownBlocks(child);
         }
@@ -93,7 +106,7 @@ namespace MarkdownSplitter
             {
                 file.WriteLine("# Table of Contents");
                 file.WriteLine("");
-                foreach (var block in level[0].Children)
+                foreach (var block in nestingLevel[0].Children)
                 {
                     file.WriteLine($"[{block.Title}]({block.Filename}) <br/><br/>");
                 }
@@ -101,10 +114,22 @@ namespace MarkdownSplitter
                 file.Close();
             }
         }
+
+        /// <summary>
+        /// Write separate .md files from the single .md file
+        /// written by Scrivener Compile.
+        /// </summary>
         public void CreateChildMarkdownFiles()
         {
-            //This creates the other md files.
-            foreach (var child in level[0].Children)
+            previousBlock = nestingLevel[0];
+            // Generate previous and next links for each child     
+            for (int i = 0; i < nestingLevel[0].Children.Count; i++)
+            {
+                ChainBlocks(nestingLevel[0].Children[i], nestingLevel[0], i);
+            }
+
+            //Creates the other md files.
+            foreach (var child in nestingLevel[0].Children)
             {
                 WriteChildFile(child);
             }
@@ -114,9 +139,9 @@ namespace MarkdownSplitter
         /// Process the Compiler's .md MultiMarkdown file.
         ///
         /// It's parsed as a series of linked Block objects. A new block is
-        /// created everytime a Markdown Header (#, ##, etc.) is found in the
-        /// Compiler output file, and added to it's parent block. The level of
-        /// nesting for a block is determined by its heading level.
+        /// created every time a Markdown Header (#, ##, etc.) is found in the
+        /// Compiler output file, and added to it's parent block. The nestingLevel of
+        /// nesting for a block is determined by its heading nestingLevel.
         ///
         /// If a line doesn't start a new block, it's added to the current block.
         /// </summary>
@@ -126,9 +151,9 @@ namespace MarkdownSplitter
             // Read the .md file into memory.     
             string[] markdown = File.ReadAllLines(currentFile);
             // When a new markdown line (splitMarker) is detected, its
-            // parent block is the level just above its level.
+            // parent block is the nestingLevel just above its nestingLevel.
             Block current = new Block("");
-            level[0] = current;   // level zero is the table of contents.
+            nestingLevel[0] = current;   // nestingLevel zero is the table of contents.
             Block parent;
 
             foreach (string line in markdown)
@@ -138,9 +163,9 @@ namespace MarkdownSplitter
                     Console.WriteLine(line);
                     current = new Block(line);
                     int parentLevel = current.Level - 1;
-                    parent = level[parentLevel];
+                    parent = nestingLevel[parentLevel];
                     parent.Children.Add(current);
-                    level[current.Level] = current;
+                    nestingLevel[current.Level] = current;
                 }
                 else
                 {
@@ -173,6 +198,12 @@ namespace MarkdownSplitter
         }
         private void WriteChildFile(Block bloc)
         {
+            // Generate previous and next links for each child     
+            for (int i = 0; i < bloc.Children.Count; i++)
+            {
+                ChainBlocks(bloc.Children[i], bloc, i);
+            }
+
             StringBuilder sb = new();
             sb.AppendLine(bloc.Header); //This writes the header
             foreach (var text in bloc.Text)
@@ -192,6 +223,7 @@ namespace MarkdownSplitter
                 WriteChildFile(child);
             } //This causes it to recursively run this on its children
         }
+
         private string CleanupMarkdown(string line)
         {
             if (line.Contains("[Front Page (Image)](Front_Page_(Image).md)"))
@@ -212,6 +244,27 @@ namespace MarkdownSplitter
             }
 
             return line;
+        }
+
+        private void ChainBlocks(Block current, Block parent, int index)
+        {
+            previousBlock.Next = current;
+            Debug.Assert(previousBlock != null, nameof(previousBlock) + " != null");
+            current.Previous = previousBlock;
+            // Append the previous and next links to the previous block's text.
+            StringBuilder sb = new();
+            sb.AppendLine($" <br/>");
+            sb.AppendLine($" <br/>");
+            if (previousBlock.Previous != null)
+            {
+                sb.Append($"[Prev]({previousBlock.Previous.Filename})");
+            }
+            if (previousBlock.Next != null)
+            {
+                sb.Append($"[Next]({previousBlock.Next.Filename})");
+            }
+            previousBlock.Text.Add(sb.ToString());
+            previousBlock = current;
         }
     }
 }

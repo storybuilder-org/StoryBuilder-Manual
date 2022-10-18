@@ -16,8 +16,6 @@ Coming up with these scenes is an act of imagination- it’s storytelling, play 
 
 In the previous topic Plotting In Scenes, we introduced the idea that every scene must advance the story’s plot: it must move toward the resolution of the story problem it’s a piece of.  This is another way of saying that every scene must have a purpose: show the Ordinary World, introduce the problem, resolve the conflict. A scene can and usually does have more than one purpose, but  must always contribute toward solving the Problem is a part of; otherwise, the story will meander aimlessly. A plotted story must aim toward its outcome as an arrow flies towards its target. Think of each story problem as having structure, of consisting of plot points or story beats. Each plot point is a potential scene, and the plot point’s function is that scene’s purpose. <br/>
 
-[tk Scene Purpose image] <br/>
-
 Scene Count (Story Length) <br/>
 
 A frequent concern when plotting at the scene level is story length, which can be rephrased as ‘How many scenes do I need?’ As with many writing questions, this one has more than one answer.  <br/>
@@ -60,3 +58,6 @@ Eliminating Scenes  <br/>
 A quite different answer to the ‘How many scenes?’ question is ‘As few as possible’, following Robert Heinlein’s adage: “The most important lesson in the writing trade is that any manuscript is improved if you cut away the fat.” Or, if you prefer, William Faulkner’s: “In writing, you must kill your darlings.” <br/>
 
 The urge will be to create a scene for every plot point.  But you have a wonderful tool at your disposal, your reader’s imagination. If you can remove a scene and the reader can follow your story line, that thing can and should be cut. <br/>
+ <br/>
+ <br/>
+[Prev](Plotting_Tools.md)[Next](Defining_Scenes.md) <br/>

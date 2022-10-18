@@ -1,4 +1,7 @@
 # Writing with StoryBuilder #
+ <br/>
+ <br/>
+[Prev](Tutorial_Creating_a_Story.md)[Next](Miscellaneous.md) <br/>
 [How to Think About Outlining](How_to_Think_About_Outlining.md) <br/><br/>
 [Workflow](Workflow.md) <br/><br/>
 [Story Idea, Concept, and Premise](Story_Idea,_Concept,_and_Premise.md) <br/><br/>
@@ -11,5 +14,4 @@
 [Plotting with StoryBuilder](Plotting_with_StoryBuilder.md) <br/><br/>
 [Defining Scenes](Defining_Scenes.md) <br/><br/>
 [Reviewing Your Outline](Reviewing_Your_Outline.md) <br/><br/>
-[Tutorial: Creating a Story](Tutorial_Creating_a_Story.md) <br/><br/>
 [Other Uses of StoryBuilder](Other_Uses_of_StoryBuilder.md) <br/><br/>

@@ -12,10 +12,12 @@ StoryBuilder's Master Plots tool helps you shape your story's plot based on sugg
 
 The Master Plots tool is invoked from the Plotting Aids sub-menu of the Tools menu.  It provides a list of plot skeletons, or master plots.  Selecting one of the master plots from the list at the top of the form will display  notes relevant to that master plot.  <br/>
 
-![](Tools-Master-Plots-2.png)
-
 The first few master plots (Three Act Play, W-Diagram,  and Hero's Journey) are story outlines.  Selecting Copy when one of these master plots is selected will copy a skeleton plot into your plot outline, which can then be edited from the Plot form. The remaining master plots concern story forms or patterns.  Selecting Copy when one of these master plots is selected will add a plot point to your  plot outline.  This plot point contains notes and suggestions for stock scenes which are relevant to this story form.  You can copy more than one master plot into an outline. <br/>
 
 Ronald Tobias' excellent book 20 Master Plots (And How to Build Them) is a detailed look at the fundamental plots which recur through all fiction. <br/>
 
+The master plots can be changed according to your preferences.  See "Customizing  Storybuilder" for details on how to add, delete, or modify the listed items. <br/>
 
+ <br/>
+ <br/>
+[Prev](Character_Names.md)[Next](Dramatic_Situations.md) <br/>

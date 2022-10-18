@@ -13,3 +13,6 @@ Story Narrator View is the view you’ll use when you’re ready to structure yo
 
 
 
+ <br/>
+ <br/>
+[Prev](Tabs.md)[Next](Status_Bar.md) <br/>

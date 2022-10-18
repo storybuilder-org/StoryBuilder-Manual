@@ -1,4 +1,4 @@
-### Creating a Story pt 5 ###
+## Creating a Story pt 5 ##
 The original external problem is solved at the same time and in the same scene in this story.  This isn't always the case; often the story's turning point is the resolution of the inner problem, and the solution of the outer problem depends on the protagonist's change.  We should state the resolution of the external problem.  Clicking on the first problem from the list at the left of the screen, and then on the Resolution tab, allows us to key this information: <br/>
 
 
@@ -41,3 +41,6 @@ The copy function populated the Plots form with a series of plot points which su
 
 It's important to capture the reader's interest at the beginning of the story sufficiently to keep him reading until the story itself (the protagonist and the problem) have engaged his attention.  The opening paragraphs of the story must serve as an advertisement that it's worth reading. <br/>
 
+ <br/>
+ <br/>
+[Prev](Creating_a_Story_pt_4.md)[Next](Creating_a_Story_pt_6.md) <br/>

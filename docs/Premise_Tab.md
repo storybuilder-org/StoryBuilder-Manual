@@ -13,3 +13,6 @@ Premise <br/>
 This field, on the Story Overview form, is a read-only copy of the Premise field on the Story Problem’s Resolution tab.  <br/>
 
 
+ <br/>
+ <br/>
+[Prev](Concept_Tab.md)[Next](Structure_Tab.md) <br/>

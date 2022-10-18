@@ -10,6 +10,8 @@ public class Block
     public string Filename;
     public List<string> Text;
     public int Level;
+    public Block Next;
+    public Block Previous;
 
     public Block(string header) 
     {
