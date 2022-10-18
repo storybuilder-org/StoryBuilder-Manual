@@ -10,3 +10,6 @@ Flaw Builder <br/>
 ![](Flaw-Builder.png)
 
 This tool explores some common examples of character flaws. <br/>
+ <br/>
+ <br/>
+[Prev](Relationships_Tab.md)[Next](Backstory_Tab.md) <br/>

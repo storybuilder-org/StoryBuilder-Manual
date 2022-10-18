@@ -38,3 +38,6 @@ Use this field to record your ideas and observations on the relationship. <br/>
 Add Relation / Remove Relation buttons <br/>
   <br/>
 Use these to add or remove a new relationship for this character. <br/>
+ <br/>
+ <br/>
+[Prev](Appearance_Tab.md)[Next](Flaw_Tab.md) <br/>

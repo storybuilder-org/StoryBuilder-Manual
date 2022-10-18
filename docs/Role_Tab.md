@@ -1,7 +1,7 @@
 ### Role Tab ###
 Role Tab <br/>
 
-![](Character-Role-Tab.png)
+![](Clipboard-Image-1.png)
 
 The role tab contains the information which defines the relationship between this character and the story. <br/>
 
@@ -63,3 +63,6 @@ Character Sketch <br/>
 
 Use these notes to provide a thumbnail picture of the character and the overall impression he makes. <br/>
 
+ <br/>
+ <br/>
+[Prev](Conflict_Builder.md)[Next](Physical_Tab.md) <br/>

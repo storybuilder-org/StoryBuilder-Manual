@@ -18,3 +18,6 @@ Copyright © 2021 <br/>
 Seven Valleys Software <br/>
 
 
+ <br/>
+ <br/>
+[Prev](Preface.md)[Next](Getting_Help.md) <br/>

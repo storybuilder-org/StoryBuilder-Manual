@@ -1,4 +1,4 @@
-### Creating a Story pt 8 ###
+## Creating a Story pt 8 ##
 Having developed the characters better, we can look at the plot.  So far we have a skeleton plot, created with the Master Plots tool, and have added a couple of specific scenes: <br/>
 
 
@@ -35,3 +35,6 @@ To illustrate the universality of the Dramatic Situations tool, we chose a drama
 
 We also got rid of the first two placeholder plot points by clicking on them on the outline side of the form and then clicking on the Delete command button. <br/>
 
+ <br/>
+ <br/>
+[Prev](Creating_a_Story_pt_7.md)[Next](Creating_a_Story_pt_9.md) <br/>

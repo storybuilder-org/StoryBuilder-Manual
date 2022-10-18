@@ -7,3 +7,6 @@ In some cases (and particularly if you resize the StoryBuilder window down) not 
 
 ![](Tabs.png)
 
+ <br/>
+ <br/>
+[Prev](Story_Elements.md)[Next](Story_Explorer_and_Story_Narrator_Views.md) <br/>

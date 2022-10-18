@@ -11,4 +11,7 @@ The form’s sections are as follows. They’ll be explained in more detail as w
 	•	Content Pane - The contents of the currently selected S*tory Element* <br/>
 
 
+ <br/>
+ <br/>
+[Prev](Reading_and_Writing_Outlines.md)[Next](Menu_Bar.md) <br/>
 [Status Bar](Status_Bar.md) <br/><br/>

@@ -1,4 +1,7 @@
 # Quick Start #
+ <br/>
+ <br/>
+[Prev](Front_Matter.md)[Next](Tutorial_Creating_a_Story.md) <br/>
 [Using Various Input Devices](Using_Various_Input_Devices.md) <br/><br/>
 [Navigating in StoryBuilder](Navigating_in_StoryBuilder.md) <br/><br/>
 [Backups: Protecting Your Work](Backups_Protecting_Your_Work.md) <br/><br/>

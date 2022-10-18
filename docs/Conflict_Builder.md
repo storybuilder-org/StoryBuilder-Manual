@@ -1,7 +1,9 @@
 ### Conflict Builder ###
 Conflict Builder <br/>
 
-![](Conflict-Builder.png)
+This  <br/>
+
+![](Clipboard-Image.png)
 
 While we often think we’d like to live our lives with a minimum of conflict, we’re fascinated by the stuff, and our fiction absolutely depends on it.   <br/>
 
@@ -23,12 +25,13 @@ Structural Conflicts <br/>
 Structural conflicts are caused by forces external to the people in dispute. Limited physical resources or authority, geographic constraints (distance or proximity), time (too little or too much), organizational changes, and so forth can make structural conflict seem like a crisis. One possible outcome of a structural conflict- rare in fiction- is cooperation or a structural change.  <br/>
 Value Conflicts <br/>
 Value conflicts are caused by perceived or actual incompatible belief systems. Values are beliefs that people use to give meaning to their lives. People frequently coach values in terms of right and wrong. Value disputes arise when people attempt to force one set of values on others or lay claim to exclusive value systems that do not allow for divergent beliefs. Value conflicts are generally intractable. <br/>
-Sub-Categories <br/>
+SubCategories <br/>
 Each of these five categories can be further divided into subcategories. <br/>
 Relationship Conflicts differ according the the type of relationship.  <br/>
 Data Conflicts differ according the type of information mismatch between the two parties. <br/>
 Interest Conflicts <br/>
 Where crime fits: <br/>
+
 In General: <br/>
 Antisocial Behavior (SOCIAL PSYCHOLOGY) iResearchNet  <br/>
 Sociopathy <br/>

@@ -1,4 +1,4 @@
-### Creating a Story pt 6 ###
+## Creating a Story pt 6 ##
 Let's use the 'Lacas walks out of the courtroom, a free man' scene as our narrative hook.  We'll use the Three Act Play as it was intended,  a scaffolding, and replace the plot point for 'Narrative Hook' with our scene.  To do so, we'll move our scene where it belongs.   First we double-click on the 'Lacas walks out of the courtroom' label on the list of plot points on the left hand side of the screen. <br/>
 
 
@@ -16,3 +16,6 @@ We also have an idea of what our climax scene is---  the showdown we visualized 
 
 Plotting is usually the last thing to worry about, for several reasons.  The characters should be well defined, so that their actions are consistent with their natures.  The story problems should also be clearly understood, especially the resolutions.  Every problem is a story in miniature; plotting a story is largely a matter of arranging events from one or more problems into a satisfactory sequence.  But writing is a process of accumulation, and the ideas which you collect to create your story concept can come to you at any time.  If you visualize a plot point, don't hesitate to record it.  <br/>
 
+ <br/>
+ <br/>
+[Prev](Creating_a_Story_pt_5.md)[Next](Creating_a_Story_pt_7.md) <br/>

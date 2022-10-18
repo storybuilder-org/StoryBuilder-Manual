@@ -1,4 +1,4 @@
-### Creating a Story pt 7 ###
+## Creating a Story pt 7 ##
 The characters, so far, have been defined by their roles; the only specific traits we've given them (Leonard and Tony) have been shaped by the story's needs.  It's time to put some flesh on these skeletons. <br/>
 
 Let's start with Charlie Lacas.  We know a few things about him.  He's young, he deals drugs, and he uses technology that the detectives don't have.  That absence of technology suggests that the story doesn't take place in a big city.  But perhaps Charlie is a city boy who's figured out that he can use his supplier contacts in New York to deal drugs in a small city, say in Pennsylvania somewhere.   It's safer, the competition is less, and he has an edge over the small-town cops.   This implies that he's fairly bright, which makes him a more worthy adversary for our detectives. <br/>
@@ -35,3 +35,6 @@ There's always a question of how much detail to provide, for characters, problem
 
 You can look at the DANGER.STB outline on the StoryBuilder default directory to see the rest of the character tabs, and to see the developments of the other two characters. <br/>
 
+ <br/>
+ <br/>
+[Prev](Creating_a_Story_pt_6.md)[Next](Creating_a_Story_pt_8.md) <br/>

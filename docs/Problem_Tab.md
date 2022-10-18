@@ -61,3 +61,6 @@ The Source of Conflict is useful in identifying your story's point of attack, th
 
 The provided choices are generalized sources from which many problems spring. Be specific.  If you start with a generic source, replace it with one specific to your story and your protagonist.  Instead of  'Protagonist wants to change his situation'', say 'Joe wants to escape his poverty.' <br/>
 
+ <br/>
+ <br/>
+[Prev](Structure_Tab.md)[Next](Protagonist_Tab.md) <br/>

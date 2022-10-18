@@ -6,3 +6,6 @@ StoryBuilder contains a search field, located at the left on the Menu Bar, which
 
 To clear the search, click on the search button a second time. <br/>
 
+ <br/>
+ <br/>
+[Prev](Move_Story_Elements.md)[Next](Reports.md) <br/>

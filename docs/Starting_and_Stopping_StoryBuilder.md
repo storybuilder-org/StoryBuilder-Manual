@@ -7,3 +7,6 @@ You can leave StoryBuilder at any time by either selecting Exit from the File Me
 
 StoryBuilder follows regular Windows conventions.  The app can be re-sized, maximized or minimized to icons.   <br/>
 
+ <br/>
+ <br/>
+[Prev](Tools_Menu.md)[Next](Reading_and_Writing_Outlines.md) <br/>

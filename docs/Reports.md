@@ -3,7 +3,7 @@ Reports <br/>
 
 Clicking on the Reports button on the Menu Bar displays a fly-out menu with two reporting options: <br/>
 
-![](Reports-Menu.png)
+![](Print-Reports-Button-and-Menu.png)
 
 
 Print Reports <br/>
@@ -20,10 +20,13 @@ If you use Scrivener, clicking Scrivener Reports will open a file picker to allo
 
 ![](Scrivener-Reports-File-Picker.png)
 
-When the reports are done:    MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Scrivener Reports Generated Status Message.png  you can open your Scrivener project. You’ll see a set of nodes added to the Binder, which contain your reports: <br/>
+![](Scrivener-Reports-Generated-Status-Message.png)
 
 ![](Scrivener-Binder-with-StoryBuilder-Outline.png)
 
 A convenient way to use these embedded reports is to split your screen, with one pane open to a text node in the Manuscript and the other to a node in the outline: <br/>
 
 ![](Scrivener-Split-Screen-with-StoryBuilder.png)
+ <br/>
+ <br/>
+[Prev](Search.md)[Next](Preferences.md) <br/>

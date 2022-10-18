@@ -13,3 +13,6 @@ The central story problem will frequently be based upon one of these situations,
 
 This tool works with the Scene tab on the Plot form to help define the conflict for a scene.  If you select Copy from the  Dramatic Situations form, the elements of the situation you have selected will be copied into the elements on the Scene tab of the Plot form for the currently selected plot point. <br/>
 
+ <br/>
+ <br/>
+[Prev](Master_Plots.md)[Next](Stock_Scenes.md) <br/>
