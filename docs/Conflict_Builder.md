@@ -2,6 +2,7 @@
 Conflict Builder <br/>
 
 
+<<<<<<< HEAD
 ![](ConflictBuilderDialog.png)
 
 
@@ -14,6 +15,21 @@ Criminal activities <br/>
 The subcategories of criminal activity makes it easier to understand the motives and patterns of each. <br/>
 Criminal psychology <br/>
 
+=======
+![](Clipboard-Image-23.png)
+
+
+
+The Conflict Builder tool, invoked by buttons on the Protagonist and Antagonist tabs of the Problem Form. <br/>
+
+Conflict Categories <br/>
+Conflict Builder classifies conflicts according to a series of categories and subcategories and provides examples of each. The categories are as follows: <br/>
+
+Criminal activities <br/>
+The subcategories of criminal activity makes it easier to understand the motives and patterns of each. <br/>
+Criminal psychology <br/>
+
+>>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 This alternative way to approach crime focuses on the character of the criminal. <br/>
 Identify conflicts <br/>
 Identity conflict is a psychological phenomenon in which an individual experiences a discrepancy between their self-perception and their perceived social identity. This can occur when an individual feels that their personal values or beliefs are not aligned with the expectations or norms of the group or society to which they belong. Identity conflicts can lead to feelings of confusion, anxiety, and distress. They can also result in behaviors such as resistance, rebellion, or withdrawal from the group or society. <br/>
@@ -29,3 +45,6 @@ Value Conflicts <br/>
 Value conflicts are caused by perceived or actual incompatible belief systems. Values are beliefs that people use to give meaning to their lives. People frequently coach values in terms of right and wrong. Value disputes arise when people attempt to force one set of values on others or lay claim to exclusive value systems that do not allow for divergent beliefs. Value conflicts are generally intractable. <br/>
 
 
+ <br/>
+ <br/>
+[Prev](Plotting_Aids.md)[Next](Flaw_Builder.md) <br/>

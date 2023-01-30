@@ -6,4 +6,11 @@ This button toggles the Navigation Pane to either display or be hidden. Hiding t
 
 ![](Show-and-Hide-Navigation.png)
 
+<<<<<<< HEAD
 (Hint: StoryCAD detects and reports spelling errors on most text fields.) <br/>
+=======
+(Hint: StoryBuilder detects and reports spelling errors on most text fields.) <br/>
+ <br/>
+ <br/>
+[Prev](Search.md)[Next](File_Menu.md) <br/>
+>>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes

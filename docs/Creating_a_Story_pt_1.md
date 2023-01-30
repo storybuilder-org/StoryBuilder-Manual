@@ -3,7 +3,11 @@ Creating a Story <br/>
 
 
 
+<<<<<<< HEAD
 The best  way to learn about StoryCAD is to actually create a story with it.  That's what this tutorial is for.  We'll create a story outline with StoryCAD and show you exactly what we did at each step along the way. We don’t claim it’s a great outline; actually, it’s pretty trite. But the point is that any story idea, with work and process, can be developed into a workable story. <br/>
+=======
+The best  way to learn about StoryBuilder is to actually create a story with it.  That's what this tutorial is for.  We'll create a story outline with StoryBuilder and show you exactly what we did at each step along the way. We don’t claim it’s a great outline; actually, it’s pretty trite. But the point is that any story idea, with work and process, can be developed into a workable story. <br/>
+>>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 
 The tutorial assumes you can navigate in StoryCAD, so if you haven’t yet done so, please take a look at the Quick Start  section of this manual, and particularly at the Navigating in StoryCAD subsection. That  said, let’s begin. <br/>
 
@@ -73,3 +77,9 @@ When you’re done with an editing session, you can Close your outline using the
 
 
 
+<<<<<<< HEAD
+=======
+ <br/>
+ <br/>
+[Prev](Notes_Form.md)[Next](Creating_a_Story_pt_2.md) <br/>
+>>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes

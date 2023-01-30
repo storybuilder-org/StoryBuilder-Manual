@@ -6,9 +6,19 @@ If you select the Print Reports option, a dialog will appear which allows you to
 ![](Generate-Reports-Dialog.png)
 
 
+<<<<<<< HEAD
 On Windows 11 systems, StoryCAD provides a Print Manager which allows you to select a printer and its options, and to display reports in a Print Preview window: <br/>
+=======
+On Windows 11 systems, StoryBuilder provides a Print Manager which allows you to select a printer and its options, and to display reports in a Print Preview window: <br/>
+>>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 
 ![](Print-Manager.png)
 
 
 If you’re running Windows 10, Clicking Generate will cause all of the selected reports to print on your default printer. <br/>
+<<<<<<< HEAD
+=======
+ <br/>
+ <br/>
+[Prev](Reports.md)[Next](Scrivener_Reports.md) <br/>
+>>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes

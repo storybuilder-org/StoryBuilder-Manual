@@ -3,7 +3,11 @@ Add/Remove Story Elements <br/>
 
 You can add or remove Story Elements in two ways. There’s a Menu Bar button which opens an ‘Add/Remove Story Elements’ menu: <br/>
 
+<<<<<<< HEAD
 ![](Menu-Bar-2.png)
+=======
+![](Menu-Bar-1.png)
+>>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 
 There’s also a pop-up menu which displays when you right-click on any Story Element node in the Navigation Pane: <br/>
 

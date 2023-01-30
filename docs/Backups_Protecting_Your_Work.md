@@ -16,3 +16,9 @@ To revert to a backup, simply click on the .stbx file of your choice and use Fil
 
 See Preferences in this manual for further information. <br/>
 
+<<<<<<< HEAD
+=======
+ <br/>
+ <br/>
+[Prev](Critiquing_with_StoryBuilder.md)[Next](Developing_StoryBuilder.md) <br/>
+>>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes

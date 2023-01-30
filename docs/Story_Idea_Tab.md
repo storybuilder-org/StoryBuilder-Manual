@@ -21,3 +21,9 @@ Story Idea				This is the place to record the original idea that led you to want
 
 
 
+<<<<<<< HEAD
+=======
+ <br/>
+ <br/>
+[Prev](Scene_Form.md)[Next](Concept_Tab.md) <br/>
+>>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
