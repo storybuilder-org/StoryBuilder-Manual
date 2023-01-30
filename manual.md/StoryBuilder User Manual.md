@@ -1,7 +1,7 @@
 Title: manual
 Author: 
 Base Header Level: 2
-Copyright: Copyright 2022, . All rights reserved.
+Copyright: Copyright 2023, . All rights reserved.
 
 # Front Matter #
 ## Front Page (Image) ##
@@ -61,8 +61,8 @@ Using Various Input Devices
 You can use a wide range of input devices with StoryBuilder:  keyboard, virtual keyboard, pen or stylus, mouse, and touch, depending on your computer or tablet ‘s capabilities.
 Invoke pop-up menus using the following actions:
 
-*Input*
-*Action*
+Input
+Action
 Mouse
 Right click
 Keyboard
@@ -77,22 +77,21 @@ Right Touchpad button
 The menu key(sometimes called document key) looks like this: 
 
 ![][Keyboard-Right-Mouse-Key]
-## Navigating in StoryBuilder ##
-### Starting and Stopping StoryBuilder ###
+## Starting and Stopping StoryBuilder ##
 Starting and Stopping StoryBuilder
 
 To start StoryBuilder, find and click the StoryBuilder icon from the Start Menu or from your pinned apps. The StoryBuilder main form will be displayed.
 
-You can leave StoryBuilder at any time by either selecting Exit from the File Menu or pressing the main form's Close (X) button . 
+You can leave StoryBuilder at any time by either selecting Exit from the File Menu or pressing the main form's Close (X) button. 
 
-StoryBuilder follows regular Windows conventions.  The app can be re-sized, maximized or minimized to icons.  
+StoryBuilder follows regular Windows conventions.  The app can be re-sized, maximized or minimized to icons. However you can only have one instance of StoryBuilder open at once, if you try to open another instance of StoryBuilder whilst the first one is open, it will instead bring forward the original instance.
 
-### Reading and Writing Outlines ###
+## Reading and Writing Outlines ##
 Reading and Writing Outlines
 
 The File Menu button displays a drop-down menu of file options:
 
-MISSING IMAGE: C:/dev/src/User Manual/Screenshots/File Menu.png
+![][File-Menu]
 
 
 A StoryBuilder outline is a single file with a file extension of .stbx: for instance, ‘The Maltese Falcon.stbx.’   A StoryBuilder file can be moved, copied, etc.
@@ -111,7 +110,7 @@ Clicking on Sample Stories on the left tab displays a list of sample outlines in
 
 Only one story outline can be open at a time.  If you open a new file you'll be prompted to save the current file first if it’s been modified.
 
-### The StoryBuilder User Interface ###
+## The StoryBuilder User Interface ##
 The StoryBuilder User Interface
 
 ![][User-Interface]
@@ -120,11 +119,11 @@ The form’s sections are as follows. They’ll be explained in more detail as w
 
 	•	Menu Bar -  Access to common tasks
 	•	Status Bar - Displays program status information
-	•	Navigation Pane - A tree of S*tory Elements*
-	•	Content Pane - The contents of the currently selected S*tory Element*
+	•	Navigation Pane - A tree of Story Elements
+	•	Content Pane - The contents of the currently selected Story Element
 
 
-#### Menu Bar ####
+### Menu Bar ###
 Menu Bar
 
 The Menu bar is located just below the title bar on the StoryBuilder form and provides access to StoryBuilder’s common tasks.
@@ -143,7 +142,7 @@ Hovering your mouse or stylus over a button will display a tool tip describing t
 The menu bar buttons either display drop-down menus (such as File), or launch particular actions (such as Preferences.)
 
 Each of these options is discussed in the next topics of this manual.  
-##### Search #####
+#### Search ####
 Search
 StoryBuilder contains a search field, located at the left on the Menu Bar, which will perform narrow searches of your outline for specific items. To use it, enter text to search for in the search field and click the search button (hourglass.) The story elements containing the search text in selected fields will be highlighted:
 
@@ -151,7 +150,7 @@ StoryBuilder contains a search field, located at the left on the Menu Bar, which
 
 To clear the search, click on the search button a second time.
 
-##### Show/Hide Navigation Pane #####
+#### Show/Hide Navigation Pane ####
 1
 Show/Hide Navigation Pane
 
@@ -160,7 +159,7 @@ This button toggles the Navigation Pane to either display or be hidden. Hiding t
 ![][Show-and-Hide-Navigation]
 
 (Hint: StoryBuilder detects and reports spelling errors on most text fields.)
-##### File Menu  #####
+#### File Menu  ####
 File Menu
 
 The File Menu button was discussed previously in Reading and Writing Outlines.
@@ -168,12 +167,12 @@ The File Menu button was discussed previously in Reading and Writing Outlines.
 
 
 
-##### Add/Remove Story Elements #####
+#### Add/Remove Story Elements ####
 Add/Remove Story Elements
 
 You can add or remove Story Elements in two ways. There’s a Menu Bar button which opens an ‘Add/Remove Story Elements’ menu:
 
-![][Menu-Bar-4]
+![][Menu-Bar-5]
 
 There’s also a pop-up menu which displays when you right-click on any Story Element node in the Navigation Pane:
 
@@ -187,7 +186,7 @@ The Remove Story Element button (trashcan icon) moves a Story Element to the Tra
 The Add to Narrative/Remove from Narrative buttons copy a Scene story element to the Narrative Explorer View or remove it from that view.  These do not remove the Scene from Story Explorer View.
 
 
-##### Move Story Elements #####
+#### Move Story Elements ####
 Move Story Elements
 
 ![][Move-Story-Elements]
@@ -203,131 +202,8 @@ The Move Story Element button displays a pop-up which allows you to move the sel
 
 
 
-##### Tools Menu #####
-###### Narrative Editor ######
-Narrative Editor
-As is discussed in Story Explorer and Story Narrator Views, the sequence of scenes you choose to tell your story in (it’s narrative order) will frequently be different than the order you create the scenes as you develop your outline in Story Explorer.
-You can move a scene from Story Explorer to Story Narrator at any time with the aid of the Navigation Pane Flyout Command Bar’s ‘Move to Narrative’ button, but another tool, Narrative Editor, can help you quickly develop your Narrator View by moving scenes en masse. This might be done late in the outline’s development, for instance.
-
-Once you open the Narrative Editor, it will look similar to this. On one side you will the Story Explorer View (The view where you plan your story) and the Narrator View (This is the view that shows your story as it’s told.) 
-
-![][Clipboard-Image]
-
-The Narrative view is different from the Explorer view and contains only Scenes and Sections. Along the bottom there are several buttons:
-
-	•	Add Scene - Adds a node from the Story Explorer View (Only scenes and folders can be copied over, other types will not be copied over)
-	•	Add all unused scenes  - Copies all scenes in the explorer view that are not currently contained in the Narrative view.
-	•	^/v - Moves the selected node will be moved up / down 
-	•	Folder Icon - Creates a Section (Chapter, Act, etc.) in the narrator view
-	•	Trash Icon - Removes a Narrator View node
-
-The Done button closes the Narrative Editor when you’re finished.
-
-###### Key Questions ######
-
-
-
-
-
-Key Questions
-
-![][Clipboard-Image-93]
-
-Key Questions contains sub-menus which contain lists of questions appropriate to the Story Overview, Problem, Character, Setting, and Plot forms and story elements.
-
-Use the key questions to refine and test your story elements.   If you wish, you can record  answers or notes to questions that need highlighting or require more thought. 
-
-The questions for a story element type are a circular list.  That is, when you've displayed the last question for this form, the next question to display will be the first question for the form.  To navigate through the questions, use the Next (>>) and Previous (<<) buttons.
-
-###### Topic Information ######
-Topic Information
-
-The Topic Information sub-menu on the Tools menu contains a list containing information specific to certain topic categories:
-
-![][Topic-Information]
-
-A topic, once selected, may contain sub-topics:
-
-![][Clipboard-Image-94]
-. 
-
-Information on some of the topic categories follows.
-Aspects of a Crime
-
-When plotting a mystery, it's useful to plot 'backwards' from the crime itself.  Parts of a Crime provides a reminder of aspects of a crime you should take into consideration.
-Milieus
-
-Each genre contains certain elements which tend to recur as environment, backdrop, settings, and situations.  The Milieu entries contain lists of some of these elements.
-Subgenres
-
-Contains brief descriptions of some of  the finer classifications of a particular genre.
-
-###### Plotting Aids ######
-
-Plotting Aids
-
-The Plotting Aids sub-menu of the Tools menu displays a pull-down sub-menu of tools specific to the process of defining your plot.
-
-The Master Plots tool will populate your plot outline with a set of plot points according to a template or master plot outline, or will provide information on commonly recurring plot patterns.
-
-The Dramatic Situations tool uses standard dramatic situations to help you beef up the drama in an existing scene, or to add a scene which relies on a particular dramatic situation.
-
-The Stock Scenes tool provides lists of scenes frequently found in certain plotting situations, or in a particular genre.
-
-###### Master Plots ######
-1
-Master Plots
-
-![][Tools-Master-Plots]
-
-Plots tend to include the same story elements.  Aristotle was the first to identify and expand upon some of these elements, which have been elaborated in the centuries since his time.  These elements have to do with the shape of the plot.
-
-The same story forms also repeat themselves in fiction: stories of adventure, discovery, pursuit, etc.  Stories based upon one or more of these forms will tend to repeat certain story elements.
-
-StoryBuilder's Master Plots tool helps you shape your story's plot based on suggestions from these two sources.
-
-The Master Plots tool is invoked from the Plotting Aids sub-menu of the Tools menu.  It provides a list of plot skeletons, or master plots.  Selecting one of the master plots from the list at the top of the form will display  notes relevant to that master plot. 
-
-The first few master plots (Three Act Play, W-Diagram,  and Hero's Journey) are story outlines.  Selecting Copy when one of these master plots is selected will copy a skeleton plot into your plot outline, which can then be edited from the Plot form. The remaining master plots concern story forms or patterns.  Selecting Copy when one of these master plots is selected will add a plot point to your  plot outline.  This plot point contains notes and suggestions for stock scenes which are relevant to this story form.  You can copy more than one master plot into an outline.
-
-Ronald Tobias' excellent book 20 Master Plots (And How to Build Them) is a detailed look at the fundamental plots which recur through all fiction.
-
-The master plots can be changed according to your preferences.  See "Customizing  Storybuilder" for details on how to add, delete, or modify the listed items.
-
-###### Dramatic Situations ######
-Dramatic Situations
-
-![][Tools-Dramatic-Situations]
-
-Georges Polti, in his 1895 book The Thirty-Six Dramatic Situations, proposed that there are only a limited number of dramatic situations, based on fundamental human conflicts.   He defined each of his situations in terms of dramatic elements and examples.
-
-In 2017 Mike Figgis, whose film credits include Internal Affairs and Leaving Los Vegas, revised and republished The Thirty-Six Dramatic Situations, adapting the dated examples from long-forgotten writers Polti used to the more modern era, and borrowing examples from cinema. This is the source we use. 
-
-The Dramatic Situations form is invoked from the Plotting Aids sub-menu of the Tools menu.  It contains the thirty-six dramatic situations and the dramatic elements of each.
-
-The central story problem will frequently be based upon one of these situations, but the Dramatic Situations tool is intended more for use with the plot outline and with scenes.  Every scene can be thought of as a 'little story' with its own conflict; and each scene will therefore generally involve one or more of these dramatic situations.
-
-This tool works with the Scene tab on the Plot form to help define the conflict for a scene.  If you select Copy from the  Dramatic Situations form, the elements of the situation you have selected will be copied into the elements on the Scene tab of the Plot form for the currently selected plot point.
-
-###### Stock Scenes ######
-Stock Scenes
-
-![][Tools-Stock-Scenes]
-
-This tool, invoked from the Plotting Aids sub-menu of the Tools menu, provides a list of several categories of stock scenes. These are scenic situations which recur frequently in fiction. 
-
-While your plot and story should be as distinct and original as you can make it, stock scenes can be found throughout literature, and are a valuable part of any writer's tool kit.
-
-Selecting one of the categories will result in the display of a form listing some stock scenes in that category.  Selecting one or more of these scenes, and clicking on the Copy control, will cause a scene to be added to the plot, immediately after the current scene, with the stock scene's title as the scene summary.
-
-Stock Scenes can be tailored to display any sub-menus of stock scenes you wish.  You can modify the contents of the exiting sub-menus, or add or replace sub-menus.  See "Customizing StoryBuilder" for more details.
-
-###### Copy Characters and Settings ######
-Copy Characters & Settings
-
-This tool is coming soon. The purpose is to allow you to copy story elements from one story outline to another, such as in a series of novels.
-
-##### Reports #####
+#### Tools Menu ####
+#### Reports ####
 Reports
 
 Clicking on the Reports button on the Menu Bar displays a fly-out menu with two reporting options:
@@ -335,53 +211,21 @@ Clicking on the Reports button on the Menu Bar displays a fly-out menu with two 
 ![][Print-Reports-Button-and-Menu]
 
 
-Print Reports
+More information can be found here:
 
-If you select the Print Reports option, a dialog will appear which allows you to check the particular reports you wish to print:
+	•	Print Reports
+	•	Scrivener Reports
 
-![][Generate-Reports-Dialog]
-
-Clicking Generate will cause all of the selected reports to print on your default printer.
-
-Scrivener Reports
-
-If you use Scrivener, clicking Scrivener Reports will open a file picker to allow you to select a Scrivener .scrivx file from a Scrivener project. The Scrivener project you select is the one you’ll be writing your draft in, and it must have been created before you generate the reports.
-
-![][Scrivener-Reports-File-Picker]
-
-When the reports are done:    MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Scrivener Reports Generated Status Message.png  you can open your Scrivener project. You’ll see a set of nodes added to the Binder, which contain your reports:
-
-![][Scrivener-Binder-with-StoryBuilder-Outline]
-
-A convenient way to use these embedded reports is to split your screen, with one pane open to a text node in the Manuscript and the other to a node in the outline:
-
-![][Scrivener-Split-Screen-with-StoryBuilder]
-##### Preferences #####
-Preferences
+#### Preferences ####
+Preferences Menu
 
 The Preferences dialog is launched when you click on the Preferences button on the Menu Bar:
 
 ![][Prefences-CommandBar-Button]
 
-![][Preferences-Dialog]
 
-This dialog will also be displayed the first time you launch StoryBuilder.
-
-This dialog will also be displayed the first time you launch StoryBuilder.
-
-Here are a list of the options (Besides information fields such as name, email etc.)
-
-	Make a backup when a story is opened - makes a backup when you open a story
-	Make timed backups - Makes a backup however often is specified in backup frequency
-	Backup Frequency - How often a timed backup should be made in seconds.
-	Backup Directory - Where backups should be stored.
-	Send error logs -When an error occurs a log will be sent to us, this gives us an idea of what happened and who caused it so we can follow up for more info if needed (your information will not be shared with anyone outside of Team StoryBuilder)
-	Send newsletters - Email a newsletter every now and then (usually around once a month).
-	Wrap node names - Wraps node names in the story explorer
-	Automatically Save - Automatically saves your story every X seconds.
-
-
-##### Key Binds #####
+More information can be found here:
+#### Key Binds ####
 Key Binds
 Some options in the menu have key binds to speed up your story planning. Below is a comprehensive list of all the key binds on the menu bar:
 
@@ -408,7 +252,45 @@ Ctrl + L - Stock Scenes
 Report Commands
 Ctrl + P - Open Print Report Menu
 Ctrl +R - Scrivener Reports 
-#### Status Bar ####
+### Navigation and  Content Panes ###
+Navigation and Content Panes
+
+The Navigation Pane allows you to view, organize, and manage the parts of your story outline in a hierarchical structure.  It’s similar to the Windows File Explorer, but instead of files and folders, each node in the tree is a Story Elements  Your outline is composed of five Story Element types:
+
+	•	Story Overview 
+	•	Problem
+	•	Character
+	•	Setting
+	•	Scene
+
+There are also two  Story Element types to assist in organizing your outline:
+
+	•	Folder
+	•	Section
+
+Two more assist in researching your story:
+
+	•	Web
+	•	Notes
+
+There’s also a Trashcan node which is the parent for other nodes you wish to discard.
+
+Clicking (or touching) a Story Element node on the Navigation Pane will display that Story Element’s  content in the Content Panel. Each Story Element type has its own form; the major ones are tabbed.
+
+![][Danger-Calls-Shootout]
+
+
+On some screen sizes and orientations the Navigation and Content panes may be stacked with the Navigation pane above the Content pane. In those cases the Show/Hide Navigation button (the hamburger menu button) acts differently; it toggles from the Navigation Pane to the Content Pane and back.
+
+![][Navigation-and-Content-Pane]
+
+
+Your outline has only one Story Overview; it’s created automatically when you open or create a new outline. The Story Overview is the root of the Navigation Pane tree, and all other Story Elements are below it. 
+
+Every majfor form also has a full-page tab (labeled Notes) which holds your general notes and thoughts regarding the story element. We won’t talk about these again; just be aware that they’re there.
+
+
+### Status Bar ###
 Status Bar
 
 ![][Status-Bar]
@@ -422,7 +304,7 @@ Allows you to switch between Story Explorer and Story Narrator views.
 
 Story Explorer is the view in which you create and edit your outline. The order and arrangement of story elements in the Navigation Pane is entirely under your control.
 
-Story Narrator is your outline’s scenes arranged into the order you wish to tell your story in.
+Story Narrator is a separate display of your outline’s Scene Story Elements arranged into the order you wish to tell your story in.
 
 Status Message
 
@@ -436,16 +318,18 @@ Changed Indicator
 
  ![][Changed-Indicator]
 
-The Changed Indicator displays red if any editing has been done to the outline and green if not. It’s a reminder to save your work.
+The Changed Indicator displays red if any editing has been done to the outline and green if not. It’s a reminder to save your work. It’s also a command button which will save your outline if you click it.
+## Navigating in StoryBuilder ##
 ### Story Elements ###
 Story Elements
 
 Your outline is a tree of Story Elements which are displayed in the Navigation Pane. Clicking (or touching) a Story Element node on the Navigation Pane will display that Story Element’s  content in the Content Pane.
+
 Here, clicking on the first or root node in the tree displays the Story  Overview  Form. 
 
 On some screen sizes and orientations the Navigation and Content panes may be stacked with the Navigation pane above the Content pane. In those cases the Show/Hide Navigation button (the hamburger menu button) acts differently; it toggles from the Navigation Pane to the Content Pane and back.
 
-![][Navigation-and-Content-Pane]
+![][Navigation-and-Content-Pane-1]
 
 Every Story Element type is a different form. These are the story elements:
 
@@ -481,14 +365,16 @@ The next group of icons (to the right of the divider) operate directly on the it
 
 	•	Move Story Element to Trashcan
 	•	Restore Story Element from Trashcan 
-	•	Add Scene to Story Narrative View (see Story Explorer and Story Narrator Views)Story Explorer and Story Narrator Views
+	•	Add Scene to Story Narrative View (see Story Explorer and Story Narrator Views)
 
 ### Tabs ###
 Tabs		
 
-For most story element types, that Form contains multiple tabs. Clicking or touching a Tab name (the larger font) will switch to that tab’s content. 
+For most Story Element types, that Form contains multiple tabs. Clicking or touching a Tab name (the larger font) will switch to that tab’s content. 
 
-In some cases (and particularly if you resize the StoryBuilder window down) not all tabs will show. In that case  the tabs will form a carousel you can scroll left or right by using the left or right arrows that appear at the edges of the tab area.
+Tabs allow you to easily switch between different sections of a form, rather than having to navigate through multiple separate pages or windows. A tab organizes and groups related information.
+
+In some cases (and particularly if you resize the StoryBuilder window smaller) not all tabs will show. In that case  the tabs will form a carousel you can scroll left or right by using the left or right arrows that appear at the edges of the tab area.
 
 ![][Tabs]
 
@@ -507,24 +393,7 @@ Story Narrator View is the view you’ll use when you’re ready to structure yo
 
 
 
-## Backups: Protecting Your Work ##
-Protecting Your Work
-
-
-Experienced computer users never underestimate the importance of a backup.  A power failure or computer crash, or a slip of the hand, can cost you the changes you've made since you last backed up your work.
-
-The easiest and best backup is to save your work frequently at places where you're satisfied with your progress--- milestones such as adding a plot point for an important scene, describing the physical appearance of a character, or figuring out how you plan to resolve a story problem. When you modify your outline, StoryBuilder will display a red pencil on the status bar to indicate that  it’s in an ‘unsaved’ state. Use the File | Save option to cause the outline to be re-written to disk.
-
-Backups are written to the folder specified in the ‘Backup directory’ selection in Preferences. Use  the browse button next to the specified folder to select (or create) the folder you wish to keep your story outline backups in. We recommend creating a folder just for this purpose.
-
-Backups are suffixed with a date timestamp, for example:
-	
-	  My Story as of 11 01 2022 17 12 16.stbx
-
-To revert to a backup, simply click on the .stbx file of your choice and use File | Save As to save it back where you want it. If you specify the same parent folder as your working outline, it’ll overlay it.
-
-See "Preferences" in this manual for further information.
-
+# Story Elements #
 ## Story Overview Form ##
 ### Story Idea Tab ###
 Story Idea Tab
@@ -753,90 +622,11 @@ Goal, Motivation, Conflict Builder, Conflict
 
 
 
-### Conflict Builder ###
-Conflict Builder
-
-
-![][Clipboard-Image-95]
-
-While we often think we’d like to live our lives with a minimum of conflict, we’re fascinated by the stuff, our fiction absolutely depends on it.  
-
-Conflict is easy to define: it’s what prevents your character from achieving his or her goal. Picking the right conflict is arguably the most important decision you’ll make in designing your story. If there’s no struggle, there’s no story. Robert McKee puts it this way: Nothing moves forward in a story except through conflict.
-
-Not all conflict will suit your needs. It’s easy to swing towards either of two directions.  At the one extreme is senseless violence, with Black Bart villains and a need for your hero to wear tights and a cape. At the other lies the absence of meaningful conflict, replaced with shallow conflicts which are easily resolved and lead to Pollyanna outcomes.  The right conflict adds complexity and layers of meaning to your story. 
-
-There are endless forms of conflict, but fortunately, there is a literature and practice that applies some order to it all: Conflict Resolution Theory. CR Theory has developed from third-party work on conflict resolution as practiced by mediators and legal authorities. These efforts are attempts to find peaceful resolutions to disputes. This is emphatically not  your aim as a fiction writer, you want to build conflict, but CR Theory does provide a useful framework to examine conflict.
-
-Conflict Categories
-CR Theory generally classifies a conflict according to the five categories below -- relationship, data, interest, structural and value. Each has its own subcategories and, typically, examples of a conflict.
-Relationship Conflicts
-Relationship conflicts occur because of negative behavior patterns by or both parties,  strong negative emotions, misconceptions and stereotypes, and poor (or no) communication. They frequently involve pressure from other non-relationship issues (such as money) or third-parties. Relationship problems often follow a downward spiral of destructive actions. 
-Data Conflicts
-Data conflicts occur when people lack the information necessary to make good choices, are accidentally or intentionally misinformed, disagree on what data is important or how the data They frequently involve poor communication between the adversaries.
-Interest Conflicts
-Interest conflicts are caused by competition over perceived incompatible needs. Conflicts of interest result when one or more of the parties believe that in order to satisfy his or her needs, the needs and interests of an opponent must be sacrificed- that a zero-sum game is being played. Interest-based conflict will commonly be expressed as power struggles and rank pulling. Interest conflicts may occur over substantive issues (such as money, physical resources, time, property crimes, etc.); procedural issues (the way the dispute is to be resolved); and psychological issues (assault and crimes of person, dominance, perceptions of trust, fairness, desire for participation, respect, etc.)
-Structural Conflicts
-Structural conflicts are caused by forces external to the people in dispute. Limited physical resources or authority, geographic constraints (distance or proximity), time (too little or too much), organizational changes, and so forth can make structural conflict seem like a crisis. One possible outcome of a structural conflict- rare in fiction- is cooperation or a structural change. 
-Value Conflicts
-Value conflicts are caused by perceived or actual incompatible belief systems. Values are beliefs that people use to give meaning to their lives. People frequently coach values in terms of right and wrong. Value disputes arise when people attempt to force one set of values on others or lay claim to exclusive value systems that do not allow for divergent beliefs. Value conflicts are generally intractable.
-SubCategories
-Each of these five categories can be further divided into subcategories.
-Relationship Conflicts differ according the the type of relationship. 
-Data Conflicts differ according the type of information mismatch between the two parties.
-Interest Conflicts
-Where Crime Fits
-Conflict Resolution Theory has a shortcoming: it’s based on work to reduce and resolve conflict. The criminal justice system, however, exists because conflict, when it passes a breaking point, becomes the perview of crime and punishment. 
-We’ve added a Conflict Category, Criminal, with the following subcategories:
-Crimes of Passion
-Antisocial Behavior
-Sociopathy
-Psychopathy
-Notes
-Crimes of Passion are different than the other subcategories. The legal definition of a crime of passion is that it’s committed ‘in a moment of passion’ in response to some provocation. We all known provocation, and have probably all acted in ways we regret in response to provocation. It’s easy to see ourselves  committing  some crimes: stealing, in order to feed our starving child, or beating up a bully who ‘deserves it.’  
-The other crime subcategories are different because they’re deliberate and premeditated. We somehow feel that they’re organic, a part of the individual’s nature, and it’s interesting to note that these other categories all may relate to narcissistic personality disorder. But it’s also worth noting that every one of us possess some basic traits of narcissism, such as being self-focused, having a lack of empathy, and desiring power and control, in one degree or another.  
-When thinking about conflict in your fiction, you may want to consider how a resolvable conflict can devolve into a more serious one: the process of finding complications.
-Other resources:
-Antisocial Behavior (SOCIAL PSYCHOLOGY) iResearchNet 
-Antisocial personality disorder - Symptoms and causes - Mayo Clinic 
-Antisocial Personality Disorder (Sociopathy): Causes and Symptoms (psycom.net) 
-
-Sociopathy
-
-[tba]
-
-Psychopathy
-
-Conflict Theory in Criminal Justice (legalbeagle.com) 
-Common conflicts in Criminal Justice Organizations - Common Law Essays, Criminal justice, Criminal Law Essays, Justice (lawaspect.com) 
-Crime and Conflict Theory -- Attack the System 
-Strengths and Weaknesses of Conflict Theory (synonym.com) 
-Sociological/Criminological Theorising -- Deviance and Social Control - Law Essays (lawaspect.com) 
-Crime and conflict - GSDRC 
-Structural Sources of Conflict (eolss.net) 
-The 8 causes of conflict (and what to do about them) | by Duane Rohrbacher | Medium 
-The Relevance of Clausewitz's Theory of War to Contemporary Conflict Resolution (jstor.org) 
-
-Take a look at this last one (‘8 causes’) against the categories I have. For example, ‘Policy’ may automatically point to structural issues.
-
-Clausewitz describes war as “...a clash between major interests, which is resolved by bloodshed -- that is the only way in which it differs from other conflicts.” 
-
-The issue of information warfare
-
-When it comes to an extremely important point, the morality of war, Clausewitz says: “the moral factor is the most fluid element of all, and therefore spreads most easily to affect everything else.”  9 
-
-Warfare is “Trinitarian.” Simply put, it is about people, armed forces, and government. 12 
-
-These dynamics are also part of a new strategic landscape of conflict. Traditionally, violent conflict has been associated with inter-state wars or civil wars, but there is increasing agreement among conflict analysts that most current violent conflicts do not fit these ‘traditional’ categories. For instance, most violent deaths occur in non-traditional conflict settings. The new landscape of conflict frequently involves a mix of ingredients such as local and cross-border organized crime, socio-economic exclusion, rapid urbanization, political change after years of stasis, or long-standing disputes over land or identity. 
-Something for Everyone in the Military-Industrial Complex | War Is Boring 
-This is another rabbit hole. But a very interesting one. 
-‘It turns out that all the advising and assisting, all the training and coaching, has only made matters worse. As for those overstretched forces, relentless deployments are evidently breaking them down as reports indicate that rates of mental distress and suicide are again on the rise among them.’  
-
-
 ## Character Form ##
 ### Role Tab ###
 Role Tab
 
-![][Clipboard-Image-96]
+![][Clipboard-Image]
 
 The role tab contains the information which defines the relationship between this character and the story.
 
@@ -901,7 +691,7 @@ Use these notes to provide a thumbnail picture of the character and the overall 
 ### Physical Tab ###
 Physical and Appearance Tabs
 
-![][Clipboard-Image-97]
+![][Clipboard-Image-108]
 
 
 These character traits describe the external physical characteristics and appearance of the character.  They are generally self-explanatory.
@@ -916,7 +706,7 @@ The Appearance tab is a companion to the Physical tab.
 
 Use this note area to describe your character's looks, style of dress and movement, and the impression he leaves.  
 
-![][Clipboard-Image-98]
+![][Clipboard-Image-109]
 
 
 
@@ -990,11 +780,9 @@ Flaw Tab
 
 A character flaw is a negative trait that affects your character or others in a bad way. Flaws vary in severity; some are just unpleasant quirks, but a major flaw will have story consequences. It’s almost always at the root of a character arc, and must be corrected (a redemption arc) or will lead to your character’s downfall  (a fatal flaw.)
 
-Flaw Builder
+The Flaw Builder tool can help you find a flaw suitable to your character.
 
-![][Flaw-Builder]
 
-This tool explores some common examples of character flaws.
 ### Backstory Tab ###
 Backstory Tab
 
@@ -1133,7 +921,7 @@ Setting Tab
 
 The Setting tab contains elements which make the setting specific and unique.
 
-![][Clipboard-Image-99]
+![][Clipboard-Image-110]
 
 
 Locale	The location of the setting in space.
@@ -1239,6 +1027,317 @@ New Goal		The period of thought leads to a new plan, by which the protagonist ca
 
 See "Scene and Sequel" for more information.
 
+# Tools #
+## Narrative Editor ##
+Narrative Editor
+As is discussed in Story Explorer and Story Narrator Views, the sequence of scenes you choose to tell your story in (it’s narrative order) will frequently be different than the order you create the scenes as you develop your outline in Story Explorer.
+You can move a scene from Story Explorer to Story Narrator at any time with the aid of the Navigation Pane Flyout Command Bar’s ‘Move to Narrative’ button, but another tool, Narrative Editor, can help you quickly develop your Narrator View by moving scenes en masse. This might be done late in the outline’s development, for instance.
+
+Once you open the Narrative Editor, it will look similar to this. On one side you will the Story Explorer View (The view where you plan your story) and the Narrator View (This is the view that shows your story as it’s told.) 
+
+![][Clipboard-Image-111]
+
+The Narrative view is different from the Explorer view and contains only Scenes and Sections. Along the bottom there are several buttons:
+
+	•	Add Scene - Adds a node from the Story Explorer View (Only scenes and folders can be copied over, other types will not be copied over)
+	•	Add all unused scenes  - Copies all scenes in the explorer view that are not currently contained in the Narrative view.
+	•	^/v - Moves the selected node will be moved up / down 
+	•	Folder Icon - Creates a Section (Chapter, Act, etc.) in the narrator view
+	•	Trash Icon - Removes a Narrator View node
+
+The Done button closes the Narrative Editor when you’re finished.
+
+## Key Questions ##
+
+
+
+
+
+Key Questions
+
+![][Clipboard-Image-112]
+
+Key Questions contains sub-menus which contain lists of questions appropriate to the Story Overview, Problem, Character, Setting, and Plot forms and story elements.
+
+Use the key questions to refine and test your story elements.   If you wish, you can record  answers or notes to questions that need highlighting or require more thought. 
+
+The questions for a story element type are a circular list.  That is, when you've displayed the last question for this form, the next question to display will be the first question for the form.  To navigate through the questions, use the Next (>>) and Previous (<<) buttons.
+
+## Topic Information ##
+Topic Information
+
+The Topic Information sub-menu on the Tools menu contains a list containing information specific to certain topic categories:
+
+![][Topic-Information]
+
+A topic, once selected, may contain sub-topics:
+
+![][Clipboard-Image-113]
+. 
+
+Information on some of the topic categories follows.
+Aspects of a Crime
+
+When plotting a mystery, it's useful to plot 'backwards' from the crime itself.  Parts of a Crime provides a reminder of aspects of a crime you should take into consideration.
+Milieus
+
+Each genre contains certain elements which tend to recur as environment, backdrop, settings, and situations.  The Milieu entries contain lists of some of these elements.
+Subgenres
+
+Contains brief descriptions of some of  the finer classifications of a particular genre.
+
+## Plotting Aids ##
+
+Plotting Aids
+
+The Plotting Aids sub-menu of the Tools menu displays a pull-down sub-menu of tools specific to the process of defining your plot.
+
+The Master Plots tool will populate your plot outline with a set of plot points according to a template or master plot outline, or will provide information on commonly recurring plot patterns.
+
+The Dramatic Situations tool uses standard dramatic situations to help you beef up the drama in an existing scene, or to add a scene which relies on a particular dramatic situation.
+
+The Stock Scenes tool provides lists of scenes frequently found in certain plotting situations, or in a particular genre.
+
+### Master Plots ###
+1
+Master Plots
+
+![][Tools-Master-Plots]
+
+Plots tend to include the same story elements.  Aristotle was the first to identify and expand upon some of these elements, which have been elaborated in the centuries since his time.  These elements have to do with the shape of the plot.
+
+The same story forms also repeat themselves in fiction: stories of adventure, discovery, pursuit, etc.  Stories based upon one or more of these forms will tend to repeat certain story elements.
+
+StoryBuilder's Master Plots tool helps you shape your story's plot based on suggestions from these two sources.
+
+The Master Plots tool is invoked from the Plotting Aids sub-menu of the Tools menu.  It provides a list of plot skeletons, or master plots.  Selecting one of the master plots from the list at the top of the form will display  notes relevant to that master plot. 
+
+The first few master plots (Three Act Play, W-Diagram,  and Hero's Journey) are story outlines.  Selecting Copy when one of these master plots is selected will copy a skeleton plot into your plot outline, which can then be edited from the Plot form. The remaining master plots concern story forms or patterns.  Selecting Copy when one of these master plots is selected will add a plot point to your  plot outline.  This plot point contains notes and suggestions for stock scenes which are relevant to this story form.  You can copy more than one master plot into an outline.
+
+Ronald Tobias' excellent book 20 Master Plots (And How to Build Them) is a detailed look at the fundamental plots which recur through all fiction.
+
+The master plots can be changed according to your preferences.  See "Customizing  Storybuilder" for details on how to add, delete, or modify the listed items.
+
+### Dramatic Situations ###
+Dramatic Situations
+
+![][Tools-Dramatic-Situations]
+
+Georges Polti, in his 1895 book The Thirty-Six Dramatic Situations, proposed that there are only a limited number of dramatic situations, based on fundamental human conflicts.   He defined each of his situations in terms of dramatic elements and examples.
+
+In 2017 Mike Figgis, whose film credits include Internal Affairs and Leaving Los Vegas, revised and republished The Thirty-Six Dramatic Situations, adapting the dated examples from long-forgotten writers Polti used to the more modern era, and borrowing examples from cinema. This is the source we use. 
+
+The Dramatic Situations form is invoked from the Plotting Aids sub-menu of the Tools menu.  It contains the thirty-six dramatic situations and the dramatic elements of each.
+
+The central story problem will frequently be based upon one of these situations, but the Dramatic Situations tool is intended more for use with the plot outline and with scenes.  Every scene can be thought of as a 'little story' with its own conflict; and each scene will therefore generally involve one or more of these dramatic situations.
+
+This tool works with the Scene tab on the Plot form to help define the conflict for a scene.  If you select Copy from the  Dramatic Situations form, the elements of the situation you have selected will be copied into the elements on the Scene tab of the Plot form for the currently selected plot point.
+
+### Stock Scenes ###
+Stock Scenes
+
+![][Tools-Stock-Scenes]
+
+This tool, invoked from the Plotting Aids sub-menu of the Tools menu, provides a list of several categories of stock scenes. These are scenic situations which recur frequently in fiction. 
+
+While your plot and story should be as distinct and original as you can make it, stock scenes can be found throughout literature, and are a valuable part of any writer's tool kit.
+
+Selecting one of the categories will result in the display of a form listing some stock scenes in that category.  Selecting one or more of these scenes, and clicking on the Copy control, will cause a scene to be added to the plot, immediately after the current scene, with the stock scene's title as the scene summary.
+
+Stock Scenes can be tailored to display any sub-menus of stock scenes you wish.  You can modify the contents of the exiting sub-menus, or add or replace sub-menus.  See "Customizing StoryBuilder" for more details.
+
+## Conflict Builder ##
+Conflict Builder
+
+
+![][Clipboard-Image-114]
+
+
+
+The Conflict Builder tool, invoked by buttons on the Protagonist and Antagonist tabs of the Problem Form.
+
+Conflict Categories
+Conflict Builder classifies conflicts according to a series of categories and subcategories and provides examples of each. The categories are as follows:
+
+Criminal activities
+The subcategories of criminal activity makes it easier to understand the motives and patterns of each.
+Criminal psychology
+
+This alternative way to approach crime focuses on the character of the criminal.
+Identify conflicts
+Identity conflict is a psychological phenomenon in which an individual experiences a discrepancy between their self-perception and their perceived social identity. This can occur when an individual feels that their personal values or beliefs are not aligned with the expectations or norms of the group or society to which they belong. Identity conflicts can lead to feelings of confusion, anxiety, and distress. They can also result in behaviors such as resistance, rebellion, or withdrawal from the group or society.
+Relationship Conflicts
+Relationship conflicts occur because of negative behavior patterns by or both parties,  strong negative emotions, misconceptions and stereotypes, and poor (or no) communication. They frequently involve pressure from other non-relationship issues (such as money) or third-parties. Relationship problems often follow a downward spiral of destructive actions. 
+Information Conflicts
+Information conflicts occur when people lack the information necessary to make good choices, are accidentally or intentionally misinformed, disagree on what data is important or how the data  should be interpreted. They frequently involve poor communication between the adversaries.
+Interest Conflicts
+Interest conflicts are caused by competition over perceived incompatible needs. Conflicts of interest result when one or more of the parties believe that in order to satisfy his or her needs, the needs and interests of an opponent must be sacrificed- that a zero-sum game is being played. Interest-based conflict will commonly be expressed as power struggles and rank pulling. Interest conflicts may occur over substantive issues (such as money, physical resources, time, property crimes, etc.); procedural issues (the way the dispute is to be resolved); and psychological issues (assault and crimes of person, dominance, perceptions of trust, fairness, desire for participation, respect, etc.)
+Structural Conflicts
+Structural conflicts are caused by forces external to the people in dispute. Limited physical resources or authority, geographic constraints (distance or proximity), time (too little or too much), organizational changes, and so forth can make structural conflict seem like a crisis. One possible outcome of a structural conflict- rare in fiction- is cooperation or a structural change. 
+Value Conflicts
+Value conflicts are caused by perceived or actual incompatible belief systems. Values are beliefs that people use to give meaning to their lives. People frequently coach values in terms of right and wrong. Value disputes arise when people attempt to force one set of values on others or lay claim to exclusive value systems that do not allow for divergent beliefs. Value conflicts are generally intractable.
+
+
+## Flaw Builder ##
+Flaw Builder
+
+![][Flaw-Builder]
+
+This tool is invoked from a button on the Character Form’s Flaw tab. It explores some common examples of character flaws to help you in developing a character.
+
+Generally, a character flaw should become a problem of its own, a ‘person against himself’ or internal problem. The Problem Type is usually discovery; self-awareness is the start of the solution. The failure to overcome a flaw is tragic: Hamlet’s indecision is an example.
+
+# Reports #
+## Reports ##
+Reports
+
+Clicking on the Reports button on the Menu Bar displays a fly-out menu with two reporting options:
+
+![][Print-Reports-Button-and-Menu-1]
+## Print Reports ##
+Print Reports
+
+If you select the Print Reports option, a dialog will appear which allows you to check the particular reports you wish to print:
+
+![][Generate-Reports-Dialog]
+
+
+On Windows 11 systems, StoryBuilder provides a Print Manager which allows you to select a printer and its options, and to display reports in a Print Preview window:
+
+![][Print-Manager]
+
+
+If you’re running Windows 10, Clicking Generate will cause all of the selected reports to print on your default printer.
+## Scrivener Reports ##
+Scrivener Reports
+
+If you use Scrivener, clicking Scrivener Reports will open a file picker to allow you to select a Scrivener .scrivx file from a Scrivener project. The Scrivener project you select is the one you’ll be writing your draft in, and it must have been created before you generate the reports.
+
+![][Scrivener-Reports-File-Picker]
+
+When the reports are done:    MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Scrivener Reports Generated Status Message.png  you can open your Scrivener project. You’ll see a set of nodes added to the Binder, which contain your reports:
+
+![][Scrivener-Binder-with-StoryBuilder-Outline]
+
+A convenient way to use these embedded reports is to split your screen, with one pane open to a text node in the Manuscript and the other to a node in the outline:
+
+![][Scrivener-Split-Screen-with-StoryBuilder]
+# Preferences #
+Preferences
+
+The Preferences Dialog will be displayed when you press the Preferences button on the Menu Bar:
+
+![][Prefences-CommandBar-Button-1]
+
+
+
+The Preferences Dialog contains many options. It’s divided into a series of tabs which group the functions.
+
+General tab:
+
+![][Preferences-General-tab]
+
+The name field is used as the default Author on the Story Overview form on new outlines.
+
+The name and your email address are used as your StoryBuilder userid. The email
+Address is also used with the elmah.io and newsletter options if you select those.
+
+The project directory is the default directory for new story outlines.
+
+Here are a list of the options (Besides information fields such as name, email etc.)
+
+Backup tab:
+
+![][Preferences-Backup-tab]
+
+StoryBuilder backups are  zip files containing your .stbx outline. 
+
+The backup directory is the folder which will hold your backups. It holds a subfolder for each outline (.stbx file) you’ve backed up; the subfolder has the individual backups of your outline:
+
+![][Backup-Folder-Hierarchy]
+
+Make a backup when a story is opened - Makes a backup when you open a story
+
+Make timed backups - Makes a timed backup every so many minutes.
+
+Backup Frequency - How often a timed backup should be made in minutes.
+
+Other tab:
+
+![][Preferences-Other-tab]
+
+Send error logs - This option uses a service, elmah.io, which collects error data and provides us with a log which gives us an idea of what happened. This information includes your your email so that we can follow up for more information if needed. Your outline data is not not retained or forwarded and no
+information is shared with anyone outside of Team StoryBuilder.
+
+Send newsletters - Your email address will be subscribed to the StoryBuilder newsletter, which is usually sent about once a month.
+
+Wrap node names - Wraps node names in the Story Explorer and Narrator treeviews, if the Name is longer than the treeview’s display width.
+
+Automatically Save - This function will automatically save your story  story outline every X seconds. It operates exactly as if you’d used File | Save or clicked on the edit button on the status bar.  You’ll see a verification of the save event on the status bar and the edit button will turn green. 
+
+About tab:
+
+![][Preferences-About-tab]
+
+This tab identifies the current version.
+
+The logs folder is a subfolder of the installation folder. It contains a list of the most recent log files written by StoryBuilder (one file per day.)
+
+![][Logs-Folder-Display]
+
+These files contain operational logs of StoryBuilder sessions and if you’ve enabled exception reporting we may ask you to forward the log relevant to a reported exception, at your discretion.
+
+The Discord server is the community meeting place for StoryBuilder users; we urge you to join us.
+
+What’s New tab:
+
+![][Preferences-Whats-New-tb]
+
+The What’s New tab displays the Changelog for the current release. 
+# Researching your story #
+## Website Form ##
+Website Form
+The website form allows you store and view web pages easily and functions like a 			smaller version of your web browser. The URL you’re browsing is kept in the form.
+
+
+![][Clipboard-Image-115]
+
+![][Clipboard-Image-116]
+These buttons allow you to refresh, go forwards and respectively.
+
+![][Clipboard-Image-117]
+This is the search bar, if you have a website link (URL) then you can paste it here and 		after clicking the search button it will load the website. Conversely if you don’t have a 		URL you can search a query such as a map of the world and it will search it using 
+Google.
+
+Example -  Planning out a fictional character.
+
+1) Create a new website node, you can do this by right clicking a node and  then clicking then clicking the webpage icon.
+
+![][Clipboard-Image-118]
+
+2) Now navigate to it by clicking on it, it should now look similar the picture below.
+
+![][Clipboard-Image-119]
+
+3) Now lets make a fictional map, so search below fictional map generator.
+
+![][Clipboard-Image-120]
+
+3) Select any website below, for this example we will use the first one.
+
+![][Clipboard-Image-121]
+
+Congrats, we have now got a map our fictional word and can start planning our story 		around this world
+
+Note: The Website Form requires the Microsoft Edge WebView 2 runtime, most 				Windows computers will already have this installed by default however if you are for 		any reason missing it, StoryBuilder will ask to automatically install it.
+
+## Notes Form ##
+Notes Form
+
+Notes forms can be used to store any information you wish anywhere in the outline.
+
+![][Clipboard-Image-122]
+
 # Tutorial: Creating a Story #
 ## Creating a Story pt 1 ##
 Creating a Story
@@ -1259,7 +1358,7 @@ To do so in StoryBuilder, launch the program. The first time you launch the prog
 
 Back to our story idea. Use the File menu’s  Open/Create file option:
 
-![][File-Open-Dialog-6]
+![][File-Open-Dialog-7]
 
 Click on Create New Story to start a new outline:
 
@@ -1295,7 +1394,7 @@ At the moment, the story outline for "Danger Calls" exists only in your computer
 
 The indicator will change from red to green, indicating that all changes have been saved to disk.
 
-![][Changed-Indicator-6]
+![][Changed-Indicator-7]
 
 Alternatively, from the File menu, you can select Save Story, or enter the Ctrl+S shortcut keys.  Remember to save your work periodically.
 
@@ -1711,16 +1810,16 @@ All we need to do is to change the skeleton plot point into one which presents t
 
 There are other tools to help you plot- for example, Stock Scenes:
 
-![][Research-Danger-Callse-Stock-Scenes]
+![][Danger-Callse-Stock-Scenes]
 
 Stock Scenes are exactly what their name implies: scenes that you’ve seen so often you recognize them instantly.   We used ‘The chase leads into an ambush’ as the setup to our ‘Leonard's impulsiveness lets Lacas capture him’ problem.
 We didn’t call it that, of course, and in fact the capture idea we started with didn’t work: capture implies escape, and it just didn’t fit. Instead, our ‘The chase leads into an ambush became this:
 
-![][Research-Danger-Calls-Shootout]
+![][Danger-Calls-Shootout-1]
 
 Although the Scene Type we selected was ‘Action scene’, this is actually the Climax. If we go back to our Master Plots Three Act Play, we’ll find one more piece:
 
-![][Research-Danger-Calls-Denouement] 
+![][Danger-Calls-Denouement] 
 
 We’ve added two scenes after Shootout, ‘Tony updates Leonard on the aftermath’ and ‘Tony confronts Jack Chun’, both of which constitute the denouement for our story. The  confrontation scene, we think, closes a plot hole, how the bad guys came to set up the ambush, namely, a double-cross by Chun. The Problem, ‘Leonard’s impulsiveness lets Lacas capture him’, turns out not to be the second problem all.  ‘Jack Chun double-crosses the detectives.’  Might be a better title, and one question to address is why the double-cross: the question of motive. 
 
@@ -1746,7 +1845,7 @@ What’s different between these two positions? Several things:
 	•	The Plotter must still write her draft. In fact, that’s one downside to being a plotter: you can confuse writing the outline with writing the story, even tell yourself that the story’s done.
 	•	The Pantser is more likely to write herself into a corner, to not know what comes next.
 	•	The Pantser finishes her first draft. It contains all that knowledge needed to rewrite a second draft, but it’s diffused, spread throughout the prose. She has to edit much more extensively than if she worked from a good outline.
-	•	Here’s the killer: the Pantser had to face a blank page every day in order to get through that draft.  She often worked without a net, not knowing where her story was going. The plotter did too- *while she was writing her outline*. But there is a big difference in writing a few pages of outline and in writing a 200-page draft. The outline is more tractable. That’s what makes Pantsing a plotting issue.
+	•	Here’s the killer: the Pantser had to face a blank page every day in order to get through that draft.  She often worked without a net, not knowing where her story was going. The plotter did too- while she was writing her outline. But there is a big difference in writing a few pages of outline and in writing a 200-page draft. The outline is more tractable. That’s what makes Pantsing a plotting issue.
 
 The gap between these two perspectives,  and the answer to the original questions, is to outline as little as possible to get to an effective first draft. The trick is to develop an effective workflow, one that gets you to the writing as quickly and efficiently as possible.
 
@@ -1831,7 +1930,7 @@ Your Premise is the answer to the question the Concept poses.
 
 Your story can have more than one Problem story element, and every Problem has its own Premise, contained on the Resolution tab. But only one of these problems is your Story Problem, and that Problem  (and its Premise) is the one you select on the Story Overview form, Premise tab:
 
-![][Clipboard-Image-100]
+![][Clipboard-Image-123]
 
 The heart of plotted fiction is drama--- a struggle in which the outcome is in doubt. Your Story Problem will lead you to understand whose problem it is (your major character), what her or she want (the goal), and what stands in their way (opposition.) The Story Problem is the wormhole you enter to understand your story.
 
@@ -1919,9 +2018,24 @@ An inner problem is some want or need within the character himself, a need to gr
 
 It's often constructive to use StoryBuilder to define both an external and an internal problem for your protagonist, with separate Problem forms for each  of them. Both problems help to shape the story's plot. There’s even a Create New Story template for this:
 
-![][Clipboard-Image-101]
+![][Clipboard-Image-124]
 
 The outer problem asks 'what does the character want?'  The inner problem asks 'why does he want it?'  The outer problem is tangible. The inner problem is intangible, invisible.  The outer problem faces an external adversary.  The inner problem is Man against Himself, usually with something to decide or discover. The outer problem is solved when (win or loose) something is accomplished.  The inner problem is solved when the character grows or changes, or fails to do so.  The inner problem is related to theme. The two problems are connected because your protagonist must come to grips with his inner demon before he can solve the external, outer problem.
+Conflict
+
+While we often think we’d like to live our lives with a minimum of conflict, we’re fascinated by the stuff, and our fiction absolutely depends on it.  
+
+Fictional conflict is easy to define: it’s what prevents your character from achieving his or her goal. Picking the right conflicts is arguably the most important decision you’ll make in designing your story. If there’s no struggle, there’s no story. Robert McKee puts it this way: Nothing moves forward in a story except through conflict.
+
+Remember that conflict is only one third of the triangle of Problem. Goal and Motivation, for both your protagonist and antagonist, are equally important. 
+
+Not all conflict will suit your needs. It’s easy to swing towards either of two directions.  At the one extreme is senseless violence, with Black Bart villains and a need for your hero to wear tights and a cape. At the other lies the absence of meaningful conflict, replaced with shallow conflicts which are easily resolved and lead to Pollyanna outcomes.  The right conflicts adds complexity and layers of meaning to your story. 
+Crimes of passion and crimes of opportunity are different than the other types of crime. The legal definition of a crime of passion is that it’s committed ‘in a moment of passion’ in response to some provocation. We all known provocation, and have acted in ways we regret in response to provocation. It’s easy to see ourselves  committing  some crimes:  beating up a bully who ‘deserves it’ or the person who cuts us off in traffic. We can also all identify with someone stealing, in order to feed a starving child.
+The other crime subcategories are different because they’re deliberate and premeditated. We somehow feel that they’re more organic, a part of the individual’s nature, and it’s interesting to note that those committing these other categories often have characteristics of narcissistic personality disorder. 
+But it’s also worth noting that every one of us possess some basic traits of narcissism, such as being self-focused, having a lack of empathy, and desiring power and control, in one degree or another.  We are all potential criminals.
+When thinking about conflict in your fiction, you may want to consider two things.
+
+Likewise, solving a conflict doesn’t always resolve a story: if so, many of our novels would be short stories. One problem often leads to another (often less tractable) one. This is what makes The Old Man and The Sea such a beautifully plotted tale.
 Complications
 
  Just as in real life,  one problem often leads to another.  These complications must be causally linked, just as scenes must be. Complications make things worse for your protagonist, escalate conflict, and build toward your story’s climax. 
@@ -1930,13 +2044,14 @@ A good example of this is found in Hemingway's The Old Man and the Sea.  This no
 
 Rather than arrange these problems in a list:
 
-![][Clipboard-Image-102]
+![][Clipboard-Image-125]
 
 You may want arrange them as children of the original problem, which won’t be solved until the complications are:
 
-![][Clipboard-Image-103]
+![][Clipboard-Image-126]
 
 Where possible, complications should be ordered to make things progressively worse for the protagonist. By the end of the shark attack, the marlin is nothing but a head and tail and skeleton; things can’t get much worse for Santiago.
+Conflicts of start at one level and devolve into a more serious one: ‘it’s not a war until the guns start firing.’  Finding your way from inciting incident through middle story to climax is  the process of finding complications, and escalating conflicts is one approach to doing so.  The escalation can occur for many reasons: a character gets tipped over the edge, a ticking clock goes off, a secondary character does something rash, a dropped dish is mistaken for a gunshot.
 Subplots
 
 Complications and inner conflicts are two ways in which a story is made richer and more complex by containing more than one problem. A story can also contain problems distinct from the main story problem and which run parallel to it. These often center around characters other than the protagonist. 
@@ -1995,7 +2110,7 @@ Protagonist  declines morally
 The protagonist must start with some good qualities and hope of a good outcome, but at the moment of crisis he declines.  The seeds of the negative trait which dooms him must be present from the start.
 
 Protagonist is defeated
-The sympathetic protagonist has a desirable goal, but is defeated in the end.  This is true tragedy.  The *Conflict Type* is often 'Person vs. Fate' or 'Person vs. Society.'
+The sympathetic protagonist has a desirable goal, but is defeated in the end.  This is true tragedy.  The Conflict Type is often 'Person vs. Fate' or 'Person vs. Society.'
 
 Villain is successful
 Frequently the villain is a Trickster who succeeds through cleverness.  This outcome is common in comedies.
@@ -2182,7 +2297,7 @@ MasterPlots
 
 In recent decades, the three-act structure has been joined by a bevy of other story structures, with different plot points:  Dan Wells’ Seven Point Structure, The Hero’s Journey, Blake Snyder’s Save the Cat, and many more.  Since plot points are also called story beats, these structures are often called ‘beat sheets’. A beat sheet can serve as a sort of plot template. StoryBuilder’s Master Plots tool provides a number of these templates, which will insert a set of Scene story elements into your outline at the place of your choosing:
 
-![][Tools-Master-Plots-5]
+![][Tools-Master-Plots-6]
 
 
 Since every Problem is a ‘small story’ and has its own set of events that define it, a Problem is good place to use this tool. A Problem can be thought of as a sequence, a term used frequently in scriptwriting, which is defined as ‘a series of scenes with a beginning, middle, and end.’ Or, if you prefer, setup, development, and resolution. 
@@ -2367,29 +2482,50 @@ Critiquing others’ stories is a great way to improve your art, because it’s 
 
 
 # Miscellaneous #
-Changelog Pop-up / What’s new menu
-Occasionally, when StoryBuilder updates a window will be shown. This will summarise what has changed in this update and which developer made that change.
-![][Clipboard-Image-104]
+## Backups: Protecting Your Work ##
+Protecting Your Work
 
-If you decide you want to see this popup again, you can access it in Preferences
-![][Clipboard-Image-105]
+
+Experienced computer users never underestimate the importance of a backup.  A power failure or computer crash, or a slip of the hand, can cost you the changes you've made since you last backed up your work.
+
+The easiest and best backup is to save your work frequently at places where you're satisfied with your progress--- milestones such as adding a plot point for an important scene, describing the physical appearance of a character, or figuring out how you plan to resolve a story problem. When you modify your outline, StoryBuilder will display a red pencil on the status bar to indicate that  it’s in an ‘unsaved’ state. Use the File | Save option to cause the outline to be re-written to disk.
+
+Backups are written to the folder specified in the ‘Backup directory’ selection in Preferences. Use  the browse button next to the specified folder to select (or create) the folder you wish to keep your story outline backups in. We recommend creating a folder just for this purpose.
+
+Backups are suffixed with a date timestamp, for example:
+	
+	  My Story as of 11 01 2022 17 12 16.stbx
+
+To revert to a backup, simply click on the .stbx file of your choice and use File | Save As to save it back where you want it. If you specify the same parent folder as your working outline, it’ll overlay it.
+
+See Preferences in this manual for further information.
+
+## Developing StoryBuilder ##
 Developing StoryBuilder
 If you are a C# developer and are somewhat familar with WinUI (or another XAML based UI language) then you can contribute to StoryBuilder (Which is written in C# and uses WinUI 3).
 For more information about contributing, please check the GitHub Repository.
 Developer only menus / pop-ups
-![][Clipboard-Image-106]
+![][Clipboard-Image-127]
 
 If you have cloned StoryBuilder to a separate repo and built it for the first time then you may be surprised to see this screen. It indicates a key file related to licensing is missing from your local clone. These licenses are in effect for the storybuilder.org repo only. The missing licenses won’t cause any issues with the app functioning, but your copy won’t report errors via Elmah.io and you may see pops relating to syncfusion licensing errors.
 Regardless, congratulations on successfully compiling StoryBuilder.
 
-![][Clipboard-Image-107]
+![][Clipboard-Image-128]
 
 If StoryBuilder notices you have a debugger attached to the process, the developer menu will appear.
-This shows info about the computer and may contain buttons to test some parts of the storybuilder.
-If running without a keyfile (which is standard for those contributing to the storybuilder project.) then some of these buttons may not work or cause intended behavior.
+This shows info about the computer and may contain buttons to test some parts of the StoryBuilder.
+If running without a keyfile (which is standard for those contributing to the StoryBuilder project.) then some of these buttons may not work or cause intended behavior.
 
 As such this menu may be removed, updated or abandoned at any point.
-(This menu can also be forced to shown by setting your name to ShowMeTheDevTab)
+
+Developer Notes
+- Single Instancing whilst debugging in VS does work however the window may not be brought to the front and may only flash as VS will attempt to hide it again if it wasn’t shown, to test Single Instancing releated stuff do the following:
+	- Run the app in VS (or Deploy.) so that it installs the app on your system.
+	- Close the app.
+	- Now launch the app from elsewhere (Such as the start menu or taskbar)
+	- Hide the app behind other windows or minimise it
+	- Attempt to launch the app again
+	- The first instance of the app should now be brought on top of all the window
 
 # Back Matter #
 ## Glossary ##
@@ -2648,6 +2784,8 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Keyboard-Right-Mouse-Key]: Keyboard-Right-Mouse-Key.png width=59px height=51px
 
+[File-Menu]: File-Menu.png width=467px height=425px
+
 [File-Open-Dialog]: File-Open-Dialog.png width=559px height=595px
 
 [Create-New-Outline-Dialog]: Create-New-Outline-Dialog.png width=548px height=563px
@@ -2662,45 +2800,25 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Show-and-Hide-Navigation]: Show-and-Hide-Navigation.png width=680px height=488px
 
-[Menu-Bar-4]: Menu-Bar-4.png width=599px height=64px
+[Menu-Bar-5]: Menu-Bar-5.png width=599px height=64px
 
 [Story-Element-Flyout]: Story-Element-Flyout.png width=472px height=116px
 
 [Move-Story-Elements]: Move-Story-Elements.png width=217px height=284px
 
-[Clipboard-Image]: Clipboard-Image.png width=551px height=707px
-
-[Clipboard-Image-93]: Clipboard-Image-93.png width=443px height=496px
-
-[Topic-Information]: Topic-Information.png width=680px height=489px
-
-[Clipboard-Image-94]: Clipboard-Image-94.png width=384px height=516px
-
-[Tools-Master-Plots]: Tools-Master-Plots.png width=544px height=631px
-
-[Tools-Dramatic-Situations]: Tools-Dramatic-Situations.png width=472px height=227px
-
-[Tools-Stock-Scenes]: Tools-Stock-Scenes.png width=475px height=628px
-
 [Print-Reports-Button-and-Menu]: Print-Reports-Button-and-Menu.png width=165px height=161px
-
-[Generate-Reports-Dialog]: Generate-Reports-Dialog.png width=548px height=759px
-
-[Scrivener-Reports-File-Picker]: Scrivener-Reports-File-Picker.png width=680px height=280px
-
-[Scrivener-Binder-with-StoryBuilder-Outline]: Scrivener-Binder-with-StoryBuilder-Outline.png width=680px height=331px
-
-[Scrivener-Split-Screen-with-StoryBuilder]: Scrivener-Split-Screen-with-StoryBuilder.png width=680px height=511px
 
 [Prefences-CommandBar-Button]: Prefences-CommandBar-Button.png width=299px height=43px
 
-[Preferences-Dialog]: Preferences-Dialog.png width=444px height=683px
+[Danger-Calls-Shootout]: Danger-Calls-Shootout.png width=680px height=530px
+
+[Navigation-and-Content-Pane]: Navigation-and-Content-Pane.png width=680px height=547px
 
 [Status-Bar]: Status-Bar.png width=680px height=34px
 
 [Changed-Indicator]: Changed-Indicator.png width=55px height=40px
 
-[Navigation-and-Content-Pane]: Navigation-and-Content-Pane.png width=680px height=547px
+[Navigation-and-Content-Pane-1]: Navigation-and-Content-Pane-1.png width=680px height=547px
 
 [Navigation-Pane-Flyout-CommandBar]: Navigation-Pane-Flyout-CommandBar.png width=680px height=484px
 
@@ -2722,13 +2840,11 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Problem-Antagonist-Tab]: Problem-Antagonist-Tab.png width=680px height=488px
 
-[Clipboard-Image-95]: Clipboard-Image-95.png width=440px height=264px
+[Clipboard-Image]: Clipboard-Image.png width=680px height=449px
 
-[Clipboard-Image-96]: Clipboard-Image-96.png width=680px height=449px
+[Clipboard-Image-108]: Clipboard-Image-108.png width=680px height=494px
 
-[Clipboard-Image-97]: Clipboard-Image-97.png width=680px height=494px
-
-[Clipboard-Image-98]: Clipboard-Image-98.png width=680px height=495px
+[Clipboard-Image-109]: Clipboard-Image-109.png width=680px height=495px
 
 [Character-Relationships-Tab]: Character-Relationships-Tab.png width=680px height=516px
 
@@ -2737,8 +2853,6 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 [Inverse-Relationship]: Inverse-Relationship.png width=680px height=415px
 
 [Character-Flaw-Tab]: Character-Flaw-Tab.png width=680px height=487px
-
-[Flaw-Builder]: Flaw-Builder.png width=551px height=325px
 
 [Character-Backstory-Tab]: Character-Backstory-Tab.png width=680px height=489px
 
@@ -2752,7 +2866,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Trait-Builder]: Trait-Builder.png width=352px height=304px
 
-[Clipboard-Image-99]: Clipboard-Image-99.png width=680px height=491px
+[Clipboard-Image-110]: Clipboard-Image-110.png width=680px height=491px
 
 [Setting-Sensations-Tab]: Setting-Sensations-Tab.png width=680px height=454px
 
@@ -2764,7 +2878,69 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Scene-Sequel-Tab]: Scene-Sequel-Tab.png width=680px height=454px
 
-[File-Open-Dialog-6]: File-Open-Dialog-6.png width=559px height=595px
+[Clipboard-Image-111]: Clipboard-Image-111.png width=551px height=707px
+
+[Clipboard-Image-112]: Clipboard-Image-112.png width=443px height=496px
+
+[Topic-Information]: Topic-Information.png width=680px height=489px
+
+[Clipboard-Image-113]: Clipboard-Image-113.png width=384px height=516px
+
+[Tools-Master-Plots]: Tools-Master-Plots.png width=544px height=631px
+
+[Tools-Dramatic-Situations]: Tools-Dramatic-Situations.png width=472px height=227px
+
+[Tools-Stock-Scenes]: Tools-Stock-Scenes.png width=475px height=628px
+
+[Clipboard-Image-114]: Clipboard-Image-114.png width=440px height=264px
+
+[Flaw-Builder]: Flaw-Builder.png width=551px height=325px
+
+[Print-Reports-Button-and-Menu-1]: Print-Reports-Button-and-Menu-1.png width=165px height=161px
+
+[Generate-Reports-Dialog]: Generate-Reports-Dialog.png width=548px height=759px
+
+[Print-Manager]: Print-Manager.png width=680px height=599px
+
+[Scrivener-Reports-File-Picker]: Scrivener-Reports-File-Picker.png width=680px height=280px
+
+[Scrivener-Binder-with-StoryBuilder-Outline]: Scrivener-Binder-with-StoryBuilder-Outline.png width=680px height=331px
+
+[Scrivener-Split-Screen-with-StoryBuilder]: Scrivener-Split-Screen-with-StoryBuilder.png width=680px height=511px
+
+[Prefences-CommandBar-Button-1]: Prefences-CommandBar-Button-1.png width=299px height=43px
+
+[Preferences-General-tab]: Preferences-General-tab.png width=549px height=521px
+
+[Preferences-Backup-tab]: Preferences-Backup-tab.png width=543px height=529px
+
+[Backup-Folder-Hierarchy]: Backup-Folder-Hierarchy.png width=680px height=191px
+
+[Preferences-Other-tab]: Preferences-Other-tab.png width=549px height=529px
+
+[Preferences-About-tab]: Preferences-About-tab.png width=543px height=448px
+
+[Logs-Folder-Display]: Logs-Folder-Display.png width=680px height=238px
+
+[Preferences-Whats-New-tb]: Preferences-Whats-New-tb.png width=543px height=715px
+
+[Clipboard-Image-115]: Clipboard-Image-115.png width=680px height=487px
+
+[Clipboard-Image-116]: Clipboard-Image-116.png width=136px height=48px
+
+[Clipboard-Image-117]: Clipboard-Image-117.png width=529px height=40px
+
+[Clipboard-Image-118]: Clipboard-Image-118.png width=680px height=553px
+
+[Clipboard-Image-119]: Clipboard-Image-119.png width=680px height=494px
+
+[Clipboard-Image-120]: Clipboard-Image-120.png width=680px height=484px
+
+[Clipboard-Image-121]: Clipboard-Image-121.png width=680px height=492px
+
+[Clipboard-Image-122]: Clipboard-Image-122.png width=680px height=489px
+
+[File-Open-Dialog-7]: File-Open-Dialog-7.png width=559px height=595px
 
 [Create-New-Story-Dialog]: Create-New-Story-Dialog.png width=555px height=565px
 
@@ -2780,7 +2956,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Tutorial-1-Changed-Indicator-(Red)]: Tutorial-1-Changed-Indicator-(Red).png width=53px height=47px
 
-[Changed-Indicator-6]: Changed-Indicator-6.png width=55px height=40px
+[Changed-Indicator-7]: Changed-Indicator-7.png width=55px height=40px
 
 [Tutorial-1-Empty-Struture-Tab]: Tutorial-1-Empty-Struture-Tab.png width=651px height=708px
 
@@ -2852,21 +3028,21 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Opening-Scene-Conflict]: Opening-Scene-Conflict.png width=680px height=486px
 
-[Research-Danger-Callse-Stock-Scenes]: Research-Danger-Callse-Stock-Scenes.png width=465px height=660px
+[Danger-Callse-Stock-Scenes]: Danger-Callse-Stock-Scenes.png width=465px height=660px
 
-[Research-Danger-Calls-Shootout]: Research-Danger-Calls-Shootout.png width=680px height=530px
+[Danger-Calls-Shootout-1]: Danger-Calls-Shootout-1.png width=680px height=530px
 
-[Research-Danger-Calls-Denouement]: Research-Danger-Calls-Denouement.png width=680px height=534px
+[Danger-Calls-Denouement]: Danger-Calls-Denouement.png width=680px height=534px
 
-[Clipboard-Image-100]: Clipboard-Image-100.png width=491px height=171px
+[Clipboard-Image-123]: Clipboard-Image-123.png width=491px height=171px
 
-[Clipboard-Image-101]: Clipboard-Image-101.png width=228px height=208px
+[Clipboard-Image-124]: Clipboard-Image-124.png width=228px height=208px
 
-[Clipboard-Image-102]: Clipboard-Image-102.png width=256px height=129px
+[Clipboard-Image-125]: Clipboard-Image-125.png width=256px height=129px
 
-[Clipboard-Image-103]: Clipboard-Image-103.png width=265px height=137px
+[Clipboard-Image-126]: Clipboard-Image-126.png width=265px height=137px
 
-[Tools-Master-Plots-5]: Tools-Master-Plots-5.png width=544px height=631px
+[Tools-Master-Plots-6]: Tools-Master-Plots-6.png width=544px height=631px
 
 [Tools-Master-Plots-Result]: Tools-Master-Plots-Result.png width=680px height=353px
 
@@ -2888,10 +3064,6 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Plotting-with-StoryBuilder-SubProblems-Epanded-into-Scenes]: Plotting-with-StoryBuilder-SubProblems-Epanded-into-Scenes.png width=273px height=356px
 
-[Clipboard-Image-104]: Clipboard-Image-104.png width=390px height=534px
+[Clipboard-Image-127]: Clipboard-Image-127.png width=543px height=281px
 
-[Clipboard-Image-105]: Clipboard-Image-105.png width=548px height=670px
-
-[Clipboard-Image-106]: Clipboard-Image-106.png width=543px height=281px
-
-[Clipboard-Image-107]: Clipboard-Image-107.png width=568px height=355px
+[Clipboard-Image-128]: Clipboard-Image-128.png width=568px height=355px
