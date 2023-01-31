@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="342E5DD6-5812-45AB-982C-E2EAC46CF8EE" Creator="SCRWIN-3.1.4.0" Device="Minerva" Modified="2023-01-30 15:57:12 -0500" ModID="0727E7C3-1929-4F85-AB7C-EFCD137CBE63">
+<ScrivenerProject Template="No" Version="2.0" Identifier="342E5DD6-5812-45AB-982C-E2EAC46CF8EE" Creator="SCRWIN-3.1.4.0" Device="Minerva" Modified="2023-01-31 08:15:44 -0500" ModID="7F09B808-36FB-4B53-A254-6A6807F75BAE">
     <Binder>
         <BinderItem UUID="9FFBA333-8432-41C1-91F5-1302DFE283CA" Type="Text" Created="2019-05-14 13:29:37 -0500" Modified="2019-05-14 13:29:46 -0500">
             <Title>Non-Fiction Format</Title>
@@ -357,7 +357,7 @@
                                         <TextSelection>710,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="AB2B628E-AF20-4DD6-AF97-1C8FF3852901" Type="Text" Created="2021-06-22 16:53:41 -0500" Modified="2022-08-14 17:15:32 -0500">
+                                <BinderItem UUID="AB2B628E-AF20-4DD6-AF97-1C8FF3852901" Type="Text" Created="2021-06-22 16:53:41 -0500" Modified="2023-01-31 08:14:21 -0500">
                                     <Title>Premise Tab</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -365,6 +365,9 @@
                                     <TextSettings>
                                         <TextSelection>629,0</TextSelection>
                                     </TextSettings>
+                                    <Bookmarks>
+                                        <Bookmark BinderUUID="7BFB3FDA-967D-4A65-A2ED-CA674EC067C3">Resolution Tab</Bookmark>
+                                    </Bookmarks>
                                 </BinderItem>
                                 <BinderItem UUID="D38D213D-0DDB-4475-AC05-75992094B890" Type="Text" Created="2021-06-22 16:53:55 -0500" Modified="2022-08-14 17:15:44 -0500">
                                     <Title>Structure Tab</Title>
@@ -409,14 +412,24 @@
                                         <TextSelection>18,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="0B3E0518-F900-48F1-AEF3-C78A45E31573" Type="Text" Created="2019-06-12 17:07:30 -0500" Modified="2022-08-14 17:16:55 -0500">
+                                <BinderItem UUID="0B3E0518-F900-48F1-AEF3-C78A45E31573" Type="Text" Created="2019-06-12 17:07:30 -0500" Modified="2023-01-31 07:02:26 -0500">
                                     <Title>Antagonist Tab</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <FileExtension>rtf</FileExtension>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>17,0</TextSelection>
+                                        <TextSelection>15,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="7BFB3FDA-967D-4A65-A2ED-CA674EC067C3" Type="Text" Created="2023-01-31 07:02:40 -0500" Modified="2023-01-31 08:15:36 -0500">
+                                    <Title>Resolution Tab</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>2422,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -2154,7 +2167,7 @@
                         <Bookmark BinderUUID="3119D876-985A-427A-925C-0AF45FDDB811">Protagonist Tab</Bookmark>
                     </Bookmarks>
                 </BinderItem>
-                <BinderItem UUID="32C61601-1C15-40D3-B111-34D2F3A9CBB9" Type="Image" Created="2022-04-20 05:09:07 -0500" Modified="2022-04-20 05:09:07 -0500">
+                <BinderItem UUID="32C61601-1C15-40D3-B111-34D2F3A9CBB9" Type="Image" Created="2022-04-20 05:09:07 -0500" Modified="2023-01-31 07:03:41 -0500">
                     <Title>Problem Resolution Tab</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -2166,6 +2179,9 @@
                         <ImageRotation>None</ImageRotation>
                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                     </MediaSettings>
+                    <Bookmarks>
+                        <Bookmark BinderUUID="7BFB3FDA-967D-4A65-A2ED-CA674EC067C3">Resolution Tab</Bookmark>
+                    </Bookmarks>
                 </BinderItem>
                 <BinderItem UUID="A695FF84-C62A-4B94-A225-6B99693A79F4" Type="Image" Created="2022-04-20 05:09:07 -0500" Modified="2022-04-20 05:09:07 -0500">
                     <Title>Relationship - Felix Unger  to Oscar Madison</Title>
@@ -3913,14 +3929,14 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="901" Characters="5469" Date="2023-01-30 15:57:12 -0500"/>
+        <PreviousSession Words="291" Characters="1798" Date="2023-01-31 08:15:44 -0500"/>
     </ProjectTargets>
     <BookmarksFolderUUID>07B0D7C6-57CE-4D6F-8AD9-11F06A261A5F</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2023-01-30 00:00:00 -0500">
-        <DraftWordCount>104</DraftWordCount>
-        <DraftCharCount>164</DraftCharCount>
-        <OtherWordCount>368</OtherWordCount>
-        <OtherCharCount>2601</OtherCharCount>
+    <RecentWritingHistory Date="2023-01-31 00:00:00 -0500">
+        <DraftWordCount>208</DraftWordCount>
+        <DraftCharCount>1292</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
