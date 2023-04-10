@@ -6,27 +6,27 @@ Copyright: Copyright 2023, . All rights reserved.
 # Front Matter #
 ## Front Page (Image) ##
 
-![][StoryBuilder]
+![][StoryCAD]
 ##  Preface ##
 Preface
 
 Writing fiction is tough. Modern novels typically contain between 70,000 and 100,000 words and can take a year or longer to write and edit. Starting a project of such magnitude without a plan is an invitation to disaster, but how do you plan something as complex as a novel?
 
-StoryBuilder is an outlining tool for fiction writers. The purpose of the outline is to manage complexity, a task made easier when you can visualize the structure of your story and individually address each of its many moving parts. The parts of good fiction are realistic, three dimensional characters who are engaged in meaningful and gripping problems, dramatic and suspenseful plots,  and settings that appeal to the senses. You fill in the blanks to create these story elements.
+StoryCAD (distributed by storybuilder.org) is an outlining tool for fiction writers. It’s Computer Aided Design for fiction writers. The purpose of the outline is to manage complexity, a task made easier when you can visualize the structure of your story and individually address each of its many moving parts. The parts of good fiction are realistic, three dimensional characters who are engaged in meaningful and gripping problems, dramatic and suspenseful plots,  and settings that appeal to the senses. You fill in the blanks to create these story elements.
 
-StoryBuilder eliminates writer’s block by providing thousands of suggestions or examples for the details of story elements. A collection of tools assist you in creating conflicts, understanding your characters, and building your plot. StoryBuilder is designed to simplify the outlining process, inspire, and keep ideas flowing. Each story element has a list of key questions: a checklist to help you refine your work.
+StoryCAD eliminates writer’s block by providing thousands of suggestions or examples for the details of story elements. A collection of tools assist you in creating conflicts, understanding your characters, and building your plot. StoryCAD is designed to simplify the outlining process, inspire, and keep ideas flowing. Each story element has a list of key questions: a checklist to help you refine your work.
 
-StoryBuilder’s layout provides a workflow to get you started, but you can work on any piece of your story at any time---add a scene, flesh out a character, or beef up a conflict. Whatever your story needs, for any form of fiction or any genre, StoryBuilder can help.
+StoryCAD’s layout provides a workflow to get you started, but you can work on any piece of your story at any time---add a scene, flesh out a character, or beef up a conflict. Whatever your story needs, for any form of fiction or any genre, StoryCAD can help.
 
-StoryBuilder frees your creativity and makes it fun. Mistakes in a StoryBuilder outline aren't costly; you don't fill your trash can with them.  You're free to change and revise, to make mistakes, and to experiment.  
+StoryCAD frees your creativity and makes it fun. Mistakes in a StoryCAD outline aren't costly; you don't fill your trash can with them.  You're free to change and revise, to make mistakes, and to experiment.  
 
-We hope you enjoy StoryBuilder and find it useful to your craft. 
+We hope you enjoy StoryCAD and find it useful to your craft. 
 ## Legal Matters ##
 Legal Matters
 
-The text of and illustrations in this document are licensed by Seven Valleys Software under a Creative Commons Attribution--Share Alike 3.0 Unported license ("CC-BY-SA"). An explanation of CC-BY-SA is available at http://creativecommons.org/licenses/by-sa/3.0/ 
+The text of and illustrations in this document are licensed by the StoryBuilder Organization under a Creative Commons Attribution--Share Alike 3.0 Unported license ("CC-BY-SA"). An explanation of CC-BY-SA is available at http://creativecommons.org/licenses/by-sa/3.0/ 
 
-In accordance with CC-BY-SA, if you distribute this document or an adaptation of it, you must provide the URL for the original version. Seven Valleys Software, as the licensor of this document, waives the right to enforce, and agrees not to assert, Section 4d of CC-BY-SA to the fullest extent permitted by applicable law.
+In accordance with CC-BY-SA, if you distribute this document or an adaptation of it, you must provide the URL for the original version. StoryBuilder Organization, as the licensor of this document, waives the right to enforce, and agrees not to assert, Section 4d of CC-BY-SA to the fullest extent permitted by applicable law.
 
 ***
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
@@ -36,9 +36,9 @@ Redistribution and use in source and binary forms, with or without modification,
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
-Copyright © 2021, 2022
+Copyright © 2022, 2023
 - by -
-Seven Valleys Software
+StoryBuilder Organization
 
 
 ## Getting Help ##
@@ -48,17 +48,17 @@ We suggest you first use this manual to try to find the information you’re loo
 
 The StoryBuilder Discord Server (a link can be found on the main menu’s Preferences | About tab) contains a ‘frequently-asked-questions’ channel, and a ‘writers-chat’ channel.
 
-Currently StoryBuilder’s only direct support mechanism is to email support@storybuilder.org.
+Currently StoryCAD’s only direct support mechanism is to email support@storybuilder.org.
 
 We plan to provide an on-line help request form as soon as possible.
 
-Please write us with ideas or suggestions for improvements.  We want to make StoryBuilder the best possible tool to help you achieve your fiction writing goals.
+Please write us with ideas or suggestions for improvements.  We want to make StoryCAD the best possible tool to help you achieve your fiction writing goals.
 
 # Quick Start #
 ## Using Various Input Devices ##
 Using Various Input Devices
 
-You can use a wide range of input devices with StoryBuilder:  keyboard, virtual keyboard, pen or stylus, mouse, and touch, depending on your computer or tablet ‘s capabilities.
+You can use a wide range of input devices with StoryCAD:  keyboard, virtual keyboard, pen or stylus, mouse, and touch, depending on your computer or tablet ‘s capabilities.
 Invoke pop-up menus using the following actions:
 
 Input
@@ -77,14 +77,14 @@ Right Touchpad button
 The menu key(sometimes called document key) looks like this: 
 
 ![][Keyboard-Right-Mouse-Key]
-## Starting and Stopping StoryBuilder ##
-Starting and Stopping StoryBuilder
+## Starting and Stopping StoryCAD ##
+Starting and Stopping StoryCAD
 
-To start StoryBuilder, find and click the StoryBuilder icon from the Start Menu or from your pinned apps. The StoryBuilder main form will be displayed.
+To start StoryCAD, find and click the StoryCAD icon from the Start Menu or from your pinned apps. The StoryCAD main form will be displayed.
 
-You can leave StoryBuilder at any time by either selecting Exit from the File Menu or pressing the main form's Close (X) button. 
+You can leave StoryCAD at any time by either selecting Exit from the File Menu or pressing the main form's Close (X) button. 
 
-StoryBuilder follows regular Windows conventions.  The app can be re-sized, maximized or minimized to icons. However you can only have one instance of StoryBuilder open at once, if you try to open another instance of StoryBuilder whilst the first one is open, it will instead bring forward the original instance.
+StoryCAD follows regular Windows conventions.  The app can be re-sized, maximized or minimized to icons. However you can only have one instance of StoryCAD open at once, if you try to open another instance of StoryCAD whilst the first one is open, it will instead bring forward the original instance.
 
 ## Reading and Writing Outlines ##
 Reading and Writing Outlines
@@ -94,7 +94,7 @@ The File Menu button displays a drop-down menu of file options:
 ![][File-Menu]
 
 
-A StoryBuilder outline is a single file with a file extension of .stbx: for instance, ‘The Maltese Falcon.stbx.’   A StoryBuilder file can be moved, copied, etc.
+A StoryCAD outline is a single file with a file extension of .stbx: for instance, ‘The Maltese Falcon.stbx.’   A StoryCAD file can be moved, copied, etc.
  
 The Open command identifies which outline you wish to work on. The Save command will save the file with the same name it with which it was opened or previously saved. The Save As command will save an outline under a new name or at a new location. 
 
@@ -106,12 +106,12 @@ This dialog will by default display recently opened outlines. Clicking on Open s
 
 ![][Create-New-Outline-Dialog]
  
-Clicking on Sample Stories on the left tab displays a list of sample outlines installed with StoryBuilder for you to play with. If you intend to change a sample, we recommend saving it to a different location before doing so.
+Clicking on Sample Stories on the left tab displays a list of sample outlines installed with StoryCAD for you to play with. If you intend to change a sample, we recommend saving it to a different location before doing so.
 
 Only one story outline can be open at a time.  If you open a new file you'll be prompted to save the current file first if it’s been modified.
 
-## The StoryBuilder User Interface ##
-The StoryBuilder User Interface
+## The StoryCAD User Interface ##
+The StoryCAD User Interface
 
 ![][User-Interface]
 
@@ -126,7 +126,7 @@ The form’s sections are as follows. They’ll be explained in more detail as w
 ### Menu Bar ###
 Menu Bar
 
-The Menu bar is located just below the title bar on the StoryBuilder form and provides access to StoryBuilder’s common tasks.
+The Menu bar is located just below the title bar on the StoryCAD form and provides access to StoryCAD’s common tasks.
 
 Clicking the See more (...) button will display labels below each menu button:
 
@@ -144,7 +144,7 @@ The menu bar buttons either display drop-down menus (such as File), or launch pa
 Each of these options is discussed in the next topics of this manual.  
 #### Search ####
 Search
-StoryBuilder contains a search field, located at the left on the Menu Bar, which will perform narrow searches of your outline for specific items. To use it, enter text to search for in the search field and click the search button (hourglass.) The story elements containing the search text in selected fields will be highlighted:
+StoryCAD contains a search field, located at the left on the Menu Bar, which will perform narrow searches of your outline for specific items. To use it, enter text to search for in the search field and click the search button (hourglass.) The story elements containing the search text in selected fields will be highlighted:
 
 ![][Search-Function]
 
@@ -158,7 +158,7 @@ This button toggles the Navigation Pane to either display or be hidden. Hiding t
 
 ![][Show-and-Hide-Navigation]
 
-(Hint: StoryBuilder detects and reports spelling errors on most text fields.)
+(Hint: StoryCAD detects and reports spelling errors on most text fields.)
 #### File Menu  ####
 File Menu
 
@@ -172,7 +172,7 @@ Add/Remove Story Elements
 
 You can add or remove Story Elements in two ways. There’s a Menu Bar button which opens an ‘Add/Remove Story Elements’ menu:
 
-![][Menu-Bar-6]
+![][Menu-Bar-7]
 
 There’s also a pop-up menu which displays when you right-click on any Story Element node in the Navigation Pane:
 
@@ -287,7 +287,7 @@ On some screen sizes and orientations the Navigation and Content panes may be st
 
 Your outline has only one Story Overview; it’s created automatically when you open or create a new outline. The Story Overview is the root of the Navigation Pane tree, and all other Story Elements are below it. 
 
-Every majfor form also has a full-page tab (labeled Notes) which holds your general notes and thoughts regarding the story element. We won’t talk about these again; just be aware that they’re there.
+Every major form also has a full-page tab (labeled Notes) which holds your general notes and thoughts regarding the story element. We won’t talk about these again; just be aware that they’re there.
 
 
 ### Status Bar ###
@@ -319,7 +319,7 @@ Changed Indicator
  ![][Changed-Indicator]
 
 The Changed Indicator displays red if any editing has been done to the outline and green if not. It’s a reminder to save your work. It’s also a command button which will save your outline if you click it.
-## Navigating in StoryBuilder ##
+## Navigating in StoryCAD ##
 ### Story Elements ###
 Story Elements
 
@@ -329,7 +329,7 @@ Here, clicking on the first or root node in the tree displays the Story  Overvie
 
 On some screen sizes and orientations the Navigation and Content panes may be stacked with the Navigation pane above the Content pane. In those cases the Show/Hide Navigation button (the hamburger menu button) acts differently; it toggles from the Navigation Pane to the Content Pane and back.
 
-![][Navigation-and-Content-Pane-2]
+![][Navigation-and-Content-Pane-3]
 
 Every Story Element type is a different form. These are the story elements:
 
@@ -374,7 +374,7 @@ For most Story Element types, that Form contains multiple tabs. Clicking or touc
 
 Tabs allow you to easily switch between different sections of a form, rather than having to navigate through multiple separate pages or windows. A tab organizes and groups related information.
 
-In some cases (and particularly if you resize the StoryBuilder window smaller) not all tabs will show. In that case  the tabs will form a carousel you can scroll left or right by using the left or right arrows that appear at the edges of the tab area.
+In some cases (and particularly if you resize the StoryCAD window smaller) not all tabs will show. In that case  the tabs will form a carousel you can scroll left or right by using the left or right arrows that appear at the edges of the tab area.
 
 ![][Tabs]
 
@@ -404,7 +404,7 @@ Not every story idea will become a story you want to write, but the habit of bei
 
 Fields:
 
-Title			     		Every story element has a Name field. By convention the name of the Story Overview is the working title of your story. You can change the Title any time. We recommend that you make your StoryBuilder project the same as your title. 
+Title			     		Every story element has a Name field. By convention the name of the Story Overview is the working title of your story. You can change the Title any time. We recommend that you make your StoryCAD project the same as your title. 
 
 Author				The creator of the story. This defaults to your User Name in Preferences.
 
@@ -589,7 +589,7 @@ Motivation is closely tied to character--- it could be thought of as the place w
 
 The list of provided motivations is not meant to be exhaustive, but covers many of those found in literature.
 
-As with many other controls, you can modify the motivations listed to suit your own needs and interests.  See "Customizing StoryBuilder" for details.
+As with many other controls, you can modify the motivations listed to suit your own needs and interests.  See "Customizing StoryCAD" for details.
 
 Goal
 
@@ -679,7 +679,7 @@ The story role is the relative importance of the character's part  to the story'
 
 The more significant a character is to the story, the more fully developed he or she should be.  The characters in major roles should ideally be so rounded out that they 'come alive'.  Writing scenes for such a well-developed character often becomes a matter of putting him in a situation and watching how he reacts.
 
-StoryBuilder assigns four levels to characters:
+StoryCAD assigns four levels to characters:
 
 Major Role
 The protagonist and antagonist are major characters.  If the story's dramatic arc hinges on other parts, they may also be major characters.  A love triangle involves three major roles: protagonist, love interest, and rival.
@@ -724,7 +724,7 @@ Use these notes to provide a thumbnail picture of the character and the overall 
 ### Physical Tab ###
 Physical and Appearance Tabs
 
-![][Clipboard-Image-129]
+![][Clipboard-Image-150]
 
 
 These character traits describe the external physical characteristics and appearance of the character.  They are generally self-explanatory.
@@ -739,7 +739,7 @@ The Appearance tab is a companion to the Physical tab.
 
 Use this note area to describe your character's looks, style of dress and movement, and the impression he leaves.  
 
-![][Clipboard-Image-130]
+![][Clipboard-Image-151]
 
 
 
@@ -883,7 +883,7 @@ This tab contains information about the mental states and processes of the chara
 
 Personality Type
 
-There are a number of methods for classifying people according to personality type.   For example,  Aristotle classified personalities according to 'humor', or temperament, into four categories: melancholic, sanguine, emotional, and phlegmatic.  Carl Jung classified people as introverted or extroverted, and also used four categories: sensation, thinking, feeling, and intuitive. StoryBuilder uses the Enneagram.  This system is very old, and is believed to have  originated with the Sufis in the Middle East.  It groups people into nine types ('ennea' is Greek for the number nine.)  The system teaches that people in a given type often behave and react in similar ways.
+There are a number of methods for classifying people according to personality type.   For example,  Aristotle classified personalities according to 'humor', or temperament, into four categories: melancholic, sanguine, emotional, and phlegmatic.  Carl Jung classified people as introverted or extroverted, and also used four categories: sensation, thinking, feeling, and intuitive. StoryCAD uses the Enneagram.  This system is very old, and is believed to have  originated with the Sufis in the Middle East.  It groups people into nine types ('ennea' is Greek for the number nine.)  The system teaches that people in a given type often behave and react in similar ways.
 
 You may wish to use personality types to better understand what motivates your characters, and how they may think and feel in certain situations.  But remember that a personality type is just a stereotype.  No two people are alike: one may be an only child; the other, the youngest in a  large family.  One could be born to poverty, another to luxury.  Each character is shaped by different experiences.
 
@@ -932,7 +932,7 @@ A menu item on the Characterization Aids sub-menu of the Tools menu,  Virtues an
 
 Don't go overboard and provide every possible trait for a character.  Focus on the traits which serve your story's premise (see "Plotting through character".)  Real people are often  complicated and confusing.  Characters should be multi-dimensional, but their motives, strengths, flaws, and growth should be clear and understandable to the reader.
 
-Both the Inner Traits tab and the Virtues and Vices list in StoryBuilder can be tailored to your needs and wishes.  See "Customizing StoryBuilder" for details on how to add, delete, or modify the listed traits.
+Both the Inner Traits tab and the Virtues and Vices list in StoryCAD can be tailored to your needs and wishes.  See "Customizing StoryCAD" for details on how to add, delete, or modify the listed traits.
 
 ### Outer Traits ###
 Outer Traits Tab
@@ -954,7 +954,7 @@ Setting Tab
 
 The Setting tab contains elements which make the setting specific and unique.
 
-![][Clipboard-Image-131]
+![][Clipboard-Image-152]
 
 
 Locale	The location of the setting in space.
@@ -1068,7 +1068,7 @@ You can move a scene from Story Explorer to Story Narrator at any time with the 
 
 Once you open the Narrative Editor, it will look similar to this. On one side you will the Story Explorer View (The view where you plan your story) and the Narrator View (This is the view that shows your story as it’s told.) 
 
-![][Clipboard-Image-132]
+![][Clipboard-Image-153]
 
 The Narrative view is different from the Explorer view and contains only Scenes and Sections. Along the bottom there are several buttons:
 
@@ -1088,7 +1088,7 @@ The Done button closes the Narrative Editor when you’re finished.
 
 Key Questions
 
-![][Clipboard-Image-133]
+![][Clipboard-Image-154]
 
 Key Questions contains sub-menus which contain lists of questions appropriate to the Story Overview, Problem, Character, Setting, and Plot forms and story elements.
 
@@ -1105,7 +1105,7 @@ The Topic Information sub-menu on the Tools menu contains a list containing info
 
 A topic, once selected, may contain sub-topics:
 
-![][Clipboard-Image-134]
+![][Clipboard-Image-155]
 . 
 
 Information on some of the topic categories follows.
@@ -1141,7 +1141,7 @@ Plots tend to include the same story elements.  Aristotle was the first to ident
 
 The same story forms also repeat themselves in fiction: stories of adventure, discovery, pursuit, etc.  Stories based upon one or more of these forms will tend to repeat certain story elements.
 
-StoryBuilder's Master Plots tool helps you shape your story's plot based on suggestions from these two sources.
+StoryCAD's Master Plots tool helps you shape your story's plot based on suggestions from these two sources.
 
 The Master Plots tool is invoked from the Plotting Aids sub-menu of the Tools menu.  It provides a list of plot skeletons, or master plots.  Selecting one of the master plots from the list at the top of the form will display  notes relevant to that master plot. 
 
@@ -1149,7 +1149,7 @@ The first few master plots (Three Act Play, W-Diagram,  and Hero's Journey) are 
 
 Ronald Tobias' excellent book 20 Master Plots (And How to Build Them) is a detailed look at the fundamental plots which recur through all fiction.
 
-The master plots can be changed according to your preferences.  See "Customizing  Storybuilder" for details on how to add, delete, or modify the listed items.
+
 
 ### Dramatic Situations ###
 Dramatic Situations
@@ -1177,13 +1177,13 @@ While your plot and story should be as distinct and original as you can make it,
 
 Selecting one of the categories will result in the display of a form listing some stock scenes in that category.  Selecting one or more of these scenes, and clicking on the Copy control, will cause a scene to be added to the plot, immediately after the current scene, with the stock scene's title as the scene summary.
 
-Stock Scenes can be tailored to display any sub-menus of stock scenes you wish.  You can modify the contents of the exiting sub-menus, or add or replace sub-menus.  See "Customizing StoryBuilder" for more details.
+Stock Scenes can be tailored to display any sub-menus of stock scenes you wish.  You can modify the contents of the exiting sub-menus, or add or replace sub-menus.  See "Customizing StoryCAD" for more details.
 
 ## Conflict Builder ##
 Conflict Builder
 
 
-![][Clipboard-Image-135]
+![][Clipboard-Image-156]
 
 
 
@@ -1226,7 +1226,7 @@ Reports
 
 Clicking on the Reports button on the Menu Bar displays a fly-out menu with two reporting options:
 
-![][Print-Reports-Button-and-Menu-2]
+![][Print-Reports-Button-and-Menu-3]
 ## Print Reports ##
 Print Reports
 
@@ -1235,7 +1235,7 @@ If you select the Print Reports option, a dialog will appear which allows you to
 ![][Generate-Reports-Dialog]
 
 
-On Windows 11 systems, StoryBuilder provides a Print Manager which allows you to select a printer and its options, and to display reports in a Print Preview window:
+On Windows 11 systems, StoryCAD provides a Print Manager which allows you to select a printer and its options, and to display reports in a Print Preview window:
 
 ![][Print-Manager]
 
@@ -1250,17 +1250,17 @@ If you use Scrivener, clicking Scrivener Reports will open a file picker to allo
 
 When the reports are done:    MISSING IMAGE: C:/dev/src/User Manual/Screenshots/Scrivener Reports Generated Status Message.png  you can open your Scrivener project. You’ll see a set of nodes added to the Binder, which contain your reports:
 
-![][Scrivener-Binder-with-StoryBuilder-Outline]
+![][Scrivener-Binder-with-StoryCAD-Outline]
 
 A convenient way to use these embedded reports is to split your screen, with one pane open to a text node in the Manuscript and the other to a node in the outline:
 
-![][Scrivener-Split-Screen-with-StoryBuilder]
+![][Scrivener-Split-Screen-with-StoryCAD]
 # Preferences #
 Preferences
 
 The Preferences Dialog will be displayed when you press the Preferences button on the Menu Bar:
 
-![][Prefences-CommandBar-Button-2]
+![][Prefences-CommandBar-Button-3]
 
 
 
@@ -1272,7 +1272,7 @@ General tab:
 
 The name field is used as the default Author on the Story Overview form on new outlines.
 
-The name and your email address are used as your StoryBuilder userid. The email
+The name and your email address are used as your StoryCAD userid. The email
 Address is also used with the elmah.io and newsletter options if you select those.
 
 The project directory is the default directory for new story outlines.
@@ -1283,7 +1283,7 @@ Backup tab:
 
 ![][Preferences-Backup-tab]
 
-StoryBuilder backups are  zip files containing your .stbx outline. 
+StoryCAD backups are  zip files containing your .stbx outline. 
 
 The backup directory is the folder which will hold your backups. It holds a subfolder for each outline (.stbx file) you’ve backed up; the subfolder has the individual backups of your outline:
 
@@ -1300,9 +1300,9 @@ Other tab:
 ![][Preferences-Other-tab]
 
 Send error logs - This option uses a service, elmah.io, which collects error data and provides us with a log which gives us an idea of what happened. This information includes your your email so that we can follow up for more information if needed. Your outline data is not not retained or forwarded and no
-information is shared with anyone outside of Team StoryBuilder.
+information is shared with anyone outside of Team StoryCAD.
 
-Send newsletters - Your email address will be subscribed to the StoryBuilder newsletter, which is usually sent about once a month.
+Send newsletters - Your email address will be subscribed to the StoryCAD newsletter, which is usually sent about once a month.
 
 Wrap node names - Wraps node names in the Story Explorer and Narrator treeviews, if the Name is longer than the treeview’s display width.
 
@@ -1314,13 +1314,13 @@ About tab:
 
 This tab identifies the current version.
 
-The logs folder is a subfolder of the installation folder. It contains a list of the most recent log files written by StoryBuilder (one file per day.)
+The logs folder is a subfolder of the installation folder. It contains a list of the most recent log files written by StoryCAD (one file per day.)
 
 ![][Logs-Folder-Display]
 
-These files contain operational logs of StoryBuilder sessions and if you’ve enabled exception reporting we may ask you to forward the log relevant to a reported exception, at your discretion.
+These files contain operational logs of StoryCAD sessions and if you’ve enabled exception reporting we may ask you to forward the log relevant to a reported exception, at your discretion.
 
-The Discord server is the community meeting place for StoryBuilder users; we urge you to join us.
+The Discord server is the community meeting place for StoryCAD users; we urge you to join us.
 
 What’s New tab:
 
@@ -1333,12 +1333,12 @@ Website Form
 The website form allows you store and view web pages easily and functions like a 			smaller version of your web browser. The URL you’re browsing is kept in the form.
 
 
-![][Clipboard-Image-136]
+![][Clipboard-Image-157]
 
-![][Clipboard-Image-137]
+![][Clipboard-Image-158]
 These buttons allow you to refresh, go forwards and respectively.
 
-![][Clipboard-Image-138]
+![][Clipboard-Image-159]
 This is the search bar, if you have a website link (URL) then you can paste it here and 		after clicking the search button it will load the website. Conversely if you don’t have a 		URL you can search a query such as a map of the world and it will search it using 
 Google.
 
@@ -1346,30 +1346,30 @@ Example -  Planning out a fictional character.
 
 1) Create a new website node, you can do this by right clicking a node and  then clicking then clicking the webpage icon.
 
-![][Clipboard-Image-139]
+![][Clipboard-Image-160]
 
 2) Now navigate to it by clicking on it, it should now look similar the picture below.
 
-![][Clipboard-Image-140]
+![][Clipboard-Image-161]
 
 3) Now lets make a fictional map, so search below fictional map generator.
 
-![][Clipboard-Image-141]
+![][Clipboard-Image-162]
 
 3) Select any website below, for this example we will use the first one.
 
-![][Clipboard-Image-142]
+![][Clipboard-Image-163]
 
 Congrats, we have now got a map our fictional word and can start planning our story 		around this world
 
-Note: The Website Form requires the Microsoft Edge WebView 2 runtime, most 				Windows computers will already have this installed by default however if you are for 		any reason missing it, StoryBuilder will ask to automatically install it.
+Note: The Website Form requires the Microsoft Edge WebView 2 runtime, most 				Windows computers will already have this installed by default however if you are for 		any reason missing it, StoryCAD will ask to automatically install it.
 
 ## Notes Form ##
 Notes Form
 
 Notes forms can be used to store any information you wish anywhere in the outline.
 
-![][Clipboard-Image-143]
+![][Clipboard-Image-164]
 
 # Tutorial: Creating a Story #
 ## Creating a Story pt 1 ##
@@ -1377,9 +1377,9 @@ Creating a Story
 
 
 
-The best  way to learn about StoryBuilder is to actually create a story with it.  That's what this tutorial is for.  We'll create a story outline with StoryBuilder and show you exactly what we did at each step along the way. We don’t claim it’s a great outline; actually, it’s pretty trite. But the point is that any story idea, with work and process, can be developed into a workable story.
+The best  way to learn about StoryCAD is to actually create a story with it.  That's what this tutorial is for.  We'll create a story outline with StoryCAD and show you exactly what we did at each step along the way. We don’t claim it’s a great outline; actually, it’s pretty trite. But the point is that any story idea, with work and process, can be developed into a workable story.
 
-The tutorial assumes you can navigate in StoryBuilder, so if you haven’t yet done so, please take a look at the Quick Start  section of this manual, and particularly at the Navigating in StoryBuilder subsection. That  said, let’s begin.
+The tutorial assumes you can navigate in StoryCAD, so if you haven’t yet done so, please take a look at the Quick Start  section of this manual, and particularly at the Navigating in StoryCAD subsection. That  said, let’s begin.
 
 Every story starts with an idea. The idea might come from anywhere.  A conversation might lead to a bit of dialog; someone you see in a crowd could suggest an interesting character; a newspaper article or story you're read or movie you've seen might spark an idea for a conflict.  
 
@@ -1387,11 +1387,11 @@ Our idea started with a television news piece which showed young gang members, b
 
 Regardless of where the idea comes from or how complete it is, at the moment of conception it’s all you have, and it’s a good idea to capture it lest you lose it. That’s why it’s a good idea to jot those ideas down when they occur in some form: in a notebook, or on your phone. 
 
-To do so in StoryBuilder, launch the program. The first time you launch the program, you’ll be prompted to your update your user preferences. One option is your Project directory. Although StoryBuilder remembers and displays your last outline location, this value is its default starting location.  You should also set your backup options. 
+To do so in StoryCAD, launch the program. The first time you launch the program, you’ll be prompted to your update your user preferences. One option is your Project directory. Although StoryCAD remembers and displays your last outline location, this value is its default starting location.  You should also set your backup options. 
 
 Back to our story idea. Use the File menu’s  Open/Create file option:
 
-![][File-Open-Dialog-8]
+![][File-Open-Dialog-9]
 
 Click on Create New Story to start a new outline:
 
@@ -1427,15 +1427,15 @@ At the moment, the story outline for "Danger Calls" exists only in your computer
 
 The indicator will change from red to green, indicating that all changes have been saved to disk.
 
-![][Changed-Indicator-8]
+![][Changed-Indicator-9]
 
 Alternatively, from the File menu, you can select Save Story, or enter the Ctrl+S shortcut keys.  Remember to save your work periodically.
 
 As we said in the beginning, an idea can come form anywhere: a bit of dialog, a possible character, a subject from an article or another story. You want to capture as much of that as possible. If it’s a character or a bit of dialog, create a Character story element. If it’s a location or situation, create a Setting story element. if it’s an event, create a Scene story element. If it’s a newspaper article or story you’ve read or movie you seen, describe it on the Story Idea tab. Encourage and trust your muse: whatever it was that made you think ‘story’, save it. For now, for “Danger Calls”, we don’t have any of these, just the idea as recorded.
 
-This is a good place to talk about workflow. Workflow is discussed more fully in Writing with StoryBuilder, but the idea’s pretty simple. Your story outline is comprised of a number of story elements, and each story element is organized as one or more tabs. Each tab focuses on one aspect of the story element. A story outline always contains and starts with one story element, the Story Overview, and so far you’ve filled in one tab, the Story Idea. Every story starts with a story idea, and recording it is the first step in your workflow.
+This is a good place to talk about workflow. Workflow is discussed more fully in Writing with StoryCAD, but the idea’s pretty simple. Your story outline is comprised of a number of story elements, and each story element is organized as one or more tabs. Each tab focuses on one aspect of the story element. A story outline always contains and starts with one story element, the Story Overview, and so far you’ve filled in one tab, the Story Idea. Every story starts with a story idea, and recording it is the first step in your workflow.
 
-Click on the Danger Calls node’s Structure tab. As is described in the Quick Start, this tab is concerned with constraints on the order and form you place on your story, and contains a number of user interface controls for this purpose. Our story idea’s about crime and criminals, so let’s pick a genre for that. Clicking on the down-arrow key on the Genre ComboBox will display a list of choices; we’ll choose Suspense.  Set Type to Short Story (to keep our example brief.) StoryBuilder has many drop-down lists. Not all lists are editable, but for the most part they’re not exhaustive, and  are editable: you can enter values other than the provided options. The lists are examples, suggestions; they’re not there to limit your creativity, but to encourage it. 
+Click on the Danger Calls node’s Structure tab. As is described in the Quick Start, this tab is concerned with constraints on the order and form you place on your story, and contains a number of user interface controls for this purpose. Our story idea’s about crime and criminals, so let’s pick a genre for that. Clicking on the down-arrow key on the Genre ComboBox will display a list of choices; we’ll choose Suspense.  Set Type to Short Story (to keep our example brief.) StoryCAD has many drop-down lists. Not all lists are editable, but for the most part they’re not exhaustive, and  are editable: you can enter values other than the provided options. The lists are examples, suggestions; they’re not there to limit your creativity, but to encourage it. 
 
  ![][Tutorial-1-Empty-Struture-Tab]
 
@@ -1450,9 +1450,9 @@ When you’re done with an editing session, you can Close your outline using the
 
 
 ## Creating a Story pt 2 ##
-After a break, we decide to continue refining our story idea.  You need to reload the "Danger Calls" outline. Launch StoryBuilder. 
+After a break, we decide to continue refining our story idea.  You need to reload the "Danger Calls" outline. Launch StoryCAD. 
 
- StoryBuilder displays the File Open menu by default when launched,  and displays the last files you worked on the menu form. You can mouse over any of these files to see more details (like the file location.) If you haven’t edited the story you’re looking for in a while and it’s not on the list, Click the ‘Open story from disk’ button and browse for it. You can work on multiple story outlines in one StoryBuilder session, but StoryBuilder can only work with one story outline at a time. 
+ StoryCAD displays the File Open menu by default when launched,  and displays the last files you worked on the menu form. You can mouse over any of these files to see more details (like the file location.) If you haven’t edited the story you’re looking for in a while and it’s not on the list, Click the ‘Open story from disk’ button and browse for it. You can work on multiple story outlines in one StoryCAD session, but StoryCAD can only work with one story outline at a time. 
 
 At this point we've recorded the initial story idea.  However, there's a great gulf between a story idea and a finished story.  At rare intervals, a story idea may spring forth so complete and well formed that it practically writes itself.  Most ideas, though, are fragments--- a scene, a character, a situation (like this one), an ending, or something else.  The next step is to convert this fragment, this idea, into a concept.
 
@@ -1463,7 +1463,7 @@ Click on the Concept tab on your Story Overview and you’ll see this:
 ![][Tutorial-2-Concept-Tooltip]
 
 
-The note displayed is called a ToolTIp, and you’ll find many of these in StoryBuilder. It will be replaced with your text as soon as you start keying into the text box.
+The note displayed is called a ToolTIp, and you’ll find many of these in StoryCAD. It will be replaced with your text as soon as you start keying into the text box.
 
 Writing is thinking, and asking questions is at the core of critical thinking. Think of your concept as framed in the form of a question (or questions). The answer to that question is your story. If the question implies conflict, it’s a potentially effective story. 
 
@@ -1478,7 +1478,7 @@ For the “Danger Calls” concept, let’s use this:
 
 One nice thing about a question is that it can be refined by subsequent questions. A concept question often leads to other questions; The term ‘high concept’ is often used to describe a concept that will appeal to a wide audience, and is often a concept with broad possibilities. The da Vinci Code is an outstanding example of this.
 
-But questions can also be used to refine and test concepts and many other store elements. StoryBuilder contains a tool, Key Questions, for just  this purpose. 
+But questions can also be used to refine and test concepts and many other store elements. StoryCAD contains a tool, Key Questions, for just  this purpose. 
 
 Launch Key Questions from the Tool menu (use the wrench icon on the Menu Bar.) With Story Overview selected in the ComboBox, click Next Question until you find the first Concept question:
 
@@ -1505,7 +1505,7 @@ We can also add a second character, the bad guy, the same way:
 
 You can set him as the Antagonist.
 
-Notice that the list of roles doesn’t have an entry for Drug Dealer, so this was just keyed in. Most StoryBuilder controls have lists of possible entries, but these lists are intended to be suggestions, not limitations. You can key whatever you want into most of these fields.
+Notice that the list of roles doesn’t have an entry for Drug Dealer, so this was just keyed in. Most StoryCAD controls have lists of possible entries, but these lists are intended to be suggestions, not limitations. You can key whatever you want into most of these fields.
 
 While we’re at it, let’s add a third character, another detective who’s a partner to Leonard. We’ll give him the name Tony Irwin.
 
@@ -1528,7 +1528,7 @@ Your Premise is the answer to the question your concept poses. It’s a summary 
 
 A character in a situation [genre, setting] wants something, which brings him into conflict with a second character [opposition]. After a series of conflicts, which are handicapped by a subplot, and after a plot twist, the final battle erupts, and character one finally resolves the conflict. 
 
-In StoryBuilder, one story element type, Problem,  contains most of the elements of the Premise, and, in fact, the Problem form’s Resolution tab contains a Premise sub-element. Your story can (and usually will) contain more than one Problem, and every Problem has its own Premise. StoryBuilder is centered around Problems; they’re the heart of plotted fiction.
+In StoryCAD, one story element type, Problem,  contains most of the elements of the Premise, and, in fact, the Problem form’s Resolution tab contains a Premise sub-element. Your story can (and usually will) contain more than one Problem, and every Problem has its own Premise. StoryCAD is centered around Problems; they’re the heart of plotted fiction.
 
 Our immediate focus is to identify a specific protagonist with a specific problem. We have a protagonist, Leonard, and we can take a stab at a Problem. Right click on the empty Problems folder and click the ‘Add Problem’ button (the question mark.) 
 
@@ -1601,7 +1601,7 @@ This is a relatively complete plot.  We could sit down and start writing the sto
 
 We should evaluate our work so far.  The creation of the story outline is an excellent time to review and revise.  For one thing, changes at this point in the story's development, while it's still just an outline, are relatively cheap and easy; you're not sacrificing prose and dialog that took time and effort to produce.  There's also another advantage: at this point you're looking only at the structure of the story.  Every story has these components of problems, characters, setting and plot; but once you begin to write, the bones will be fleshed out in narrative and dialog and dressed with your writing style.  The naked structure will be, in a sense, hidden by the prose. This makes spotting and correcting structural problems more difficult. 
 
-StoryBuilder offers a tool, Key Questions, to assist in refining and testing your story elements.  There are questions for Story, Problem, Character, Setting, and Plot.  From the Tools menu, select Key Questions and then Story Questions.  A form displaying a series of questions for the overall story will appear.  We can test the story concept against these questions.  If one is worth further study, notes can be recorded in the Answer section.  For example, scrolling through the questions, we find:
+StoryCAD offers a tool, Key Questions, to assist in refining and testing your story elements.  There are questions for Story, Problem, Character, Setting, and Plot.  From the Tools menu, select Key Questions and then Story Questions.  A form displaying a series of questions for the overall story will appear.  We can test the story concept against these questions.  If one is worth further study, notes can be recorded in the Answer section.  For example, scrolling through the questions, we find:
 
 
 5
@@ -1670,7 +1670,7 @@ Leonard Kraskin, trying to capture the drug dealer Charlie Lacas. Lacas has avoi
 
 This isn’t too satisfactorily; it has quite a few flaws. We haven’t spelled out exactly how Lacas uses his communications to his advantage, so we don’t know how our detectives are countering it. The Premise has the detectives in separate cars- are  they trying to triangulate a location?  Do they expect to send a message that Lacas will respond to? Who does he normally communicate with? Besides, he knows what the two detectives look like. Whatever they intercept wasn’t obtained with a warrant, and thus would be inadmissible. 
 
-Not knowing Lacas uses his communications suggests two weaknesses in our outlining: research and specificity. Here’s hoping it won’t result in an FBI van parked across the street, but some research in how drug deals operate and in the communications technology  they use led to a clearer understanding of the story.  StoryBuilder doesn’t have much in the way of research tools (yet), but every story element node except folders has a ‘Notes’ tab. I’ve added my research notes on the Notes tab on the ‘How will Leonard and Tony get past Charlie's tech?’ Story Problem.
+Not knowing Lacas uses his communications suggests two weaknesses in our outlining: research and specificity. Here’s hoping it won’t result in an FBI van parked across the street, but some research in how drug deals operate and in the communications technology  they use led to a clearer understanding of the story.  StoryCAD doesn’t have much in the way of research tools (yet), but every story element node except folders has a ‘Notes’ tab. I’ve added my research notes on the Notes tab on the ‘How will Leonard and Tony get past Charlie's tech?’ Story Problem.
 
 Let’s start with the ‘Who does he normally communicate with’ question. The tool to fix this is the same one that gave us our Concept: ‘What if?’.  Our Problem becomes:
 
@@ -1681,7 +1681,7 @@ What if Charlie Lacas normally only communicates with a handful of selected stre
 What if Leonard and Tony acquire a system that can intercept the paging messages?  This needs someone who can set it up. And I doubt it's legal to intercept communications like this. Information Privacy Laws say something like 'Information collected by an individual can't be disclosed to other organizations or individuals unless specifically allowed by law or by consent of the individual.'
 
 
-The story is beginning to take on substance; we can start to visualize some scenes.  In fact, if a plot point occurs to you,  there's no reason not to add it, now or at any time.  Stories are conceived through a process of accumulation, and one of StoryBuilder's strong points is that you can collect whatever pieces fit as you find them.  But before we start plotting let's continue with the problems. 
+The story is beginning to take on substance; we can start to visualize some scenes.  In fact, if a plot point occurs to you,  there's no reason not to add it, now or at any time.  Stories are conceived through a process of accumulation, and one of StoryCAD's strong points is that you can collect whatever pieces fit as you find them.  But before we start plotting let's continue with the problems. 
 
 Character traits are also a means of achieving conflict.  Many stories don't have enough built-in conflict, which leads to contrived plots.  But conflict isn't necessarily limited to the interplay of protagonist and antagonist.  We can create conflict by giving Tony a trait which clashes with Leonard's.  The opposite of impulsiveness isn't necessarily caution, though.  Going back to the Inner Traits tab on Tony's record, we select Thoughtful from the Shrewdness trait:
 
@@ -1711,7 +1711,7 @@ The Premise is the same as the inner problem, with the extract bit (scene) added
 
 Most stories have more than one problem, but an important thing to keep in mind is that only one of them is the story problem. The story problem’s easy to recognize: when it’s resolved: the story is over. Failure to understand that will lead to an unsatisfactory conclusion. The other Problem story elements must support that Problem, in various ways: inner vs. Outer problem, as a subplot, etc. If a Problem doesn’t relate to the story problem, it doesn’t belong to this story. The main problem is often implicit in the original story idea, but not always. You may find out which question your story is going to answer only after exploring the various problems.
 
-StoryBuilder acknowledges the need for a main story problem by having you pick the Problem that is your story problem, back on the Overview node. Overview’s Premise tab looks like this:
+StoryCAD acknowledges the need for a main story problem by having you pick the Problem that is your story problem, back on the Overview node. Overview’s Premise tab looks like this:
 
 ![][Overview-Empty-Premis-tab]
 
@@ -1825,7 +1825,7 @@ We'll look at one last tab, the Backstory tab:
 There's always a question of how much detail to provide, for characters, problems, settings, etc.  The answer will vary from story to story.  For example, this is an action-oriented story, so the characterizations aren't quite as important.  Whether or not they make it to your writing, the more you know about your characters the better.
 
 ## Creating a Story pt 8 ##
-Having developed the characters better, we can return to the plot.  So far we have a skeleton plot, created with the Master Plots tool, and have added a couple of specific scenes, an opening scene and a climax. Our goal is to replace the rest of the skeleton plot points with specific scenes, not in count but in content and shape. Having a beginning and an ending is a good start. Every story is a journey. Of course, you're not bound to follow the skeleton, but our goal here is to illustrate StoryBuilder's tools.  
+Having developed the characters better, we can return to the plot.  So far we have a skeleton plot, created with the Master Plots tool, and have added a couple of specific scenes, an opening scene and a climax. Our goal is to replace the rest of the skeleton plot points with specific scenes, not in count but in content and shape. Having a beginning and an ending is a good start. Every story is a journey. Of course, you're not bound to follow the skeleton, but our goal here is to illustrate StoryCAD's tools.  
 
 Let’s return to our opening scene (‘He’s like a ghost’) for a moment. .  Both scenes and problems are miniature stories in their own right. The Scene form contains several tabs, Development and Conflict, that address what might be called ‘intra-scene plotting.’  Here’s the use of the Development tab:
 
@@ -1848,7 +1848,7 @@ There are other tools to help you plot- for example, Stock Scenes:
 Stock Scenes are exactly what their name implies: scenes that you’ve seen so often you recognize them instantly.   We used ‘The chase leads into an ambush’ as the setup to our ‘Leonard's impulsiveness lets Lacas capture him’ problem.
 We didn’t call it that, of course, and in fact the capture idea we started with didn’t work: capture implies escape, and it just didn’t fit. Instead, our ‘The chase leads into an ambush became this:
 
-![][Danger-Calls-Shootout-2]
+![][Danger-Calls-Shootout-3]
 
 Although the Scene Type we selected was ‘Action scene’, this is actually the Climax. If we go back to our Master Plots Three Act Play, we’ll find one more piece:
 
@@ -1858,9 +1858,9 @@ We’ve added two scenes after Shootout, ‘Tony updates Leonard on the aftermat
 
 These changes, in the climax scene, Shootout, and a better understanding of the second sub-problem, are typical of what occurs when you’re plotting in scenes. Your story, whether a novel or a short story or an episodic television script, is a series of events which are process the problems your protagonist is trying to solve, and which are linked by cause and effect. Understanding your problems, and using story structure, are the workflow that drives your plotting process.
 
-Danger Calls is melodramatic and its characters aren’t as well drawn as they should be, but this exercise has been meant to show how an idea can evolve via a repeatable process into a workable story outline, and how StoryBuilder can help you do that. The following section of the manual, Writing with StoryBuilder, elaborates on this process, but the best way to learn is to do, making your own mistakes and solving your own problems. We hope StoryBuilder helps you in your writing journey.
+Danger Calls is melodramatic and its characters aren’t as well drawn as they should be, but this exercise has been meant to show how an idea can evolve via a repeatable process into a workable story outline, and how StoryCAD can help you do that. The following section of the manual, Writing with StoryCAD, elaborates on this process, but the best way to learn is to do, making your own mistakes and solving your own problems. We hope StoryCAD helps you in your writing journey.
 
-# Writing with StoryBuilder #
+# Writing with StoryCAD #
 ## How to Think About Outlining ##
 How to Think About Outlining
 
@@ -1892,18 +1892,18 @@ Workflow
 
 According to IBM, a workflow is ‘a system for managing repetitive processes and tasks which occur in a particular order.’ Each step in a workflow is a simple series of individual tasks, and focusing on just one step at a time divides the larger job (outlining your novel, for instance) into a series of smaller jobs.
 
-StoryBuilder divides your outline into 'story elements', such as characters, problems (the conflicts that drive the story), scenes (your plot structure), and settings.  
+StoryCAD divides your outline into 'story elements', such as characters, problems (the conflicts that drive the story), scenes (your plot structure), and settings.  
 
-Story elements are the building blocks of fiction. They're taught in classes and writer's workshops, distilled in a story summary or synopsis, and they're what readers describe when discussing a story. In StoryBuilder, you’ll mostly be working with the big four: Problem, Character, Setting, and Scene.  These story elements are created from templates- forms which organize and assist in thinking about that particular aspect of your story. 
+Story elements are the building blocks of fiction. They're taught in classes and writer's workshops, distilled in a story summary or synopsis, and they're what readers describe when discussing a story. In StoryCAD, you’ll mostly be working with the big four: Problem, Character, Setting, and Scene.  These story elements are created from templates- forms which organize and assist in thinking about that particular aspect of your story. 
 Story Elements can be readily changed, moved around, or even thrown out and replaced with something better. 
 
 Each story element is a tangible object;  its template describes it, breaks it down into smaller elements, and provides a you in its creation. A series of tabs organizes your work on that story element and focuses on one aspect of it. You can fill in as much or little of a story element as you like or need. A Scene might contain only a sketch of what happens to start with, but be fleshed out with a setting, cast, cause, consequence, meaning, conflict, and its effect on the plot, depending on your needs. If you can write the scene from just the sketch, do so; if it’s not working for you, try expanding on it. 
 
-Many template elements are pull-down lists of choices. StoryBuilder contains  thousands of suggestions for these parts, although you're generally not required to stick to them.  They (the suggestions) aren't there to limit your imagination, but to encourage it, to eliminate writer's block. Think of them as examples. The trick to using StoryBuilder’s suggestions is specificity. This can’t be emphasized enough. Be specific. Instead of a Protagonist Goal of ‘Relief from danger’, try ‘Santiago must fight off the sharks to protect his catch’. 
+Many template elements are pull-down lists of choices. StoryCAD contains  thousands of suggestions for these parts, although you're generally not required to stick to them.  They (the suggestions) aren't there to limit your imagination, but to encourage it, to eliminate writer's block. Think of them as examples. The trick to using StoryCAD’s suggestions is specificity. This can’t be emphasized enough. Be specific. Instead of a Protagonist Goal of ‘Relief from danger’, try ‘Santiago must fight off the sharks to protect his catch’. 
 
 Once you understand story elements this way, you can think of them as parts in your story factory, designing them and fitting them together, or modifying them to better fit your design. You can even copy characters and settings from one story to another or into shared story worlds. 
 
-IBM’s  definition of workflow mentions ‘in a particular order’. With StoryBuilder, this translates into creating certain story elements in a particular sequence. Your individual workflow may and probably will be different from other writers (or even different from one project to the next), but the general sequence is fairly constant and be thought of as Phases of Development, which are:
+IBM’s  definition of workflow mentions ‘in a particular order’. With StoryCAD, this translates into creating certain story elements in a particular sequence. Your individual workflow may and probably will be different from other writers (or even different from one project to the next), but the general sequence is fairly constant and be thought of as Phases of Development, which are:
 
 Story Idea, Concept, and Premise
 Problem and Character Development  
@@ -1915,9 +1915,9 @@ Each of these will be described in detail. These outlining or planning phases ar
 Drafting
 Revision
 
-These workflow phases are outside of StoryBuilder’s scope and depend on other tools. We recommend Scrivener, which StoryBuilder has an interface to, but you can of course use the word processor of your choice. 
+These workflow phases are outside of StoryCAD’s scope and depend on other tools. We recommend Scrivener, which StoryCAD has an interface to, but you can of course use the word processor of your choice. 
 
-Saying that drafting and revising your story is outside of StoryBuilder’s scope is not quite accurate; outlining can be useful during both phases, and we discuss that in Other Uses of StoryBuilder.
+Saying that drafting and revising your story is outside of StoryCAD’s scope is not quite accurate; outlining can be useful during both phases, and we discuss that in Other Uses of StoryCAD.
 ## Story Idea, Concept, and Premise ##
 Ideation
 
@@ -1938,7 +1938,7 @@ Story Idea
 
 Every story starts with an idea. The idea might come from anywhere.  A conversation might lead to a bit of dialog; someone you see in a crowd could suggest an interesting character; a newspaper article or story you're read or movie you've seen might spark an idea for a conflict.  You’ll have more ideas than you can possibly write about, but regardless of where the idea comes from or how complete it is, at the moment of conception it's all you have, so a good place to start is to capture the idea. 
 
-Launch StoryBuilder and use Create New Story from the open menu. Change the story’s working title to something similar to its project name and simply jot down whatever notes or thoughts you have regarding the story.
+Launch StoryCAD and use Create New Story from the open menu. Change the story’s working title to something similar to its project name and simply jot down whatever notes or thoughts you have regarding the story.
 Idea to Concept
 A concept is an idea that asks a question that implies conflict. 
 The answer to that question is what gives you your story, and it often works best if framed as a "what if" question. The Concept question should be the question the reader needs answered- it’s what propells him to read your story.
@@ -1963,7 +1963,7 @@ Your Premise is the answer to the question the Concept poses.
 
 Your story can have more than one Problem story element, and every Problem has its own Premise, contained on the Resolution tab. But only one of these problems is your Story Problem, and that Problem  (and its Premise) is the one you select on the Story Overview form, Premise tab:
 
-![][Clipboard-Image-144]
+![][Clipboard-Image-165]
 
 The heart of plotted fiction is drama--- a struggle in which the outcome is in doubt. Your Story Problem will lead you to understand whose problem it is (your major character), what her or she want (the goal), and what stands in their way (opposition.) The Story Problem is the wormhole you enter to understand your story.
 
@@ -2020,7 +2020,7 @@ Creating a narrative
 ## Problem and Character  Development ##
 Problem and Character Development
 
-A StoryBuilder outline ‘begins’ on the Story Overview form, but as you’ve seen, it really starts with the selection of the Story Problem and its description in its Premise, whose definition could be condensed to ‘a character with a problem.’ 
+A StoryCAD outline ‘begins’ on the Story Overview form, but as you’ve seen, it really starts with the selection of the Story Problem and its description in its Premise, whose definition could be condensed to ‘a character with a problem.’ 
 
 How you approach these depends on the particular story, but also upon your own personality and style. You may be more character-driven, and need to understand your character’s journey to make sense of your story. Or perhaps you’re more driven by abstractions- ideas, concepts, situations and events.  Perhaps you’re comfortable with both. One isn’t better than the other, and you need both in order to complete your outline.
 
@@ -2032,9 +2032,9 @@ Always honor your muse by recording whatever it gifts you about your story: a bi
 ## Defining Problems ##
 Defining Problems
 
-In StoryBuilder the Problem form is the key to creating an outline. You want to motivate your audience to keep reading or viewing your story, and Problems create suspense and tension through uncertain outcomes. 
+In StoryCAD the Problem form is the key to creating an outline. You want to motivate your audience to keep reading or viewing your story, and Problems create suspense and tension through uncertain outcomes. 
 
-StoryBuilder’s Problem form is based on three  elements: Goal, Motivation, and Conflict, and is based on the book GMC: Goal, Motivation, and Conflict by Debra Dixon. The goal is what your character wants, the motivation is why they want it, and the conflict is what they’ll have to overcome to achieve the goal. Both your Protagonist and your Antagonist have their goals and motivations, and generally they are each other’s conflicts.
+StoryCAD’s Problem form is based on three  elements: Goal, Motivation, and Conflict, and is based on the book GMC: Goal, Motivation, and Conflict by Debra Dixon. The goal is what your character wants, the motivation is why they want it, and the conflict is what they’ll have to overcome to achieve the goal. Both your Protagonist and your Antagonist have their goals and motivations, and generally they are each other’s conflicts.
 What makes GMC interesting is that it deals with the intersection of character and plot. The literature of the craft of writing often discusses the need for strong characters and of the need for good plots. GMC ties them together. Plot is the character's attempt to overcome the opposition and achieve the goal. The Problem form links to the problem’s protagonist and antagonist, which you must have defined as Character story elements. This leads you further down the wormhole towards fully developing your outline.
 The Problem form’s tie to Character forms supports various approaches to story creation. You may start from an idea, concept or situation, and think of your problems more in terms of the events that must unfold (plot-oriented), or you may start from the conception of a character, and find that character’s problem. Your story needs both a plot and characters, and centering on your outline’s Problems can give you both.
 Problems server a variety of roles in a story:
@@ -2049,9 +2049,9 @@ An outer problem is the character's struggle to achieve some physical goal--- to
 
 An inner problem is some want or need within the character himself, a need to grow or change.  This problem may be some character flaw or psychological hurdle to overcome.  It may be the real reason why the character pursues his external goal, even though the superficial reason he gives is quite different.  The character frequently doesn't know that he has an inner problem at the start of the story, and sometimes, in tragic endings, refuses to acknowledge or resolve the inner problem.
 
-It's often constructive to use StoryBuilder to define both an external and an internal problem for your protagonist, with separate Problem forms for each  of them. Both problems help to shape the story's plot. There’s even a Create New Story template for this:
+It's often constructive to use StoryCAD to define both an external and an internal problem for your protagonist, with separate Problem forms for each  of them. Both problems help to shape the story's plot. There’s even a Create New Story template for this:
 
-![][Clipboard-Image-145]
+![][Clipboard-Image-166]
 
 The outer problem asks 'what does the character want?'  The inner problem asks 'why does he want it?'  The outer problem is tangible. The inner problem is intangible, invisible.  The outer problem faces an external adversary.  The inner problem is Man against Himself, usually with something to decide or discover. The outer problem is solved when (win or loose) something is accomplished.  The inner problem is solved when the character grows or changes, or fails to do so.  The inner problem is related to theme. The two problems are connected because your protagonist must come to grips with his inner demon before he can solve the external, outer problem.
 Conflict
@@ -2077,11 +2077,11 @@ A good example of this is found in Hemingway's The Old Man and the Sea.  This no
 
 Rather than arrange these problems in a list:
 
-![][Clipboard-Image-146]
+![][Clipboard-Image-167]
 
 You may want arrange them as children of the original problem, which won’t be solved until the complications are:
 
-![][Clipboard-Image-147]
+![][Clipboard-Image-168]
 
 Where possible, complications should be ordered to make things progressively worse for the protagonist. By the end of the shark attack, the marlin is nothing but a head and tail and skeleton; things can’t get much worse for Santiago.
 Conflicts of start at one level and devolve into a more serious one: ‘it’s not a war until the guns start firing.’  Finding your way from inciting incident through middle story to climax is  the process of finding complications, and escalating conflicts is one approach to doing so.  The escalation can occur for many reasons: a character gets tipped over the edge, a ticking clock goes off, a secondary character does something rash, a dropped dish is mistaken for a gunshot.
@@ -2112,7 +2112,7 @@ The role of Protagonist is not about good or bad; it’s about ‘Whose story is
 
 It’s important to understand that your Antagonist has his own Goal and Motivation, and his own Conflict: his opposition is your Protagonist. It’s been said that no man is a villain in his own eyes. That may or may not be true, but he will certainly have his reasons for his behavior, even if they’re rooted in abnormal psychiatry.  Of But a villain’s motive may be more relatable, rooted in greed, humiliation, pride, anger, or heartache.  A common characteristic of villains is that they’re in over their head: a small mistake grows larger over time.
 
-StoryBuilder includes a tool, Conflict Builder, which describers conflicts into categories and examples from the world of conflict resolution that go beyond creating a cardboard ‘bad guy’ adversary.
+StoryCAD includes a tool, Conflict Builder, which describers conflicts into categories and examples from the world of conflict resolution that go beyond creating a cardboard ‘bad guy’ adversary.
 Resolution Tab
 
 The resolution is the outcome of the problem. Outcomes can be generalized into 'successful' or 'not successful', but the choices listed for this story element are more useful.  They represent story patterns which recur throughout fiction.
@@ -2177,7 +2177,7 @@ At the risk of being repetitive, the keys to this are your character’s goals a
 
 Action, particularly action at crisis, reveals character.  Your characters must act in accordance with their nature.  Psychological factors such as Values and Focus and Inner Traits will show through. A character also needs (or must learn) the skills and abilities to act effectively. 
 
-Action also molds character.  Normally, in fiction as in life, this occurs where the character's  innermost qualities are untested.  When a crisis calls upon your character to do new things, the inner traits will be revealed.  People can also sometimes change their inner values in fundamental ways.  This usually requires him or her  to 'go through the fire',  to undergo literally life-changing experiences. StoryBuilder provides several ways to outline such changes. One is to describe an internal ‘Person vs. Himself’ problem and its outcome. The  other is to identify a character defect using the Flaw tab on the Character form, and resolve it. A tool, Flaw Builder, can help with this. These two approaches aren’t meant to be mutually exclusive. Finding a flaw exposes a character’s need, a goal hidden from the character herself. That goal is the basis of the Problem the character must solve through character growth. These are often problems of discovery or decision. 
+Action also molds character.  Normally, in fiction as in life, this occurs where the character's  innermost qualities are untested.  When a crisis calls upon your character to do new things, the inner traits will be revealed.  People can also sometimes change their inner values in fundamental ways.  This usually requires him or her  to 'go through the fire',  to undergo literally life-changing experiences. StoryCAD provides several ways to outline such changes. One is to describe an internal ‘Person vs. Himself’ problem and its outcome. The  other is to identify a character defect using the Flaw tab on the Character form, and resolve it. A tool, Flaw Builder, can help with this. These two approaches aren’t meant to be mutually exclusive. Finding a flaw exposes a character’s need, a goal hidden from the character herself. That goal is the basis of the Problem the character must solve through character growth. These are often problems of discovery or decision. 
 
 Wants, Needs, and Flaws
 
@@ -2212,7 +2212,7 @@ Personality Type
 
 There are a number of methods for classifying people according to type.   For example,  Aristotle classified personalities according to 'humor', or temperament, into four categories: melancholic, sanguine, emotional, and phlegmatic.  Carl Jung classified people as introverted or extroverted, and also used four categories: sensation, thinking, feeling, and intuitive. Today a system called Briggs-Myers Type Indicators, which classifies personality along four scales (such as extroversion / introversion), for a total of sixteen unique categories.  
 
-StoryBuilder uses  a different approach: the Enneagram.  This system is very old, and is believed to have  originated with the Sufis.  It groups people into nine types ('ennea' is Greek for the number nine.)  The system teaches that people in a given type often behave and react in similar ways.
+StoryCAD uses  a different approach: the Enneagram.  This system is very old, and is believed to have  originated with the Sufis.  It groups people into nine types ('ennea' is Greek for the number nine.)  The system teaches that people in a given type often behave and react in similar ways.
 
 You may wish to use personality types to better understand what motivates your characters, and how they may think and feel in certain situations.  But remember that a personality type is just a stereotype.  No two people are alike: one may be an only child; the other, the youngest in a  large family.  One could be born to poverty, another to luxury.  Each character is shaped by different experiences.
 
@@ -2324,13 +2324,13 @@ The things that happen at a certain place in the plot (introduce the protagonist
 ## Plotting Tools ##
 Plotting Tools
 
-StoryBuilder comes with three tools to help you plot your story.
+StoryCAD comes with three tools to help you plot your story.
 
 MasterPlots
 
-In recent decades, the three-act structure has been joined by a bevy of other story structures, with different plot points:  Dan Wells’ Seven Point Structure, The Hero’s Journey, Blake Snyder’s Save the Cat, and many more.  Since plot points are also called story beats, these structures are often called ‘beat sheets’. A beat sheet can serve as a sort of plot template. StoryBuilder’s Master Plots tool provides a number of these templates, which will insert a set of Scene story elements into your outline at the place of your choosing:
+In recent decades, the three-act structure has been joined by a bevy of other story structures, with different plot points:  Dan Wells’ Seven Point Structure, The Hero’s Journey, Blake Snyder’s Save the Cat, and many more.  Since plot points are also called story beats, these structures are often called ‘beat sheets’. A beat sheet can serve as a sort of plot template. StoryCAD’s Master Plots tool provides a number of these templates, which will insert a set of Scene story elements into your outline at the place of your choosing:
 
-![][Tools-Master-Plots-7]
+![][Tools-Master-Plots-8]
 
 
 Since every Problem is a ‘small story’ and has its own set of events that define it, a Problem is good place to use this tool. A Problem can be thought of as a sequence, a term used frequently in scriptwriting, which is defined as ‘a series of scenes with a beginning, middle, and end.’ Or, if you prefer, setup, development, and resolution. 
@@ -2343,7 +2343,7 @@ These are not scene summaries; it’s up to you to outline the scene itself, and
 
 ![][Scenes-Tied-to-Master-Plots-Plot-Points]
 
-StoryBuilder won’t create these scenes for you (although the next topic, Plotting with StoryBuilder, can help you. For help in how to do so, MasterPlots  created one Scene story element for each plot point, which suggests that a scene can do only one thing. That’s far from the truth; a scene can and usually should do multiple things: introduce or develop character, advance the plot, etc. The Scene story element’s Development tab contains a field, Purpose of Scene, which includes many of these purposes (not surprisingly related to the Notes in a Scene generated by MasterPlots.) Purpose of Scene is different from most controls in that you can check off multiple purposes. 
+StoryCAD won’t create these scenes for you (although the next topic, Plotting with StoryCAD, can help you. For help in how to do so, MasterPlots  created one Scene story element for each plot point, which suggests that a scene can do only one thing. That’s far from the truth; a scene can and usually should do multiple things: introduce or develop character, advance the plot, etc. The Scene story element’s Development tab contains a field, Purpose of Scene, which includes many of these purposes (not surprisingly related to the Notes in a Scene generated by MasterPlots.) Purpose of Scene is different from most controls in that you can check off multiple purposes. 
 
 Dramatic Situations
 
@@ -2353,7 +2353,7 @@ The Dramatic Situations tool, based on Polti’s and Figgis’ books (both title
 
 Although the world has changed greatly since Polti’s 1895 book,  the situations remain relevant, because they’re very  human situations. Mike Figgis recommends using loose rather than literal interpretations of the situations. He points out that these 36 situations work for both outer and inner problems and at varied scales: Disaster, one of the situations, ‘can be a war or an earthquake or the sinking of the Titanic’, but also  ‘in a more intimated love story, it could be a case of unrequited love, the loved one marries another person, a personal disaster of the highest magnitude.’
 
-StoryBuilder’s adjusts to scale by allowing you to select a dramatic situation as either a Problem or a Scene story element:
+StoryCAD’s adjusts to scale by allowing you to select a dramatic situation as either a Problem or a Scene story element:
 
 ![][Dramatic-Situations-tool]
 
@@ -2363,7 +2363,7 @@ Mike Figgis suggests a different use for the Dramatic Situations: as an aid when
 
 Stock Scenes
 
-Another StoryBuilder tool, Stock Scenes, lists a number of categories of scenes:
+Another StoryCAD tool, Stock Scenes, lists a number of categories of scenes:
 
 ![][Stock-Scenes-Categories]
 
@@ -2377,13 +2377,13 @@ Unlike Dramatic Situations, this tool works just with Scenes. One use is to help
 
 
 
-## Plotting with StoryBuilder ##
-Using StoryBuilder to Plot Your Story
+## Plotting with StoryCAD ##
+Using StoryCAD to Plot Your Story
 
 
 Storytelling with Purpose
 
-A story is written as a sequence of scenes (in StoryBuilder, Scene story elements.) A scene is an event, and the events are causally related: one event causes, and leads to, the next. For example:
+A story is written as a sequence of scenes (in StoryCAD, Scene story elements.) A scene is an event, and the events are causally related: one event causes, and leads to, the next. For example:
 
 The Queen is told by her mirror that Show White is now the fairest in the land, 
 so she orders her huntsman to murder Show White and bring her the child’s heart,                     
@@ -2407,20 +2407,20 @@ How do you go about finding those 50-60  (or however many you need) scenes?
 
 Don’t think in terms of scene count. Think of plotting as finding the scenes you need to resolve your story’s problems.  If you’ve been following this dialog, you know that you  have a top-level problem, the Story Problem, defined on the Story Overview form, and you’ve summarized the problem in its Premise:
 
-![][Plotting-with-StoryBuilder-Premise]
+![][Plotting-with-StoryCAD-Premise]
  When that problem is resolved, the story is finished. This is the top level design of your story.
 
 If you were to use Master Plots to create of Scene story elements for the plot points in this problem with the Three Act Structure template, it might look like this:
 
-![][Plotting-with-StoryBuilder-Story-Problem-MasterPlots-Scene-list]
+![][Plotting-with-StoryCAD-Story-Problem-MasterPlots-Scene-list]
 
 This is what plotting the main Story Problem might look like if it were, say, a short story. But it’s longer story (a Novella, in this case), and there aren’t enough scenes to carry the longer work. So instead of thinking of each part as  a scene, consider it just as a story beat or plot point. Ignoring the other plot points, consider First Obstacle and Subsequent Obstacles not as Scenes but as Problems= subproblems, Complications, in this case):
 
-![][Plotting-with-StoryBuilder-Complication-SubProblems]
+![][Plotting-with-StoryCAD-Complication-SubProblems]
 
 In real life one strategy to solve a problem is to decompose it into smaller problems. That same approach works when plotting, the twist being that you’ll be creating rather than solving subproblems. Don’t plot in Scenes;  plot in Problems. These problems can be further decomposed into scenes:
 
-![][Plotting-with-StoryBuilder-SubProblems-Epanded-into-Scenes]
+![][Plotting-with-StoryCAD-SubProblems-Epanded-into-Scenes]
 
 This process works not only with complications (subplots with bad outcomes which are designed to increase the conflict), but with other subplots. In The Old Man and the Sea, Manolin, the boy Santiago mentored and who loves him, has a character arc based on his relationship with the old man:
 
@@ -2468,14 +2468,14 @@ Key Questions, from the Tools menu, provides a checklist for each of the major s
 
 We recommend using Key Questions frequently, as you work, rather than waiting until the outline’s complete before you review it.
 
-## Other Uses of StoryBuilder ##
-### StoryBuilder for Pantsers ###
-StoryBuilder for Pantsers
+## Other Uses of StoryCAD ##
+### StoryCAD for Pantsers ###
+StoryCAD for Pantsers
 
 ‘Not all who wander are lost.’ - J.R.R. Tolkien
 
 
-The section Writing With StoryBuilder begins by asking the question ‘How much should I outline’, and discusses the difference in ‘plotters’ and ‘pantsers.’ It ends as follows:
+The section Writing With StoryCAD begins by asking the question ‘How much should I outline’, and discusses the difference in ‘plotters’ and ‘pantsers.’ It ends as follows:
 
 The gap between these two perspectives,  and the answer to the original questions, is to outline as little as possible to get to an effective first draft. The trick is to develop an effective workflow, one that gets you to the writing as quickly and efficiently as possible.
 
@@ -2483,7 +2483,7 @@ Before, during, and after
 
 If you find yourself solidly in the pantsers’ camp, here are some techniques and tricks  to ‘outline as little as possible’. 
 
-You can use StoryBuilder before, during, and after you’ve started writing.
+You can use StoryCAD before, during, and after you’ve started writing.
 
 If you’re ready to start writing, take a moment and brainstorm a list of scenes. You almost certainly have some in mind. At the start the list doesn’t  have to be exhaustive; it’s unlikely it will be. You can add a scene with	 nothing more a title and perhaps a line or two of Scene Sketch.  If you’ve jumped in and started writing, add the scenes you’ve written. You can always add detail on scenes, most of it on the Scene tab: the setting, who’s in the scene, and a  sketch of what happens. You can also use the Stock Scenes tool to find possible scenes to add to your collection.
 
@@ -2502,14 +2502,14 @@ After the First Draft
 
 Outlining after you already have a first draft sounds a bit crazy, but it’s not. A novel is a long journey, and long journeys to unknown destinations frequently lead to an occasional wrong turn. If you have a map to check, you can easily see where you went astray. An outline is that map. 
 
-In StoryBuilder, Problem, and particular the Story Problem, is key. Start by adding your scenes, and then, as described in ‘StoryBuilder for Pantsers’, find your problems from them.  The outline doesn’t have to be detailed, except for the Problems. You want to thoroughly understand your Problem story elements.
+In StoryCAD, Problem, and particular the Story Problem, is key. Start by adding your scenes, and then, as described in ‘StoryCAD for Pantsers’, find your problems from them.  The outline doesn’t have to be detailed, except for the Problems. You want to thoroughly understand your Problem story elements.
 
-Using your outline as your guide gives you a number of places to start editing- and every story needs editing. With StoryBuilder you’re editing for story (structural edits) as opposed to line or copy editing.  Key Questions, for Problem and Character and Scene, will ask about specific issues. Does your protagonist have a clear story goal? Do the scenes show her actively trying to achieve it, despite opposition? Does the Story Problem have a clear resolution, and does your story end when it’s resolved? Do problems other than the main story problem connect to the story problem? (A clue to this, and a plotting plus, is a scene which contributes to both problems’ structure.) Does your protagonist grow or change (does she have an internal problem and thus a character arc?)
+Using your outline as your guide gives you a number of places to start editing- and every story needs editing. With StoryCAD you’re editing for story (structural edits) as opposed to line or copy editing.  Key Questions, for Problem and Character and Scene, will ask about specific issues. Does your protagonist have a clear story goal? Do the scenes show her actively trying to achieve it, despite opposition? Does the Story Problem have a clear resolution, and does your story end when it’s resolved? Do problems other than the main story problem connect to the story problem? (A clue to this, and a plotting plus, is a scene which contributes to both problems’ structure.) Does your protagonist grow or change (does she have an internal problem and thus a character arc?)
 
-### Critiquing with StoryBuilder ###
-Critiquing with StoryBuilder
+### Critiquing with StoryCAD ###
+Critiquing with StoryCAD
 
-Although StoryBuilder’s made to help you outline your own stories, it has another use: as an aid to understanding others’ stories. StoryBuilder’s ancestor, the original StoryBuilder, started as just such a tool.
+Although StoryCAD’s made to help you outline your own stories, it has another use: as an aid to understanding others’ stories. StoryCAD’s ancestor, the original StoryCAD, started as just such a tool.
 
 Critiquing others’ stories is a great way to improve your art, because it’s often difficult to see your own stories with the distance needed to find their structural flaws and correct them. 
 
@@ -2521,7 +2521,7 @@ Protecting Your Work
 
 Experienced computer users never underestimate the importance of a backup.  A power failure or computer crash, or a slip of the hand, can cost you the changes you've made since you last backed up your work.
 
-The easiest and best backup is to save your work frequently at places where you're satisfied with your progress--- milestones such as adding a plot point for an important scene, describing the physical appearance of a character, or figuring out how you plan to resolve a story problem. When you modify your outline, StoryBuilder will display a red pencil on the status bar to indicate that  it’s in an ‘unsaved’ state. Use the File | Save option to cause the outline to be re-written to disk.
+The easiest and best backup is to save your work frequently at places where you're satisfied with your progress--- milestones such as adding a plot point for an important scene, describing the physical appearance of a character, or figuring out how you plan to resolve a story problem. When you modify your outline, StoryCAD will display a red pencil on the status bar to indicate that  it’s in an ‘unsaved’ state. Use the File | Save option to cause the outline to be re-written to disk.
 
 Backups are written to the folder specified in the ‘Backup directory’ selection in Preferences. Use  the browse button next to the specified folder to select (or create) the folder you wish to keep your story outline backups in. We recommend creating a folder just for this purpose.
 
@@ -2533,21 +2533,21 @@ To revert to a backup, simply click on the .stbx file of your choice and use Fil
 
 See Preferences in this manual for further information.
 
-## Developing StoryBuilder ##
-Developing StoryBuilder
-If you are a C# developer and are somewhat familar with WinUI (or another XAML based UI language) then you can contribute to StoryBuilder (Which is written in C# and uses WinUI 3).
+## Developing StoryCAD ##
+Developing StoryCAD
+If you are a C# developer and are somewhat familar with WinUI (or another XAML based UI language) then you can contribute to StoryCAD (Which is written in C# and uses WinUI 3).
 For more information about contributing, please check the GitHub Repository.
 Developer only menus / pop-ups
-![][Clipboard-Image-148]
+![][Clipboard-Image-169]
 
-If you have cloned StoryBuilder to a separate repo and built it for the first time then you may be surprised to see this screen. It indicates a key file related to licensing is missing from your local clone. These licenses are in effect for the storybuilder.org repo only. The missing licenses won’t cause any issues with the app functioning, but your copy won’t report errors via Elmah.io and you may see pops relating to syncfusion licensing errors.
-Regardless, congratulations on successfully compiling StoryBuilder.
+If you have cloned StoryCAD to a separate repo and built it for the first time then you may be surprised to see this screen. It indicates a key file related to licensing is missing from your local clone. These licenses are in effect for the storybuilder.org repo only. The missing licenses won’t cause any issues with the app functioning, but your copy won’t report errors via Elmah.io and you may see pops relating to syncfusion licensing errors.
+Regardless, congratulations on successfully compiling StoryCAD.
 
-![][Clipboard-Image-149]
+![][Clipboard-Image-170]
 
-If StoryBuilder notices you have a debugger attached to the process, the developer menu will appear.
-This shows info about the computer and may contain buttons to test some parts of the StoryBuilder.
-If running without a keyfile (which is standard for those contributing to the StoryBuilder project.) then some of these buttons may not work or cause intended behavior.
+If StoryCAD notices you have a debugger attached to the process, the developer menu will appear.
+This shows info about the computer and may contain buttons to test some parts of the StoryCAD.
+If running without a keyfile (which is standard for those contributing to the StoryCAD project.) then some of these buttons may not work or cause intended behavior.
 
 As such this menu may be removed, updated or abandoned at any point.
 
@@ -2813,7 +2813,7 @@ vignette: A term derived from the art work which decorated the front plates of n
 
 villain: A character who represents an evil or unwelcome force.  The villain is a stock character frequently cast as the antagonist in stories.
 
-[StoryBuilder]: StoryBuilder.png width=480px height=480px
+[StoryCAD]: StoryCAD.png width=480px height=480px
 
 [Keyboard-Right-Mouse-Key]: Keyboard-Right-Mouse-Key.png width=59px height=51px
 
@@ -2833,7 +2833,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Show-and-Hide-Navigation]: Show-and-Hide-Navigation.png width=680px height=488px
 
-[Menu-Bar-6]: Menu-Bar-6.png width=599px height=64px
+[Menu-Bar-7]: Menu-Bar-7.png width=599px height=64px
 
 [Story-Element-Flyout]: Story-Element-Flyout.png width=472px height=116px
 
@@ -2851,7 +2851,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Changed-Indicator]: Changed-Indicator.png width=55px height=40px
 
-[Navigation-and-Content-Pane-2]: Navigation-and-Content-Pane-2.png width=680px height=547px
+[Navigation-and-Content-Pane-3]: Navigation-and-Content-Pane-3.png width=680px height=547px
 
 [Navigation-Pane-Flyout-CommandBar]: Navigation-Pane-Flyout-CommandBar.png width=680px height=484px
 
@@ -2877,9 +2877,9 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Clipboard-Image]: Clipboard-Image.png width=680px height=449px
 
-[Clipboard-Image-129]: Clipboard-Image-129.png width=680px height=494px
+[Clipboard-Image-150]: Clipboard-Image-150.png width=680px height=494px
 
-[Clipboard-Image-130]: Clipboard-Image-130.png width=680px height=495px
+[Clipboard-Image-151]: Clipboard-Image-151.png width=680px height=495px
 
 [Character-Relationships-Tab]: Character-Relationships-Tab.png width=680px height=516px
 
@@ -2901,7 +2901,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Trait-Builder]: Trait-Builder.png width=352px height=304px
 
-[Clipboard-Image-131]: Clipboard-Image-131.png width=680px height=491px
+[Clipboard-Image-152]: Clipboard-Image-152.png width=680px height=491px
 
 [Setting-Sensations-Tab]: Setting-Sensations-Tab.png width=680px height=454px
 
@@ -2913,13 +2913,13 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Scene-Sequel-Tab]: Scene-Sequel-Tab.png width=680px height=454px
 
-[Clipboard-Image-132]: Clipboard-Image-132.png width=551px height=707px
+[Clipboard-Image-153]: Clipboard-Image-153.png width=551px height=707px
 
-[Clipboard-Image-133]: Clipboard-Image-133.png width=443px height=496px
+[Clipboard-Image-154]: Clipboard-Image-154.png width=443px height=496px
 
 [Topic-Information]: Topic-Information.png width=680px height=489px
 
-[Clipboard-Image-134]: Clipboard-Image-134.png width=384px height=516px
+[Clipboard-Image-155]: Clipboard-Image-155.png width=384px height=516px
 
 [Tools-Master-Plots]: Tools-Master-Plots.png width=544px height=631px
 
@@ -2927,11 +2927,11 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Tools-Stock-Scenes]: Tools-Stock-Scenes.png width=475px height=628px
 
-[Clipboard-Image-135]: Clipboard-Image-135.png width=440px height=264px
+[Clipboard-Image-156]: Clipboard-Image-156.png width=440px height=264px
 
 [Flaw-Builder]: Flaw-Builder.png width=551px height=325px
 
-[Print-Reports-Button-and-Menu-2]: Print-Reports-Button-and-Menu-2.png width=165px height=161px
+[Print-Reports-Button-and-Menu-3]: Print-Reports-Button-and-Menu-3.png width=165px height=161px
 
 [Generate-Reports-Dialog]: Generate-Reports-Dialog.png width=548px height=759px
 
@@ -2939,11 +2939,11 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Scrivener-Reports-File-Picker]: Scrivener-Reports-File-Picker.png width=680px height=280px
 
-[Scrivener-Binder-with-StoryBuilder-Outline]: Scrivener-Binder-with-StoryBuilder-Outline.png width=680px height=331px
+[Scrivener-Binder-with-StoryCAD-Outline]: Scrivener-Binder-with-StoryCAD-Outline.png width=680px height=331px
 
-[Scrivener-Split-Screen-with-StoryBuilder]: Scrivener-Split-Screen-with-StoryBuilder.png width=680px height=511px
+[Scrivener-Split-Screen-with-StoryCAD]: Scrivener-Split-Screen-with-StoryCAD.png width=680px height=511px
 
-[Prefences-CommandBar-Button-2]: Prefences-CommandBar-Button-2.png width=299px height=43px
+[Prefences-CommandBar-Button-3]: Prefences-CommandBar-Button-3.png width=299px height=43px
 
 [Preferences-General-tab]: Preferences-General-tab.png width=549px height=521px
 
@@ -2959,23 +2959,23 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Preferences-Whats-New-tb]: Preferences-Whats-New-tb.png width=543px height=715px
 
-[Clipboard-Image-136]: Clipboard-Image-136.png width=680px height=487px
+[Clipboard-Image-157]: Clipboard-Image-157.png width=680px height=487px
 
-[Clipboard-Image-137]: Clipboard-Image-137.png width=136px height=48px
+[Clipboard-Image-158]: Clipboard-Image-158.png width=136px height=48px
 
-[Clipboard-Image-138]: Clipboard-Image-138.png width=529px height=40px
+[Clipboard-Image-159]: Clipboard-Image-159.png width=529px height=40px
 
-[Clipboard-Image-139]: Clipboard-Image-139.png width=680px height=553px
+[Clipboard-Image-160]: Clipboard-Image-160.png width=680px height=553px
 
-[Clipboard-Image-140]: Clipboard-Image-140.png width=680px height=494px
+[Clipboard-Image-161]: Clipboard-Image-161.png width=680px height=494px
 
-[Clipboard-Image-141]: Clipboard-Image-141.png width=680px height=484px
+[Clipboard-Image-162]: Clipboard-Image-162.png width=680px height=484px
 
-[Clipboard-Image-142]: Clipboard-Image-142.png width=680px height=492px
+[Clipboard-Image-163]: Clipboard-Image-163.png width=680px height=492px
 
-[Clipboard-Image-143]: Clipboard-Image-143.png width=680px height=489px
+[Clipboard-Image-164]: Clipboard-Image-164.png width=680px height=489px
 
-[File-Open-Dialog-8]: File-Open-Dialog-8.png width=559px height=595px
+[File-Open-Dialog-9]: File-Open-Dialog-9.png width=559px height=595px
 
 [Create-New-Story-Dialog]: Create-New-Story-Dialog.png width=555px height=565px
 
@@ -2991,7 +2991,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Tutorial-1-Changed-Indicator-(Red)]: Tutorial-1-Changed-Indicator-(Red).png width=53px height=47px
 
-[Changed-Indicator-8]: Changed-Indicator-8.png width=55px height=40px
+[Changed-Indicator-9]: Changed-Indicator-9.png width=55px height=40px
 
 [Tutorial-1-Empty-Struture-Tab]: Tutorial-1-Empty-Struture-Tab.png width=651px height=708px
 
@@ -3065,19 +3065,19 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Danger-Callse-Stock-Scenes]: Danger-Callse-Stock-Scenes.png width=465px height=660px
 
-[Danger-Calls-Shootout-2]: Danger-Calls-Shootout-2.png width=680px height=530px
+[Danger-Calls-Shootout-3]: Danger-Calls-Shootout-3.png width=680px height=530px
 
 [Danger-Calls-Denouement]: Danger-Calls-Denouement.png width=680px height=534px
 
-[Clipboard-Image-144]: Clipboard-Image-144.png width=491px height=171px
+[Clipboard-Image-165]: Clipboard-Image-165.png width=491px height=171px
 
-[Clipboard-Image-145]: Clipboard-Image-145.png width=228px height=208px
+[Clipboard-Image-166]: Clipboard-Image-166.png width=228px height=208px
 
-[Clipboard-Image-146]: Clipboard-Image-146.png width=256px height=129px
+[Clipboard-Image-167]: Clipboard-Image-167.png width=256px height=129px
 
-[Clipboard-Image-147]: Clipboard-Image-147.png width=265px height=137px
+[Clipboard-Image-168]: Clipboard-Image-168.png width=265px height=137px
 
-[Tools-Master-Plots-7]: Tools-Master-Plots-7.png width=544px height=631px
+[Tools-Master-Plots-8]: Tools-Master-Plots-8.png width=544px height=631px
 
 [Tools-Master-Plots-Result]: Tools-Master-Plots-Result.png width=680px height=353px
 
@@ -3091,14 +3091,14 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Stock-Scenes-Examples]: Stock-Scenes-Examples.png width=465px height=628px
 
-[Plotting-with-StoryBuilder-Premise]: Plotting-with-StoryBuilder-Premise.png width=680px height=307px
+[Plotting-with-StoryCAD-Premise]: Plotting-with-StoryCAD-Premise.png width=680px height=307px
 
-[Plotting-with-StoryBuilder-Story-Problem-MasterPlots-Scene-list]: Plotting-with-StoryBuilder-Story-Problem-MasterPlots-Scene-list.png width=680px height=338px
+[Plotting-with-StoryCAD-Story-Problem-MasterPlots-Scene-list]: Plotting-with-StoryCAD-Story-Problem-MasterPlots-Scene-list.png width=680px height=338px
 
-[Plotting-with-StoryBuilder-Complication-SubProblems]: Plotting-with-StoryBuilder-Complication-SubProblems.png width=312px height=103px
+[Plotting-with-StoryCAD-Complication-SubProblems]: Plotting-with-StoryCAD-Complication-SubProblems.png width=312px height=103px
 
-[Plotting-with-StoryBuilder-SubProblems-Epanded-into-Scenes]: Plotting-with-StoryBuilder-SubProblems-Epanded-into-Scenes.png width=273px height=356px
+[Plotting-with-StoryCAD-SubProblems-Epanded-into-Scenes]: Plotting-with-StoryCAD-SubProblems-Epanded-into-Scenes.png width=273px height=356px
 
-[Clipboard-Image-148]: Clipboard-Image-148.png width=543px height=281px
+[Clipboard-Image-169]: Clipboard-Image-169.png width=543px height=281px
 
-[Clipboard-Image-149]: Clipboard-Image-149.png width=568px height=355px
+[Clipboard-Image-170]: Clipboard-Image-170.png width=568px height=355px
