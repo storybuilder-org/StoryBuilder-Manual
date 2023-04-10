@@ -13,6 +13,7 @@ namespace MarkdownSplitter
             ApplicationConfiguration.Initialize();
             var splitter = new Splitter();
             Application.Run(new SplitterForm(splitter));
+            Application.Exit();
         }
     }
 }

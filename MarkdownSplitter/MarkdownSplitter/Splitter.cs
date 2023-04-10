@@ -128,7 +128,7 @@ namespace MarkdownSplitter
         /// <summary>
         /// The output of the Scrivener Compile process is a single .md Markdown file.
         /// Having created a series of Block instances containing each chuck of text,
-        /// write each block as a separate file, transversing the blocks via recursive
+        /// write each block as a separate file, traversing the blocks via recursive
         /// descent, starting with the single top-level block.
         /// </summary>
         public void SplitMarkdownFile()

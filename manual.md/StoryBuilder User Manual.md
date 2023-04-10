@@ -172,7 +172,7 @@ Add/Remove Story Elements
 
 You can add or remove Story Elements in two ways. There’s a Menu Bar button which opens an ‘Add/Remove Story Elements’ menu:
 
-![][Menu-Bar-7]
+![][Menu-Bar-8]
 
 There’s also a pop-up menu which displays when you right-click on any Story Element node in the Navigation Pane:
 
@@ -329,7 +329,7 @@ Here, clicking on the first or root node in the tree displays the Story  Overvie
 
 On some screen sizes and orientations the Navigation and Content panes may be stacked with the Navigation pane above the Content pane. In those cases the Show/Hide Navigation button (the hamburger menu button) acts differently; it toggles from the Navigation Pane to the Content Pane and back.
 
-![][Navigation-and-Content-Pane-3]
+![][Navigation-and-Content-Pane-4]
 
 Every Story Element type is a different form. These are the story elements:
 
@@ -724,7 +724,7 @@ Use these notes to provide a thumbnail picture of the character and the overall 
 ### Physical Tab ###
 Physical and Appearance Tabs
 
-![][Clipboard-Image-150]
+![][Clipboard-Image-171]
 
 
 These character traits describe the external physical characteristics and appearance of the character.  They are generally self-explanatory.
@@ -739,7 +739,7 @@ The Appearance tab is a companion to the Physical tab.
 
 Use this note area to describe your character's looks, style of dress and movement, and the impression he leaves.  
 
-![][Clipboard-Image-151]
+![][Clipboard-Image-172]
 
 
 
@@ -954,7 +954,7 @@ Setting Tab
 
 The Setting tab contains elements which make the setting specific and unique.
 
-![][Clipboard-Image-152]
+![][Clipboard-Image-173]
 
 
 Locale	The location of the setting in space.
@@ -1068,7 +1068,7 @@ You can move a scene from Story Explorer to Story Narrator at any time with the 
 
 Once you open the Narrative Editor, it will look similar to this. On one side you will the Story Explorer View (The view where you plan your story) and the Narrator View (This is the view that shows your story as it’s told.) 
 
-![][Clipboard-Image-153]
+![][Clipboard-Image-174]
 
 The Narrative view is different from the Explorer view and contains only Scenes and Sections. Along the bottom there are several buttons:
 
@@ -1088,7 +1088,7 @@ The Done button closes the Narrative Editor when you’re finished.
 
 Key Questions
 
-![][Clipboard-Image-154]
+![][Clipboard-Image-175]
 
 Key Questions contains sub-menus which contain lists of questions appropriate to the Story Overview, Problem, Character, Setting, and Plot forms and story elements.
 
@@ -1105,7 +1105,7 @@ The Topic Information sub-menu on the Tools menu contains a list containing info
 
 A topic, once selected, may contain sub-topics:
 
-![][Clipboard-Image-155]
+![][Clipboard-Image-176]
 . 
 
 Information on some of the topic categories follows.
@@ -1183,7 +1183,7 @@ Stock Scenes can be tailored to display any sub-menus of stock scenes you wish. 
 Conflict Builder
 
 
-![][Clipboard-Image-156]
+![][Clipboard-Image-177]
 
 
 
@@ -1226,7 +1226,7 @@ Reports
 
 Clicking on the Reports button on the Menu Bar displays a fly-out menu with two reporting options:
 
-![][Print-Reports-Button-and-Menu-3]
+![][Print-Reports-Button-and-Menu-4]
 ## Print Reports ##
 Print Reports
 
@@ -1260,7 +1260,7 @@ Preferences
 
 The Preferences Dialog will be displayed when you press the Preferences button on the Menu Bar:
 
-![][Prefences-CommandBar-Button-3]
+![][Prefences-CommandBar-Button-4]
 
 
 
@@ -1333,12 +1333,12 @@ Website Form
 The website form allows you store and view web pages easily and functions like a 			smaller version of your web browser. The URL you’re browsing is kept in the form.
 
 
-![][Clipboard-Image-157]
+![][Clipboard-Image-178]
 
-![][Clipboard-Image-158]
+![][Clipboard-Image-179]
 These buttons allow you to refresh, go forwards and respectively.
 
-![][Clipboard-Image-159]
+![][Clipboard-Image-180]
 This is the search bar, if you have a website link (URL) then you can paste it here and 		after clicking the search button it will load the website. Conversely if you don’t have a 		URL you can search a query such as a map of the world and it will search it using 
 Google.
 
@@ -1346,19 +1346,19 @@ Example -  Planning out a fictional character.
 
 1) Create a new website node, you can do this by right clicking a node and  then clicking then clicking the webpage icon.
 
-![][Clipboard-Image-160]
+![][Clipboard-Image-181]
 
 2) Now navigate to it by clicking on it, it should now look similar the picture below.
 
-![][Clipboard-Image-161]
+![][Clipboard-Image-182]
 
 3) Now lets make a fictional map, so search below fictional map generator.
 
-![][Clipboard-Image-162]
+![][Clipboard-Image-183]
 
 3) Select any website below, for this example we will use the first one.
 
-![][Clipboard-Image-163]
+![][Clipboard-Image-184]
 
 Congrats, we have now got a map our fictional word and can start planning our story 		around this world
 
@@ -1369,7 +1369,7 @@ Notes Form
 
 Notes forms can be used to store any information you wish anywhere in the outline.
 
-![][Clipboard-Image-164]
+![][Clipboard-Image-185]
 
 # Tutorial: Creating a Story #
 ## Creating a Story pt 1 ##
@@ -1391,7 +1391,7 @@ To do so in StoryCAD, launch the program. The first time you launch the program,
 
 Back to our story idea. Use the File menu’s  Open/Create file option:
 
-![][File-Open-Dialog-9]
+![][File-Open-Dialog-10]
 
 Click on Create New Story to start a new outline:
 
@@ -1427,7 +1427,7 @@ At the moment, the story outline for "Danger Calls" exists only in your computer
 
 The indicator will change from red to green, indicating that all changes have been saved to disk.
 
-![][Changed-Indicator-9]
+![][Changed-Indicator-10]
 
 Alternatively, from the File menu, you can select Save Story, or enter the Ctrl+S shortcut keys.  Remember to save your work periodically.
 
@@ -1848,7 +1848,7 @@ There are other tools to help you plot- for example, Stock Scenes:
 Stock Scenes are exactly what their name implies: scenes that you’ve seen so often you recognize them instantly.   We used ‘The chase leads into an ambush’ as the setup to our ‘Leonard's impulsiveness lets Lacas capture him’ problem.
 We didn’t call it that, of course, and in fact the capture idea we started with didn’t work: capture implies escape, and it just didn’t fit. Instead, our ‘The chase leads into an ambush became this:
 
-![][Danger-Calls-Shootout-3]
+![][Danger-Calls-Shootout-4]
 
 Although the Scene Type we selected was ‘Action scene’, this is actually the Climax. If we go back to our Master Plots Three Act Play, we’ll find one more piece:
 
@@ -1963,7 +1963,7 @@ Your Premise is the answer to the question the Concept poses.
 
 Your story can have more than one Problem story element, and every Problem has its own Premise, contained on the Resolution tab. But only one of these problems is your Story Problem, and that Problem  (and its Premise) is the one you select on the Story Overview form, Premise tab:
 
-![][Clipboard-Image-165]
+![][Clipboard-Image-186]
 
 The heart of plotted fiction is drama--- a struggle in which the outcome is in doubt. Your Story Problem will lead you to understand whose problem it is (your major character), what her or she want (the goal), and what stands in their way (opposition.) The Story Problem is the wormhole you enter to understand your story.
 
@@ -2051,7 +2051,7 @@ An inner problem is some want or need within the character himself, a need to gr
 
 It's often constructive to use StoryCAD to define both an external and an internal problem for your protagonist, with separate Problem forms for each  of them. Both problems help to shape the story's plot. There’s even a Create New Story template for this:
 
-![][Clipboard-Image-166]
+![][Clipboard-Image-187]
 
 The outer problem asks 'what does the character want?'  The inner problem asks 'why does he want it?'  The outer problem is tangible. The inner problem is intangible, invisible.  The outer problem faces an external adversary.  The inner problem is Man against Himself, usually with something to decide or discover. The outer problem is solved when (win or loose) something is accomplished.  The inner problem is solved when the character grows or changes, or fails to do so.  The inner problem is related to theme. The two problems are connected because your protagonist must come to grips with his inner demon before he can solve the external, outer problem.
 Conflict
@@ -2077,11 +2077,11 @@ A good example of this is found in Hemingway's The Old Man and the Sea.  This no
 
 Rather than arrange these problems in a list:
 
-![][Clipboard-Image-167]
+![][Clipboard-Image-188]
 
 You may want arrange them as children of the original problem, which won’t be solved until the complications are:
 
-![][Clipboard-Image-168]
+![][Clipboard-Image-189]
 
 Where possible, complications should be ordered to make things progressively worse for the protagonist. By the end of the shark attack, the marlin is nothing but a head and tail and skeleton; things can’t get much worse for Santiago.
 Conflicts of start at one level and devolve into a more serious one: ‘it’s not a war until the guns start firing.’  Finding your way from inciting incident through middle story to climax is  the process of finding complications, and escalating conflicts is one approach to doing so.  The escalation can occur for many reasons: a character gets tipped over the edge, a ticking clock goes off, a secondary character does something rash, a dropped dish is mistaken for a gunshot.
@@ -2330,7 +2330,7 @@ MasterPlots
 
 In recent decades, the three-act structure has been joined by a bevy of other story structures, with different plot points:  Dan Wells’ Seven Point Structure, The Hero’s Journey, Blake Snyder’s Save the Cat, and many more.  Since plot points are also called story beats, these structures are often called ‘beat sheets’. A beat sheet can serve as a sort of plot template. StoryCAD’s Master Plots tool provides a number of these templates, which will insert a set of Scene story elements into your outline at the place of your choosing:
 
-![][Tools-Master-Plots-8]
+![][Tools-Master-Plots-9]
 
 
 Since every Problem is a ‘small story’ and has its own set of events that define it, a Problem is good place to use this tool. A Problem can be thought of as a sequence, a term used frequently in scriptwriting, which is defined as ‘a series of scenes with a beginning, middle, and end.’ Or, if you prefer, setup, development, and resolution. 
@@ -2538,12 +2538,12 @@ Developing StoryCAD
 If you are a C# developer and are somewhat familar with WinUI (or another XAML based UI language) then you can contribute to StoryCAD (Which is written in C# and uses WinUI 3).
 For more information about contributing, please check the GitHub Repository.
 Developer only menus / pop-ups
-![][Clipboard-Image-169]
+![][Clipboard-Image-190]
 
 If you have cloned StoryCAD to a separate repo and built it for the first time then you may be surprised to see this screen. It indicates a key file related to licensing is missing from your local clone. These licenses are in effect for the storybuilder.org repo only. The missing licenses won’t cause any issues with the app functioning, but your copy won’t report errors via Elmah.io and you may see pops relating to syncfusion licensing errors.
 Regardless, congratulations on successfully compiling StoryCAD.
 
-![][Clipboard-Image-170]
+![][Clipboard-Image-191]
 
 If StoryCAD notices you have a debugger attached to the process, the developer menu will appear.
 This shows info about the computer and may contain buttons to test some parts of the StoryCAD.
@@ -2833,7 +2833,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Show-and-Hide-Navigation]: Show-and-Hide-Navigation.png width=680px height=488px
 
-[Menu-Bar-7]: Menu-Bar-7.png width=599px height=64px
+[Menu-Bar-8]: Menu-Bar-8.png width=599px height=64px
 
 [Story-Element-Flyout]: Story-Element-Flyout.png width=472px height=116px
 
@@ -2851,7 +2851,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Changed-Indicator]: Changed-Indicator.png width=55px height=40px
 
-[Navigation-and-Content-Pane-3]: Navigation-and-Content-Pane-3.png width=680px height=547px
+[Navigation-and-Content-Pane-4]: Navigation-and-Content-Pane-4.png width=680px height=547px
 
 [Navigation-Pane-Flyout-CommandBar]: Navigation-Pane-Flyout-CommandBar.png width=680px height=484px
 
@@ -2877,9 +2877,9 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Clipboard-Image]: Clipboard-Image.png width=680px height=449px
 
-[Clipboard-Image-150]: Clipboard-Image-150.png width=680px height=494px
+[Clipboard-Image-171]: Clipboard-Image-171.png width=680px height=494px
 
-[Clipboard-Image-151]: Clipboard-Image-151.png width=680px height=495px
+[Clipboard-Image-172]: Clipboard-Image-172.png width=680px height=495px
 
 [Character-Relationships-Tab]: Character-Relationships-Tab.png width=680px height=516px
 
@@ -2901,7 +2901,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Trait-Builder]: Trait-Builder.png width=352px height=304px
 
-[Clipboard-Image-152]: Clipboard-Image-152.png width=680px height=491px
+[Clipboard-Image-173]: Clipboard-Image-173.png width=680px height=491px
 
 [Setting-Sensations-Tab]: Setting-Sensations-Tab.png width=680px height=454px
 
@@ -2913,13 +2913,13 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Scene-Sequel-Tab]: Scene-Sequel-Tab.png width=680px height=454px
 
-[Clipboard-Image-153]: Clipboard-Image-153.png width=551px height=707px
+[Clipboard-Image-174]: Clipboard-Image-174.png width=551px height=707px
 
-[Clipboard-Image-154]: Clipboard-Image-154.png width=443px height=496px
+[Clipboard-Image-175]: Clipboard-Image-175.png width=443px height=496px
 
 [Topic-Information]: Topic-Information.png width=680px height=489px
 
-[Clipboard-Image-155]: Clipboard-Image-155.png width=384px height=516px
+[Clipboard-Image-176]: Clipboard-Image-176.png width=384px height=516px
 
 [Tools-Master-Plots]: Tools-Master-Plots.png width=544px height=631px
 
@@ -2927,11 +2927,11 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Tools-Stock-Scenes]: Tools-Stock-Scenes.png width=475px height=628px
 
-[Clipboard-Image-156]: Clipboard-Image-156.png width=440px height=264px
+[Clipboard-Image-177]: Clipboard-Image-177.png width=440px height=264px
 
 [Flaw-Builder]: Flaw-Builder.png width=551px height=325px
 
-[Print-Reports-Button-and-Menu-3]: Print-Reports-Button-and-Menu-3.png width=165px height=161px
+[Print-Reports-Button-and-Menu-4]: Print-Reports-Button-and-Menu-4.png width=165px height=161px
 
 [Generate-Reports-Dialog]: Generate-Reports-Dialog.png width=548px height=759px
 
@@ -2943,7 +2943,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Scrivener-Split-Screen-with-StoryCAD]: Scrivener-Split-Screen-with-StoryCAD.png width=680px height=511px
 
-[Prefences-CommandBar-Button-3]: Prefences-CommandBar-Button-3.png width=299px height=43px
+[Prefences-CommandBar-Button-4]: Prefences-CommandBar-Button-4.png width=299px height=43px
 
 [Preferences-General-tab]: Preferences-General-tab.png width=549px height=521px
 
@@ -2959,23 +2959,23 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Preferences-Whats-New-tb]: Preferences-Whats-New-tb.png width=543px height=715px
 
-[Clipboard-Image-157]: Clipboard-Image-157.png width=680px height=487px
+[Clipboard-Image-178]: Clipboard-Image-178.png width=680px height=487px
 
-[Clipboard-Image-158]: Clipboard-Image-158.png width=136px height=48px
+[Clipboard-Image-179]: Clipboard-Image-179.png width=136px height=48px
 
-[Clipboard-Image-159]: Clipboard-Image-159.png width=529px height=40px
+[Clipboard-Image-180]: Clipboard-Image-180.png width=529px height=40px
 
-[Clipboard-Image-160]: Clipboard-Image-160.png width=680px height=553px
+[Clipboard-Image-181]: Clipboard-Image-181.png width=680px height=553px
 
-[Clipboard-Image-161]: Clipboard-Image-161.png width=680px height=494px
+[Clipboard-Image-182]: Clipboard-Image-182.png width=680px height=494px
 
-[Clipboard-Image-162]: Clipboard-Image-162.png width=680px height=484px
+[Clipboard-Image-183]: Clipboard-Image-183.png width=680px height=484px
 
-[Clipboard-Image-163]: Clipboard-Image-163.png width=680px height=492px
+[Clipboard-Image-184]: Clipboard-Image-184.png width=680px height=492px
 
-[Clipboard-Image-164]: Clipboard-Image-164.png width=680px height=489px
+[Clipboard-Image-185]: Clipboard-Image-185.png width=680px height=489px
 
-[File-Open-Dialog-9]: File-Open-Dialog-9.png width=559px height=595px
+[File-Open-Dialog-10]: File-Open-Dialog-10.png width=559px height=595px
 
 [Create-New-Story-Dialog]: Create-New-Story-Dialog.png width=555px height=565px
 
@@ -2991,7 +2991,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Tutorial-1-Changed-Indicator-(Red)]: Tutorial-1-Changed-Indicator-(Red).png width=53px height=47px
 
-[Changed-Indicator-9]: Changed-Indicator-9.png width=55px height=40px
+[Changed-Indicator-10]: Changed-Indicator-10.png width=55px height=40px
 
 [Tutorial-1-Empty-Struture-Tab]: Tutorial-1-Empty-Struture-Tab.png width=651px height=708px
 
@@ -3065,19 +3065,19 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Danger-Callse-Stock-Scenes]: Danger-Callse-Stock-Scenes.png width=465px height=660px
 
-[Danger-Calls-Shootout-3]: Danger-Calls-Shootout-3.png width=680px height=530px
+[Danger-Calls-Shootout-4]: Danger-Calls-Shootout-4.png width=680px height=530px
 
 [Danger-Calls-Denouement]: Danger-Calls-Denouement.png width=680px height=534px
 
-[Clipboard-Image-165]: Clipboard-Image-165.png width=491px height=171px
+[Clipboard-Image-186]: Clipboard-Image-186.png width=491px height=171px
 
-[Clipboard-Image-166]: Clipboard-Image-166.png width=228px height=208px
+[Clipboard-Image-187]: Clipboard-Image-187.png width=228px height=208px
 
-[Clipboard-Image-167]: Clipboard-Image-167.png width=256px height=129px
+[Clipboard-Image-188]: Clipboard-Image-188.png width=256px height=129px
 
-[Clipboard-Image-168]: Clipboard-Image-168.png width=265px height=137px
+[Clipboard-Image-189]: Clipboard-Image-189.png width=265px height=137px
 
-[Tools-Master-Plots-8]: Tools-Master-Plots-8.png width=544px height=631px
+[Tools-Master-Plots-9]: Tools-Master-Plots-9.png width=544px height=631px
 
 [Tools-Master-Plots-Result]: Tools-Master-Plots-Result.png width=680px height=353px
 
@@ -3099,6 +3099,6 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Plotting-with-StoryCAD-SubProblems-Epanded-into-Scenes]: Plotting-with-StoryCAD-SubProblems-Epanded-into-Scenes.png width=273px height=356px
 
-[Clipboard-Image-169]: Clipboard-Image-169.png width=543px height=281px
+[Clipboard-Image-190]: Clipboard-Image-190.png width=543px height=281px
 
-[Clipboard-Image-170]: Clipboard-Image-170.png width=568px height=355px
+[Clipboard-Image-191]: Clipboard-Image-191.png width=568px height=355px
