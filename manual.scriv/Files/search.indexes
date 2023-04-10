@@ -2103,6 +2103,9 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 </Text>
             <Notes>GLOSSARY</Notes>
         </Document>
+        <Document ID="64186202-A353-4D5E-8549-8D345012CCEC">
+            <Title>Create New Story Project Templates</Title>
+        </Document>
         <Document ID="6444B72F-F0D1-4BEE-B48E-FBE7C2E96520">
             <Title>Scenes Tied to Master Plots Plot Points</Title>
         </Document>
@@ -2215,6 +2218,32 @@ Use the Appearance tab to round out the physical description of the character wi
 
 </Text>
             <Notes>CHPHYS</Notes>
+        </Document>
+        <Document ID="68586D3C-AE38-4605-87E2-7FB1FA688D84">
+            <Title>Rearranging Content</Title>
+            <Text>Rearranging Content
+Both the Story Explorer and Story Narrator views are trees of Story Elements. The root of the Story Explorer view is the Story Overview node, and the root of the Story Narrator view is a Folder node named Story Narrator. Below that, you have complete control of the arrangement and order of Story Elements in the trees.
+To aid in this process, both views contain a special Story Element type (Folder in the case of Story Explorer and Section in the case of Story Narrator) which are, as the names suggest, designed to do nothing but hold other Story Elements.  The sample outline “Hamlet” illustrates this use.
+Using folders is not a requirement, though: any node can be a parent node with children, or not. The sample outline “The Old Man and The Sea” uses this approach.
+You can use any structure you like. For example, if you’re writing a John Jakes-style Civil War novel, you might want to create folders for Union and Confederate characters.
+To help you get started, the File menu’s Create New Story command contains a Template drop-down which will populate your new outline with a starter set of Story Elements:
+#
+
+For example, the ‘Overview and Story Problem will add these nodes:
+
+#
+
+You may find one or more of these templates useful early in your outlining process. However, your needs may change over time, particularly if you’re writing long-form fiction such as a novel or screenplay. To address this need, StoryCAD allows you to rearrange the nodes in your views, using two tools.
+Drag and Drop
+
+You can move a node to a different parent folder by simply clicking on it and, while holding the mouse button or pen down, dragging it to the target node you want. When you release it the node will be moved to the top of the target node’s children. 
+Move Story Elements
+
+The Menu Bar’s Move Story Element button can be used for finer control, such as moving a  node up or down in a list of child nodes.  It can also be used to move nodes to other parent nodes, but because each click moves just one node, it’s not as convenient as Drag and Drop when moving nodes over longer distances.
+
+
+
+</Text>
         </Document>
         <Document ID="68C71322-F6A5-44B2-8421-A470DDD5857D">
             <Title>Print Reports Button and Menu</Title>
@@ -3159,6 +3188,9 @@ This is another rabbit hole. But a very interesting one.
 ‘It turns out that all the advising and assisting, all the training and coaching, has only made matters worse. As for those overstretched forces, relentless deployments are evidently breaking them down as reports indicate that rates of mental distress and suicide are again on the rise among them.’ 
 
 </Text>
+        </Document>
+        <Document ID="AACDC4E8-8102-450D-9B63-9B47FFE5F380">
+            <Title>Overview and Story Problem</Title>
         </Document>
         <Document ID="AB2B628E-AF20-4DD6-AF97-1C8FF3852901">
             <Title>Premise Tab</Title>

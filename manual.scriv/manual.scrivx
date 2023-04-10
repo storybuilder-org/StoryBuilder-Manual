@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="342E5DD6-5812-45AB-982C-E2EAC46CF8EE" Creator="SCRWIN-3.1.4.0" Device="Minerva" Modified="2023-04-01 05:16:00 -0400" ModID="81A4C794-97EA-4CAF-BAA0-F6A7BAEF8478">
+<ScrivenerProject Template="No" Version="2.0" Identifier="342E5DD6-5812-45AB-982C-E2EAC46CF8EE" Creator="SCRWIN-3.1.4.0" Device="Minerva" Modified="2023-04-10 15:42:16 -0400" ModID="06A2A348-91B3-406C-8A30-CAD0389E47CA">
     <Binder>
         <BinderItem UUID="9FFBA333-8432-41C1-91F5-1302DFE283CA" Type="Text" Created="2019-05-14 14:29:37 -0400" Modified="2019-05-14 14:29:46 -0400">
             <Title>Non-Fiction Format</Title>
@@ -174,7 +174,7 @@
                                                 <TextSelection>154,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="586E45B8-DAC8-4DA7-AEB2-0E9722C5F346" Type="Text" Created="2021-11-01 10:07:06 -0400" Modified="2022-08-23 10:32:24 -0400">
+                                        <BinderItem UUID="586E45B8-DAC8-4DA7-AEB2-0E9722C5F346" Type="Text" Created="2021-11-01 10:07:06 -0400" Modified="2023-04-10 10:58:22 -0400">
                                             <Title>Move Story Elements</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -182,8 +182,11 @@
                                                 <NotesTextSelection>8,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>323,0</TextSelection>
+                                                <TextSelection>293,0</TextSelection>
                                             </TextSettings>
+                                            <Bookmarks>
+                                                <Bookmark BinderUUID="68586D3C-AE38-4605-87E2-7FB1FA688D84">Rearranging Content</Bookmark>
+                                            </Bookmarks>
                                         </BinderItem>
                                         <BinderItem UUID="603F8EE8-D387-475A-B33B-457171F8D376" Type="Folder" Created="2019-06-12 18:07:30 -0400" Modified="2023-01-28 02:56:23 -0400">
                                             <Title>Tools Menu</Title>
@@ -284,7 +287,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>574,0</TextSelection>
+                                        <TextSelection>294,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="7DFD5EC8-3E35-4496-A4BB-8998E3BA2D5B" Type="Text" Created="2021-11-01 08:19:44 -0400" Modified="2023-04-01 04:54:35 -0400">
@@ -308,12 +311,21 @@
                                         <NotesTextSelection>11,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>952,0</TextSelection>
+                                        <TextSelection>45,0</TextSelection>
                                     </TextSettings>
                                     <Bookmarks>
                                         <Bookmark BinderUUID="E0D1F7E0-6875-4473-B6F0-3E26263DFC98">Navigation Pane Flyout CommandBar</Bookmark>
                                         <Bookmark BinderUUID="338AE67A-2D80-4ED4-8AA3-BD5178955ED9">Narrative Editor</Bookmark>
                                     </Bookmarks>
+                                </BinderItem>
+                                <BinderItem UUID="68586D3C-AE38-4605-87E2-7FB1FA688D84" Type="Text" Created="2023-04-10 10:01:04 -0400" Modified="2023-04-10 15:41:55 -0400">
+                                    <Title>Rearranging Content</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>2117,0</TextSelection>
+                                    </TextSettings>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
@@ -3744,6 +3756,38 @@
                         <Bookmark BinderUUID="06A3F580-42AA-48DF-8032-ED0A26E5C6A1">Preferences</Bookmark>
                     </Bookmarks>
                 </BinderItem>
+                <BinderItem UUID="AACDC4E8-8102-450D-9B63-9B47FFE5F380" Type="Image" Created="2023-04-10 10:28:29 -0400" Modified="2023-04-10 10:33:00 -0400">
+                    <Title>Overview and Story Problem</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>png</FileExtension>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScaleFactor>1</ImageScaleFactor>
+                        <ImageRotation>None</ImageRotation>
+                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                    </MediaSettings>
+                    <Bookmarks>
+                        <Bookmark BinderUUID="68586D3C-AE38-4605-87E2-7FB1FA688D84">Rearranging Content</Bookmark>
+                    </Bookmarks>
+                </BinderItem>
+                <BinderItem UUID="64186202-A353-4D5E-8549-8D345012CCEC" Type="Image" Created="2023-04-10 10:25:38 -0400" Modified="2023-04-10 10:31:50 -0400">
+                    <Title>Create New Story Project Templates</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>png</FileExtension>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScaleFactor>1</ImageScaleFactor>
+                        <ImageRotation>None</ImageRotation>
+                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                    </MediaSettings>
+                    <Bookmarks>
+                        <Bookmark BinderUUID="68586D3C-AE38-4605-87E2-7FB1FA688D84">Rearranging Content</Bookmark>
+                    </Bookmarks>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem UUID="A41BA2A1-C599-43C2-99CC-8C1A7FFC2C24" Type="TrashFolder" Created="2019-05-14 14:29:37 -0400" Modified="2019-05-14 14:29:37 -0400">
@@ -3868,7 +3912,7 @@
         </Collection>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.901961 0.901961 0.980392">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No">StoryBuilder</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No">drag and drop</SearchSettings>
         </Collection>
     </Collections>
     <SectionTypes>
@@ -3928,14 +3972,14 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="12" Characters="125" Date="2023-04-01 05:16:00 -0400"/>
+        <PreviousSession Words="389" Characters="2186" Date="2023-04-10 15:42:16 -0400"/>
     </ProjectTargets>
     <BookmarksFolderUUID>07B0D7C6-57CE-4D6F-8AD9-11F06A261A5F</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2023-04-01 00:00:00 -0400">
-        <DraftWordCount>-17</DraftWordCount>
-        <DraftCharCount>-531</DraftCharCount>
+    <RecentWritingHistory Date="2023-04-10 00:00:00 -0400">
+        <DraftWordCount>375</DraftWordCount>
+        <DraftCharCount>2119</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>-4</OtherCharCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
