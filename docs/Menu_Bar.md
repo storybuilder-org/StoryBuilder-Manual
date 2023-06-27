@@ -17,12 +17,6 @@ Hovering your mouse or stylus over a button will display a tool tip describing t
 The menu bar buttons either display drop-down menus (such as File), or launch particular actions (such as Preferences.) <br/>
 
 Each of these options is discussed in the next topics of this manual.   <br/>
-<<<<<<< Updated upstream
-=======
- <br/>
- <br/>
-[Prev](Navigating_in_StoryCAD.md)[Next](Navigation_and_Content_Panes.md) <br/>
->>>>>>> Stashed changes
 [Search](Search.md) <br/><br/>
 [Show/Hide Navigation Pane](Show_Hide_Navigation_Pane.md) <br/><br/>
 [File Menu](File_Menu.md) <br/><br/>

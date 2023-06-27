@@ -22,9 +22,3 @@ Goal, Motivation, Conflict Builder, Conflict <br/>
 
 
 
-<<<<<<< Updated upstream
-=======
- <br/>
- <br/>
-[Prev](Protagonist_Tab.md)[Next](Resolution_Tab.md) <br/>
->>>>>>> Stashed changes

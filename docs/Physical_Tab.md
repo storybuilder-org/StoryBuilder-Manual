@@ -1,12 +1,7 @@
 ### Physical Tab ###
 Physical and Appearance Tabs <br/>
 
-<<<<<<< Updated upstream
-![](Clipboard-Image-192.png)
-
-=======
 ![](CharPhysTab.png)
->>>>>>> Stashed changes
 
 These character traits describe the external physical characteristics and appearance of the character.  They are generally self-explanatory. <br/>
 

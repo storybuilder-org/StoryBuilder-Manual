@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 ## Flaw Builder ##
 Flaw Builder <br/>
 
@@ -8,17 +7,3 @@ This tool is invoked from a button on the Character Form’s Flaw tab. It explor
 
 Generally, a character flaw should become a problem of its own, a ‘person against himself’ or internal problem. The Problem Type is usually discovery; self-awareness is the start of the solution. The failure to overcome a flaw is tragic: Hamlet’s indecision is an example. <br/>
 
-=======
-## Flaw Builder ##
-Flaw Builder <br/>
-
-![](Flaw-Builder.png)
-
-This tool is invoked from a button on the Character Form’s Flaw tab. It explores some common examples of character flaws to help you in developing a character. <br/>
-
-Generally, a character flaw should become a problem of its own, a ‘person against himself’ or internal problem. The Problem Type is usually discovery; self-awareness is the start of the solution. The failure to overcome a flaw is tragic: Hamlet’s indecision is an example. <br/>
-
- <br/>
- <br/>
-[Prev](Conflict_Builder.md)[Next](Master_Plots.md) <br/>
->>>>>>> Stashed changes

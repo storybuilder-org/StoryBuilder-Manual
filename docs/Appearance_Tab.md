@@ -5,10 +5,6 @@ The Appearance tab is a companion to the Physical tab. <br/>
 
 Use this note area to describe your character's looks, style of dress and movement, and the impression he leaves.   <br/>
 
-<<<<<<< Updated upstream
-![](Clipboard-Image-193.png)
-=======
->>>>>>> Stashed changes
 
 ![](CharAppearanceTab.png)
 

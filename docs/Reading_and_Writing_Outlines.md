@@ -22,9 +22,3 @@ Clicking on Sample Stories on the left tab displays a list of sample outlines in
 
 Only one story outline can be open at a time.  If you open a new file you'll be prompted to save the current file first if it’s been modified. <br/>
 
-<<<<<<< Updated upstream
-=======
- <br/>
- <br/>
-[Prev](Starting_and_Stopping_StoryCAD.md)[Next](The_StoryCAD_User_Interface.md) <br/>
->>>>>>> Stashed changes

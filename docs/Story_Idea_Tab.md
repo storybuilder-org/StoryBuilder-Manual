@@ -21,9 +21,3 @@ Story Idea				This is the place to record the original idea that led you to want
 
 
 
-<<<<<<< Updated upstream
-=======
- <br/>
- <br/>
-[Prev](Scene_Form.md)[Next](Concept_Tab.md) <br/>
->>>>>>> Stashed changes

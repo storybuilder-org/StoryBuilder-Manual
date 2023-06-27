@@ -3,11 +3,7 @@ Preferences <br/>
 
 The Preferences Dialog will be displayed when you press the Preferences button on the Menu Bar: <br/>
 
-<<<<<<< Updated upstream
-![](Prefences-CommandBar-Button-5.png)
-=======
 ![](Prefences-CommandBar-Button-1.png)
->>>>>>> Stashed changes
 
 
 
@@ -74,9 +70,3 @@ What’s New tab: <br/>
 ![](Preferences-Whats-New-tb.png)
 
 The What’s New tab displays the Changelog for the current release.  <br/>
-<<<<<<< Updated upstream
-=======
- <br/>
- <br/>
-[Prev](Reports.md)[Next](Researching_your_story.md) <br/>
->>>>>>> Stashed changes

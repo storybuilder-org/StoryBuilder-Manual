@@ -16,13 +16,5 @@ The first few master plots (Three Act Play, W-Diagram,  and Hero's Journey) are 
 
 Ronald Tobias' excellent book 20 Master Plots (And How to Build Them) is a detailed look at the fundamental plots which recur through all fiction. <br/>
 
-<<<<<<< Updated upstream
 
 
-=======
-
-
- <br/>
- <br/>
-[Prev](Flaw_Builder.md)[Next](Dramatic_Situations.md) <br/>
->>>>>>> Stashed changes
