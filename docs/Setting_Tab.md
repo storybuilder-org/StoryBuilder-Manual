@@ -4,8 +4,13 @@ Setting Tab <br/>
 
 The Setting tab contains elements which make the setting specific and unique. <br/>
 
+<<<<<<< Updated upstream
 ![](Clipboard-Image-194.png)
 
+=======
+  <br/>
+![](Setting-Setting-Tab.png)
+>>>>>>> Stashed changes
 
 Locale	The location of the setting in space. <br/>
 

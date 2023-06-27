@@ -13,3 +13,9 @@ Story Narrator View is the view you’ll use when you’re ready to structure yo
 
 
 
+<<<<<<< Updated upstream
+=======
+ <br/>
+ <br/>
+[Prev](Tabs.md)[Next](Rearranging_Content.md) <br/>
+>>>>>>> Stashed changes

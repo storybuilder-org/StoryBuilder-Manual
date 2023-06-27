@@ -1,4 +1,4 @@
-##  Preface ##
+###  Preface ###
 Preface <br/>
 
 Writing fiction is tough. Modern novels typically contain between 70,000 and 100,000 words and can take a year or longer to write and edit. Starting a project of such magnitude without a plan is an invitation to disaster, but how do you plan something as complex as a novel? <br/>

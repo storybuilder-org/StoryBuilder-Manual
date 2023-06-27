@@ -16,3 +16,9 @@ To revert to a backup, simply click on the .stbx file of your choice and use Fil
 
 See Preferences in this manual for further information. <br/>
 
+<<<<<<< Updated upstream
+=======
+ <br/>
+ <br/>
+[Prev](Critiquing_with_StoryCAD.md)[Next](Developing_StoryCAD.md) <br/>
+>>>>>>> Stashed changes

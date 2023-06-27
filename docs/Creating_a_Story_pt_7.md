@@ -28,3 +28,9 @@ We'll look at one last tab, the Backstory tab: <br/>
 
 There's always a question of how much detail to provide, for characters, problems, settings, etc.  The answer will vary from story to story.  For example, this is an action-oriented story, so the characterizations aren't quite as important.  Whether or not they make it to your writing, the more you know about your characters the better. <br/>
 
+<<<<<<< Updated upstream
+=======
+ <br/>
+ <br/>
+[Prev](Creating_a_Story_pt_6.md)[Next](Creating_a_Story_pt_8.md) <br/>
+>>>>>>> Stashed changes

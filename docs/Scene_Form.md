@@ -1,4 +1,10 @@
 ## Scene Form ##
+<<<<<<< Updated upstream
+=======
+ <br/>
+ <br/>
+[Prev](Setting_Form.md)[Next](Story_Idea_Tab.md) <br/>
+>>>>>>> Stashed changes
 [Scene Tab](Scene_Tab.md) <br/><br/>
 [Develpment Tab](Develpment_Tab.md) <br/><br/>
 [Conflict Tab](Conflict_Tab.md) <br/><br/>

@@ -18,3 +18,9 @@ Copyright © 2022, 2023 <br/>
 StoryBuilder Organization <br/>
 
 
+<<<<<<< Updated upstream
+=======
+ <br/>
+ <br/>
+[Prev](Front_Page_(Image).md)[Next](Getting_Help.md) <br/>
+>>>>>>> Stashed changes

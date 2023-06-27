@@ -52,6 +52,9 @@ Report Commands
 Ctrl + P - Open Print Report Menu
 Ctrl +R - Scrivener Reports </Text>
         </Document>
+        <Document ID="013F48D5-3D73-47FF-93A6-874C62013859">
+            <Title>CharRoleTab</Title>
+        </Document>
         <Document ID="01CFD920-0F05-4A6D-A56F-496FAECAC57E">
             <Title>Stock Scenes Examples</Title>
         </Document>
@@ -93,10 +96,17 @@ Notes
 There’s also a Trashcan node which is the parent for other nodes you wish to discard.
 
 Clicking (or touching) a Story Element node on the Navigation Pane will display that Story Element’s  content in the Content Panel. Each Story Element type has its own form; the major ones are tabbed.
+<<<<<<< Updated upstream
 
 #
 
 
+=======
+#
+
+
+
+>>>>>>> Stashed changes
 On some screen sizes and orientations the Navigation and Content panes may be stacked with the Navigation pane above the Content pane. In those cases the Show/Hide Navigation button (the hamburger menu button) acts differently; it toggles from the Navigation Pane to the Content Pane and back.
 
 #
@@ -113,6 +123,12 @@ Every major form also has a full-page tab (labeled Notes) which holds your gener
             <Text>
 #</Text>
         </Document>
+<<<<<<< Updated upstream
+=======
+        <Document ID="02C0475A-61CB-4C0F-9549-099F56DAAB6C">
+            <Title>PlottingWithStoryCADOldManSixScenes</Title>
+        </Document>
+>>>>>>> Stashed changes
         <Document ID="03B0FDDB-9ACB-44C2-A3F3-300AE9F9A60C">
             <Title>Preferences Whats New tb</Title>
         </Document>
@@ -413,6 +429,9 @@ To help you plan out your story better, StoryCAD contains two nodes dedicated to
         <Document ID="13E96C90-ECB3-4A69-877E-AE3946EA425B">
             <Title>Editing Menu Popup.bmp</Title>
         </Document>
+        <Document ID="14793045-BAE9-43C6-BB1E-8ADBB36266EB">
+            <Title>Recovered Files (27/06/2023, 20:09)</Title>
+        </Document>
         <Document ID="1807A16D-0846-4136-B964-809097210D46">
             <Title>Master Plots</Title>
             <Text>1
@@ -516,7 +535,7 @@ These workflow phases are outside of StoryCAD’s scope and depend on other tool
 Saying that drafting and revising your story is outside of StoryCAD’s scope is not quite accurate; outlining can be useful during both phases, and we discuss that in Other Uses of StoryCAD.</Text>
         </Document>
         <Document ID="1CEFD3C0-2D56-4955-9E79-498522EECD6D">
-            <Title>Problem and Character  Development</Title>
+            <Title>Problem and Character Development</Title>
             <Text>Problem and Character Development
 
 A StoryCAD outline ‘begins’ on the Story Overview form, but as you’ve seen, it really starts with the selection of the Story Problem and its description in its Premise, whose definition could be condensed to ‘a character with a problem.’ 
@@ -528,6 +547,22 @@ Always honor your muse by recording whatever it gifts you about your story: a bi
  If you started with the problem (situation, idea, etc.), remember that there are infinitely many possible characters. Your job is to find the character who will face this particular problem. Ask why he wants to achieve that particular goal, and what sort of traits would lead to the story conclusion you want.  Then devise a back story which gives your character those traits. Until the moment your story concept is fully developed, your characters are as fluid and tractable to change as your plot or settings. 
 
 </Text>
+        </Document>
+<<<<<<< Updated upstream
+        <Document ID="1E8F987B-B03B-418D-96DB-BE975F9A3AF4">
+            <Title>Danger Calls after Scene Move</Title>
+=======
+        <Document ID="1D99119B-1061-43A2-AD8C-2933269ED445">
+            <Title>Recovered File-1</Title>
+            <Text>
+Character Names
+
+The Male First Names,  Female First Names, and Last Names tools can be selected from the Characterization Aids sub-menu of the Tools menu.  These menu entries will cause a list of common names to appear to help you in selecting a name for your character.
+
+All three of these lists can be tailored to your preferences. See &quot;Customizing StoryBuilder&quot; for details on how to add, delete, or modify the lists.
+</Text>
+            <Notes>CHNAMES</Notes>
+>>>>>>> Stashed changes
         </Document>
         <Document ID="1E8F987B-B03B-418D-96DB-BE975F9A3AF4">
             <Title>Danger Calls after Scene Move</Title>
@@ -668,6 +703,12 @@ This button toggles the Navigation Pane to either display or be hidden. Hiding t
 
 Clicking Generate will cause all of the selected reports to print on your default printer.</Text>
         </Document>
+<<<<<<< Updated upstream
+=======
+        <Document ID="227FF3CA-13BE-44A4-A7C2-DA6C48AA2DEB">
+            <Title>PlottingWithStoryCADOldManCharArc</Title>
+        </Document>
+>>>>>>> Stashed changes
         <Document ID="24ABF437-9E82-4D33-BDB9-3D80F57A0E12">
             <Title>Social Tab</Title>
             <Text>Social Tab
@@ -739,8 +780,55 @@ Critiquing others’ stories is a great way to improve your art, because it’s 
  
 We can replace the plot point for ‘Narrative Hook’ with  ‘He’s like a ghost’, the scene we added earlier. Let’s move our scene where it belongs, treating the MasterPlot scenes as they’re intended, temporary scaffolding. First, right-click on the scene, and then click on the ‘Move’ icon on the menu bar:
 #
+<<<<<<< Updated upstream
 
 Click on the down arrow repeatedly until you’ve positioned it where you wish:
+=======
+
+Click on the down arrow repeatedly until you’ve positioned it where you wish:
+
+#
+
+
+After we've moved our scene to where we want it, we can get rid of the placeholder by right-clicking on the 'Narrative hook' scene and clicking the Move to Trashcan icon. 
+
+#
+
+The scene will be moved under Deleted Story Elements. At the bottom of the Navigation Pane. If you think deleting a story element is a bad idea, you can move it back by right-clicking on it and clicking on the Restore Story Element from Trashcan button. 
+
+The placeholder scenes added by Master Plots each describe one function, but it’s wrong to think that a real scene only does one thing. The ‘He’s like a ghost’ scene, our Narrative Hook, also Introduces Characters- not all of them, but our protagonists, Leonard Kraskin and Tony Irwin, and, from a remove, our antagonist, Charlie Lacas. It also Presents a Problem to be Solved- ‘How will Leonard and Tony get past Charlie's tech?’, which is in fact a sub-problem of the Story Problem, ‘Catching the drug dealer Lacas’.  To illustrate, here’s a reorder of the Problems.
+
+#
+
+The two sub-problems have been moved under the main problem, and our one scene so far (‘He’s like a ghost’) has been moved under the problem it’s a part of.  The MasterPlots tool was also used a second time, to copy a slightly different kind of story structure, a pattern of action- the Escape.  Back when we worked on our story idea we already had an idea of what our climax scene  would be; this placeholder represents that. Clicking on this scene, we can make it our own by renaming it to 'Tony diverts Lacas by paging him and allows Leonard to escape’ and using our story Premise description. We also added the scene cast members by selecting their names from New Cast Member drop-down and clicking the ‘+’ Add Cast Member button.
+
+#
+
+The Three Act Play structure we added under the Scenes folder contains a ‘Climax’ plot point, with Notes that read:
+
+   This is the point in which the story problem is solved, one
+way or another. Either the protagonist succeeds in obtaining her
+goal, or she fails, or she decides that the goal isn't worth obtaining
+any more, or she discovers something that changes the situation- usually
+something about herself. It's important that your protagonist takes
+her fate in her own hands and solve, or try to solve, her own problem.
+Having the calvary ride up at the last minute is no longer acceptable.
+
+
+Our ‘Escape’ scene under the ‘Leonard’s impulsiveness lets Lacas capture him’ problem is this part of the story’s structure as well. 
+
+Plotting is usually the last thing in story design to worry about, for several reasons.  The characters should be well defined, so that their actions are consistent with their natures.  The story problems should also be clearly understood, especially the resolutions.  Every problem is a story in miniature; plotting a story is largely a matter of arranging events from one or more problems into a satisfactory sequence.  But writing is a process of accumulation, and the ideas which you collect to create your story concept can come to you at any time.  If you visualize a scene.
+</Text>
+            <Notes>TUTOR06</Notes>
+        </Document>
+        <Document ID="29DF0683-214A-4D08-96D9-DA2BB2B7BB18">
+            <Title>Danger Callse - Stock Scenes</Title>
+        </Document>
+        <Document ID="2A548D22-00F7-4E85-AC2F-76D1AE85CDDA">
+            <Title>Recovered File-2</Title>
+            <Synopsis>PRRESOL</Synopsis>
+            <Text>Resolution Tab
+>>>>>>> Stashed changes
 
 #
 
@@ -812,6 +900,12 @@ Story Narrator View is the view you’ll use when you’re ready to structure yo
         <Document ID="2DD85FEB-3231-419C-890D-FDE83A7EEA93">
             <Title>Danger Calls - Denouement</Title>
         </Document>
+<<<<<<< Updated upstream
+=======
+        <Document ID="2E560FAA-912D-4F09-A43C-D30515D2395D">
+            <Title>WebElementOverview</Title>
+        </Document>
+>>>>>>> Stashed changes
         <Document ID="2F6B587C-0A26-4CF9-8D14-E3A587E0081F">
             <Title>Plotting with StoryCAD - Story Problem MasterPlots Scene list</Title>
         </Document>
@@ -878,7 +972,10 @@ You can move a scene from Story Explorer to Story Narrator at any time with the 
 Once you open the Narrative Editor, it will look similar to this. On one side you will the Story Explorer View (The view where you plan your story) and the Narrator View (This is the view that shows your story as it’s told.) 
 
 #
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 The Narrative view is different from the Explorer view and contains only Scenes and Sections. Along the bottom there are several buttons:
 
 Add Scene - Adds a node from the Story Explorer View (Only scenes and folders can be copied over, other types will not be copied over)
@@ -1044,10 +1141,17 @@ A trait is a distinguishing quality.  Unlike Psychological qualities which are h
             <Title>Notes Form</Title>
             <Text>Notes Form
 
+<<<<<<< Updated upstream
 Notes forms can be used to store any information you wish anywhere in the outline.
 
 #
 </Text>
+=======
+Notes forms can be used to store any information you wish anywhere in the outline, this can be useful for writing down background information about your characters.
+
+
+#</Text>
+>>>>>>> Stashed changes
         </Document>
         <Document ID="347BA8FF-F1CE-45C8-8D1D-E0767BBC6B6E">
             <Title>Using Various Input Devices</Title>
@@ -1093,7 +1197,7 @@ Fields:
 
 Title			     		Every story element has a Name field. By convention the name of the Story Overview is the working title of your story. You can change the Title any time. We recommend that you make your StoryCAD project the same as your title. 
 
-Author				The creator of the story. This defaults to your User Name in Preferences.
+Author					The creator of the story. This defaults to your User Name in Preferences.
 
 Date Created			The date the outline was first created.  This field is automatically filled when you create the project.		
 
@@ -1172,6 +1276,9 @@ Of course, I don’t have one yet…</Notes>
 
 Insert dedication here.</Text>
             <Notes>Feel free to delete this document if you don’t need it.</Notes>
+        </Document>
+        <Document ID="3C6964B4-22EC-41F0-A71E-D434CF7C2B80">
+            <Title>WebsiteNodeWithSearchQuery</Title>
         </Document>
         <Document ID="3C913DB9-D461-4D84-A54D-517B0106BDA1">
             <Title>Story Elements</Title>
@@ -1335,8 +1442,14 @@ A Scene’s settings ties characters and their actions together.  Generally, unl
 Confined settings increase dramatic tension: for example, Murder on the Orient Express, or Titanic.  Setting also establishes the framework of beliefs and scope of action which some characters are more comfortable in.  A cowboy belongs in a western setting in ways that a ballet dancer or biochemist don't.  But placing characters in unusual settings can create or increase drama.
 </Text>
         </Document>
+        <Document ID="436294F6-A68B-4B0C-ABF4-98E4F4272105">
+            <Title>TopicDialog</Title>
+        </Document>
         <Document ID="436FF7B2-5EF5-470F-A0E9-B1DA67A80E99">
             <Title>Tutorial 2 - Concept Tooltip</Title>
+        </Document>
+        <Document ID="4373410E-5DD9-4E20-AE7C-9E75F30D5E38">
+            <Title>ContentPane</Title>
         </Document>
         <Document ID="44CF59B2-8E53-491E-8683-1E7C84589AEA">
             <Title>Status Bar</Title>
@@ -1364,7 +1477,7 @@ The Dramatic Situations form is invoked from the Plotting Aids sub-menu of the T
 
 The central story problem will frequently be based upon one of these situations, but the Dramatic Situations tool is intended more for use with the plot outline and with scenes.  Every scene can be thought of as a 'little story' with its own conflict; and each scene will therefore generally involve one or more of these dramatic situations.
 
-This tool works with the Scene tab on the Plot form to help define the conflict for a scene.  If you select Copy from the  Dramatic Situations form, the elements of the situation you have selected will be copied into the elements on the Scene tab of the Plot form for the currently selected plot point.
+This tool works with the Scene tab on the Plot form to help define the conflict for a scene.  If you select Copy from the Dramatic Situations form, the elements of the situation you have selected will be copied into the elements on the Scene tab of the Plot form for the currently selected plot point.
 </Text>
             <Notes>PADRAMA
 
@@ -1375,6 +1488,23 @@ Refer to the replacement to Polti. Also, need to change the tool itself to use t
         </Document>
         <Document ID="4A68CC97-601D-4478-BF3C-CFB520D9790C">
             <Title>Scrivener Reports Generated Status Message</Title>
+        </Document>
+<<<<<<< Updated upstream
+        <Document ID="4C503087-4471-444C-948C-C1AAD8DF8229">
+            <Title>Navigation Pane Flyout CommandBar</Title>
+        </Document>
+        <Document ID="4C8A6534-0C9F-4C3D-BAA7-92D135DA80FD">
+            <Title>Navigation and Content Panes</Title>
+            <Text>Navigation and Content Panes
+=======
+        <Document ID="4BBA2BB8-F8A1-4BDC-8C53-9A03304FD6A1">
+            <Title>Recovered File-3</Title>
+            <Text>
+Characterization Aids
+>>>>>>> Stashed changes
+
+The
+</Text>
         </Document>
         <Document ID="4C503087-4471-444C-948C-C1AAD8DF8229">
             <Title>Navigation Pane Flyout CommandBar</Title>
@@ -1388,6 +1518,10 @@ The
         </Document>
         <Document ID="4D4CCDD3-95DD-44BD-8BBF-A45E5302112C">
             <Title>Creating a Story pt 5</Title>
+<<<<<<< Updated upstream
+=======
+            <Synopsis>TUTOR05</Synopsis>
+>>>>>>> Stashed changes
             <Text>The original external problem (‘Catching the drug dealer Lacas’) is solved through the resolution of the inner problem (‘Leonard's impulsiveness lets Lacas capture him’.) The story's turning point is the resolution of the inner problem, but an additional bit is needed, what we started with, getting the drop on Lacas. We should state the resolution of the external problem.  Clicking on the first problem from the list at the left of the screen, and then on the Resolution tab, allows us to key the Premise:
 
 Lacas has avoided being caught before because of his cunning use of technology to communicate with his street dealers and customers. But Leonard and Tony have figured out how to trace the calls, and think they know where Lacas is. Using their new tech, and in two cars, Leonard and Tony zero in on Lacas when Bob Luhrs calls to place an order. They follow and find the house Lacas is using to dispense drugs.. Tony thinks it's too easy, but Leonard rushes in. It's a trap, however, and Lacas and Luhrs captures Leonard but hesitate, not knowing what to do with him.
@@ -1440,6 +1574,11 @@ The copy function populated the Scene folder with a series of plot points which 
 #
 
 Although these are Scene story elements, they are not scenes, but placeholders: a reminder of things that your scenes need to do,   and roughly the order they need to do them in. In short, they are the structure of your story, its spine. Since your story is centered on one of your Problems, the main Story Problem, the story’s structure is the structure of that problem.  </Text>
+<<<<<<< Updated upstream
+=======
+            <Notes>
+</Notes>
+>>>>>>> Stashed changes
         </Document>
         <Document ID="4D7CA8B4-0659-4AC0-81D3-45651FEBD0B7">
             <Title>Concept Tab</Title>
@@ -1617,6 +1756,12 @@ Contains brief descriptions of some of  the finer classifications of a particula
         <Document ID="56B40265-3BA3-4640-8C5D-0324D5A89FB2">
             <Title>Tutorial 4 - Behaviors</Title>
         </Document>
+<<<<<<< Updated upstream
+=======
+        <Document ID="57D1F0D2-65AC-4BCF-9F6E-587AF9EE31C0">
+            <Title>Recovered File-4</Title>
+        </Document>
+>>>>>>> Stashed changes
         <Document ID="5809B9FD-6FAA-4A78-ABEE-E7DF9339F4A8">
             <Title>Danger Calls Delete Placeholder</Title>
         </Document>
@@ -1731,6 +1876,12 @@ Content Pane - The contents of the currently selected Story Element
         <Document ID="5CA7D6B0-4AF8-412C-8264-90CBC748D773">
             <Title>Preferences About tab</Title>
         </Document>
+<<<<<<< Updated upstream
+=======
+        <Document ID="5CB4A0FD-A967-4C61-8A37-128AE17C1651">
+            <Title>NotesElement</Title>
+        </Document>
+>>>>>>> Stashed changes
         <Document ID="5D65AAA7-6BE3-4602-B5B2-49CA234ADD7F">
             <Title>Menu Bar</Title>
             <Text>Menu Bar
@@ -1753,9 +1904,21 @@ The menu bar buttons either display drop-down menus (such as File), or launch pa
 Each of these options is discussed in the next topics of this manual.  </Text>
             <Notes>MENUBAR</Notes>
         </Document>
+        <Document ID="5EB57E3F-37FC-489E-8D1E-B47871FA637A">
+            <Title>NarrativeEditors</Title>
+        </Document>
         <Document ID="5F6E0960-9C74-4FBC-9843-F78043724CE4">
             <Title>Preferences Dialog</Title>
         </Document>
+<<<<<<< Updated upstream
+=======
+        <Document ID="5FED98B0-BC46-4193-877C-52067B60C116">
+            <Title>Recovered File-5</Title>
+        </Document>
+        <Document ID="6007F7C8-29A7-4E07-BFE2-80C6724C0F65">
+            <Title>SearchBar</Title>
+        </Document>
+>>>>>>> Stashed changes
         <Document ID="603F8EE8-D387-475A-B33B-457171F8D376">
             <Title>Tools Menu</Title>
             <Synopsis>TOOLS</Synopsis>
@@ -2205,12 +2368,15 @@ Does this work?  The story's over when Lacas is captured, and Leonard's inner pr
             <Notes>TUTOR04
 </Notes>
         </Document>
+        <Document ID="676C5515-CA39-4F95-9104-0A904E12D3B4"/>
+        <Document ID="6784B238-628F-4D6C-80A7-C3A3DECE024E">
+            <Title>Dialogs</Title>
+        </Document>
         <Document ID="67C0817A-D695-420E-81EA-6117B897DFC5">
             <Title>Physical Tab</Title>
             <Text>Physical and Appearance Tabs
 
 #
-
 
 These character traits describe the external physical characteristics and appearance of the character.  They are generally self-explanatory.
 
@@ -2219,6 +2385,12 @@ Use the Appearance tab to round out the physical description of the character wi
 </Text>
             <Notes>CHPHYS</Notes>
         </Document>
+<<<<<<< Updated upstream
+=======
+        <Document ID="6803B7DC-CAC3-4AD8-AFF7-39F8C8826C15">
+            <Title>CharAppearanceTab</Title>
+        </Document>
+>>>>>>> Stashed changes
         <Document ID="68586D3C-AE38-4605-87E2-7FB1FA688D84">
             <Title>Rearranging Content</Title>
             <Text>Rearranging Content
@@ -2259,6 +2431,12 @@ The Menu Bar’s Move Story Element button can be used for finer control, such a
         <Document ID="6A5734F5-3B3E-4D36-B4EB-9839976CDB4C">
             <Title>File Menu</Title>
         </Document>
+<<<<<<< Updated upstream
+=======
+        <Document ID="6C8DAA8A-5EA2-4041-8472-9B753D090580">
+            <Title>Recovered File-6</Title>
+        </Document>
+>>>>>>> Stashed changes
         <Document ID="6CBC877D-027F-4986-B3FA-745D031849BC">
             <Title>Logs Folder Display</Title>
         </Document>
@@ -2317,6 +2495,12 @@ This tool is coming soon. The purpose is to allow you to copy story elements fro
             <Title>Tutorial: Creating a Story</Title>
             <Notes>The tutorial needs updating, starting with updating the story it’s creating, which is dated.
 </Notes>
+        </Document>
+        <Document ID="73BB43C6-D0C1-45A2-B921-4D1BE36FC69F">
+            <Title>WebNodeExamplePage</Title>
+        </Document>
+        <Document ID="753C29B9-CA46-4947-B840-3326357EBE87">
+            <Title>CharPhysTab</Title>
         </Document>
         <Document ID="754C1CE5-7F53-4C6E-B32B-4D5A9BD81B7A">
             <Title>Problem Form</Title>
@@ -2535,7 +2719,10 @@ A Problem’s Premise works best if it contains the elements of just that Proble
 #
 
 
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 The Conflict Builder tool, invoked by buttons on the Protagonist and Antagonist tabs of the Problem Form.
 
 Conflict Categories
@@ -2631,7 +2818,7 @@ The icons to the left of the first separator represent different story element t
 
 #
 
-Give him the Story Role of Protagonist.
+Give him the Story Role of Protagonist and move him to the characters folder.
 
 We can also add a second character, the bad guy, the same way: 
 
@@ -2812,6 +2999,12 @@ Unlike Dramatic Situations, this tool works just with Scenes. One use is to help
         </Document>
         <Document ID="8B97C5F7-9DCC-4ECD-ADF5-7F0B50A5B812">
             <Title>Plotting with StoryCAD - Premise</Title>
+<<<<<<< Updated upstream
+=======
+        </Document>
+        <Document ID="8CD92572-1119-44AE-B599-0CAC09FA1EC3">
+            <Title>CharPhysTab</Title>
+>>>>>>> Stashed changes
         </Document>
         <Document ID="8D7BEA86-220B-4876-8D71-30623A83A8F1">
             <Title>Story Elements</Title>
@@ -2821,6 +3014,7 @@ Unlike Dramatic Situations, this tool works just with Scenes. One use is to help
             <Text>Website Form
 The website form allows you store and view web pages easily and functions like a 			smaller version of your web browser. The URL you’re browsing is kept in the form.
 
+<<<<<<< Updated upstream
 
 #
 
@@ -2828,12 +3022,25 @@ The website form allows you store and view web pages easily and functions like a
 These buttons allow you to refresh, go forwards and respectively.
 
 #
+=======
+#
+
+These buttons allow you to refresh, go forwards and respectively.
+#
+
+#
+
+>>>>>>> Stashed changes
 This is the search bar, if you have a website link (URL) then you can paste it here and 		after clicking the search button it will load the website. Conversely if you don’t have a 		URL you can search a query such as a map of the world and it will search it using 
 Google.
 
 Example -  Planning out a fictional character.
 
+<<<<<<< Updated upstream
 1) Create a new website node, you can do this by right clicking a node and  then clicking then clicking the webpage icon.
+=======
+1) Create a new website node, you can do this by right clicking a node and  then clicking then clicking the webpage icon (ALT + W).
+>>>>>>> Stashed changes
 
 #
 
@@ -2849,9 +3056,15 @@ Example -  Planning out a fictional character.
 
 #
 
+<<<<<<< Updated upstream
 Congrats, we have now got a map our fictional word and can start planning our story 		around this world
 
 Note: The Website Form requires the Microsoft Edge WebView 2 runtime, most 				Windows computers will already have this installed by default however if you are for 		any reason missing it, StoryCAD will ask to automatically install it.
+=======
+We have now got a map of our fictional word and can start planning our story around this fictional world.
+
+Note: The Website Form requires the Microsoft Edge WebView 2 runtime, most 		Windows computers will already have this installed by default however if you are for any reason missing it, StoryCAD will ask to install it for you.
+>>>>>>> Stashed changes
 </Text>
         </Document>
         <Document ID="936471BC-3FBF-4BC1-881F-D35ED1DBD915">
@@ -2927,6 +3140,9 @@ You can leave StoryCAD at any time by either selecting Exit from the File Menu o
 StoryCAD follows regular Windows conventions.  The app can be re-sized, maximized or minimized to icons. However you can only have one instance of StoryCAD open at once, if you try to open another instance of StoryCAD whilst the first one is open, it will instead bring forward the original instance.
 </Text>
         </Document>
+        <Document ID="97B635AD-C8EF-4E01-B108-C684411BB434">
+            <Title>Website Element</Title>
+        </Document>
         <Document ID="98929BB5-DDCD-4BF5-9819-EAD104BF7886">
             <Title>StoryCAD Manolin Problem</Title>
         </Document>
@@ -2986,8 +3202,8 @@ The Appearance tab is a companion to the Physical tab.
 
 Use this note area to describe your character's looks, style of dress and movement, and the impression he leaves.  
 
-#
 
+#
 
 
 Some writers  will select a photograph of someone which they use when describing the character's appearance.  You and your readers should be able to visualize the character as though he were a real person.
@@ -3149,6 +3365,12 @@ Backstory deserves caution for two reasons, however. If you’re shoehorning exp
         <Document ID="A810BDA7-44F5-4193-B7DF-FD4D0E1715F7">
             <Title>Tutorial 4 - Impulsive</Title>
         </Document>
+<<<<<<< Updated upstream
+=======
+        <Document ID="A8519F23-4B90-4E32-B17E-B240CAC07DA6">
+            <Title>SnowWhitePlotPoints</Title>
+        </Document>
+>>>>>>> Stashed changes
         <Document ID="A96E0E2E-7375-45B8-8017-A34D18384BD9">
             <Title>Notes on CR theory, crime, and war</Title>
             <Text>Other resources:
@@ -3219,6 +3441,12 @@ The Story Overview contains your notes and choices about the overall story. This
 
 Change the name field for the Story Overview to your working title for the story. </Text>
         </Document>
+<<<<<<< Updated upstream
+=======
+        <Document ID="AD3E1378-1497-4FF7-84BC-F803180E4523">
+            <Title>ConflictBuilderDialog</Title>
+        </Document>
+>>>>>>> Stashed changes
         <Document ID="AEB36A78-E5BF-4F00-B818-B6E22426DFD9">
             <Title>Topic Information</Title>
         </Document>
@@ -3266,6 +3494,29 @@ StoryBuilder Organization
         <Document ID="B42F2FBA-0250-4157-9806-EF5207EC3886">
             <Title>Problem Problem Tab</Title>
         </Document>
+<<<<<<< Updated upstream
+=======
+        <Document ID="B4C83AFF-FDEB-4F4C-912A-9A4430159A67">
+            <Title>Recovered File-7</Title>
+            <Text>Developing StoryBuilder
+If you are a C# developer and are somewhat familar with WinUI (or another XAML based UI language) then you can contribute to StoryBuilder (Which is written in C# and uses WinUI 3).
+for more information about contributing, please check the GitHub Repository.
+
+Developer only menus / pop-ups
+#
+If you have cloned storybuilder and built it for the first time then you may be surprised to see this screen, this is because a key file is missing from your local clone. This will not cause any issues with the app functioning however your copy will not report errors via Elmah.io and you may see pops such as syncfusion licensing errors.
+Regardless, congratulations on successfully compiling StoryBuilder.
+
+#
+If StoryBuilder notices you have a debugger attached to the process, the developer menu will appear.
+This shows info about the computer and may contain buttons to test some parts of the storybuilder.
+If running without a keyfile (which is standard for those contributing to the storybuilder project.) then some of these buttons may not work or cause intended behavior.
+
+As such this menu may be removed, updated or abandoned at any point.
+(This menu can also be forced to shown by setting your name to ShowMeTheDevTab)
+</Text>
+        </Document>
+>>>>>>> Stashed changes
         <Document ID="B5BAD6CD-B8F5-469F-9D65-288D1D5001DD">
             <Title>Dedication</Title>
             <Text>
@@ -3464,6 +3715,9 @@ These individuals don't have normal feelings and reactions to social influences,
 
 </Text>
         </Document>
+        <Document ID="BD1B91E3-B478-45DF-B2A3-7CC902C93DCF">
+            <Title>ReloadBackAndForward</Title>
+        </Document>
         <Document ID="BD9E2BDD-60DC-4A2E-9EA0-CEBAFA61AA52">
             <Title>Creating a Story pt 1</Title>
             <Synopsis>TUTOR01</Synopsis>
@@ -3491,7 +3745,7 @@ Click on Create New Story to start a new outline:
 
 #
 
-Select ‘Empty Folders’ for the Template. If it’s not already there, change the Project path to the folder you’d like to save your outline in (usually the Preferences location) using the Browse button. And finally, assign a Project Name. This will be the file name of the story outline file. In our case, use ‘Danger Calls’. Click on Create project, and you’ll have created your first story outline:
+Select ‘Folders’ for the Template. If it’s not already there, change the Project path to the folder you’d like to save your outline in (usually the Preferences location) using the Browse button. And finally, assign a Project Name. This will be the file name of the story outline file. In our case, use ‘Danger Calls’. Click on Create project, and you’ll have created your first story outline:
 
 #
 
@@ -3511,9 +3765,7 @@ You can click on any of the tabs to display that tab’s contents.
 
 You'll notice that the Author, Date Created and Last Changed fields are already filled in.  The author's name is taken from your name as entered in Preferences. For a new outline, Date Created is today's date, and for a new or old outline, and Last Changed is the computer date on which a change to the outline was last made. 
 
-Key whatever notes you like regarding your idea. While we're here, we might as well fill out a few other items.  Let's change the ‘Working Title’ to a better one. &quot;Danger Calls&quot; isn't much of a title, but we can always change it later.
-
-#
+Key whatever notes you like regarding your idea. While we're here, we might as well fill out a few other items. 
 
 At the moment, the story outline for &quot;Danger Calls&quot; exists only in your computer's memory, but isn’t saved to disk.  Let's save what we've done so far.  We recommend you save your work frequently, and provide a number of ways to do so.  The simplest is to click on the status bar’s Changed Indicator:
 
@@ -3795,7 +4047,7 @@ Indicates if a Search is active.
 
 Changed Indicator
 
- #
+ ##
 
 The Changed Indicator displays red if any editing has been done to the outline and green if not. It’s a reminder to save your work. It’s also a command button which will save your outline if you click it.</Text>
             <Notes>Function is not coded yet</Notes>
@@ -3824,6 +4076,30 @@ More information can be found here:</Text>
         <Document ID="CB0EEE35-84F6-4D12-9A81-6827BED783B8">
             <Title>Paperback</Title>
         </Document>
+<<<<<<< Updated upstream
+=======
+        <Document ID="CBD44193-2975-4B14-B6E8-D0444B7EDC27">
+            <Title>Recovered File-8</Title>
+            <Text>Using the Narrative Editor
+The Narrative Editor is a useful way to quickly turn your Story Plan from the explorer into an actual story.
+You can access the Narrator Editor by clicking the Book Icon in the top bar, if you cannot see it try clicking … or updating your copy of StoryBuilder.
+#
+
+Once you open the Narrative Editor, it will look similar to this. On one side you will the Story Explorer View (The view where you plan your story) and the Narrator View (This is the view that shows your story as it’s told.) 
+#
+The narrative view is different from the Explorer view and can only contain Scenes and Sections/Folders. Along the bottom there are several buttons:
+Add Scene - Adds a node from the Story Explorer View (Only scenes and folders can be copied over, other types will not be copied over)
+Add all unused scenes  - Copies all scenes in the explorer view that are not currently contained in the Narrative view.
+^/v - Moves the selected node will be moved up / down 
+Folder Icon - Creates a Section/Folder in the narrator view
+Trash Icon - Moves a node to the trash
+Done - Closes the Narrative Editor
+
+Notes: 
+- Internally this is refered to as NarratorTool or NTool
+-</Text>
+        </Document>
+>>>>>>> Stashed changes
         <Document ID="CC41D78E-670E-4403-ABA4-F488C52BF1D2">
             <Title>Defining Scenes</Title>
             <Synopsis>PLPINSC</Synopsis>
@@ -3851,14 +4127,44 @@ The scene is the actions your character takes to achieve a goal (and the actions
 
 </Text>
         </Document>
+<<<<<<< Updated upstream
         <Document ID="CE56FD2D-B11A-46B2-A26B-F75E9E2555A4">
             <Title>Scene Sequel Tab</Title>
         </Document>
+=======
+        <Document ID="CCC394DD-BC0E-4ABC-9C3B-461C3750A26B">
+            <Title>RedPenIcon</Title>
+        </Document>
+        <Document ID="CE21B9D3-9FA6-45AB-87AC-2D39117FC9B8">
+            <Title>Recovered File-9</Title>
+            <Synopsis>QUOTE</Synopsis>
+            <Text>
+Quotes
+1
+
+Who understands writing better than writers? The Quotes tool provides some of that…
+
+Selecting this item from the Tools menu will cause a randomly selected quote about the craft of writing to be displayed.
+
+The Preferences form, invoked from the File menu, can specify that a quote be displayed each time StoryBuilder starts, if you wish.
+</Text>
+            <Notes>Attempt at a better intro to this tool… not too successful…</Notes>
+        </Document>
+        <Document ID="CE56FD2D-B11A-46B2-A26B-F75E9E2555A4">
+            <Title>Scene Sequel Tab</Title>
+        </Document>
+        <Document ID="CEDA8454-7B55-4D72-8FB6-A2788E8678D3">
+            <Title>Recovered File-10</Title>
+        </Document>
+>>>>>>> Stashed changes
         <Document ID="CF3793BA-BAB0-4F88-AE84-697EA897783D">
             <Title>Tools Master Plots Result</Title>
         </Document>
         <Document ID="CF6D8BC7-AEB9-4AAE-9276-50410A92370F">
             <Title>Problem Protagonist Tab</Title>
+        </Document>
+        <Document ID="D0AE9A0E-7B2E-4807-AEA3-B7A89F968C76">
+            <Title>WebsiteNodeWithSearchEngine</Title>
         </Document>
         <Document ID="D38D213D-0DDB-4475-AC05-75992094B890">
             <Title>Structure Tab</Title>
@@ -3890,6 +4196,12 @@ Style						Style is the way you use language, based on word choice, tone, syntax
 
 Tone						Tone indicates the mood or impression you wish the reader to feel.</Text>
         </Document>
+<<<<<<< Updated upstream
+=======
+        <Document ID="D48D1B21-D02A-42D2-BD82-137168380C57">
+            <Title>WebNodeHighlighted</Title>
+        </Document>
+>>>>>>> Stashed changes
         <Document ID="D553C999-C896-4982-96B1-8F43723416C3">
             <Title>Opening Scene - Conflict</Title>
         </Document>
@@ -3901,8 +4213,8 @@ Tone						Tone indicates the mood or impression you wish the reader to feel.</Te
 
 The Setting tab contains elements which make the setting specific and unique.
 
+ 
 #
-
 
 Locale	The location of the setting in space.
 
@@ -3953,6 +4265,7 @@ See sect. 7.6 (structure, section type)</Notes>
 Right-clicking any node on the Navigation Pane will display a  flyout command bar:
 #
 
+<<<<<<< Updated upstream
 The left-most group of icons will add a new Story Element as a child of the node you right-clicked.
 In order from left to right, the Add Story Elment icons are:
 Folder
@@ -3964,6 +4277,15 @@ The next group of icons (to the right of the divider) operate directly on the it
 Move Story Element to Trashcan
 Restore Story Element from Trashcan 
 Add Scene to Story Narrative View (see Story Explorer and Story Narrator Views)
+=======
+In order of top to bottom, the flyout items do the following:
+Add Elements - Allows you to add a new Story Element such as a Problem, folder, character
+Delete Element - Sends the element to the Trash
+Restore Element - Remove the element from the Trash
+Add to Narrative - This adds the element to the Narrative View
+Remove From Narrative - This removes the element from the Narrative View.
+Print Node -  This quickly prints a report for that element.
+>>>>>>> Stashed changes
 </Text>
         </Document>
         <Document ID="E17E8BB7-8E12-4469-AFEE-ACD12A954D33">
@@ -4078,6 +4400,9 @@ This chapter describes the Scene form, which is used to define and manipulate th
             <Text>Development Tab
 
 #</Text>
+        </Document>
+        <Document ID="ECE4F68C-44D4-43FA-ABED-08E9AB67FF1C">
+            <Title>CharPhysTab</Title>
         </Document>
         <Document ID="EEEAFE25-3BBC-43BA-A930-F116053650A3">
             <Title>Psychological Tab</Title>
@@ -4202,7 +4527,7 @@ There’s also a pop-up menu which displays when you right-click on any Story El
 (Hint: Holding your mouse or stylus over any of the buttons on a menu or pop-up menu will display a tip describing the button.)
 
 
-The Remove Story Element button (trashcan icon) moves a Story Element to the Trashcan.
+The Remove Element button (trashcan icon) moves a Story Element to the Trashcan.
 
 The Add to Narrative/Remove from Narrative buttons copy a Scene story element to the Narrative Explorer View or remove it from that view.  These do not remove the Scene from Story Explorer View.
 

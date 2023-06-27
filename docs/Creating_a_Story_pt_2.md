@@ -46,7 +46,7 @@ The icons to the left of the first separator represent different story element t
 
 ![](Tutorial-2-Detective-Role.png)
 
-Give him the Story Role of Protagonist. <br/>
+Give him the Story Role of Protagonist and move him to the characters folder. <br/>
 
 We can also add a second character, the bad guy, the same way:  <br/>
 

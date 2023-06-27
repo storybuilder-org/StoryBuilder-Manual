@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ## Starting and Stopping StoryCAD ##
 Starting and Stopping StoryCAD <br/>
 
@@ -7,3 +8,17 @@ You can leave StoryCAD at any time by either selecting Exit from the File Menu o
 
 StoryCAD follows regular Windows conventions.  The app can be re-sized, maximized or minimized to icons. However you can only have one instance of StoryCAD open at once, if you try to open another instance of StoryCAD whilst the first one is open, it will instead bring forward the original instance. <br/>
 
+=======
+## Starting and Stopping StoryCAD ##
+Starting and Stopping StoryCAD <br/>
+
+To start StoryCAD, find and click the StoryCAD icon from the Start Menu or from your pinned apps. The StoryCAD main form will be displayed. <br/>
+
+You can leave StoryCAD at any time by either selecting Exit from the File Menu or pressing the main form's Close (X) button.  <br/>
+
+StoryCAD follows regular Windows conventions.  The app can be re-sized, maximized or minimized to icons. However you can only have one instance of StoryCAD open at once, if you try to open another instance of StoryCAD whilst the first one is open, it will instead bring forward the original instance. <br/>
+
+ <br/>
+ <br/>
+[Prev](Using_Various_Input_Devices.md)[Next](Reading_and_Writing_Outlines.md) <br/>
+>>>>>>> Stashed changes

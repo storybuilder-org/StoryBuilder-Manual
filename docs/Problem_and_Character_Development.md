@@ -1,4 +1,4 @@
-## Problem and Character  Development ##
+## Problem and Character Development ##
 Problem and Character Development <br/>
 
 A StoryCAD outline ‘begins’ on the Story Overview form, but as you’ve seen, it really starts with the selection of the Story Problem and its description in its Premise, whose definition could be condensed to ‘a character with a problem.’  <br/>

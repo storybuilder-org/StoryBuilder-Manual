@@ -1,7 +1,11 @@
 ### Role Tab ###
 Role Tab <br/>
 
+<<<<<<< Updated upstream
 ![](Clipboard-Image.png)
+=======
+![](CharRoleTab.png)
+>>>>>>> Stashed changes
 
 The role tab contains the information which defines the relationship between this character and the story. <br/>
 
@@ -63,3 +67,9 @@ Character Sketch <br/>
 
 Use these notes to provide a thumbnail picture of the character and the overall impression he makes. <br/>
 
+<<<<<<< Updated upstream
+=======
+ <br/>
+ <br/>
+[Prev](Resolution_Tab.md)[Next](Physical_Tab.md) <br/>
+>>>>>>> Stashed changes

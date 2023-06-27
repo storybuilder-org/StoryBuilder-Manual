@@ -23,7 +23,7 @@ Click on Create New Story to start a new outline: <br/>
 
 ![](Create-New-Story-Dialog.png)
 
-Select ‘Empty Folders’ for the Template. If it’s not already there, change the Project path to the folder you’d like to save your outline in (usually the Preferences location) using the Browse button. And finally, assign a Project Name. This will be the file name of the story outline file. In our case, use ‘Danger Calls’. Click on Create project, and you’ll have created your first story outline: <br/>
+Select ‘Folders’ for the Template. If it’s not already there, change the Project path to the folder you’d like to save your outline in (usually the Preferences location) using the Browse button. And finally, assign a Project Name. This will be the file name of the story outline file. In our case, use ‘Danger Calls’. Click on Create project, and you’ll have created your first story outline: <br/>
 
 ![](Danger-Calls-New-Story-Outline.png)
 
@@ -43,9 +43,7 @@ You can click on any of the tabs to display that tab’s contents. <br/>
 
 You'll notice that the Author, Date Created and Last Changed fields are already filled in.  The author's name is taken from your name as entered in Preferences. For a new outline, Date Created is today's date, and for a new or old outline, and Last Changed is the computer date on which a change to the outline was last made.  <br/>
 
-Key whatever notes you like regarding your idea. While we're here, we might as well fill out a few other items.  Let's change the ‘Working Title’ to a better one. "Danger Calls" isn't much of a title, but we can always change it later. <br/>
-
-![](Tutorial-1-Story-Idea-tab.png)
+Key whatever notes you like regarding your idea. While we're here, we might as well fill out a few other items.  <br/>
 
 At the moment, the story outline for "Danger Calls" exists only in your computer's memory, but isn’t saved to disk.  Let's save what we've done so far.  We recommend you save your work frequently, and provide a number of ways to do so.  The simplest is to click on the status bar’s Changed Indicator: <br/>
 
@@ -75,3 +73,9 @@ When you’re done with an editing session, you can Close your outline using the
 
 
 
+<<<<<<< Updated upstream
+=======
+ <br/>
+ <br/>
+[Prev](Notes_Form.md)[Next](Creating_a_Story_pt_2.md) <br/>
+>>>>>>> Stashed changes

@@ -23,3 +23,9 @@ The gap between these two perspectives,  and the answer to the original question
 
 	 <br/>
 
+<<<<<<< Updated upstream
+=======
+ <br/>
+ <br/>
+[Prev](Creating_a_Story_pt_8.md)[Next](Workflow.md) <br/>
+>>>>>>> Stashed changes

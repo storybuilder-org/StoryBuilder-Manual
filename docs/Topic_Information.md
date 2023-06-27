@@ -7,7 +7,11 @@ The Topic Information sub-menu on the Tools menu contains a list containing info
 
 A topic, once selected, may contain sub-topics: <br/>
 
+<<<<<<< Updated upstream
 ![](Clipboard-Image-197.png)
+=======
+![](TopicDialog.png)
+>>>>>>> Stashed changes
 .  <br/>
 
 Information on some of the topic categories follows. <br/>
@@ -21,3 +25,9 @@ Subgenres <br/>
 
 Contains brief descriptions of some of  the finer classifications of a particular genre. <br/>
 
+<<<<<<< Updated upstream
+=======
+ <br/>
+ <br/>
+[Prev](Key_Questions.md)[Next](Plotting_Aids.md) <br/>
+>>>>>>> Stashed changes
