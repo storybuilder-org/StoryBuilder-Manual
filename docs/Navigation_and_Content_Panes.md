@@ -3,21 +3,21 @@ Navigation and Content Panes <br/>
 
 The Navigation Pane allows you to view, organize, and manage the parts of your story outline in a hierarchical structure.  It’s similar to the Windows File Explorer, but instead of files and folders, each node in the tree is a Story Elements  Your outline is composed of five Story Element types: <br/>
 
-	•	Story Overview  <br/>
-	•	Problem <br/>
-	•	Character <br/>
-	•	Setting <br/>
-	•	Scene <br/>
+	•	Story Overview 
+	•	Problem
+	•	Character
+	•	Setting
+	•	Scene
 
 There are also two  Story Element types to assist in organizing your outline: <br/>
 
-	•	Folder <br/>
-	•	Section <br/>
+	•	Folder
+	•	Section
 
 Two more assist in researching your story: <br/>
 
-	•	Web <br/>
-	•	Notes <br/>
+	•	Web
+	•	Notes
 
 There’s also a Trashcan node which is the parent for other nodes you wish to discard. <br/>
 

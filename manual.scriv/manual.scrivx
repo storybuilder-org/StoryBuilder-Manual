@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="342E5DD6-5812-45AB-982C-E2EAC46CF8EE" Creator="SCRWIN-3.1.5.0" Device="DREAMLAND" Modified="2023-06-28 20:01:15 +0100" ModID="7C3516B0-4CCE-4B3D-B6E7-A6F6A713D817">
+<ScrivenerProject Template="No" Version="2.0" Identifier="342E5DD6-5812-45AB-982C-E2EAC46CF8EE" Creator="SCRWIN-3.1.5.0" Device="DREAMLAND" Modified="2023-06-28 20:25:48 +0100" ModID="E02BF20F-65F1-4427-A564-1CF018FB0B7A">
     <Binder>
         <BinderItem UUID="9FFBA333-8432-41C1-91F5-1302DFE283CA" Type="Text" Created="2019-05-14 19:29:37 +0100" Modified="2019-05-14 19:29:46 +0100">
             <Title>Non-Fiction Format</Title>
@@ -27,6 +27,12 @@
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentUUIDs>027E1FC5-135A-48C4-9AC9-D722169DAAD3</SelectedSubdocumentUUIDs>
+                        <CorkboardSettings>
+                            <Arrangement>Linear</Arrangement>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
                     <Children>
                         <BinderItem UUID="027E1FC5-135A-48C4-9AC9-D722169DAAD3" Type="Text" Created="2020-10-12 12:15:19 +0100" Modified="2023-06-28 20:01:13 +0100">
                             <Title>Front Page (Image)</Title>
@@ -58,14 +64,14 @@
                                 <TextSelection>1461,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="3AD05160-D71C-40A2-AAD3-9334D0E506B9" Type="Text" Created="2021-12-19 18:09:30 +0100" Modified="2023-04-01 09:58:54 +0100">
+                        <BinderItem UUID="3AD05160-D71C-40A2-AAD3-9334D0E506B9" Type="Text" Created="2021-12-19 18:09:30 +0100" Modified="2023-06-28 20:18:00 +0100">
                             <Title>Getting Help</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>391,0</TextSelection>
+                                <TextSelection Caret="152">145,7</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -111,14 +117,14 @@
                                 <TextSelection>894,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="5BD2A674-0574-497A-89BC-256F1D2C00E4" Type="Text" Created="2019-06-12 23:07:30 +0100" Modified="2023-06-21 19:50:31 +0100">
+                        <BinderItem UUID="5BD2A674-0574-497A-89BC-256F1D2C00E4" Type="Text" Created="2019-06-12 23:07:30 +0100" Modified="2023-06-28 20:25:47 +0100">
                             <Title>The StoryCAD User Interface</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>29,0</TextSelection>
+                                <TextSelection>310,0</TextSelection>
                             </TextSettings>
                             <Children>
                                 <BinderItem UUID="5D65AAA7-6BE3-4602-B5B2-49CA234ADD7F" Type="Text" Created="2019-06-12 23:07:29 +0100" Modified="2023-06-21 19:52:10 +0100">
@@ -840,7 +846,7 @@
                         <NotesTextSelection>8,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>2148,0</TextSelection>
+                        <TextSelection>2508,0</TextSelection>
                     </TextSettings>
                     <Bookmarks>
                         <Bookmark BinderUUID="CA07AE88-BF28-4073-B8A1-9E2CE5DC0913">Preferences</Bookmark>
@@ -4284,7 +4290,7 @@
         </Collection>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.392157 0.392157 0.392157">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No">conflic</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No">discord</SearchSettings>
         </Collection>
     </Collections>
     <SectionTypes>
@@ -4344,12 +4350,12 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="1" Date="2023-06-28 20:01:15 +0100"/>
+        <PreviousSession Words="3" Characters="33" Date="2023-06-28 20:25:48 +0100"/>
     </ProjectTargets>
     <BookmarksFolderUUID>07B0D7C6-57CE-4D6F-8AD9-11F06A261A5F</BookmarksFolderUUID>
     <RecentWritingHistory Date="2023-06-28 00:00:00 +0100">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>1</DraftCharCount>
+        <DraftWordCount>-9</DraftWordCount>
+        <DraftCharCount>-31</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>

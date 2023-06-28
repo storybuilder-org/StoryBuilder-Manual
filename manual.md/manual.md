@@ -6,7 +6,7 @@ Copyright: Copyright 2023, . All rights reserved.
 # Front Matter #
 ## Front Page (Image) ##
 
-![][Research-StoryCAD]
+![][StoryCAD]
 ###  Preface ###
 Preface
 
@@ -46,7 +46,7 @@ Getting Help
 
 We suggest you first use this manual to try to find the information you’re looking for.
 
-The StoryBuilder Discord Server (a link can be found on the main menu’s Preferences | About tab) contains a ‘frequently-asked-questions’ channel, and a ‘writers-chat’ channel.
+[The StoryBuilder Discord Server](https://discord.gg/g7jjtgBKsQ) contains a ‘frequently-asked-questions’ channel, and a ‘writers-chat’ channel.
 
 Currently StoryCAD’s only direct support mechanism is to email support@storybuilder.org.
 
@@ -172,7 +172,7 @@ Add/Remove Story Elements
 
 You can add or remove Story Elements in two ways. There’s a Menu Bar button which opens an ‘Add/Remove Story Elements’ menu:
 
-![][Menu-Bar-4]
+![][Menu-Bar-5]
 
 There’s also a pop-up menu which displays when you right-click on any Story Element node in the Navigation Pane:
 
@@ -329,7 +329,7 @@ Here, clicking on the first or root node in the tree displays the Story  Overvie
 
 On some screen sizes and orientations the Navigation and Content panes may be stacked with the Navigation pane above the Content pane. In those cases the Show/Hide Navigation button (the hamburger menu button) acts differently; it toggles from the Navigation Pane to the Content Pane and back.
 
-![][Navigation-and-Content-Pane-4]
+![][Navigation-and-Content-Pane-5]
 
 Every Story Element type is a different form. These are the story elements:
 
@@ -1241,7 +1241,7 @@ Reports
 
 Clicking on the Reports button on the Menu Bar displays a fly-out menu with two reporting options:
 
-![][Print-Reports-Button-and-Menu-4]
+![][Print-Reports-Button-and-Menu-5]
 ## Print Reports ##
 Print Reports
 
@@ -1275,7 +1275,7 @@ Preferences
 
 The Preferences Dialog will be displayed when you press the Preferences button on the Menu Bar:
 
-![][Prefences-CommandBar-Button-4]
+![][Prefences-CommandBar-Button-5]
 
 
 
@@ -1406,7 +1406,7 @@ To do so in StoryCAD, launch the program. The first time you launch the program,
 
 Back to our story idea. Use the File menu’s  Open/Create file option:
 
-![][File-Open-Dialog-4]
+![][File-Open-Dialog-5]
 
 Click on Create New Story to start a new outline:
 
@@ -1440,7 +1440,7 @@ At the moment, the story outline for "Danger Calls" exists only in your computer
 
 The indicator will change from red to green, indicating that all changes have been saved to disk.
 
-![][Changed-Indicator-4]
+![][Changed-Indicator-5]
 
 Alternatively, from the File menu, you can select Save Story, or enter the Ctrl+S shortcut keys.  Remember to save your work periodically.
 
@@ -1976,7 +1976,7 @@ Your Premise is the answer to the question the Concept poses.
 
 Your story can have more than one Problem story element, and every Problem has its own Premise, contained on the Resolution tab. But only one of these problems is your Story Problem, and that Problem  (and its Premise) is the one you select on the Story Overview form, Premise tab:
 
-![][Clipboard-Image-19]
+![][Clipboard-Image-25]
 
 The heart of plotted fiction is drama--- a struggle in which the outcome is in doubt. Your Story Problem will lead you to understand whose problem it is (your major character), what her or she want (the goal), and what stands in their way (opposition.) The Story Problem is the wormhole you enter to understand your story.
 
@@ -2064,7 +2064,7 @@ An inner problem is some want or need within the character himself, a need to gr
 
 It's often constructive to use StoryCAD to define both an external and an internal problem for your protagonist, with separate Problem forms for each  of them. Both problems help to shape the story's plot. There’s even a Create New Story template for this:
 
-![][Clipboard-Image-20]
+![][Clipboard-Image-26]
 
 The outer problem asks 'what does the character want?'  The inner problem asks 'why does he want it?'  The outer problem is tangible. The inner problem is intangible, invisible.  The outer problem faces an external adversary.  The inner problem is Man against Himself, usually with something to decide or discover. The outer problem is solved when (win or loose) something is accomplished.  The inner problem is solved when the character grows or changes, or fails to do so.  The inner problem is related to theme. The two problems are connected because your protagonist must come to grips with his inner demon before he can solve the external, outer problem.
 Conflict
@@ -2090,11 +2090,11 @@ A good example of this is found in Hemingway's The Old Man and the Sea.  This no
 
 Rather than arrange these problems in a list:
 
-![][Clipboard-Image-21]
+![][Clipboard-Image-27]
 
 You may want arrange them as children of the original problem, which won’t be solved until the complications are:
 
-![][Clipboard-Image-22]
+![][Clipboard-Image-28]
 
 Where possible, complications should be ordered to make things progressively worse for the protagonist. By the end of the shark attack, the marlin is nothing but a head and tail and skeleton; things can’t get much worse for Santiago.
 Conflicts of start at one level and devolve into a more serious one: ‘it’s not a war until the guns start firing.’  Finding your way from inciting incident through middle story to climax is  the process of finding complications, and escalating conflicts is one approach to doing so.  The escalation can occur for many reasons: a character gets tipped over the edge, a ticking clock goes off, a secondary character does something rash, a dropped dish is mistaken for a gunshot.
@@ -2343,7 +2343,7 @@ MasterPlots
 
 In recent decades, the three-act structure has been joined by a bevy of other story structures, with different plot points:  Dan Wells’ Seven Point Structure, The Hero’s Journey, Blake Snyder’s Save the Cat, and many more.  Since plot points are also called story beats, these structures are often called ‘beat sheets’. A beat sheet can serve as a sort of plot template. StoryCAD’s Master Plots tool provides a number of these templates, which will insert a set of Scene story elements into your outline at the place of your choosing:
 
-![][Tools-Master-Plots-4]
+![][Tools-Master-Plots-5]
 
 
 Since every Problem is a ‘small story’ and has its own set of events that define it, a Problem is good place to use this tool. A Problem can be thought of as a sequence, a term used frequently in scriptwriting, which is defined as ‘a series of scenes with a beginning, middle, and end.’ Or, if you prefer, setup, development, and resolution. 
@@ -2551,12 +2551,12 @@ Developing StoryCAD
 If you are a C# developer and are somewhat familar with WinUI (or another XAML based UI language) then you can contribute to StoryCAD (Which is written in C# and uses WinUI 3).
 For more information about contributing, please check the GitHub Repository.
 Developer only menus / pop-ups
-![][Clipboard-Image-23]
+![][Clipboard-Image-29]
 
 If you have cloned StoryCAD to a separate repo and built it for the first time then you may be surprised to see this screen. It indicates a key file related to licensing is missing from your local clone. These licenses are in effect for the storybuilder.org repo only. The missing licenses won’t cause any issues with the app functioning, but your copy won’t report errors via Elmah.io and you may see pops relating to syncfusion licensing errors.
 Regardless, congratulations on successfully compiling StoryCAD.
 
-![][Clipboard-Image-24]
+![][Clipboard-Image-30]
 
 If StoryCAD notices you have a debugger attached to the process, the developer menu will appear.
 This shows info about the computer and may contain buttons to test some parts of the StoryCAD.
@@ -2826,7 +2826,7 @@ vignette: A term derived from the art work which decorated the front plates of n
 
 villain: A character who represents an evil or unwelcome force.  The villain is a stock character frequently cast as the antagonist in stories.
 
-[Research-StoryCAD]: Research-StoryCAD.png width=704px height=704px
+[StoryCAD]: StoryCAD.png width=704px height=704px
 
 [Keyboard-Right-Mouse-Key]: Keyboard-Right-Mouse-Key.png width=59px height=51px
 
@@ -2846,7 +2846,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Show-and-Hide-Navigation]: Show-and-Hide-Navigation.png width=601px height=431px
 
-[Menu-Bar-4]: Menu-Bar-4.png width=599px height=64px
+[Menu-Bar-5]: Menu-Bar-5.png width=599px height=64px
 
 [Story-Element-Flyout]: Story-Element-Flyout.png width=343px height=211px
 
@@ -2866,7 +2866,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [RedPenIcon]: RedPenIcon.png width=66px height=41px
 
-[Navigation-and-Content-Pane-4]: Navigation-and-Content-Pane-4.png width=675px height=457px
+[Navigation-and-Content-Pane-5]: Navigation-and-Content-Pane-5.png width=675px height=457px
 
 [Navigation-Pane-Flyout-CommandBar]: Navigation-Pane-Flyout-CommandBar.png width=668px height=477px
 
@@ -2950,7 +2950,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Flaw-Builder]: Flaw-Builder.png width=551px height=325px
 
-[Print-Reports-Button-and-Menu-4]: Print-Reports-Button-and-Menu-4.png width=165px height=161px
+[Print-Reports-Button-and-Menu-5]: Print-Reports-Button-and-Menu-5.png width=165px height=161px
 
 [Generate-Reports-Dialog]: Generate-Reports-Dialog.png width=552px height=627px
 
@@ -2962,7 +2962,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Scrivener-Split-Screen-with-StoryCAD]: Scrivener-Split-Screen-with-StoryCAD.png width=680px height=511px
 
-[Prefences-CommandBar-Button-4]: Prefences-CommandBar-Button-4.png width=448px height=82px
+[Prefences-CommandBar-Button-5]: Prefences-CommandBar-Button-5.png width=448px height=82px
 
 [Preferences-General-tab]: Preferences-General-tab.png width=499px height=472px
 
@@ -2994,7 +2994,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [NotesElement]: NotesElement.png width=680px height=464px
 
-[File-Open-Dialog-4]: File-Open-Dialog-4.png width=559px height=562px
+[File-Open-Dialog-5]: File-Open-Dialog-5.png width=559px height=562px
 
 [Create-New-Story-Dialog]: Create-New-Story-Dialog.png width=552px height=553px
 
@@ -3008,7 +3008,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Tutorial-1-Changed-Indicator-(Red)]: Tutorial-1-Changed-Indicator-(Red).png width=53px height=47px
 
-[Changed-Indicator-4]: Changed-Indicator-4.png width=55px height=40px
+[Changed-Indicator-5]: Changed-Indicator-5.png width=55px height=40px
 
 [Tutorial-1-Empty-Struture-Tab]: Tutorial-1-Empty-Struture-Tab.png width=651px height=708px
 
@@ -3086,15 +3086,15 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Danger-Calls-Denouement]: Danger-Calls-Denouement.png width=680px height=534px
 
-[Clipboard-Image-19]: Clipboard-Image-19.png width=491px height=171px
+[Clipboard-Image-25]: Clipboard-Image-25.png width=491px height=171px
 
-[Clipboard-Image-20]: Clipboard-Image-20.png width=228px height=208px
+[Clipboard-Image-26]: Clipboard-Image-26.png width=228px height=208px
 
-[Clipboard-Image-21]: Clipboard-Image-21.png width=256px height=129px
+[Clipboard-Image-27]: Clipboard-Image-27.png width=256px height=129px
 
-[Clipboard-Image-22]: Clipboard-Image-22.png width=265px height=137px
+[Clipboard-Image-28]: Clipboard-Image-28.png width=265px height=137px
 
-[Tools-Master-Plots-4]: Tools-Master-Plots-4.png width=544px height=631px
+[Tools-Master-Plots-5]: Tools-Master-Plots-5.png width=544px height=631px
 
 [Tools-Master-Plots-Result]: Tools-Master-Plots-Result.png width=680px height=353px
 
@@ -3120,6 +3120,6 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [PlottingWithStoryCADOldManSixScenes]: PlottingWithStoryCADOldManSixScenes.png width=325px height=337px
 
-[Clipboard-Image-23]: Clipboard-Image-23.png width=543px height=281px
+[Clipboard-Image-29]: Clipboard-Image-29.png width=543px height=281px
 
-[Clipboard-Image-24]: Clipboard-Image-24.png width=568px height=355px
+[Clipboard-Image-30]: Clipboard-Image-30.png width=568px height=355px

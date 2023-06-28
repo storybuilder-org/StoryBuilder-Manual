@@ -4,13 +4,13 @@ Ideation <br/>
 
 A new story outline begins with the Story Overview form. It contains: <br/>
 
-	•	Story Idea <br/>
+	•	Story Idea
 
-	•	Concept <br/>
+	•	Concept
 
-	•	Premise  <br/>
+	•	Premise 
 
-	•	Structure <br/>
+	•	Structure
 
 
 The Story Overview form contains everything needed to get started, working through each of these tabs in order. <br/>
@@ -26,13 +26,13 @@ Concept formulation is all about questions, and isn’t necessarily limited to j
 
 What if Leonardo da Vinci implanted clues as to his views on Christianity and the veracity of scripture within his painting of “The Last Supper?” <br/>
 
-	•	What if Christ didn’t die on the cross after all? <br/>
+	•	What if Christ didn’t die on the cross after all?
 
-	•	What if the entire Christian religion is a contrivance and a deeply held secret resulting in a conspiracy? <br/>
+	•	What if the entire Christian religion is a contrivance and a deeply held secret resulting in a conspiracy?
 
-	•	What if there is a highly secret group of men whose life mission is to preserve that secret? <br/>
+	•	What if there is a highly secret group of men whose life mission is to preserve that secret?
 
-	•	What if they are willing to kill to protect it? <br/>
+	•	What if they are willing to kill to protect it?
 
 ... and so on. <br/>
 Another good question is  “what happens?”,  particularly framed as a response to your “what if” question. It’s an account of your story’s resolution. <br/>
@@ -43,7 +43,7 @@ Your Premise is the answer to the question the Concept poses.   <br/>
 
 Your story can have more than one Problem story element, and every Problem has its own Premise, contained on the Resolution tab. But only one of these problems is your Story Problem, and that Problem  (and its Premise) is the one you select on the Story Overview form, Premise tab: <br/>
 
-![](Clipboard-Image-19.png)
+![](Clipboard-Image-25.png)
 
 The heart of plotted fiction is drama--- a struggle in which the outcome is in doubt. Your Story Problem will lead you to understand whose problem it is (your major character), what her or she want (the goal), and what stands in their way (opposition.) The Story Problem is the wormhole you enter to understand your story. <br/>
 

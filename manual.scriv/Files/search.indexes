@@ -1153,7 +1153,7 @@ This chapter discusses the importance of setting, and describes StoryCAD's suppo
 
 We suggest you first use this manual to try to find the information you’re looking for.
 
-The StoryBuilder Discord Server (a link can be found on the main menu’s Preferences | About tab) contains a ‘frequently-asked-questions’ channel, and a ‘writers-chat’ channel.
+[The StoryBuilder Discord Server](https://discord.gg/g7jjtgBKsQ) contains a ‘frequently-asked-questions’ channel, and a ‘writers-chat’ channel.
 
 Currently StoryCAD’s only direct support mechanism is to email support@storybuilder.org.
 
@@ -1428,8 +1428,6 @@ The copy function populated the Scene folder with a series of plot points which 
 #
 
 Although these are Scene story elements, they are not scenes, but placeholders: a reminder of things that your scenes need to do,   and roughly the order they need to do them in. In short, they are the structure of your story, its spine. Since your story is centered on one of your Problems, the main Story Problem, the story’s structure is the structure of that problem.  </Text>
-            <Notes>
-</Notes>
         </Document>
         <Document ID="4D7CA8B4-0659-4AC0-81D3-45651FEBD0B7">
             <Title>Concept Tab</Title>
@@ -2328,7 +2326,8 @@ A problem resolves in one of two ways: successfully or not. Both have their plac
 
 The protagonist may not initially be aware of his need (this is common in stories of discovery).  The antagonist may not even be human, but a force or process or situation.  But all problems have the elements of goal, motivation, and conflict.
 
-A story can  and usually will have multiple problems, but only one of them is the main story problem. When that problem is resolved, the story is over.</Text>
+A story can  and usually will have multiple problems, but only one of them is the main story problem. When that problem is resolved, the story is over.
+</Text>
         </Document>
         <Document ID="758594EB-4005-4184-A4B3-3301CB58CF79">
             <Title>Cover</Title>

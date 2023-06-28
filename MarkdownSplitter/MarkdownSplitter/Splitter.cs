@@ -199,7 +199,11 @@ namespace MarkdownSplitter
             sb.AppendLine(bloc.Header); //This writes the header
             foreach (var text in bloc.Text)
             {
-                sb.AppendLine(CleanupMarkdown(text + " <br/>"));
+                if (text.Contains("•")) //<br/> is broken on bullet pointed lists.
+                {
+                    sb.AppendLine(CleanupMarkdown(text));
+                }
+                else { sb.AppendLine(CleanupMarkdown(text + " <br/>")); }
             } //This writes all the text 
 
             foreach (var child in bloc.Children)

@@ -15,23 +15,23 @@ Other Examples: <br/>
 
 The da Vinci Code <br/>
 
-	•	What if Leonardo da Vinci hid clues about Christianity’s origins in his painting of “The Last Supper?” <br/>
+	•	What if Leonardo da Vinci hid clues about Christianity’s origins in his painting of “The Last Supper?”
 
-	•	What if Christianity’s true beginnings are a secret protected by a secret organization? <br/>
+	•	What if Christianity’s true beginnings are a secret protected by a secret organization?
 
-	•	What if Mary bore Christ’s child? <br/>
+	•	What if Mary bore Christ’s child?
 
 
 The Godfather <br/>
 
-	•	What if a man justifies becoming a criminal out of family loyalty? <br/>
+	•	What if a man justifies becoming a criminal out of family loyalty?
 
 
 When Harry Met Sally <br/>
 
-	•	Can men and women be friends?  <br/>
+	•	Can men and women be friends? 
 
-	•	Can two friends sleep together and still love each other in the morning? <br/>
+	•	Can two friends sleep together and still love each other in the morning?
 
 
 

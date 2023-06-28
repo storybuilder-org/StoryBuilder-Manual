@@ -8,11 +8,11 @@ Once you open the Narrative Editor, it will look similar to this. On one side yo
 ![](NarrativeEditors.png)
 The Narrative view is different from the Explorer view and contains only Scenes and Sections. Along the bottom there are several buttons: <br/>
 
-	•	Add Scene - Adds a node from the Story Explorer View (Only scenes and folders can be copied over, other types will not be copied over) <br/>
-	•	Add all unused scenes  - Copies all scenes in the explorer view that are not currently contained in the Narrative view. <br/>
-	•	^/v - Moves the selected node will be moved up / down  <br/>
-	•	Folder Icon - Creates a Section (Chapter, Act, etc.) in the narrator view <br/>
-	•	Trash Icon - Removes a Narrator View node <br/>
+	•	Add Scene - Adds a node from the Story Explorer View (Only scenes and folders can be copied over, other types will not be copied over)
+	•	Add all unused scenes  - Copies all scenes in the explorer view that are not currently contained in the Narrative view.
+	•	^/v - Moves the selected node will be moved up / down 
+	•	Folder Icon - Creates a Section (Chapter, Act, etc.) in the narrator view
+	•	Trash Icon - Removes a Narrator View node
 
 The Done button closes the Narrative Editor when you’re finished. <br/>
 
