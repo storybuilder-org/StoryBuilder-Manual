@@ -7,3 +7,4 @@
 [Creating a Story pt 6](Creating_a_Story_pt_6.md) <br/><br/>
 [Creating a Story pt 7](Creating_a_Story_pt_7.md) <br/><br/>
 [Creating a Story pt 8](Creating_a_Story_pt_8.md) <br/><br/>
+[Creating a Story pt 9](Creating_a_Story_pt_9.md) <br/><br/>

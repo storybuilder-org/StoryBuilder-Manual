@@ -1,4 +1,4 @@
 ## Front Page (Image) ##
 
-![](StoryCAD.png)
+![](Research-StoryCAD.png)
 [Preface](Preface.md) <br/><br/>

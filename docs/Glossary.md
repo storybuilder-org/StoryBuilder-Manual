@@ -250,7 +250,7 @@ vignette: A term derived from the art work which decorated the front plates of n
 
 villain: A character who represents an evil or unwelcome force.  The villain is a stock character frequently cast as the antagonist in stories. <br/>
 
-[StoryCAD]: StoryCAD.png width=480px height=480px <br/>
+[Research-StoryCAD]: Research-StoryCAD.png width=704px height=704px <br/>
 
 [Keyboard-Right-Mouse-Key]: Keyboard-Right-Mouse-Key.png width=59px height=51px <br/>
 
@@ -270,7 +270,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Show-and-Hide-Navigation]: Show-and-Hide-Navigation.png width=601px height=431px <br/>
 
-[Menu-Bar-1]: Menu-Bar-1.png width=599px height=64px <br/>
+[Menu-Bar-4]: Menu-Bar-4.png width=599px height=64px <br/>
 
 [Story-Element-Flyout]: Story-Element-Flyout.png width=343px height=211px <br/>
 
@@ -290,7 +290,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [RedPenIcon]: RedPenIcon.png width=66px height=41px <br/>
 
-[Navigation-and-Content-Pane-1]: Navigation-and-Content-Pane-1.png width=675px height=457px <br/>
+[Navigation-and-Content-Pane-4]: Navigation-and-Content-Pane-4.png width=675px height=457px <br/>
 
 [Navigation-Pane-Flyout-CommandBar]: Navigation-Pane-Flyout-CommandBar.png width=668px height=477px <br/>
 
@@ -374,7 +374,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Flaw-Builder]: Flaw-Builder.png width=551px height=325px <br/>
 
-[Print-Reports-Button-and-Menu-1]: Print-Reports-Button-and-Menu-1.png width=165px height=161px <br/>
+[Print-Reports-Button-and-Menu-4]: Print-Reports-Button-and-Menu-4.png width=165px height=161px <br/>
 
 [Generate-Reports-Dialog]: Generate-Reports-Dialog.png width=552px height=627px <br/>
 
@@ -386,7 +386,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Scrivener-Split-Screen-with-StoryCAD]: Scrivener-Split-Screen-with-StoryCAD.png width=680px height=511px <br/>
 
-[Prefences-CommandBar-Button-1]: Prefences-CommandBar-Button-1.png width=448px height=82px <br/>
+[Prefences-CommandBar-Button-4]: Prefences-CommandBar-Button-4.png width=448px height=82px <br/>
 
 [Preferences-General-tab]: Preferences-General-tab.png width=499px height=472px <br/>
 
@@ -418,7 +418,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [NotesElement]: NotesElement.png width=680px height=464px <br/>
 
-[File-Open-Dialog-1]: File-Open-Dialog-1.png width=559px height=562px <br/>
+[File-Open-Dialog-4]: File-Open-Dialog-4.png width=559px height=562px <br/>
 
 [Create-New-Story-Dialog]: Create-New-Story-Dialog.png width=552px height=553px <br/>
 
@@ -432,7 +432,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Tutorial-1-Changed-Indicator-(Red)]: Tutorial-1-Changed-Indicator-(Red).png width=53px height=47px <br/>
 
-[Changed-Indicator-1]: Changed-Indicator-1.png width=55px height=40px <br/>
+[Changed-Indicator-4]: Changed-Indicator-4.png width=55px height=40px <br/>
 
 [Tutorial-1-Empty-Struture-Tab]: Tutorial-1-Empty-Struture-Tab.png width=651px height=708px <br/>
 
@@ -510,15 +510,15 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Danger-Calls-Denouement]: Danger-Calls-Denouement.png width=680px height=534px <br/>
 
-[Clipboard-Image-1]: Clipboard-Image-1.png width=491px height=171px <br/>
+[Clipboard-Image-19]: Clipboard-Image-19.png width=491px height=171px <br/>
 
-[Clipboard-Image-2]: Clipboard-Image-2.png width=228px height=208px <br/>
+[Clipboard-Image-20]: Clipboard-Image-20.png width=228px height=208px <br/>
 
-[Clipboard-Image-3]: Clipboard-Image-3.png width=256px height=129px <br/>
+[Clipboard-Image-21]: Clipboard-Image-21.png width=256px height=129px <br/>
 
-[Clipboard-Image-4]: Clipboard-Image-4.png width=265px height=137px <br/>
+[Clipboard-Image-22]: Clipboard-Image-22.png width=265px height=137px <br/>
 
-[Tools-Master-Plots-1]: Tools-Master-Plots-1.png width=544px height=631px <br/>
+[Tools-Master-Plots-4]: Tools-Master-Plots-4.png width=544px height=631px <br/>
 
 [Tools-Master-Plots-Result]: Tools-Master-Plots-Result.png width=680px height=353px <br/>
 
@@ -544,6 +544,6 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [PlottingWithStoryCADOldManSixScenes]: PlottingWithStoryCADOldManSixScenes.png width=325px height=337px <br/>
 
-[Clipboard-Image-5]: Clipboard-Image-5.png width=543px height=281px <br/>
+[Clipboard-Image-23]: Clipboard-Image-23.png width=543px height=281px <br/>
 
-[Clipboard-Image-6]: Clipboard-Image-6.png width=568px height=355px <br/>
+[Clipboard-Image-24]: Clipboard-Image-24.png width=568px height=355px <br/>
