@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="342E5DD6-5812-45AB-982C-E2EAC46CF8EE" Creator="SCRWIN-3.1.5.0" Device="DREAMLAND" Modified="2023-06-28 20:25:48 +0100" ModID="E02BF20F-65F1-4427-A564-1CF018FB0B7A">
+<ScrivenerProject Template="No" Version="2.0" Identifier="342E5DD6-5812-45AB-982C-E2EAC46CF8EE" Creator="SCRWIN-3.1.5.0" Device="DREAMLAND" Modified="2023-06-28 21:03:46 +0100" ModID="174A33FC-F172-424E-B3F0-4C14AA1F3F1C">
     <Binder>
         <BinderItem UUID="9FFBA333-8432-41C1-91F5-1302DFE283CA" Type="Text" Created="2019-05-14 19:29:37 +0100" Modified="2019-05-14 19:29:46 +0100">
             <Title>Non-Fiction Format</Title>
@@ -42,17 +42,15 @@
                             <TextSettings>
                                 <TextSelection>1,0</TextSelection>
                             </TextSettings>
-                            <Children>
-                                <BinderItem UUID="3E8044F7-0D1C-4923-A285-C4D67540C5F6" Type="Text" Created="2021-11-07 01:55:00 +0100" Modified="2023-04-01 10:01:09 +0100">
-                                    <Title> Preface</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>328,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="3E8044F7-0D1C-4923-A285-C4D67540C5F6" Type="Text" Created="2021-11-07 01:55:00 +0100" Modified="2023-04-01 10:01:09 +0100">
+                            <Title> Preface</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>328,0</TextSelection>
+                            </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="B3284440-6DE2-460E-81EF-8CAB761CF1FB" Type="Text" Created="2019-06-12 23:07:29 +0100" Modified="2023-04-01 10:00:24 +0100">
                             <Title>Legal Matters</Title>
@@ -85,7 +83,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="347BA8FF-F1CE-45C8-8D1D-E0767BBC6B6E" Type="Text" Created="2020-03-25 20:30:33 +0100" Modified="2023-04-01 09:54:35 +0100">
+                        <BinderItem UUID="347BA8FF-F1CE-45C8-8D1D-E0767BBC6B6E" Type="Text" Created="2020-03-25 20:30:33 +0100" Modified="2023-06-28 20:51:25 +0100">
                             <Title>Using Various Input Devices</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -93,17 +91,17 @@
                                 <NotesTextSelection>43,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>479,0</TextSelection>
+                                <TextSelection>253,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="977E1EBB-DF08-47AB-80A9-BE5E01BA9AB4" Type="Text" Created="2022-01-12 00:57:54 +0100" Modified="2023-04-01 09:54:35 +0100">
+                        <BinderItem UUID="977E1EBB-DF08-47AB-80A9-BE5E01BA9AB4" Type="Text" Created="2022-01-12 00:57:54 +0100" Modified="2023-06-28 20:46:12 +0100">
                             <Title>Starting and Stopping StoryCAD</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>188,0</TextSelection>
+                                <TextSelection>31,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="94DE8837-CDC3-4E44-9D13-B37F161D9029" Type="Text" Created="2019-06-12 23:07:29 +0100" Modified="2023-06-21 19:41:39 +0100">
@@ -124,7 +122,7 @@
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>310,0</TextSelection>
+                                <TextSelection>29,0</TextSelection>
                             </TextSettings>
                             <Children>
                                 <BinderItem UUID="5D65AAA7-6BE3-4602-B5B2-49CA234ADD7F" Type="Text" Created="2019-06-12 23:07:29 +0100" Modified="2023-06-21 19:52:10 +0100">
@@ -1032,7 +1030,7 @@
                                 <NotesTextSelection>25,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3262,0</TextSelection>
+                                <TextSelection>92,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="1CEFD3C0-2D56-4955-9E79-498522EECD6D" Type="Text" Created="2021-11-08 14:53:23 +0100" Modified="2023-06-23 20:18:49 +0100">
@@ -4290,7 +4288,7 @@
         </Collection>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.392157 0.392157 0.392157">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No">discord</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No">starting</SearchSettings>
         </Collection>
     </Collections>
     <SectionTypes>
@@ -4350,12 +4348,12 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="3" Characters="33" Date="2023-06-28 20:25:48 +0100"/>
+        <PreviousSession Words="5" Characters="41" Date="2023-06-28 21:03:46 +0100"/>
     </ProjectTargets>
     <BookmarksFolderUUID>07B0D7C6-57CE-4D6F-8AD9-11F06A261A5F</BookmarksFolderUUID>
     <RecentWritingHistory Date="2023-06-28 00:00:00 +0100">
-        <DraftWordCount>-9</DraftWordCount>
-        <DraftCharCount>-31</DraftCharCount>
+        <DraftWordCount>-7</DraftWordCount>
+        <DraftCharCount>-24</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>

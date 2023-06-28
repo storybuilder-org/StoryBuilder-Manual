@@ -1,5 +1,5 @@
 ### Tabs ###
-Tabs		 <br/>
+Tabs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/>
 
 For most Story Element types, that Form contains multiple tabs. Clicking or touching a Tab name (the larger font) will switch to that tab’s content.  <br/>
 

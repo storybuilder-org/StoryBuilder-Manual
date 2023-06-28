@@ -5,7 +5,7 @@ Protagonist Tab <br/>
 
 The  protagonist is the character who has the problem.  The protagonist of of the story problem is the main driver of the plot.  In the case of a subplot, that problem's protagonist may be a different character than the story's protagonist. <br/>
 
-Protagonist	 <br/>
+Protagonist&nbsp;&nbsp;&nbsp;&nbsp; <br/>
 
 This is a list of the characters who have been defined on the Characters form.  Select one of these characters from the list as your protagonist. <br/>
 

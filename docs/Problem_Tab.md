@@ -10,11 +10,11 @@ Problem Type <br/>
 
 There are three problem types: <br/>
 
-Conflict	         The protagonist has a goal or objective, but something or someone (the antagonist) opposes the achievement of this goal.  The protagonist and the antagonist struggle until one or the other wins. <br/>
+Conflict&nbsp;&nbsp;&nbsp;&nbsp;         The protagonist has a goal or objective, but something or someone (the antagonist) opposes the achievement of this goal.  The protagonist and the antagonist struggle until one or the other wins. <br/>
 
-Decision	         This problem pattern ends with the protagonist making a difficult and important decision.  The problem is a choice. <br/>
+Decision&nbsp;&nbsp;&nbsp;&nbsp;         This problem pattern ends with the protagonist making a difficult and important decision.  The problem is a choice. <br/>
 
-Discovery	          The protagonist eventually makes a not too obvious discovery.  The discovery, which is the story's resolution, represents a change for him.	 <br/>
+Discovery&nbsp;&nbsp;&nbsp;&nbsp;          The protagonist eventually makes a not too obvious discovery.  The discovery, which is the story's resolution, represents a change for him.&nbsp;&nbsp;&nbsp;&nbsp; <br/>
 
 Conflict Type <br/>
 

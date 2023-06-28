@@ -5,13 +5,13 @@ Setting often receives less attention than other story elements such as Problem 
 
 But setting is more than just the backdrop of the story; plot and character are shaped and limited by the choice of setting.  Settings: <br/>
 
-	•	Provide much of the verisimilitude of the story, making it real and believable to the reader.
+&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;Provide much of the verisimilitude of the story, making it real and believable to the reader.
 
-	•	Provide excitement and color.  Much of the joy of fiction is to allow the reader to travel to other times, other places, and even other worlds.
+&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;Provide excitement and color.  Much of the joy of fiction is to allow the reader to travel to other times, other places, and even other worlds.
 
-	•	Establish mood and tone.
+&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;Establish mood and tone.
 
-	•	Provide a source of symbolism and meaning for the story.
+&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;Provide a source of symbolism and meaning for the story.
 
 
 A Scene’s settings ties characters and their actions together.  Generally, unless you unite your protagonist and antagonist at one place and time, there is no conflict.   <br/>

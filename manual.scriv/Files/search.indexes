@@ -1067,21 +1067,12 @@ Notes forms can be used to store any information you wish anywhere in the outlin
 You can use a wide range of input devices with StoryCAD:  keyboard, virtual keyboard, pen or stylus, mouse, and touch, depending on your computer or tablet ‘s capabilities.
 Invoke pop-up menus using the following actions:
 
-
-Input
-Action
-Mouse
-Right click
-Keyboard
-Menu key (see below)
-Touch
-Long press on item
-Pen
-Barrel button press, long press on item
-Touchpad
-Right Touchpad button
-
-
+Input		Action
+Mouse		Right Click
+Keyboard		Menu Key (see below)
+Touch		Long Press on item
+Pen		Barrel Button Press or Long Press on item
+Touchpad		Right Touchpad button
 The menu key(sometimes called document key) looks like this: 
 
 #</Text>
@@ -2919,7 +2910,7 @@ To start StoryCAD, find and click the StoryCAD icon from the Start Menu or from 
 
 You can leave StoryCAD at any time by either selecting Exit from the File Menu or pressing the main form's Close (X) button. 
 
-StoryCAD follows regular Windows conventions.  The app can be re-sized, maximized or minimized to icons. However you can only have one instance of StoryCAD open at once, if you try to open another instance of StoryCAD whilst the first one is open, it will instead bring forward the original instance.
+StoryCAD follows regular Windows conventions.  The app can be re-sized, maximized or minimized to an icon. However you can only have one instance of StoryCAD open at once, if you try to open another instance of StoryCAD whilst the first one is open, it will instead bring forward the original instance.
 </Text>
         </Document>
         <Document ID="97B635AD-C8EF-4E01-B108-C684411BB434">

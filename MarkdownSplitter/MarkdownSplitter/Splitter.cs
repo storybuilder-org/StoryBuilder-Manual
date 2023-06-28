@@ -223,8 +223,11 @@ namespace MarkdownSplitter
         {
             if (line.Contains("[Front Page (Image)](Front_Page_(Image).md)"))
             {
-                return "![](StoryBuilder.png)";
+                return "![](StoryCAD.png)";
             }
+
+            //Tabs and multiple spaces don't work in markdown.
+            line = line.Replace("\t", "&nbsp;&nbsp;&nbsp;&nbsp;");
 
             if (line == " <br/>")
             {
