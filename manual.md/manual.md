@@ -77,7 +77,7 @@ To start StoryCAD, find and click the StoryCAD icon from the Start Menu or from 
 
 You can leave StoryCAD at any time by either selecting Exit from the File Menu or pressing the main form's Close (X) button. 
 
-StoryCAD follows regular Windows conventions.  The app can be re-sized, maximized or minimized to an icon. However you can only have one instance of StoryCAD open at once, if you try to open another instance of StoryCAD whilst the first one is open, it will instead bring forward the original instance.
+StoryCAD follows regular Windows conventions.  The app can be re-sized, maximized or minimized to an icon. However you can only have one instance of StoryCAD open at once. If you try to open another instance of StoryCAD whilst the first one is open, it will instead bring forward the original instance.
 
 ## Reading and Writing Outlines ##
 Reading and Writing Outlines
@@ -134,7 +134,7 @@ Hovering your mouse or stylus over a button will display a tool tip describing t
 
 The menu bar buttons either display drop-down menus (such as File), or launch particular actions (such as Preferences.)
 
-Each of these options is discussed in the next topics of this manual.  
+
 #### Search ####
 Search
 StoryCAD contains a search field, located at the left on the Menu Bar, which will perform narrow searches of your outline for specific items. To use it, enter text to search for in the search field and click the search button (hourglass.) The story elements containing the search text in selected fields will be highlighted:
@@ -165,7 +165,7 @@ Add/Remove Story Elements
 
 You can add or remove Story Elements in two ways. There’s a Menu Bar button which opens an ‘Add/Remove Story Elements’ menu:
 
-![][Menu-Bar-6]
+![][Menu-Bar-1]
 
 There’s also a pop-up menu which displays when you right-click on any Story Element node in the Navigation Pane:
 
@@ -322,7 +322,7 @@ Here, clicking on the first or root node in the tree displays the Story  Overvie
 
 On some screen sizes and orientations the Navigation and Content panes may be stacked with the Navigation pane above the Content pane. In those cases the Show/Hide Navigation button (the hamburger menu button) acts differently; it toggles from the Navigation Pane to the Content Pane and back.
 
-![][Navigation-and-Content-Pane-6]
+![][Navigation-and-Content-Pane-1]
 
 Every Story Element type is a different form. These are the story elements:
 
@@ -1234,7 +1234,7 @@ Reports
 
 Clicking on the Reports button on the Menu Bar displays a fly-out menu with two reporting options:
 
-![][Print-Reports-Button-and-Menu-6]
+![][Print-Reports-Button-and-Menu-1]
 ## Print Reports ##
 Print Reports
 
@@ -1268,7 +1268,7 @@ Preferences
 
 The Preferences Dialog will be displayed when you press the Preferences button on the Menu Bar:
 
-![][Prefences-CommandBar-Button-6]
+![][Prefences-CommandBar-Button-1]
 
 
 
@@ -1280,8 +1280,7 @@ General tab:
 
 The name field is used as the default Author on the Story Overview form on new outlines.
 
-The name and your email address are used as your StoryCAD userid. The email
-Address is also used with the elmah.io and newsletter options if you select those.
+The name and your email address are used as your StoryCAD userid. The email address is also used with the elmah.io and newsletter options if you select those.
 
 The project directory is the default directory for new story outlines.
 
@@ -1314,7 +1313,7 @@ Send newsletters - Your email address will be subscribed to the StoryCAD newslet
 
 Wrap node names - Wraps node names in the Story Explorer and Narrator treeviews, if the Name is longer than the treeview’s display width.
 
-Automatically Save - This function will automatically save your story  story outline every X seconds. It operates exactly as if you’d used File | Save or clicked on the edit button on the status bar.  You’ll see a verification of the save event on the status bar and the edit button will turn green. 
+Automatically Save - This function will automatically save your story  story outline every X seconds. It operates exactly as if you’d used File > Save or clicked on the edit button on the status bar.  You’ll see a verification of the save event on the status bar and the edit button will turn green. 
 
 About tab:
 
@@ -1399,7 +1398,7 @@ To do so in StoryCAD, launch the program. The first time you launch the program,
 
 Back to our story idea. Use the File menu’s  Open/Create file option:
 
-![][File-Open-Dialog-6]
+![][File-Open-Dialog-1]
 
 Click on Create New Story to start a new outline:
 
@@ -1433,7 +1432,7 @@ At the moment, the story outline for "Danger Calls" exists only in your computer
 
 The indicator will change from red to green, indicating that all changes have been saved to disk.
 
-![][Changed-Indicator-6]
+![][Changed-Indicator-1]
 
 Alternatively, from the File menu, you can select Save Story, or enter the Ctrl+S shortcut keys.  Remember to save your work periodically.
 
@@ -1808,7 +1807,7 @@ We know how our story starts and how it ends; we're left with the middle story t
 
 We need to figure out how the two detectives can find out where the next drug deal is to be held.  One way is to enlist an ally who knows all about wireless communications.  Let's say he's the owner of a small radio-electronics shop.  But as with the interplay between Leonard and Tony, we need conflict.  Let's make this character a reluctant ally, one who's coerced into helping our protagonists.  We might make him a petty criminal of some sort, for instance, and have Leonard threaten or blackmail him.  That fits Leonard's character as we know it: he'll go to any lengths to catch Lacas.  Let's call our new character Joe Edwards. For his crime, we need something serious enough to get him into trouble, but not too serious, or the reader will be outraged that Leonard's left him on the street.  Let's say that he's used his electronics skills to bug the people in the apartment where he lives;  and in particular, the single woman who lives downstairs--- he's a Peeping Tom.  We can also add the scene where Kraskin threatens Edwards with arrest and exposure unless he cooperates.
 
-
+![][Research-Tutorial9-Tut9JoeEdwards]
 1
 
 We've also gotten rid of the rest of the scaffolding plot points; we know where we're going now and don't need additional directions.  The Dramatic Situations entry (had we used it) would have been 'Obtaining (through force)'. 
@@ -1824,14 +1823,14 @@ Let's look for a way to get Leonard captured.  Turning once more to the Tools me
  This provides us with a number of stock scenes which offer dramatic twists: 
 
 
-
+![][Research-Tutorial9-Tut9StockScenesTwists]
 
 2
 
 In this case the first twist listed might help us; our electronics buff ally, Joe Edwards, could be tied to Lacas in some fashion and tip him off that the two detectives are listing in on his call.   Lacas could then set the cops up.  We decide to go with this.  Clicking on the first item in the list, and then on the Copy button, adds this stock scene into our plot outline.
 
 
-
+![][Research-Tutorial9-Tut9StockSceneInserted]
 3
 
 We can change the scene summary to read 'Edwards has tipped Lacas, who traps Kraskin.'  
@@ -1843,7 +1842,7 @@ We know that our detectives are using an illegal bug to catch Lacas, so they can
 So let's add a plot point immediately prior to this where this takes place, and title it 'Leonard, on stake out, learns of a drug deal .'  We can add notes to explain the details of the stake out.
 
 Our plot outline now looks like this:
-
+![][Research-Tutorial9-Tut9ReorderedPlotline]
 
 4
 This is a relatively complete plot.  We could sit down and start writing the story now, but that would be a mistake.  There's a lot left unfinished: we haven't created settings, the characters are still unrefined, etc.  The more these things are worked out, the richer and more complete the first draft will be when you write it. 
@@ -1851,7 +1850,7 @@ This is a relatively complete plot.  We could sit down and start writing the sto
 We should evaluate our work so far.  The creation of the story outline is an excellent time to review and revise.  For one thing, changes at this point in the story's development, while it's still just an outline, are relatively cheap and easy; you're not sacrificing prose and dialog that took time and effort to produce.  There's also another advantage: at this point you're looking only at the structure of the story.  Every story has these components of problems, characters, setting and plot; but once you begin to write, the bones will be fleshed out in narrative and dialog and dressed with your writing style.  The naked structure will be, in a sense, hidden by the prose. This makes spotting and correcting structural problems more difficult. 
 
 StoryCAD offers a tool, Key Questions, to assist in refining and testing your story elements.  There are questions for Story, Problem, Character, Setting, and Plot.  From the Tools menu, select Key Questions and then Story Questions.  A form displaying a series of questions for the overall story will appear.  We can test the story concept against these questions.  If one is worth further study, notes can be recorded in the Answer section.  For example, scrolling through the questions, we find:
-
+![][Research-Tutorial9-Tut9KeyQuestions]
 
 5
 
@@ -1969,7 +1968,7 @@ Your Premise is the answer to the question the Concept poses.
 
 Your story can have more than one Problem story element, and every Problem has its own Premise, contained on the Resolution tab. But only one of these problems is your Story Problem, and that Problem  (and its Premise) is the one you select on the Story Overview form, Premise tab:
 
-![][Clipboard-Image-31]
+![][Clipboard-Image-1]
 
 The heart of plotted fiction is drama--- a struggle in which the outcome is in doubt. Your Story Problem will lead you to understand whose problem it is (your major character), what her or she want (the goal), and what stands in their way (opposition.) The Story Problem is the wormhole you enter to understand your story.
 
@@ -2057,7 +2056,7 @@ An inner problem is some want or need within the character himself, a need to gr
 
 It's often constructive to use StoryCAD to define both an external and an internal problem for your protagonist, with separate Problem forms for each  of them. Both problems help to shape the story's plot. There’s even a Create New Story template for this:
 
-![][Clipboard-Image-32]
+![][Clipboard-Image-2]
 
 The outer problem asks 'what does the character want?'  The inner problem asks 'why does he want it?'  The outer problem is tangible. The inner problem is intangible, invisible.  The outer problem faces an external adversary.  The inner problem is Man against Himself, usually with something to decide or discover. The outer problem is solved when (win or loose) something is accomplished.  The inner problem is solved when the character grows or changes, or fails to do so.  The inner problem is related to theme. The two problems are connected because your protagonist must come to grips with his inner demon before he can solve the external, outer problem.
 Conflict
@@ -2083,11 +2082,11 @@ A good example of this is found in Hemingway's The Old Man and the Sea.  This no
 
 Rather than arrange these problems in a list:
 
-![][Clipboard-Image-33]
+![][Clipboard-Image-3]
 
 You may want arrange them as children of the original problem, which won’t be solved until the complications are:
 
-![][Clipboard-Image-34]
+![][Clipboard-Image-4]
 
 Where possible, complications should be ordered to make things progressively worse for the protagonist. By the end of the shark attack, the marlin is nothing but a head and tail and skeleton; things can’t get much worse for Santiago.
 Conflicts of start at one level and devolve into a more serious one: ‘it’s not a war until the guns start firing.’  Finding your way from inciting incident through middle story to climax is  the process of finding complications, and escalating conflicts is one approach to doing so.  The escalation can occur for many reasons: a character gets tipped over the edge, a ticking clock goes off, a secondary character does something rash, a dropped dish is mistaken for a gunshot.
@@ -2336,7 +2335,7 @@ MasterPlots
 
 In recent decades, the three-act structure has been joined by a bevy of other story structures, with different plot points:  Dan Wells’ Seven Point Structure, The Hero’s Journey, Blake Snyder’s Save the Cat, and many more.  Since plot points are also called story beats, these structures are often called ‘beat sheets’. A beat sheet can serve as a sort of plot template. StoryCAD’s Master Plots tool provides a number of these templates, which will insert a set of Scene story elements into your outline at the place of your choosing:
 
-![][Tools-Master-Plots-6]
+![][Tools-Master-Plots-1]
 
 
 Since every Problem is a ‘small story’ and has its own set of events that define it, a Problem is good place to use this tool. A Problem can be thought of as a sequence, a term used frequently in scriptwriting, which is defined as ‘a series of scenes with a beginning, middle, and end.’ Or, if you prefer, setup, development, and resolution. 
@@ -2399,7 +2398,7 @@ but Show White pleads for her life,
 
 Coming up with these scenes is an act of imagination- it’s storytelling, play acting, in which you take on the part of one character and then the other.
 
-In the previous topic Plotting In Scenes, we introduced the idea that every scene must advance the story’s plot: it must move toward the resolution of the story problem it’s a piece of.  This is another way of saying that every scene must have a purpose: show the Ordinary World, introduce the problem, resolve the conflict. A scene can and usually does have more than one purpose, but  must always contribute toward solving the Problem is a part of; otherwise, the story will meander aimlessly. A plotted story must aim toward its outcome as an arrow flies towards its target. Think of each story problem as having structure, of consisting of plot points or story beats. Each plot point is a potential scene, and the plot point’s function is that scene’s purpose.
+In the previous topic Plotting In Scenes, we introduced the idea that every scene must advance the story’s plot: it must move toward the resolution of the story problem it’s a piece of.  This is another way of saying that every scene must have a purpose: show the Ordinary World, introduce the problem, resolve the conflict. A scene can and usually does have more than one purpose, but  must always contribute toward solving the Problem  it’s a part of; otherwise, the story will meander aimlessly. A plotted story must aim toward its outcome as an arrow flies towards its target. Think of each story problem as having structure, of consisting of plot points or story beats. Each plot point is a potential scene, and the plot point’s function is that scene’s purpose.
 
 Scene Count (Story Length)
 
@@ -2544,12 +2543,12 @@ Developing StoryCAD
 If you are a C# developer and are somewhat familar with WinUI (or another XAML based UI language) then you can contribute to StoryCAD (Which is written in C# and uses WinUI 3).
 For more information about contributing, please check the GitHub Repository.
 Developer only menus / pop-ups
-![][Clipboard-Image-35]
+![][Clipboard-Image-5]
 
 If you have cloned StoryCAD to a separate repo and built it for the first time then you may be surprised to see this screen. It indicates a key file related to licensing is missing from your local clone. These licenses are in effect for the storybuilder.org repo only. The missing licenses won’t cause any issues with the app functioning, but your copy won’t report errors via Elmah.io and you may see pops relating to syncfusion licensing errors.
 Regardless, congratulations on successfully compiling StoryCAD.
 
-![][Clipboard-Image-36]
+![][Clipboard-Image-6]
 
 If StoryCAD notices you have a debugger attached to the process, the developer menu will appear.
 This shows info about the computer and may contain buttons to test some parts of the StoryCAD.
@@ -2839,7 +2838,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Show-and-Hide-Navigation]: Show-and-Hide-Navigation.png width=601px height=431px
 
-[Menu-Bar-6]: Menu-Bar-6.png width=599px height=64px
+[Menu-Bar-1]: Menu-Bar-1.png width=599px height=64px
 
 [Story-Element-Flyout]: Story-Element-Flyout.png width=343px height=211px
 
@@ -2859,7 +2858,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [RedPenIcon]: RedPenIcon.png width=66px height=41px
 
-[Navigation-and-Content-Pane-6]: Navigation-and-Content-Pane-6.png width=675px height=457px
+[Navigation-and-Content-Pane-1]: Navigation-and-Content-Pane-1.png width=675px height=457px
 
 [Navigation-Pane-Flyout-CommandBar]: Navigation-Pane-Flyout-CommandBar.png width=668px height=477px
 
@@ -2943,7 +2942,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Flaw-Builder]: Flaw-Builder.png width=551px height=325px
 
-[Print-Reports-Button-and-Menu-6]: Print-Reports-Button-and-Menu-6.png width=165px height=161px
+[Print-Reports-Button-and-Menu-1]: Print-Reports-Button-and-Menu-1.png width=165px height=161px
 
 [Generate-Reports-Dialog]: Generate-Reports-Dialog.png width=552px height=627px
 
@@ -2955,7 +2954,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Scrivener-Split-Screen-with-StoryCAD]: Scrivener-Split-Screen-with-StoryCAD.png width=680px height=511px
 
-[Prefences-CommandBar-Button-6]: Prefences-CommandBar-Button-6.png width=448px height=82px
+[Prefences-CommandBar-Button-1]: Prefences-CommandBar-Button-1.png width=448px height=82px
 
 [Preferences-General-tab]: Preferences-General-tab.png width=499px height=472px
 
@@ -2987,7 +2986,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [NotesElement]: NotesElement.png width=680px height=464px
 
-[File-Open-Dialog-6]: File-Open-Dialog-6.png width=559px height=562px
+[File-Open-Dialog-1]: File-Open-Dialog-1.png width=559px height=562px
 
 [Create-New-Story-Dialog]: Create-New-Story-Dialog.png width=552px height=553px
 
@@ -3001,7 +3000,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Tutorial-1-Changed-Indicator-(Red)]: Tutorial-1-Changed-Indicator-(Red).png width=53px height=47px
 
-[Changed-Indicator-6]: Changed-Indicator-6.png width=55px height=40px
+[Changed-Indicator-1]: Changed-Indicator-1.png width=55px height=40px
 
 [Tutorial-1-Empty-Struture-Tab]: Tutorial-1-Empty-Struture-Tab.png width=651px height=708px
 
@@ -3023,27 +3022,27 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Tutorial-3-The-'how-to'-complication]: Tutorial-3-The-'how-to'-complication.png width=575px height=371px
 
-[Tutorial-4-Lacas-gets-the-drop-on-Kraskin]: Tutorial-4-Lacas-gets-the-drop-on-Kraskin.png width=680px height=455px
+[Tutorial-4-Lacas-gets-the-drop-on-Kraskin]: Tutorial-4-Lacas-gets-the-drop-on-Kraskin.png width=700px height=503px
 
 [Tutorial-4-Trait-Builder]: Tutorial-4-Trait-Builder.png width=336px height=332px
 
 [Tutorial-4-Behaviors]: Tutorial-4-Behaviors.png width=511px height=593px
 
-[Tutorial-4-Impulsive]: Tutorial-4-Impulsive.png width=680px height=513px
+[Tutorial-4-Impulsive]: Tutorial-4-Impulsive.png width=700px height=503px
 
-[Tutorial-4-Inner-Trait]: Tutorial-4-Inner-Trait.png width=680px height=510px
+[Tutorial-4-Inner-Trait]: Tutorial-4-Inner-Trait.png width=653px height=469px
 
-[Tutorial-4-Renamed-third-problem]: Tutorial-4-Renamed-third-problem.png width=680px height=510px
+[Tutorial-4-Renamed-third-problem]: Tutorial-4-Renamed-third-problem.png width=561px height=403px
 
-[Tony-Irwin-Inner-Traits]: Tony-Irwin-Inner-Traits.png width=680px height=490px
+[Tony-Irwin-Inner-Traits]: Tony-Irwin-Inner-Traits.png width=608px height=420px
 
-[Overview-Empty-Premis-tab]: Overview-Empty-Premis-tab.png width=680px height=478px
+[Overview-Empty-Premis-tab]: Overview-Empty-Premis-tab.png width=608px height=420px
 
-[Danger-Calls-Story-Premise]: Danger-Calls-Story-Premise.png width=680px height=481px
+[Danger-Calls-Story-Premise]: Danger-Calls-Story-Premise.png width=608px height=420px
 
-[Danger-Calls-Add-Scene]: Danger-Calls-Add-Scene.png width=680px height=483px
+[Danger-Calls-Add-Scene]: Danger-Calls-Add-Scene.png width=700px height=484px
 
-[Danger-Calls-First-Scene-Sketch]: Danger-Calls-First-Scene-Sketch.png width=680px height=488px
+[Danger-Calls-First-Scene-Sketch]: Danger-Calls-First-Scene-Sketch.png width=607px height=425px
 
 [Danger-Calls-MasterPlots-menu]: Danger-Calls-MasterPlots-menu.png width=701px height=452px
 
@@ -3059,7 +3058,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Problems-and-Scenes-Reordered]: Problems-and-Scenes-Reordered.png width=701px height=452px
 
-[Danger-Calls-Climax]: Danger-Calls-Climax.png width=680px height=486px
+[Danger-Calls-Climax]: Danger-Calls-Climax.png width=681px height=464px
 
 [Lacas-Role]: Lacas-Role.png width=653px height=440px
 
@@ -3075,19 +3074,29 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Danger-Callse-Stock-Scenes]: Danger-Callse-Stock-Scenes.png width=465px height=660px
 
-[Danger-Calls-Shootout]: Danger-Calls-Shootout.png width=680px height=530px
+[Danger-Calls-Shootout]: Danger-Calls-Shootout.png width=700px height=503px
 
-[Danger-Calls-Denouement]: Danger-Calls-Denouement.png width=680px height=534px
+[Danger-Calls-Denouement]: Danger-Calls-Denouement.png width=653px height=469px
 
-[Clipboard-Image-31]: Clipboard-Image-31.png width=491px height=171px
+[Research-Tutorial9-Tut9JoeEdwards]: Research-Tutorial9-Tut9JoeEdwards.png width=680px height=487px
 
-[Clipboard-Image-32]: Clipboard-Image-32.png width=228px height=208px
+[Research-Tutorial9-Tut9StockScenesTwists]: Research-Tutorial9-Tut9StockScenesTwists.png width=475px height=667px
 
-[Clipboard-Image-33]: Clipboard-Image-33.png width=256px height=129px
+[Research-Tutorial9-Tut9StockSceneInserted]: Research-Tutorial9-Tut9StockSceneInserted.png width=680px height=487px
 
-[Clipboard-Image-34]: Clipboard-Image-34.png width=265px height=137px
+[Research-Tutorial9-Tut9ReorderedPlotline]: Research-Tutorial9-Tut9ReorderedPlotline.png width=561px height=403px
 
-[Tools-Master-Plots-6]: Tools-Master-Plots-6.png width=544px height=631px
+[Research-Tutorial9-Tut9KeyQuestions]: Research-Tutorial9-Tut9KeyQuestions.png width=561px height=403px
+
+[Clipboard-Image-1]: Clipboard-Image-1.png width=491px height=171px
+
+[Clipboard-Image-2]: Clipboard-Image-2.png width=228px height=208px
+
+[Clipboard-Image-3]: Clipboard-Image-3.png width=256px height=129px
+
+[Clipboard-Image-4]: Clipboard-Image-4.png width=265px height=137px
+
+[Tools-Master-Plots-1]: Tools-Master-Plots-1.png width=544px height=631px
 
 [Tools-Master-Plots-Result]: Tools-Master-Plots-Result.png width=680px height=353px
 
@@ -3113,6 +3122,6 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [PlottingWithStoryCADOldManSixScenes]: PlottingWithStoryCADOldManSixScenes.png width=325px height=337px
 
-[Clipboard-Image-35]: Clipboard-Image-35.png width=543px height=281px
+[Clipboard-Image-5]: Clipboard-Image-5.png width=543px height=281px
 
-[Clipboard-Image-36]: Clipboard-Image-36.png width=568px height=355px
+[Clipboard-Image-6]: Clipboard-Image-6.png width=568px height=355px

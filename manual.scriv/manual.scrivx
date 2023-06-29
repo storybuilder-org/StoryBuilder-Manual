@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="342E5DD6-5812-45AB-982C-E2EAC46CF8EE" Creator="SCRWIN-3.1.5.0" Device="DREAMLAND" Modified="2023-06-28 21:03:46 +0100" ModID="174A33FC-F172-424E-B3F0-4C14AA1F3F1C">
+<ScrivenerProject Template="No" Version="2.0" Identifier="342E5DD6-5812-45AB-982C-E2EAC46CF8EE" Creator="SCRWIN-3.1.5.0" Device="MAXIMA" Modified="2023-06-29 20:58:31 +0100" ModID="8C3E42B0-3907-4665-9BF8-1FF757F1CE7C">
     <Binder>
         <BinderItem UUID="9FFBA333-8432-41C1-91F5-1302DFE283CA" Type="Text" Created="2019-05-14 19:29:37 +0100" Modified="2019-05-14 19:29:46 +0100">
             <Title>Non-Fiction Format</Title>
@@ -69,7 +69,7 @@
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection Caret="152">145,7</TextSelection>
+                                <TextSelection>360,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -94,14 +94,14 @@
                                 <TextSelection>253,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="977E1EBB-DF08-47AB-80A9-BE5E01BA9AB4" Type="Text" Created="2022-01-12 00:57:54 +0100" Modified="2023-06-28 20:46:12 +0100">
+                        <BinderItem UUID="977E1EBB-DF08-47AB-80A9-BE5E01BA9AB4" Type="Text" Created="2022-01-12 00:57:54 +0100" Modified="2023-06-29 19:19:52 +0100">
                             <Title>Starting and Stopping StoryCAD</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>31,0</TextSelection>
+                                <TextSelection>473,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="94DE8837-CDC3-4E44-9D13-B37F161D9029" Type="Text" Created="2019-06-12 23:07:29 +0100" Modified="2023-06-21 19:41:39 +0100">
@@ -125,7 +125,7 @@
                                 <TextSelection>29,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="5D65AAA7-6BE3-4602-B5B2-49CA234ADD7F" Type="Text" Created="2019-06-12 23:07:29 +0100" Modified="2023-06-21 19:52:10 +0100">
+                                <BinderItem UUID="5D65AAA7-6BE3-4602-B5B2-49CA234ADD7F" Type="Text" Created="2019-06-12 23:07:29 +0100" Modified="2023-06-29 19:20:21 +0100">
                                     <Title>Menu Bar</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -133,7 +133,7 @@
                                         <NotesTextSelection>7,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>381,0</TextSelection>
+                                        <TextSelection>505,0</TextSelection>
                                     </TextSettings>
                                     <Children>
                                         <BinderItem UUID="BE5F2E3C-6308-4072-96D5-60D336C43AD1" Type="Text" Created="2022-01-10 15:10:13 +0100" Modified="2023-06-21 19:54:29 +0100">
@@ -836,7 +836,7 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="06A3F580-42AA-48DF-8032-ED0A26E5C6A1" Type="Text" Created="2023-01-30 15:48:31 +0100" Modified="2023-06-22 20:52:01 +0100">
+                <BinderItem UUID="06A3F580-42AA-48DF-8032-ED0A26E5C6A1" Type="Text" Created="2023-01-30 15:48:31 +0100" Modified="2023-06-29 19:29:15 +0100">
                     <Title>Preferences</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -844,7 +844,7 @@
                         <NotesTextSelection>8,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>2508,0</TextSelection>
+                        <TextSelection>1935,0</TextSelection>
                     </TextSettings>
                     <Bookmarks>
                         <Bookmark BinderUUID="CA07AE88-BF28-4073-B8A1-9E2CE5DC0913">Preferences</Bookmark>
@@ -923,7 +923,7 @@
                                 <TextSelection>3955,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="675387D2-0324-47E3-9A41-4C46441C6D3A" Type="Text" Created="2019-06-12 23:07:30 +0100" Modified="2023-04-01 09:54:35 +0100">
+                        <BinderItem UUID="675387D2-0324-47E3-9A41-4C46441C6D3A" Type="Text" Created="2019-06-12 23:07:30 +0100" Modified="2023-06-29 19:45:44 +0100">
                             <Title>Creating a Story pt 4</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -934,17 +934,17 @@
                                 <TextSelection>6732,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="4D4CCDD3-95DD-44BD-8BBF-A45E5302112C" Type="Text" Created="2019-06-12 23:07:30 +0100" Modified="2023-06-23 20:46:32 +0100">
+                        <BinderItem UUID="4D4CCDD3-95DD-44BD-8BBF-A45E5302112C" Type="Text" Created="2019-06-12 23:07:30 +0100" Modified="2023-06-29 20:01:25 +0100">
                             <Title>Creating a Story pt 5</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>5263,0</TextSelection>
+                                <TextSelection>3704,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="26B6DF7B-A7DE-48E5-8189-1A71DD277D2D" Type="Text" Created="2019-06-12 23:07:30 +0100" Modified="2023-06-23 20:54:21 +0100">
+                        <BinderItem UUID="26B6DF7B-A7DE-48E5-8189-1A71DD277D2D" Type="Text" Created="2019-06-12 23:07:30 +0100" Modified="2023-06-29 20:07:06 +0100">
                             <Title>Creating a Story pt 6</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -952,7 +952,7 @@
                                 <NotesTextSelection>7,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1773,0</TextSelection>
+                                <TextSelection>2512,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="9ABBB1C7-C372-4D68-B8E4-5771238B6D56" Type="Text" Created="2019-06-12 23:07:30 +0100" Modified="2023-06-23 21:03:37 +0100">
@@ -966,24 +966,24 @@
                                 <TextSelection>1819,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="0DA85121-D2EF-42BB-A1E1-97E6185680C3" Type="Text" Created="2019-06-12 23:07:30 +0100" Modified="2023-06-23 21:11:02 +0100">
+                        <BinderItem UUID="0DA85121-D2EF-42BB-A1E1-97E6185680C3" Type="Text" Created="2019-06-12 23:07:30 +0100" Modified="2023-06-29 20:17:22 +0100">
                             <Title>Creating a Story pt 8</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>913,0</TextSelection>
+                                <TextSelection>2827,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="BAA8E03C-5D77-44E2-8CBD-2E4619A0F2C2" Type="Text" Created="2019-06-12 23:07:30 +0100" Modified="2023-04-01 09:54:35 +0100">
+                        <BinderItem UUID="BAA8E03C-5D77-44E2-8CBD-2E4619A0F2C2" Type="Text" Created="2019-06-12 23:07:30 +0100" Modified="2023-06-29 20:58:31 +0100">
                             <Title>Creating a Story pt 9</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3070,0</TextSelection>
+                                <TextSelection>1203,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -1096,14 +1096,14 @@
                                 <TextSelection>3041,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="8659C044-F417-4DB0-9F49-3B8A41EB8BD9" Type="Text" Created="2019-06-12 23:07:30 +0100" Modified="2023-06-23 20:38:48 +0100">
+                        <BinderItem UUID="8659C044-F417-4DB0-9F49-3B8A41EB8BD9" Type="Text" Created="2019-06-12 23:07:30 +0100" Modified="2023-06-29 20:25:31 +0100">
                             <Title>Plotting with StoryCAD</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4037,0</TextSelection>
+                                <TextSelection>1227,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="CC41D78E-670E-4403-ABA4-F488C52BF1D2" Type="Text" Created="2019-06-12 23:07:30 +0100" Modified="2021-12-19 18:02:09 +0100">
@@ -1442,7 +1442,7 @@
                         <NotesTextSelection>26,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1790,0</TextSelection>
+                        <TextSelection>1121,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="01D0F41C-7D10-4839-B28B-508456846FCD" Type="Text" Created="2019-06-12 23:07:30 +0100" Modified="2021-12-07 07:05:09 +0100">
@@ -4077,6 +4077,97 @@
                         <Bookmark BinderUUID="8659C044-F417-4DB0-9F49-3B8A41EB8BD9">Plotting with StoryCAD</Bookmark>
                     </Bookmarks>
                 </BinderItem>
+                <BinderItem UUID="BAAAE3CA-B5F4-4CE1-BBD7-41CC37EC38C6" Type="Folder" Created="2023-06-29 20:31:01 +0100" Modified="2023-06-29 20:31:04 +0100">
+                    <Title>Tutorial9</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="086846ED-66E7-4691-9F83-01CEDA6910DF" Type="Image" Created="2023-06-29 20:32:52 +0100" Modified="2023-06-29 20:33:32 +0100">
+                            <Title>Tut9StockScenesTwists</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>png</FileExtension>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <MediaSettings>
+                                <ImageScaleFactor>1</ImageScaleFactor>
+                                <ImageRotation>None</ImageRotation>
+                                <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                            </MediaSettings>
+                            <Bookmarks>
+                                <Bookmark BinderUUID="BAA8E03C-5D77-44E2-8CBD-2E4619A0F2C2">Creating a Story pt 9</Bookmark>
+                            </Bookmarks>
+                        </BinderItem>
+                        <BinderItem UUID="58E20E72-D257-4D8B-9286-D5C17DB80491" Type="Image" Created="2023-06-29 20:34:58 +0100" Modified="2023-06-29 20:35:32 +0100">
+                            <Title>Tut9StockSceneInserted</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>png</FileExtension>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <MediaSettings>
+                                <ImageScaleFactor>1</ImageScaleFactor>
+                                <ImageRotation>None</ImageRotation>
+                                <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                            </MediaSettings>
+                            <Bookmarks>
+                                <Bookmark BinderUUID="BAA8E03C-5D77-44E2-8CBD-2E4619A0F2C2">Creating a Story pt 9</Bookmark>
+                            </Bookmarks>
+                        </BinderItem>
+                        <BinderItem UUID="9C1577CB-BA24-454D-8B40-34AB4BCFD0C4" Type="Image" Created="2023-06-29 20:40:46 +0100" Modified="2023-06-29 20:41:01 +0100">
+                            <Title>Tut9ReorderedPlotline</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>png</FileExtension>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <MediaSettings>
+                                <ImageScaleFactor>1</ImageScaleFactor>
+                                <ImageRotation>None</ImageRotation>
+                                <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                            </MediaSettings>
+                            <Bookmarks>
+                                <Bookmark BinderUUID="BAA8E03C-5D77-44E2-8CBD-2E4619A0F2C2">Creating a Story pt 9</Bookmark>
+                            </Bookmarks>
+                        </BinderItem>
+                        <BinderItem UUID="CF06A6BD-B85E-4AF4-A746-9E9D61B57B12" Type="Image" Created="2023-06-29 20:44:39 +0100" Modified="2023-06-29 20:44:49 +0100">
+                            <Title>Tut9KeyQuestions</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>png</FileExtension>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <MediaSettings>
+                                <ImageScaleFactor>1</ImageScaleFactor>
+                                <ImageRotation>None</ImageRotation>
+                                <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                            </MediaSettings>
+                            <Bookmarks>
+                                <Bookmark BinderUUID="BAA8E03C-5D77-44E2-8CBD-2E4619A0F2C2">Creating a Story pt 9</Bookmark>
+                            </Bookmarks>
+                        </BinderItem>
+                        <BinderItem UUID="6253787D-20E2-41E4-8251-EC9A01A13E94" Type="Image" Created="2023-06-29 20:57:40 +0100" Modified="2023-06-29 20:58:31 +0100">
+                            <Title>Tut9JoeEdwards</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>png</FileExtension>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <MediaSettings>
+                                <ImageScaleFactor>1</ImageScaleFactor>
+                                <ImageRotation>None</ImageRotation>
+                                <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                            </MediaSettings>
+                            <Bookmarks>
+                                <Bookmark BinderUUID="BAA8E03C-5D77-44E2-8CBD-2E4619A0F2C2">Creating a Story pt 9</Bookmark>
+                            </Bookmarks>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem UUID="A41BA2A1-C599-43C2-99CC-8C1A7FFC2C24" Type="TrashFolder" Created="2019-05-14 19:29:37 +0100" Modified="2019-05-14 19:29:37 +0100">
@@ -4283,12 +4374,12 @@
         </BinderItem>
     </Binder>
     <Collections>
-        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.164706 0.164706 0.164706">
+        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.941176 0.937255 0.956863">
             <Title>Binder</Title>
         </Collection>
-        <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.392157 0.392157 0.392157">
+        <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.901961 0.901961 0.980392">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No">starting</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No">plotting</SearchSettings>
         </Collection>
     </Collections>
     <SectionTypes>
@@ -4348,12 +4439,12 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="5" Characters="41" Date="2023-06-28 21:03:46 +0100"/>
+        <PreviousSession Words="1" Characters="14" Date="2023-06-29 20:58:31 +0100"/>
     </ProjectTargets>
     <BookmarksFolderUUID>07B0D7C6-57CE-4D6F-8AD9-11F06A261A5F</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2023-06-28 00:00:00 +0100">
-        <DraftWordCount>-7</DraftWordCount>
-        <DraftCharCount>-24</DraftCharCount>
+    <RecentWritingHistory Date="2023-06-29 00:00:00 +0100">
+        <DraftWordCount>-13</DraftWordCount>
+        <DraftCharCount>-63</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>

@@ -3,7 +3,7 @@ Preferences <br/>
 
 The Preferences Dialog will be displayed when you press the Preferences button on the Menu Bar: <br/>
 
-![](Prefences-CommandBar-Button-6.png)
+![](Prefences-CommandBar-Button-1.png)
 
 
 
@@ -15,8 +15,7 @@ General tab: <br/>
 
 The name field is used as the default Author on the Story Overview form on new outlines. <br/>
 
-The name and your email address are used as your StoryCAD userid. The email <br/>
-Address is also used with the elmah.io and newsletter options if you select those. <br/>
+The name and your email address are used as your StoryCAD userid. The email address is also used with the elmah.io and newsletter options if you select those. <br/>
 
 The project directory is the default directory for new story outlines. <br/>
 
@@ -49,7 +48,7 @@ Send newsletters - Your email address will be subscribed to the StoryCAD newslet
 
 Wrap node names - Wraps node names in the Story Explorer and Narrator treeviews, if the Name is longer than the treeview’s display width. <br/>
 
-Automatically Save - This function will automatically save your story  story outline every X seconds. It operates exactly as if you’d used File | Save or clicked on the edit button on the status bar.  You’ll see a verification of the save event on the status bar and the edit button will turn green.  <br/>
+Automatically Save - This function will automatically save your story  story outline every X seconds. It operates exactly as if you’d used File > Save or clicked on the edit button on the status bar.  You’ll see a verification of the save event on the status bar and the edit button will turn green.  <br/>
 
 About tab: <br/>
 
