@@ -43,7 +43,7 @@ Your Premise is the answer to the question the Concept poses.   <br/>
 
 Your story can have more than one Problem story element, and every Problem has its own Premise, contained on the Resolution tab. But only one of these problems is your Story Problem, and that Problem  (and its Premise) is the one you select on the Story Overview form, Premise tab: <br/>
 
-![](Clipboard-Image-1.png)
+![](Clipboard-Image-7.png)
 
 The heart of plotted fiction is drama--- a struggle in which the outcome is in doubt. Your Story Problem will lead you to understand whose problem it is (your major character), what her or she want (the goal), and what stands in their way (opposition.) The Story Problem is the wormhole you enter to understand your story. <br/>
 
@@ -97,5 +97,6 @@ Setting and Worldbuilding <br/>
 Creating a narrative <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Narrative View and why it’s distinct from Story Explorer <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Braids <br/>
+ <br/><br/>
 [Previous - Workflow](Workflow.md) <br/><br/>
 [Next up - Problem and Character Development](Problem_and_Character_Development.md)

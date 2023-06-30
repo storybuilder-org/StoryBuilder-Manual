@@ -17,5 +17,6 @@ New Goal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The period of thought le
 
 See "Scene and Sequel" for more information. <br/>
 
+ <br/><br/>
 [Previous - Conflict Tab](Conflict_Tab.md) <br/><br/>
 [Next up - Tools](Tools.md)

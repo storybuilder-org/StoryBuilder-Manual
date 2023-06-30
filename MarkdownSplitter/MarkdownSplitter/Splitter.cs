@@ -214,6 +214,9 @@ namespace MarkdownSplitter
                 sb.AppendLine(CleanupMarkdown($"[{child.Title}]({child.Filename}) <br/><br/>"));
             } //This writes any links
 
+            //add new line between next/prev
+            sb.AppendLine(" <br/><br/>");
+
             //Previous Link
             int index = Array.IndexOf(FilesInOrder, bloc.Header);
             if (index != 0)

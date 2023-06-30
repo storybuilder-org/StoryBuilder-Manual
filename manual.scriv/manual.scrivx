@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="342E5DD6-5812-45AB-982C-E2EAC46CF8EE" Creator="SCRWIN-3.1.5.0" Device="MAXIMA" Modified="2023-06-29 20:58:31 +0100" ModID="8C3E42B0-3907-4665-9BF8-1FF757F1CE7C">
+<ScrivenerProject Template="No" Version="2.0" Identifier="342E5DD6-5812-45AB-982C-E2EAC46CF8EE" Creator="SCRWIN-3.1.5.0" Device="DREAMLAND" Modified="2023-06-30 21:44:26 +0100" ModID="9B8396A4-8644-4774-8119-C708D7CF0467">
     <Binder>
         <BinderItem UUID="9FFBA333-8432-41C1-91F5-1302DFE283CA" Type="Text" Created="2019-05-14 19:29:37 +0100" Modified="2019-05-14 19:29:46 +0100">
             <Title>Non-Fiction Format</Title>
@@ -820,7 +820,7 @@
                                 <Bookmark BinderUUID="D8E5EF86-1D55-4508-9F51-2CE5BA5360D6">Reports</Bookmark>
                             </Bookmarks>
                         </BinderItem>
-                        <BinderItem UUID="511690CC-E159-4B8D-B212-94DC0A9BF5AE" Type="Text" Created="2023-01-28 07:11:03 +0100" Modified="2023-01-30 15:45:25 +0100">
+                        <BinderItem UUID="511690CC-E159-4B8D-B212-94DC0A9BF5AE" Type="Text" Created="2023-01-28 07:11:03 +0100" Modified="2023-06-30 21:43:37 +0100">
                             <Title>Scrivener Reports</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -828,7 +828,7 @@
                                 <NotesTextSelection>43,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>342,0</TextSelection>
                             </TextSettings>
                             <Bookmarks>
                                 <Bookmark BinderUUID="D8E5EF86-1D55-4508-9F51-2CE5BA5360D6">Reports</Bookmark>
@@ -2277,7 +2277,7 @@
                         <Bookmark BinderUUID="D8E5EF86-1D55-4508-9F51-2CE5BA5360D6">Reports</Bookmark>
                     </Bookmarks>
                 </BinderItem>
-                <BinderItem UUID="4A68CC97-601D-4478-BF3C-CFB520D9790C" Type="Image" Created="2022-04-20 11:09:07 +0100" Modified="2022-04-20 11:09:07 +0100">
+                <BinderItem UUID="4A68CC97-601D-4478-BF3C-CFB520D9790C" Type="Image" Created="2022-04-20 11:09:07 +0100" Modified="2023-06-30 21:43:29 +0100">
                     <Title>Scrivener Reports Generated Status Message</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -2289,6 +2289,9 @@
                         <ImageRotation>None</ImageRotation>
                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                     </MediaSettings>
+                    <Bookmarks>
+                        <Bookmark BinderUUID="511690CC-E159-4B8D-B212-94DC0A9BF5AE">Scrivener Reports</Bookmark>
+                    </Bookmarks>
                 </BinderItem>
                 <BinderItem UUID="9EE6A891-D791-4C9C-AA46-AFE8152D0FE3" Type="Image" Created="2022-04-20 11:09:07 +0100" Modified="2023-04-01 09:54:36 +0100">
                     <Title>Scrivener Split Screen with StoryCAD</Title>
@@ -4374,12 +4377,12 @@
         </BinderItem>
     </Binder>
     <Collections>
-        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.941176 0.937255 0.956863">
+        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.164706 0.164706 0.164706">
             <Title>Binder</Title>
         </Collection>
-        <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.901961 0.901961 0.980392">
+        <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.392157 0.392157 0.392157">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No">plotting</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No">scrive</SearchSettings>
         </Collection>
     </Collections>
     <SectionTypes>
@@ -4439,12 +4442,12 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="1" Characters="14" Date="2023-06-29 20:58:31 +0100"/>
+        <PreviousSession Words="0" Characters="2" Date="2023-06-30 21:44:26 +0100"/>
     </ProjectTargets>
     <BookmarksFolderUUID>07B0D7C6-57CE-4D6F-8AD9-11F06A261A5F</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2023-06-29 00:00:00 +0100">
-        <DraftWordCount>-13</DraftWordCount>
-        <DraftCharCount>-63</DraftCharCount>
+    <RecentWritingHistory Date="2023-06-30 00:00:00 +0100">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>-1</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>

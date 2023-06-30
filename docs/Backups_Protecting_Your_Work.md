@@ -16,5 +16,6 @@ To revert to a backup, simply click on the .stbx file of your choice and use Fil
 
 See Preferences in this manual for further information. <br/>
 
+ <br/><br/>
 [Previous - Miscellaneous](Miscellaneous.md) <br/><br/>
 [Next up - Developing StoryCAD](Developing_StoryCAD.md)

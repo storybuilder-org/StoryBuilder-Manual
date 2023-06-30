@@ -34,5 +34,6 @@ We have now got a map of our fictional word and can start planning our story aro
 
 Note: The Website Form requires the Microsoft Edge WebView 2 runtime, most &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Windows computers will already have this installed by default however if you are for any reason missing it, StoryCAD will ask to install it for you. <br/>
 
+ <br/><br/>
 [Previous - Researching your story](Researching_your_story.md) <br/><br/>
 [Next up - Notes Form](Notes_Form.md)

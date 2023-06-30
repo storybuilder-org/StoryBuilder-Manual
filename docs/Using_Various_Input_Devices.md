@@ -13,5 +13,6 @@ Touchpad&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Right Touchpad button <b
 The menu key(sometimes called document key) looks like this:  <br/>
 
 ![](Keyboard-Right-Mouse-Key.png)
+ <br/><br/>
 [Previous - Quick Start](Quick_Start.md) <br/><br/>
 [Next up - Starting and Stopping StoryCAD](Starting_and_Stopping_StoryCAD.md)

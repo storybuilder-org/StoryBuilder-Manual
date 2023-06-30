@@ -21,5 +21,6 @@ Story Idea&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 
 
 
+ <br/><br/>
 [Previous - Story Overview Form](Story_Overview_Form.md) <br/><br/>
 [Next up - Concept Tab](Concept_Tab.md)
