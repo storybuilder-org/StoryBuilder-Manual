@@ -1,4 +1,5 @@
-﻿using System.Diagnostics;
+﻿using System.ComponentModel;
+using System.Diagnostics;
 using System.Text;
 
 namespace MarkdownSplitter
@@ -36,7 +37,7 @@ namespace MarkdownSplitter
         private string docsFolder = @"docs";
         private string splitMarker = "#";
         private readonly Block[] level = new Block[7];
-        // private List<string> toc = new();
+        private string[] FilesInOrder;
 
         /// <summary>
         /// Creates an empty github pages (/docs) folder
@@ -105,6 +106,8 @@ namespace MarkdownSplitter
             // parent block is the level just above its level.
             Block current = new Block("");
             level[0] = current;   // level zero is the table of contents.
+
+            FilesInOrder = markdown.Where(str => str.StartsWith("#")).ToArray();
 
             foreach (string line in markdown)
             {
@@ -210,6 +213,21 @@ namespace MarkdownSplitter
             {
                 sb.AppendLine(CleanupMarkdown($"[{child.Title}]({child.Filename}) <br/><br/>"));
             } //This writes any links
+
+            //Previous Link
+            int index = Array.IndexOf(FilesInOrder, bloc.Header);
+            if (index != 0)
+            {
+                Block bk = new(FilesInOrder[index - 1]);
+                sb.AppendLine($"[Previous - {bk.Title}]({ bk.Filename }) <br/><br/>");
+            }
+
+            //Next Link
+            if (index < FilesInOrder.Length - 1)
+            {
+                Block bk = new(FilesInOrder[index + 1]);
+                sb.AppendLine($"[Next up - {bk.Title}]({bk.Filename})");
+            }
 
             File.WriteAllText(Path.Combine(docsFolder, bloc.Filename),
                 sb.ToString()); //This actually writes the file.

@@ -97,3 +97,5 @@ Setting and Worldbuilding <br/>
 Creating a narrative <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Narrative View and why it’s distinct from Story Explorer <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Braids <br/>
+[Previous - Workflow](Workflow.md) <br/><br/>
+[Next up - Problem and Character Development](Problem_and_Character_Development.md)

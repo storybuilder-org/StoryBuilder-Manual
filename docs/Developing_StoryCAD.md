@@ -25,3 +25,5 @@ Developer Notes <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;- Attempt to launch the app again <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;- The first instance of the app should now be brought on top of all the window <br/>
 
+[Previous - Backups: Protecting Your Work](Backups_Protecting_Your_Work.md) <br/><br/>
+[Next up - Back Matter](Back_Matter.md)

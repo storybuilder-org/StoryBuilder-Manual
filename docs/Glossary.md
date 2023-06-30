@@ -510,15 +510,15 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Danger-Calls-Denouement]: Danger-Calls-Denouement.png width=653px height=469px <br/>
 
-[Research-Tutorial9-Tut9JoeEdwards]: Research-Tutorial9-Tut9JoeEdwards.png width=680px height=487px <br/>
+[Tut9JoeEdwards]: Tut9JoeEdwards.png width=680px height=487px <br/>
 
-[Research-Tutorial9-Tut9StockScenesTwists]: Research-Tutorial9-Tut9StockScenesTwists.png width=475px height=667px <br/>
+[Tut9StockScenesTwists]: Tut9StockScenesTwists.png width=475px height=667px <br/>
 
-[Research-Tutorial9-Tut9StockSceneInserted]: Research-Tutorial9-Tut9StockSceneInserted.png width=680px height=487px <br/>
+[Tut9StockSceneInserted]: Tut9StockSceneInserted.png width=680px height=487px <br/>
 
-[Research-Tutorial9-Tut9ReorderedPlotline]: Research-Tutorial9-Tut9ReorderedPlotline.png width=561px height=403px <br/>
+[Tut9ReorderedPlotline]: Tut9ReorderedPlotline.png width=561px height=403px <br/>
 
-[Research-Tutorial9-Tut9KeyQuestions]: Research-Tutorial9-Tut9KeyQuestions.png width=561px height=403px <br/>
+[Tut9KeyQuestions]: Tut9KeyQuestions.png width=561px height=403px <br/>
 
 [Clipboard-Image-1]: Clipboard-Image-1.png width=491px height=171px <br/>
 
@@ -557,3 +557,4 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 [Clipboard-Image-5]: Clipboard-Image-5.png width=543px height=281px <br/>
 
 [Clipboard-Image-6]: Clipboard-Image-6.png width=568px height=355px <br/>
+[Previous - Back Matter](Back_Matter.md) <br/><br/>

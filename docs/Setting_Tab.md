@@ -20,3 +20,5 @@ Props&nbsp;&nbsp;&nbsp;&nbsp;These elements make the scene specific for the char
 
 If a setting is used in multiple scenes, but the significance of the setting changes, with a different atmosphere or props, you may want to create a separate outline entry for the new setting. <br/>
 
+[Previous - Setting Form](Setting_Form.md) <br/><br/>
+[Next up - Sensations Tab](Sensations_Tab.md)

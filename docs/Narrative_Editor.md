@@ -16,3 +16,5 @@ The Narrative view is different from the Explorer view and contains only Scenes 
 
 The Done button closes the Narrative Editor when you’re finished. <br/>
 
+[Previous - Tools](Tools.md) <br/><br/>
+[Next up - Key Questions](Key_Questions.md)

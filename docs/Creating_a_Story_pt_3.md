@@ -33,3 +33,5 @@ Neither of these problems are fleshed out, but we’ll work on that in a minute.
 
 
 
+[Previous - Creating a Story pt 2](Creating_a_Story_pt_2.md) <br/><br/>
+[Next up - Creating a Story pt 4](Creating_a_Story_pt_4.md)

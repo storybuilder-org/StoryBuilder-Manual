@@ -54,3 +54,5 @@ Unlike Dramatic Situations, this tool works just with Scenes. One use is to help
 
 
 
+[Previous - Plotting in Scenes](Plotting_in_Scenes.md) <br/><br/>
+[Next up - Plotting with StoryCAD](Plotting_with_StoryCAD.md)
