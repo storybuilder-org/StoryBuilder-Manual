@@ -1421,8 +1421,6 @@ The copy function populated the Scene folder with a series of plot points which 
 #
 
 Although these are Scene story elements, they are not scenes, but placeholders: a reminder of things that your scenes need to do,   and roughly the order they need to do them in. In short, they are the structure of your story, its spine. Since your story is centered on one of your Problems, the main Story Problem, the story’s structure is the structure of that problem.  </Text>
-            <Notes>
-</Notes>
         </Document>
         <Document ID="4D7CA8B4-0659-4AC0-81D3-45651FEBD0B7">
             <Title>Concept Tab</Title>
@@ -2329,7 +2327,8 @@ A problem resolves in one of two ways: successfully or not. Both have their plac
 
 The protagonist may not initially be aware of his need (this is common in stories of discovery).  The antagonist may not even be human, but a force or process or situation.  But all problems have the elements of goal, motivation, and conflict.
 
-A story can  and usually will have multiple problems, but only one of them is the main story problem. When that problem is resolved, the story is over.</Text>
+A story can  and usually will have multiple problems, but only one of them is the main story problem. When that problem is resolved, the story is over.
+</Text>
         </Document>
         <Document ID="758594EB-4005-4184-A4B3-3301CB58CF79">
             <Title>Cover</Title>
@@ -3789,6 +3788,19 @@ Tone						Tone indicates the mood or impression you wish the reader to feel.</Te
         <Document ID="D553C999-C896-4982-96B1-8F43723416C3">
             <Title>Opening Scene - Conflict</Title>
         </Document>
+        <Document ID="D64A6489-7F19-41BB-8676-14D429F6E0F4">
+            <Title>Getting Started</Title>
+            <Text>The best way to learn StoryCAD is to try it (it's free.) It comes with a number of compnents to ease your learning path:
+User Manual
+A comprehensive user manual can be found online and can also be accessed within StoryCAD from the help button on the menu bar.
+Samples
+StoryCAD ships with a handful of outlines as StoryCAD projects for you to study. If you wish to try your hand at changing one, we suggest copying it to a work location using the Save As menu function.
+Tutorial
+The User Manual contains a chapter which walks through the creation of a story outline from beginning to end. Create a new, empty outline in StoryCAD and flesh it out as the tutorial proceeds. The samples set contains the tutorial (Danger Calls), so you can compare what you created to what we did.
+Online Help
+StoryCAD's menu bar contains a Help ('?') button which launches the user manual.
+[Our YouTube channel also contains helpful videos that you may find useful](https://www.youtube.com/@TeamStoryBuilder)</Text>
+        </Document>
         <Document ID="D8D809E6-FF72-4372-A63F-33B45CB33C37">
             <Title>Setting Tab</Title>
             <Synopsis>SESETTING</Synopsis>
@@ -3953,6 +3965,17 @@ This chapter describes the Scene form, which is used to define and manipulate th
 
 </Text>
             <Notes>PLOT</Notes>
+        </Document>
+        <Document ID="E90CAACE-4150-4AF0-82C9-5F6300A13836">
+            <Title>About StoryCAD</Title>
+            <Text>StoryCAD is a software tool for fiction writers, whose purpose is to assist in creating the outline of a story. Think of a shopping list organized by aisle as an outline of a trip to the grocery store. The outline of your story is similar, but instead of bread and onions, the major parts in your story's list are 'story elements', such as characters, the conflicts that drive the story, your plot structure (scenes), and settings.
+Story elements are the building blocks of stories. They're taught in classes and writer's workshops, distilled in a story summary or synopsis, and they're what readers describe when discuss a story. They're also what you'll ponder, agonize over, and dream and have nightmares about.
+Each story element is a tangible object; you can describe it, break it down into smaller parts, and analyze it on its own. Is a character lifelike? Does he have agency? Does a setting contribue to the story's theme, or does it detract? Is your list of scenes linked by cause and effect? Does a scene have drama of its own? In StoryCAD, these story elements are created from templates- forms which organize and assist in thinking about that particular aspect of your story.
+Elements are also fungible: they can be readily changed, moved around, or even thrown out and replaced with something better.
+Once you understand story elements this way, you can think of them as parts in your story factory, designing them and fitting them together, or modifying them to better fit your design. You can even copy characters and settings from one story to another or into shared story worlds.
+StoryCAD operates somewhat like a File Explorer, but instead of a hierarch of files and folders, StoryCAD's hierarchy is major story elements, which can be added, deleted, or rearranged. Each major story element- Problem, Character, Setting, and Scene- contain tabs which provide a progression or workflow to develop it. StoryCAD lets you focus on each story element separately, which simplifies the outlining process.
+StoryCAD also provides thousands of examples for dozens of smaller story elements, in the form of pull-down lists of choices, although you're generally not required to stick to them. The examples aren't there to limit your imagination, but to encourage it; to eliminate writer's block. Together with StoryCAD's extensive documentation, they provide a short course in fiction writing. We believe that every story idea can be developed into a complete outline, ready for you to apply your unique voice and style from first draft to submission.
+StoryCAD is Open-Source, meaning that it’s [source code](https://github.com/storybuilder-org/StoryCAD) is publicly and freely available and even if you can’t tell C-Sharp from B-Flat, you can still contribute to StoryCAD by reporting issues preferably on our GitHub repository or by emailing us.</Text>
         </Document>
         <Document ID="EA704E1F-1143-4DEB-A796-8C0849210B8C">
             <Title>Tools</Title>
