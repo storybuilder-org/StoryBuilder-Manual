@@ -214,22 +214,33 @@ namespace MarkdownSplitter
                 sb.AppendLine(CleanupMarkdown($"[{child.Title}]({child.Filename}) <br/><br/>"));
             } //This writes any links
 
-            //add new line between next/prev
+            //Insert blank line before next/prev for clarity purpose.
             sb.AppendLine(" <br/><br/>");
 
-            //Previous Link
             int index = Array.IndexOf(FilesInOrder, bloc.Header);
             if (index != 0)
             {
                 Block bk = new(FilesInOrder[index - 1]);
-                sb.AppendLine($"[Previous - {bk.Title}]({ bk.Filename }) <br/><br/>");
+                //We shouldn't link to the front page since its not useful to user.
+                if (bk.Filename == "Front_Page_(Image).md")
+                {
+                    sb.AppendLine($"[Previous - Front matter](Front_Matter.md) <br/><br/>");
+                }
+                else { sb.AppendLine($"[Previous - {bk.Title}]({bk.Filename}) <br/><br/>"); }
             }
 
             //Next Link
             if (index < FilesInOrder.Length - 1)
             {
                 Block bk = new(FilesInOrder[index + 1]);
-                sb.AppendLine($"[Next up - {bk.Title}]({bk.Filename})");
+
+                //We shouldn't link to the front page since its not useful to user.
+                if (bk.Filename == "Front_Page_(Image).md")
+                {
+                    sb.AppendLine($"[Next up - Preface](Preface.md)");
+                }
+                else { sb.AppendLine($"[Next up - {bk.Title}]({bk.Filename})"); }
+                
             }
 
             File.WriteAllText(Path.Combine(docsFolder, bloc.Filename),
