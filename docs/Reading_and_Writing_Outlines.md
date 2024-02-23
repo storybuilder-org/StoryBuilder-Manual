@@ -18,11 +18,7 @@ This dialog will by default display recently opened outlines. Clicking on Open s
 
 ![](Create-New-Outline-Dialog.png)
   <br/>
-<<<<<<< HEAD
 Clicking on Sample Stories on the left tab displays a list of sample outlines installed with StoryCAD for you to play with. If you intend to change a sample, we recommend saving it to a different location before doing so. <br/>
-=======
-Clicking on Sample Stories on the left tab displays a list of sample outlines installed with StoryBuilder for you to play with. If you intend to change a sample, we recommend saving it to a different location before doing so. <br/>
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 
 Only one story outline can be open at a time.  If you open a new file you'll be prompted to save the current file first if it’s been modified. <br/>
 

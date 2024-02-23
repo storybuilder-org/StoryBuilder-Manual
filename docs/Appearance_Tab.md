@@ -5,10 +5,6 @@ The Appearance tab is a companion to the Physical tab. <br/>
 
 Use this note area to describe your character's looks, style of dress and movement, and the impression he leaves.   <br/>
 
-<<<<<<< HEAD
-=======
-![](Clipboard-Image-18.png)
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 
 ![](CharAppearanceTab.png)
 

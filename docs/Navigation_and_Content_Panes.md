@@ -22,13 +22,8 @@ Two more assist in researching your story: <br/>
 There’s also a Trashcan node which is the parent for other nodes you wish to discard. <br/>
 
 Clicking (or touching) a Story Element node on the Navigation Pane will display that Story Element’s  content in the Content Panel. Each Story Element type has its own form; the major ones are tabbed. <br/>
-<<<<<<< HEAD
 ![](ContentPane.png)
 
-=======
-
-![](Danger-Calls-Shootout.png)
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 
 
 On some screen sizes and orientations the Navigation and Content panes may be stacked with the Navigation pane above the Content pane. In those cases the Show/Hide Navigation button (the hamburger menu button) acts differently; it toggles from the Navigation Pane to the Content Pane and back. <br/>
@@ -38,15 +33,6 @@ On some screen sizes and orientations the Navigation and Content panes may be st
 
 Your outline has only one Story Overview; it’s created automatically when you open or create a new outline. The Story Overview is the root of the Navigation Pane tree, and all other Story Elements are below it.  <br/>
 
-<<<<<<< HEAD
 Every major form also has a full-page tab (labeled Notes) which holds your general notes and thoughts regarding the story element. We won’t talk about these again; just be aware that they’re there. <br/>
 
 
-=======
-Every majfor form also has a full-page tab (labeled Notes) which holds your general notes and thoughts regarding the story element. We won’t talk about these again; just be aware that they’re there. <br/>
-
-
- <br/>
- <br/>
-[Prev](Menu_Bar.md)[Next](Status_Bar.md) <br/>
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes

@@ -13,11 +13,7 @@ If you select the Print Reports option, a dialog will appear which allows you to
 #
 
 
-<<<<<<< HEAD
 On Windows 11 systems, StoryCAD provides a Print Manager which allows you to select a printer and its options, and to display reports in a Print Preview window:
-=======
-On Windows 11 systems, StoryBuilder provides a Print Manager which allows you to select a printer and its options, and to display reports in a Print Preview window:
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 
 #
 
@@ -100,13 +96,8 @@ Notes
 There’s also a Trashcan node which is the parent for other nodes you wish to discard.
 
 Clicking (or touching) a Story Element node on the Navigation Pane will display that Story Element’s  content in the Content Panel. Each Story Element type has its own form; the major ones are tabbed.
-<<<<<<< HEAD
 #
 
-=======
-
-#
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 
 
 On some screen sizes and orientations the Navigation and Content panes may be stacked with the Navigation pane above the Content pane. In those cases the Show/Hide Navigation button (the hamburger menu button) acts differently; it toggles from the Navigation Pane to the Content Pane and back.
@@ -116,11 +107,7 @@ On some screen sizes and orientations the Navigation and Content panes may be st
 
 Your outline has only one Story Overview; it’s created automatically when you open or create a new outline. The Story Overview is the root of the Navigation Pane tree, and all other Story Elements are below it. 
 
-<<<<<<< HEAD
 Every major form also has a full-page tab (labeled Notes) which holds your general notes and thoughts regarding the story element. We won’t talk about these again; just be aware that they’re there.
-=======
-Every majfor form also has a full-page tab (labeled Notes) which holds your general notes and thoughts regarding the story element. We won’t talk about these again; just be aware that they’re there.
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 
 </Text>
         </Document>
@@ -129,12 +116,9 @@ Every majfor form also has a full-page tab (labeled Notes) which holds your gene
             <Text>
 #</Text>
         </Document>
-<<<<<<< HEAD
         <Document ID="02C0475A-61CB-4C0F-9549-099F56DAAB6C">
             <Title>PlottingWithStoryCADOldManSixScenes</Title>
         </Document>
-=======
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
         <Document ID="03B0FDDB-9ACB-44C2-A3F3-300AE9F9A60C">
             <Title>Preferences Whats New tb</Title>
         </Document>
@@ -208,12 +192,7 @@ General tab:
 
 The name field is used as the default Author on the Story Overview form on new outlines.
 
-<<<<<<< HEAD
-The name and your email address are used as your StoryCAD userid. The email
-=======
-The name and your email address are used as your StoryBuilder userid. The email
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
-Address is also used with the elmah.io and newsletter options if you select those.
+The name and your email address are used as your StoryCAD userid. The email address is also used with the elmah.io and newsletter options if you select those.
 
 The project directory is the default directory for new story outlines.
 
@@ -223,11 +202,7 @@ Backup tab:
 
 #
 
-<<<<<<< HEAD
 StoryCAD backups are  zip files containing your .stbx outline. 
-=======
-StoryBuilder backups are  zip files containing your .stbx outline. 
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 
 The backup directory is the folder which will hold your backups. It holds a subfolder for each outline (.stbx file) you’ve backed up; the subfolder has the individual backups of your outline:
 
@@ -244,19 +219,13 @@ Other tab:
 #
 
 Send error logs - This option uses a service, elmah.io, which collects error data and provides us with a log which gives us an idea of what happened. This information includes your your email so that we can follow up for more information if needed. Your outline data is not not retained or forwarded and no
-<<<<<<< HEAD
 information is shared with anyone outside of Team StoryCAD.
 
 Send newsletters - Your email address will be subscribed to the StoryCAD newsletter, which is usually sent about once a month.
-=======
-information is shared with anyone outside of Team StoryBuilder.
-
-Send newsletters - Your email address will be subscribed to the StoryBuilder newsletter, which is usually sent about once a month.
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 
 Wrap node names - Wraps node names in the Story Explorer and Narrator treeviews, if the Name is longer than the treeview’s display width.
 
-Automatically Save - This function will automatically save your story  story outline every X seconds. It operates exactly as if you’d used File | Save or clicked on the edit button on the status bar.  You’ll see a verification of the save event on the status bar and the edit button will turn green. 
+Automatically Save - This function will automatically save your story  story outline every X seconds. It operates exactly as if you’d used File &gt; Save or clicked on the edit button on the status bar.  You’ll see a verification of the save event on the status bar and the edit button will turn green. 
 
 About tab:
 
@@ -264,7 +233,6 @@ About tab:
 
 This tab identifies the current version.
 
-<<<<<<< HEAD
 The logs folder is a subfolder of the installation folder. It contains a list of the most recent log files written by StoryCAD (one file per day.)
 
 #
@@ -272,15 +240,6 @@ The logs folder is a subfolder of the installation folder. It contains a list of
 These files contain operational logs of StoryCAD sessions and if you’ve enabled exception reporting we may ask you to forward the log relevant to a reported exception, at your discretion.
 
 The Discord server is the community meeting place for StoryCAD users; we urge you to join us.
-=======
-The logs folder is a subfolder of the installation folder. It contains a list of the most recent log files written by StoryBuilder (one file per day.)
-
-#
-
-These files contain operational logs of StoryBuilder sessions and if you’ve enabled exception reporting we may ask you to forward the log relevant to a reported exception, at your discretion.
-
-The Discord server is the community meeting place for StoryBuilder users; we urge you to join us.
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 
 What’s New tab:
 
@@ -306,6 +265,9 @@ The What’s New tab displays the Changelog for the current release. </Text>
         </Document>
         <Document ID="085520A0-CDA4-4161-9433-9EB1DC2EA6E9">
             <Title>Lacas Psychological</Title>
+        </Document>
+        <Document ID="086846ED-66E7-4691-9F83-01CEDA6910DF">
+            <Title>Tut9StockScenesTwists</Title>
         </Document>
         <Document ID="0879F6E1-F2D5-4031-87A2-F79264BC2286">
             <Title>Character Flaw Tab</Title>
@@ -403,11 +365,7 @@ Goal, Motivation, Conflict Builder, Conflict
         <Document ID="0DA85121-D2EF-42BB-A1E1-97E6185680C3">
             <Title>Creating a Story pt 8</Title>
             <Synopsis>TUTOR08</Synopsis>
-<<<<<<< HEAD
             <Text>Having developed the characters better, we can return to the plot.  So far we have a skeleton plot, created with the Master Plots tool, and have added a couple of specific scenes, an opening scene and a climax. Our goal is to replace the rest of the skeleton plot points with specific scenes, not in count but in content and shape. Having a beginning and an ending is a good start. Every story is a journey. Of course, you're not bound to follow the skeleton, but our goal here is to illustrate StoryCAD's tools.  
-=======
-            <Text>Having developed the characters better, we can return to the plot.  So far we have a skeleton plot, created with the Master Plots tool, and have added a couple of specific scenes, an opening scene and a climax. Our goal is to replace the rest of the skeleton plot points with specific scenes, not in count but in content and shape. Having a beginning and an ending is a good start. Every story is a journey. Of course, you're not bound to follow the skeleton, but our goal here is to illustrate StoryBuilder's tools.  
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 
 Let’s return to our opening scene (‘He’s like a ghost’) for a moment. .  Both scenes and problems are miniature stories in their own right. The Scene form contains several tabs, Development and Conflict, that address what might be called ‘intra-scene plotting.’  Here’s the use of the Development tab:
 
@@ -440,11 +398,7 @@ We’ve added two scenes after Shootout, ‘Tony updates Leonard on the aftermat
 
 These changes, in the climax scene, Shootout, and a better understanding of the second sub-problem, are typical of what occurs when you’re plotting in scenes. Your story, whether a novel or a short story or an episodic television script, is a series of events which are process the problems your protagonist is trying to solve, and which are linked by cause and effect. Understanding your problems, and using story structure, are the workflow that drives your plotting process.
 
-<<<<<<< HEAD
 Danger Calls is melodramatic and its characters aren’t as well drawn as they should be, but this exercise has been meant to show how an idea can evolve via a repeatable process into a workable story outline, and how StoryCAD can help you do that. The following section of the manual, Writing with StoryCAD, elaborates on this process, but the best way to learn is to do, making your own mistakes and solving your own problems. We hope StoryCAD helps you in your writing journey.
-=======
-Danger Calls is melodramatic and its characters aren’t as well drawn as they should be, but this exercise has been meant to show how an idea can evolve via a repeatable process into a workable story outline, and how StoryBuilder can help you do that. The following section of the manual, Writing with StoryBuilder, elaborates on this process, but the best way to learn is to do, making your own mistakes and solving your own problems. We hope StoryBuilder helps you in your writing journey.
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 </Text>
         </Document>
         <Document ID="0E751959-7570-49F0-B8F8-180DCCFFA8DB">
@@ -460,15 +414,9 @@ Danger Calls is melodramatic and its characters aren’t as well drawn as they s
             <Title>Researching your story</Title>
             <Text>Researching your Story
 
-<<<<<<< HEAD
 In the lifecycle of a story, StoryCAD is often used in the steps leading towards a first draft. These steps normally include research, particularly for world-building. 
 
 To help you plan out your story better, StoryCAD contains two nodes dedicated to research. These are Website and Notes Forms and allow you store websites and your thoughts respectively.</Text>
-=======
-In the lifecycle of a story, StoryBuilder is often used in the steps leading towards a first draft. These steps normally include research, particularly for world-building. 
-
-To help you plan out your story better, StoryBuilder contains two nodes dedicated to research. These are Website and Notes Forms and allow you store websites and your thoughts respectively.</Text>
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
         </Document>
         <Document ID="13E96C90-ECB3-4A69-877E-AE3946EA425B">
             <Title>Editing Menu Popup.bmp</Title>
@@ -714,11 +662,7 @@ This button toggles the Navigation Pane to either display or be hidden. Hiding t
 
 #
 
-<<<<<<< HEAD
 (Hint: StoryCAD detects and reports spelling errors on most text fields.)</Text>
-=======
-(Hint: StoryBuilder detects and reports spelling errors on most text fields.)</Text>
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
             <Notes>HELP</Notes>
         </Document>
         <Document ID="21367FCF-411C-4F60-AC86-6F91F91E357D">
@@ -732,12 +676,9 @@ This button toggles the Navigation Pane to either display or be hidden. Hiding t
 
 Clicking Generate will cause all of the selected reports to print on your default printer.</Text>
         </Document>
-<<<<<<< HEAD
         <Document ID="227FF3CA-13BE-44A4-A7C2-DA6C48AA2DEB">
             <Title>PlottingWithStoryCADOldManCharArc</Title>
         </Document>
-=======
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
         <Document ID="24ABF437-9E82-4D33-BDB9-3D80F57A0E12">
             <Title>Social Tab</Title>
             <Text>Social Tab
@@ -838,17 +779,10 @@ any more, or she discovers something that changes the situation- usually
 something about herself. It's important that your protagonist takes
 her fate in her own hands and solve, or try to solve, her own problem.
 Having the calvary ride up at the last minute is no longer acceptable.
-<<<<<<< HEAD
 
 
 Our ‘Escape’ scene under the ‘Leonard’s impulsiveness lets Lacas capture him’ problem is this part of the story’s structure as well. 
 
-=======
-
-
-Our ‘Escape’ scene under the ‘Leonard’s impulsiveness lets Lacas capture him’ problem is this part of the story’s structure as well. 
-
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 Plotting is usually the last thing in story design to worry about, for several reasons.  The characters should be well defined, so that their actions are consistent with their natures.  The story problems should also be clearly understood, especially the resolutions.  Every problem is a story in miniature; plotting a story is largely a matter of arranging events from one or more problems into a satisfactory sequence.  But writing is a process of accumulation, and the ideas which you collect to create your story concept can come to you at any time.  If you visualize a scene.
 </Text>
             <Notes>TUTOR06</Notes>
@@ -889,17 +823,11 @@ Story Narrator View is the view you’ll use when you’re ready to structure yo
         <Document ID="2DD85FEB-3231-419C-890D-FDE83A7EEA93">
             <Title>Danger Calls - Denouement</Title>
         </Document>
-<<<<<<< HEAD
         <Document ID="2E560FAA-912D-4F09-A43C-D30515D2395D">
             <Title>WebElementOverview</Title>
         </Document>
-=======
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
         <Document ID="2F6B587C-0A26-4CF9-8D14-E3A587E0081F">
             <Title>Plotting with StoryCAD - Story Problem MasterPlots Scene list</Title>
-        </Document>
-        <Document ID="301C3F47-4306-459B-8916-14AACD9B6B04">
-            <Title>Danger Calls Narrative Hook</Title>
         </Document>
         <Document ID="301C3F47-4306-459B-8916-14AACD9B6B04">
             <Title>Danger Calls Narrative Hook</Title>
@@ -964,10 +892,6 @@ You can move a scene from Story Explorer to Story Narrator at any time with the 
 Once you open the Narrative Editor, it will look similar to this. On one side you will the Story Explorer View (The view where you plan your story) and the Narrator View (This is the view that shows your story as it’s told.) 
 
 #
-<<<<<<< HEAD
-=======
-
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 The Narrative view is different from the Explorer view and contains only Scenes and Sections. Along the bottom there are several buttons:
 
 Add Scene - Adds a node from the Story Explorer View (Only scenes and folders can be copied over, other types will not be copied over)
@@ -1133,17 +1057,10 @@ A trait is a distinguishing quality.  Unlike Psychological qualities which are h
             <Title>Notes Form</Title>
             <Text>Notes Form
 
-<<<<<<< HEAD
 Notes forms can be used to store any information you wish anywhere in the outline, this can be useful for writing down background information about your characters.
 
 
 #</Text>
-=======
-Notes forms can be used to store any information you wish anywhere in the outline.
-
-#
-</Text>
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
         </Document>
         <Document ID="347BA8FF-F1CE-45C8-8D1D-E0767BBC6B6E">
             <Title>Using Various Input Devices</Title>
@@ -1152,21 +1069,12 @@ Notes forms can be used to store any information you wish anywhere in the outlin
 You can use a wide range of input devices with StoryCAD:  keyboard, virtual keyboard, pen or stylus, mouse, and touch, depending on your computer or tablet ‘s capabilities.
 Invoke pop-up menus using the following actions:
 
-
-Input
-Action
-Mouse
-Right click
-Keyboard
-Menu key (see below)
-Touch
-Long press on item
-Pen
-Barrel button press, long press on item
-Touchpad
-Right Touchpad button
-
-
+Input		Action
+Mouse		Right Click
+Keyboard		Menu Key (see below)
+Touch		Long Press on item
+Pen		Barrel Button Press or Long Press on item
+Touchpad		Right Touchpad button
 The menu key(sometimes called document key) looks like this: 
 
 #</Text>
@@ -1238,15 +1146,9 @@ This chapter discusses the importance of setting, and describes StoryCAD's suppo
 
 We suggest you first use this manual to try to find the information you’re looking for.
 
-The StoryBuilder Discord Server (a link can be found on the main menu’s Preferences | About tab) contains a ‘frequently-asked-questions’ channel, and a ‘writers-chat’ channel.
+[The StoryBuilder Discord Server](https://discord.gg/g7jjtgBKsQ) contains a ‘frequently-asked-questions’ channel, and a ‘writers-chat’ channel.
 
-<<<<<<< HEAD
 Currently StoryCAD’s only direct support mechanism is to email support@storybuilder.org.
-=======
-Currently StoryBuilder’s only direct support mechanism is to email support@storybuilder.org.
-
-We plan to provide an on-line help request form as soon as possible.
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 
 We plan to provide an on-line help request form as soon as possible.
 
@@ -1508,11 +1410,7 @@ The Premise is the same as the inner problem, with the extract bit (scene) added
 
 Most stories have more than one problem, but an important thing to keep in mind is that only one of them is the story problem. The story problem’s easy to recognize: when it’s resolved: the story is over. Failure to understand that will lead to an unsatisfactory conclusion. The other Problem story elements must support that Problem, in various ways: inner vs. Outer problem, as a subplot, etc. If a Problem doesn’t relate to the story problem, it doesn’t belong to this story. The main problem is often implicit in the original story idea, but not always. You may find out which question your story is going to answer only after exploring the various problems.
 
-<<<<<<< HEAD
 StoryCAD acknowledges the need for a main story problem by having you pick the Problem that is your story problem, back on the Overview node. Overview’s Premise tab looks like this:
-=======
-StoryBuilder acknowledges the need for a main story problem by having you pick the Problem that is your story problem, back on the Overview node. Overview’s Premise tab looks like this:
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 
 #
 
@@ -1601,11 +1499,7 @@ Can two friends sleep together and still love each other in the morning?
         <Document ID="4E6195D2-E458-4FD3-B12B-0DF2F5B1BD5B">
             <Title>ChangeLog Pop-up</Title>
             <Text>ChangeLog Pop-up
-<<<<<<< HEAD
 When you update StoryCAD to a new version, a ChangeLog window will be shown. This will summarise what has changed in this update and which developer made that change.
-=======
-When you update StoryBuilder to a new version, a ChangeLog window will be shown. This will summarise what has changed in this update and which developer made that change.
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 #
 
 If you decide you want to see this popup again, you can access it in Preferences.
@@ -1656,13 +1550,14 @@ The other senses are often neglected but can be very important.  Smells in parti
         <Document ID="511690CC-E159-4B8D-B212-94DC0A9BF5AE">
             <Title>Scrivener Reports</Title>
             <Text>Scrivener Reports
-<<<<<<< HEAD
 
 If you use Scrivener, clicking Scrivener Reports will open a file picker to allow you to select a Scrivener .scrivx file from a Scrivener project. The Scrivener project you select is the one you’ll be writing your draft in, and it must have been created before you generate the reports.
 
 #
 
-When the reports are done:    #  you can open your Scrivener project. You’ll see a set of nodes added to the Binder, which contain your reports:
+When the reports are done:  # 
+
+You can open your Scrivener project. You’ll see a set of nodes added to the Binder, which contain your reports:
 
 #
 
@@ -1684,35 +1579,6 @@ The Topic Information sub-menu on the Tools menu contains a list containing info
 
 A topic, once selected, may contain sub-topics:
 
-=======
-
-If you use Scrivener, clicking Scrivener Reports will open a file picker to allow you to select a Scrivener .scrivx file from a Scrivener project. The Scrivener project you select is the one you’ll be writing your draft in, and it must have been created before you generate the reports.
-
-#
-
-When the reports are done:    #  you can open your Scrivener project. You’ll see a set of nodes added to the Binder, which contain your reports:
-
-#
-
-A convenient way to use these embedded reports is to split your screen, with one pane open to a text node in the Manuscript and the other to a node in the outline:
-
-#</Text>
-            <Notes>Multiple User Inputs Note.docx
-
-Needs added</Notes>
-        </Document>
-        <Document ID="517776A7-309A-4FBA-BF34-0CE64853AB69">
-            <Title>Topic Information</Title>
-            <Synopsis>TOPICS</Synopsis>
-            <Text>Topic Information
-
-The Topic Information sub-menu on the Tools menu contains a list containing information specific to certain topic categories:
-
-#
-
-A topic, once selected, may contain sub-topics:
-
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 #
 . 
 
@@ -1819,6 +1685,9 @@ What makes GMC unique in its discussion of Conflict is that Dixon not only creat
 I can’t say enough about this book. Buy it and read it. Then re-read it. Then use it.</Text>
             <Notes>Need to talk about GMC somewhere…</Notes>
         </Document>
+        <Document ID="58E20E72-D257-4D8B-9286-D5C17DB80491">
+            <Title>Tut9StockSceneInserted</Title>
+        </Document>
         <Document ID="58FA31B5-AFA5-4D00-92FA-CCF918DEE204">
             <Title>Danger Calls Move Scene</Title>
         </Document>
@@ -1880,12 +1749,9 @@ Content Pane - The contents of the currently selected Story Element
         <Document ID="5CA7D6B0-4AF8-412C-8264-90CBC748D773">
             <Title>Preferences About tab</Title>
         </Document>
-<<<<<<< HEAD
         <Document ID="5CB4A0FD-A967-4C61-8A37-128AE17C1651">
             <Title>NotesElement</Title>
         </Document>
-=======
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
         <Document ID="5D65AAA7-6BE3-4602-B5B2-49CA234ADD7F">
             <Title>Menu Bar</Title>
             <Text>Menu Bar
@@ -1905,8 +1771,11 @@ Hovering your mouse or stylus over a button will display a tool tip describing t
 
 The menu bar buttons either display drop-down menus (such as File), or launch particular actions (such as Preferences.)
 
-Each of these options is discussed in the next topics of this manual.  </Text>
+</Text>
             <Notes>MENUBAR</Notes>
+        </Document>
+        <Document ID="5E377126-A01B-46DD-A9FD-FD6E068B182A">
+            <Title>Recovered Files (2/23/2024, 2:47 PM)</Title>
         </Document>
         <Document ID="5EB57E3F-37FC-489E-8D1E-B47871FA637A">
             <Title>NarrativeEditors</Title>
@@ -1914,17 +1783,13 @@ Each of these options is discussed in the next topics of this manual.  </Text>
         <Document ID="5F6E0960-9C74-4FBC-9843-F78043724CE4">
             <Title>Preferences Dialog</Title>
         </Document>
-<<<<<<< HEAD
         <Document ID="6007F7C8-29A7-4E07-BFE2-80C6724C0F65">
             <Title>SearchBar</Title>
         </Document>
-=======
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
         <Document ID="603F8EE8-D387-475A-B33B-457171F8D376">
             <Title>Tools Menu</Title>
             <Synopsis>TOOLS</Synopsis>
             <Text>Tools Menu
-<<<<<<< HEAD
 
 
 The Tools menu is launched when you click the Tools Menu (wrench) button on the Menu Bar. It displays a pull-down menu of tools to assist in creating effective story outlines.  
@@ -1942,25 +1807,6 @@ MasterPlots
 Dramatic Situations
 Stock Scenes
 
-=======
-
-
-The Tools menu is launched when you click the Tools Menu (wrench) button on the Menu Bar. It displays a pull-down menu of tools to assist in creating effective story outlines.  
-
-#
-
-
-Information on specific tools can be found here:
-
-Narrative Editor
-Key Questions
-Topic Information
-Plotting Aids
-MasterPlots
-Dramatic Situations
-Stock Scenes
-
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 
 </Text>
         </Document>
@@ -1993,19 +1839,11 @@ Select the type of relationship from the ‘is a’ ComboBox. If you can’t fin
 Relation
 
 Select the character the relationship is with from the ‘to’ list of characters.
-<<<<<<< HEAD
 
 Make a relationship on the other character
 
 Check this box to define the inverse relationship. To complete that relationship, however, you must navigate to the other character.
 
-=======
-
-Make a relationship on the other character
-
-Check this box to define the inverse relationship. To complete that relationship, however, you must navigate to the other character.
-
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 Once you’ve added a relationship, you can update its defining details:
 #
 Trait
@@ -2295,6 +2133,9 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 </Text>
             <Notes>GLOSSARY</Notes>
         </Document>
+        <Document ID="6253787D-20E2-41E4-8251-EC9A01A13E94">
+            <Title>Tut9JoeEdwards</Title>
+        </Document>
         <Document ID="64186202-A353-4D5E-8549-8D345012CCEC">
             <Title>Create New Story Project Templates</Title>
         </Document>
@@ -2363,11 +2204,7 @@ Leonard Kraskin, trying to capture the drug dealer Charlie Lacas. Lacas has avoi
 
 This isn’t too satisfactorily; it has quite a few flaws. We haven’t spelled out exactly how Lacas uses his communications to his advantage, so we don’t know how our detectives are countering it. The Premise has the detectives in separate cars- are  they trying to triangulate a location?  Do they expect to send a message that Lacas will respond to? Who does he normally communicate with? Besides, he knows what the two detectives look like. Whatever they intercept wasn’t obtained with a warrant, and thus would be inadmissible. 
 
-<<<<<<< HEAD
 Not knowing Lacas uses his communications suggests two weaknesses in our outlining: research and specificity. Here’s hoping it won’t result in an FBI van parked across the street, but some research in how drug deals operate and in the communications technology  they use led to a clearer understanding of the story.  StoryCAD doesn’t have much in the way of research tools (yet), but every story element node except folders has a ‘Notes’ tab. I’ve added my research notes on the Notes tab on the ‘How will Leonard and Tony get past Charlie's tech?’ Story Problem.
-=======
-Not knowing Lacas uses his communications suggests two weaknesses in our outlining: research and specificity. Here’s hoping it won’t result in an FBI van parked across the street, but some research in how drug deals operate and in the communications technology  they use led to a clearer understanding of the story.  StoryBuilder doesn’t have much in the way of research tools (yet), but every story element node except folders has a ‘Notes’ tab. I’ve added my research notes on the Notes tab on the ‘How will Leonard and Tony get past Charlie's tech?’ Story Problem.
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 
 Let’s start with the ‘Who does he normally communicate with’ question. The tool to fix this is the same one that gave us our Concept: ‘What if?’.  Our Problem becomes:
 
@@ -2743,7 +2580,6 @@ A Problem’s Premise works best if it contains the elements of just that Proble
 
 #
 
-<<<<<<< HEAD
 
 The Conflict Builder tool, invoked by buttons on the Protagonist and Antagonist tabs of the Problem Form.
 
@@ -2754,19 +2590,6 @@ Criminal activities
 The subcategories of criminal activity makes it easier to understand the motives and patterns of each.
 Criminal psychology
 
-=======
-
-
-The Conflict Builder tool, invoked by buttons on the Protagonist and Antagonist tabs of the Problem Form.
-
-Conflict Categories
-Conflict Builder classifies conflicts according to a series of categories and subcategories and provides examples of each. The categories are as follows:
-
-Criminal activities
-The subcategories of criminal activity makes it easier to understand the motives and patterns of each.
-Criminal psychology
-
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 This alternative way to approach crime focuses on the character of the criminal.
 Identify conflicts
 Identity conflict is a psychological phenomenon in which an individual experiences a discrepancy between their self-perception and their perceived social identity. This can occur when an individual feels that their personal values or beliefs are not aligned with the expectations or norms of the group or society to which they belong. Identity conflicts can lead to feelings of confusion, anxiety, and distress. They can also result in behaviors such as resistance, rebellion, or withdrawal from the group or society.
@@ -2788,17 +2611,10 @@ Value conflicts are caused by perceived or actual incompatible belief systems. V
             <Text>Tabs		
 
 For most Story Element types, that Form contains multiple tabs. Clicking or touching a Tab name (the larger font) will switch to that tab’s content. 
-<<<<<<< HEAD
 
 Tabs allow you to easily switch between different sections of a form, rather than having to navigate through multiple separate pages or windows. A tab organizes and groups related information.
 
 In some cases (and particularly if you resize the StoryCAD window smaller) not all tabs will show. In that case  the tabs will form a carousel you can scroll left or right by using the left or right arrows that appear at the edges of the tab area.
-=======
-
-Tabs allow you to easily switch between different sections of a form, rather than having to navigate through multiple separate pages or windows. A tab organizes and groups related information.
-
-In some cases (and particularly if you resize the StoryBuilder window smaller) not all tabs will show. In that case  the tabs will form a carousel you can scroll left or right by using the left or right arrows that appear at the edges of the tab area.
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 
 #
 </Text>
@@ -2911,7 +2727,7 @@ but Show White pleads for her life,
 
 Coming up with these scenes is an act of imagination- it’s storytelling, play acting, in which you take on the part of one character and then the other.
 
-In the previous topic Plotting In Scenes, we introduced the idea that every scene must advance the story’s plot: it must move toward the resolution of the story problem it’s a piece of.  This is another way of saying that every scene must have a purpose: show the Ordinary World, introduce the problem, resolve the conflict. A scene can and usually does have more than one purpose, but  must always contribute toward solving the Problem is a part of; otherwise, the story will meander aimlessly. A plotted story must aim toward its outcome as an arrow flies towards its target. Think of each story problem as having structure, of consisting of plot points or story beats. Each plot point is a potential scene, and the plot point’s function is that scene’s purpose.
+In the previous topic Plotting In Scenes, we introduced the idea that every scene must advance the story’s plot: it must move toward the resolution of the story problem it’s a piece of.  This is another way of saying that every scene must have a purpose: show the Ordinary World, introduce the problem, resolve the conflict. A scene can and usually does have more than one purpose, but  must always contribute toward solving the Problem  it’s a part of; otherwise, the story will meander aimlessly. A plotted story must aim toward its outcome as an arrow flies towards its target. Think of each story problem as having structure, of consisting of plot points or story beats. Each plot point is a potential scene, and the plot point’s function is that scene’s purpose.
 
 Scene Count (Story Length)
 
@@ -2992,11 +2808,7 @@ These are not scene summaries; it’s up to you to outline the scene itself, and
 
 #
 
-<<<<<<< HEAD
 StoryCAD won’t create these scenes for you (although the next topic, Plotting with StoryCAD, can help you. For help in how to do so, MasterPlots  created one Scene story element for each plot point, which suggests that a scene can do only one thing. That’s far from the truth; a scene can and usually should do multiple things: introduce or develop character, advance the plot, etc. The Scene story element’s Development tab contains a field, Purpose of Scene, which includes many of these purposes (not surprisingly related to the Notes in a Scene generated by MasterPlots.) Purpose of Scene is different from most controls in that you can check off multiple purposes. 
-=======
-StoryBuilder won’t create these scenes for you (although the next topic, Plotting with StoryBuilder, can help you. For help in how to do so, MasterPlots  created one Scene story element for each plot point, which suggests that a scene can do only one thing. That’s far from the truth; a scene can and usually should do multiple things: introduce or develop character, advance the plot, etc. The Scene story element’s Development tab contains a field, Purpose of Scene, which includes many of these purposes (not surprisingly related to the Notes in a Scene generated by MasterPlots.) Purpose of Scene is different from most controls in that you can check off multiple purposes. 
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 
 Dramatic Situations
 
@@ -3057,7 +2869,6 @@ Unlike Dramatic Situations, this tool works just with Scenes. One use is to help
             <Text>Website Form
 The website form allows you store and view web pages easily and functions like a 			smaller version of your web browser. The URL you’re browsing is kept in the form.
 
-<<<<<<< HEAD
 #
 
 These buttons allow you to refresh, go forwards and respectively.
@@ -3065,25 +2876,12 @@ These buttons allow you to refresh, go forwards and respectively.
 
 #
 
-=======
-
-#
-
-#
-These buttons allow you to refresh, go forwards and respectively.
-
-#
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 This is the search bar, if you have a website link (URL) then you can paste it here and 		after clicking the search button it will load the website. Conversely if you don’t have a 		URL you can search a query such as a map of the world and it will search it using 
 Google.
 
 Example -  Planning out a fictional character.
 
-<<<<<<< HEAD
 1) Create a new website node, you can do this by right clicking a node and  then clicking then clicking the webpage icon (ALT + W).
-=======
-1) Create a new website node, you can do this by right clicking a node and  then clicking then clicking the webpage icon.
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 
 #
 
@@ -3099,15 +2897,9 @@ Example -  Planning out a fictional character.
 
 #
 
-<<<<<<< HEAD
 We have now got a map of our fictional word and can start planning our story around this fictional world.
 
 Note: The Website Form requires the Microsoft Edge WebView 2 runtime, most 		Windows computers will already have this installed by default however if you are for any reason missing it, StoryCAD will ask to install it for you.
-=======
-Congrats, we have now got a map our fictional word and can start planning our story 		around this world
-
-Note: The Website Form requires the Microsoft Edge WebView 2 runtime, most 				Windows computers will already have this installed by default however if you are for 		any reason missing it, StoryBuilder will ask to automatically install it.
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 </Text>
         </Document>
         <Document ID="936471BC-3FBF-4BC1-881F-D35ED1DBD915">
@@ -3140,11 +2932,7 @@ This dialog will by default display recently opened outlines. Clicking on Open s
 
 #
  
-<<<<<<< HEAD
 Clicking on Sample Stories on the left tab displays a list of sample outlines installed with StoryCAD for you to play with. If you intend to change a sample, we recommend saving it to a different location before doing so.
-=======
-Clicking on Sample Stories on the left tab displays a list of sample outlines installed with StoryBuilder for you to play with. If you intend to change a sample, we recommend saving it to a different location before doing so.
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 
 Only one story outline can be open at a time.  If you open a new file you'll be prompted to save the current file first if it’s been modified.
 </Text>
@@ -3182,15 +2970,9 @@ The File Menu button was discussed previously in Reading and Writing Outlines.
 
 To start StoryCAD, find and click the StoryCAD icon from the Start Menu or from your pinned apps. The StoryCAD main form will be displayed.
 
-<<<<<<< HEAD
 You can leave StoryCAD at any time by either selecting Exit from the File Menu or pressing the main form's Close (X) button. 
 
-StoryCAD follows regular Windows conventions.  The app can be re-sized, maximized or minimized to icons. However you can only have one instance of StoryCAD open at once, if you try to open another instance of StoryCAD whilst the first one is open, it will instead bring forward the original instance.
-=======
-You can leave StoryBuilder at any time by either selecting Exit from the File Menu or pressing the main form's Close (X) button. 
-
-StoryBuilder follows regular Windows conventions.  The app can be re-sized, maximized or minimized to icons. However you can only have one instance of StoryBuilder open at once, if you try to open another instance of StoryBuilder whilst the first one is open, it will instead bring forward the original instance.
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
+StoryCAD follows regular Windows conventions.  The app can be re-sized, maximized or minimized to an icon. However you can only have one instance of StoryCAD open at once. If you try to open another instance of StoryCAD whilst the first one is open, it will instead bring forward the original instance.
 </Text>
         </Document>
         <Document ID="97B635AD-C8EF-4E01-B108-C684411BB434">
@@ -3235,6 +3017,9 @@ There's always a question of how much detail to provide, for characters, problem
 
 Update pagers to an app like TicTok.</Notes>
         </Document>
+        <Document ID="9C1577CB-BA24-454D-8B40-34AB4BCFD0C4">
+            <Title>Tut9ReorderedPlotline</Title>
+        </Document>
         <Document ID="9C47FE92-A3E7-4D4A-A856-E4CA8C558327">
             <Title>Manuscript Format</Title>
         </Document>
@@ -3243,9 +3028,6 @@ Update pagers to an app like TicTok.</Notes>
         </Document>
         <Document ID="9EE6A891-D791-4C9C-AA46-AFE8152D0FE3">
             <Title>Scrivener Split Screen with StoryCAD</Title>
-        </Document>
-        <Document ID="9F37D2EE-BCF0-4338-8D33-030E02EA9EA7">
-            <Title>Preferences Backup tab</Title>
         </Document>
         <Document ID="9F37D2EE-BCF0-4338-8D33-030E02EA9EA7">
             <Title>Preferences Backup tab</Title>
@@ -3403,7 +3185,6 @@ You can create your own templates by setting up a skeletal project with the file
 
 Backstory deserves caution for two reasons, however. If you’re shoehorning explanations for your character’s behavior into backstory, it can easily feel contrived. Also, it’s not easy to reveal backstory as your story unfolds. It’s a major cause of the dreaded ‘data dump.’</Text>
         </Document>
-<<<<<<< HEAD
         <Document ID="A2BDE106-56CD-40E4-94B1-8DE71C9BB183">
             <Title>Important Notice to StoryCAD Users</Title>
             <Text>Important Notice to  StoryCAD Users
@@ -3416,8 +3197,6 @@ StoryCAD's Backup and Autosave Features: To enhance your experience and safeguar
 We understand the challenges and setbacks that come with losing valuable work. Our commitment is minimize this risk and to help you integrate StoryCAD into your workflow in the most effective manner.
 Thank you for choosing StoryCAD as a companion in your writing endeavors. We look forward to reading or viewing the incredible stories you'll create.</Text>
         </Document>
-=======
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
         <Document ID="A5182ADD-AD83-455F-9F9F-8AFA6A708165">
             <Title>Reports</Title>
         </Document>
@@ -3436,12 +3215,9 @@ Thank you for choosing StoryCAD as a companion in your writing endeavors. We loo
         <Document ID="A810BDA7-44F5-4193-B7DF-FD4D0E1715F7">
             <Title>Tutorial 4 - Impulsive</Title>
         </Document>
-<<<<<<< HEAD
         <Document ID="A8519F23-4B90-4E32-B17E-B240CAC07DA6">
             <Title>SnowWhitePlotPoints</Title>
         </Document>
-=======
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
         <Document ID="A96E0E2E-7375-45B8-8017-A34D18384BD9">
             <Title>Notes on CR theory, crime, and war</Title>
             <Text>Other resources:
@@ -3482,12 +3258,9 @@ This is another rabbit hole. But a very interesting one.
 
 </Text>
         </Document>
-<<<<<<< HEAD
         <Document ID="AACDC4E8-8102-450D-9B63-9B47FFE5F380">
             <Title>Overview and Story Problem</Title>
         </Document>
-=======
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
         <Document ID="AB2B628E-AF20-4DD6-AF97-1C8FF3852901">
             <Title>Premise Tab</Title>
             <Text>Premise Tab
@@ -3515,12 +3288,9 @@ The Story Overview contains your notes and choices about the overall story. This
 
 Change the name field for the Story Overview to your working title for the story. </Text>
         </Document>
-<<<<<<< HEAD
         <Document ID="AD3E1378-1497-4FF7-84BC-F803180E4523">
             <Title>ConflictBuilderDialog</Title>
         </Document>
-=======
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
         <Document ID="AEB36A78-E5BF-4F00-B818-B6E22426DFD9">
             <Title>Topic Information</Title>
         </Document>
@@ -3547,11 +3317,7 @@ Change the name field for the Story Overview to your working title for the story
             <Synopsis>[1] LEGAL</Synopsis>
             <Text>Legal Matters
 
-<<<<<<< HEAD
 The text of and illustrations in this document are licensed by the StoryBuilder Organization under a Creative Commons Attribution–Share Alike 3.0 Unported license (&quot;CC-BY-SA&quot;). An explanation of CC-BY-SA is available at http://creativecommons.org/licenses/by-sa/3.0/ 
-=======
-The text of and illustrations in this document are licensed by Seven Valleys Software under a Creative Commons Attribution–Share Alike 3.0 Unported license (&quot;CC-BY-SA&quot;). An explanation of CC-BY-SA is available at http://creativecommons.org/licenses/by-sa/3.0/ 
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 
 In accordance with CC-BY-SA, if you distribute this document or an adaptation of it, you must provide the URL for the original version. StoryBuilder Organization, as the licensor of this document, waives the right to enforce, and agrees not to assert, Section 4d of CC-BY-SA to the fullest extent permitted by applicable law.
 
@@ -3563,11 +3329,7 @@ Redistribution and use in source and binary forms, with or without modification,
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot;AS IS&quot; AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
-<<<<<<< HEAD
 Copyright © 2022, 2023
-=======
-Copyright © 2021, 2022
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 - by -
 StoryBuilder Organization
 
@@ -3603,7 +3365,7 @@ Your dedication here.</Text>
 
 We need to figure out how the two detectives can find out where the next drug deal is to be held.  One way is to enlist an ally who knows all about wireless communications.  Let's say he's the owner of a small radio-electronics shop.  But as with the interplay between Leonard and Tony, we need conflict.  Let's make this character a reluctant ally, one who's coerced into helping our protagonists.  We might make him a petty criminal of some sort, for instance, and have Leonard threaten or blackmail him.  That fits Leonard's character as we know it: he'll go to any lengths to catch Lacas.  Let's call our new character Joe Edwards. For his crime, we need something serious enough to get him into trouble, but not too serious, or the reader will be outraged that Leonard's left him on the street.  Let's say that he's used his electronics skills to bug the people in the apartment where he lives;  and in particular, the single woman who lives downstairs— he's a Peeping Tom.  We can also add the scene where Kraskin threatens Edwards with arrest and exposure unless he cooperates.
 
-
+#
 1
 
 We've also gotten rid of the rest of the scaffolding plot points; we know where we're going now and don't need additional directions.  The Dramatic Situations entry (had we used it) would have been 'Obtaining (through force)'. 
@@ -3619,14 +3381,14 @@ Let's look for a way to get Leonard captured.  Turning once more to the Tools me
  This provides us with a number of stock scenes which offer dramatic twists: 
 
 
-
+#
 
 2
 
 In this case the first twist listed might help us; our electronics buff ally, Joe Edwards, could be tied to Lacas in some fashion and tip him off that the two detectives are listing in on his call.   Lacas could then set the cops up.  We decide to go with this.  Clicking on the first item in the list, and then on the Copy button, adds this stock scene into our plot outline.
 
 
-
+#
 3
 
 We can change the scene summary to read 'Edwards has tipped Lacas, who traps Kraskin.'  
@@ -3638,7 +3400,7 @@ We know that our detectives are using an illegal bug to catch Lacas, so they can
 So let's add a plot point immediately prior to this where this takes place, and title it 'Leonard, on stake out, learns of a drug deal .'  We can add notes to explain the details of the stake out.
 
 Our plot outline now looks like this:
-
+#
 
 4
 This is a relatively complete plot.  We could sit down and start writing the story now, but that would be a mistake.  There's a lot left unfinished: we haven't created settings, the characters are still unrefined, etc.  The more these things are worked out, the richer and more complete the first draft will be when you write it. 
@@ -3646,7 +3408,7 @@ This is a relatively complete plot.  We could sit down and start writing the sto
 We should evaluate our work so far.  The creation of the story outline is an excellent time to review and revise.  For one thing, changes at this point in the story's development, while it's still just an outline, are relatively cheap and easy; you're not sacrificing prose and dialog that took time and effort to produce.  There's also another advantage: at this point you're looking only at the structure of the story.  Every story has these components of problems, characters, setting and plot; but once you begin to write, the bones will be fleshed out in narrative and dialog and dressed with your writing style.  The naked structure will be, in a sense, hidden by the prose. This makes spotting and correcting structural problems more difficult. 
 
 StoryCAD offers a tool, Key Questions, to assist in refining and testing your story elements.  There are questions for Story, Problem, Character, Setting, and Plot.  From the Tools menu, select Key Questions and then Story Questions.  A form displaying a series of questions for the overall story will appear.  We can test the story concept against these questions.  If one is worth further study, notes can be recorded in the Answer section.  For example, scrolling through the questions, we find:
-
+#
 
 5
 
@@ -3662,21 +3424,17 @@ In this tutorial we've produced most of a story outline.  We've worked through p
   
 </Text>
         </Document>
+        <Document ID="BAAAE3CA-B5F4-4CE1-BBD7-41CC37EC38C6">
+            <Title>Tutorial9</Title>
+        </Document>
         <Document ID="BAAFD32A-3AAE-4595-82AB-CF46F5BE1420">
-<<<<<<< HEAD
             <Title>Developing StoryCAD</Title>
             <Text>Developing StoryCAD
 If you are a C# developer and are somewhat familar with WinUI (or another XAML based UI language) then you can contribute to StoryCAD (Which is written in C# and uses WinUI 3).
-=======
-            <Title>Developing StoryBuilder</Title>
-            <Text>Developing StoryBuilder
-If you are a C# developer and are somewhat familar with WinUI (or another XAML based UI language) then you can contribute to StoryBuilder (Which is written in C# and uses WinUI 3).
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 For more information about contributing, please check the GitHub Repository.
 Developer only menus / pop-ups
 #
 
-<<<<<<< HEAD
 If you have cloned StoryCAD to a separate repo and built it for the first time then you may be surprised to see this screen. It indicates a key file related to licensing is missing from your local clone. These licenses are in effect for the storybuilder.org repo only. The missing licenses won’t cause any issues with the app functioning, but your copy won’t report errors via Elmah.io and you may see pops relating to syncfusion licensing errors.
 Regardless, congratulations on successfully compiling StoryCAD.
 
@@ -3685,16 +3443,6 @@ Regardless, congratulations on successfully compiling StoryCAD.
 If StoryCAD notices you have a debugger attached to the process, the developer menu will appear.
 This shows info about the computer and may contain buttons to test some parts of the StoryCAD.
 If running without a keyfile (which is standard for those contributing to the StoryCAD project.) then some of these buttons may not work or cause intended behavior.
-=======
-If you have cloned StoryBuilder to a separate repo and built it for the first time then you may be surprised to see this screen. It indicates a key file related to licensing is missing from your local clone. These licenses are in effect for the storybuilder.org repo only. The missing licenses won’t cause any issues with the app functioning, but your copy won’t report errors via Elmah.io and you may see pops relating to syncfusion licensing errors.
-Regardless, congratulations on successfully compiling StoryBuilder.
-
-#
-
-If StoryBuilder notices you have a debugger attached to the process, the developer menu will appear.
-This shows info about the computer and may contain buttons to test some parts of the StoryBuilder.
-If running without a keyfile (which is standard for those contributing to the StoryBuilder project.) then some of these buttons may not work or cause intended behavior.
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 
 As such this menu may be removed, updated or abandoned at any point.
 
@@ -3801,11 +3549,7 @@ These individuals don't have normal feelings and reactions to social influences,
 
 
 
-<<<<<<< HEAD
 The best  way to learn about StoryCAD is to actually create a story with it.  That's what this tutorial is for.  We'll create a story outline with StoryCAD and show you exactly what we did at each step along the way. We don’t claim it’s a great outline; actually, it’s pretty trite. But the point is that any story idea, with work and process, can be developed into a workable story.
-=======
-The best  way to learn about StoryBuilder is to actually create a story with it.  That's what this tutorial is for.  We'll create a story outline with StoryBuilder and show you exactly what we did at each step along the way. We don’t claim it’s a great outline; actually, it’s pretty trite. But the point is that any story idea, with work and process, can be developed into a workable story.
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 
 The tutorial assumes you can navigate in StoryCAD, so if you haven’t yet done so, please take a look at the Quick Start  section of this manual, and particularly at the Navigating in StoryCAD subsection. That  said, let’s begin.
 
@@ -4183,14 +3927,14 @@ The scene is the actions your character takes to achieve a goal (and the actions
 
 </Text>
         </Document>
-<<<<<<< HEAD
         <Document ID="CCC394DD-BC0E-4ABC-9C3B-461C3750A26B">
             <Title>RedPenIcon</Title>
         </Document>
-=======
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
         <Document ID="CE56FD2D-B11A-46B2-A26B-F75E9E2555A4">
             <Title>Scene Sequel Tab</Title>
+        </Document>
+        <Document ID="CF06A6BD-B85E-4AF4-A746-9E9D61B57B12">
+            <Title>Tut9KeyQuestions</Title>
         </Document>
         <Document ID="CF3793BA-BAB0-4F88-AE84-697EA897783D">
             <Title>Tools Master Plots Result</Title>
@@ -4231,14 +3975,24 @@ Style						Style is the way you use language, based on word choice, tone, syntax
 
 Tone						Tone indicates the mood or impression you wish the reader to feel.</Text>
         </Document>
-<<<<<<< HEAD
         <Document ID="D48D1B21-D02A-42D2-BD82-137168380C57">
             <Title>WebNodeHighlighted</Title>
         </Document>
-=======
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
         <Document ID="D553C999-C896-4982-96B1-8F43723416C3">
             <Title>Opening Scene - Conflict</Title>
+        </Document>
+        <Document ID="D64A6489-7F19-41BB-8676-14D429F6E0F4">
+            <Title>Getting Started</Title>
+            <Text>The best way to learn StoryCAD is to try it (it's free.) It comes with a number of compnents to ease your learning path:
+User Manual
+A comprehensive user manual can be found online and can also be accessed within StoryCAD from the help button on the menu bar.
+Samples
+StoryCAD ships with a handful of outlines as StoryCAD projects for you to study. If you wish to try your hand at changing one, we suggest copying it to a work location using the Save As menu function.
+Tutorial
+The User Manual contains a chapter which walks through the creation of a story outline from beginning to end. Create a new, empty outline in StoryCAD and flesh it out as the tutorial proceeds. The samples set contains the tutorial (Danger Calls), so you can compare what you created to what we did.
+Online Help
+StoryCAD's menu bar contains a Help ('?') button which launches the user manual.
+[Our YouTube channel also contains helpful videos that you may find useful](https://www.youtube.com/@TeamStoryBuilder)</Text>
         </Document>
         <Document ID="D8D809E6-FF72-4372-A63F-33B45CB33C37">
             <Title>Setting Tab</Title>
@@ -4293,6 +4047,10 @@ Needs added</Notes>
             <Notes>Move to Front Matter outside of manuscript?
 See sect. 7.6 (structure, section type)</Notes>
         </Document>
+        <Document ID="DC79A87C-A6F8-4707-B164-53353295214A">
+            <Title>Front Page</Title>
+            <Text>#</Text>
+        </Document>
         <Document ID="E0D1F7E0-6875-4473-B6F0-3E26263DFC98">
             <Title>Navigation Pane Flyout CommandBar</Title>
             <Text>Navigation Pane Flyout Commands
@@ -4300,7 +4058,6 @@ See sect. 7.6 (structure, section type)</Notes>
 Right-clicking any node on the Navigation Pane will display a  flyout command bar:
 #
 
-<<<<<<< HEAD
 In order of top to bottom, the flyout items do the following:
 Add Elements - Allows you to add a new Story Element such as a Problem, folder, character
 Delete Element - Sends the element to the Trash
@@ -4308,19 +4065,6 @@ Restore Element - Remove the element from the Trash
 Add to Narrative - This adds the element to the Narrative View
 Remove From Narrative - This removes the element from the Narrative View.
 Print Node -  This quickly prints a report for that element.
-=======
-The left-most group of icons will add a new Story Element as a child of the node you right-clicked.
-In order from left to right, the Add Story Elment icons are:
-Folder
-Problem
-Character
-Setting 
-Scene
-The next group of icons (to the right of the divider) operate directly on the item you clicked. They are:
-Move Story Element to Trashcan
-Restore Story Element from Trashcan 
-Add Scene to Story Narrative View (see Story Explorer and Story Narrator Views)
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 </Text>
         </Document>
         <Document ID="E17E8BB7-8E12-4469-AFEE-ACD12A954D33">
@@ -4414,6 +4158,17 @@ This chapter describes the Scene form, which is used to define and manipulate th
 
 </Text>
             <Notes>PLOT</Notes>
+        </Document>
+        <Document ID="E90CAACE-4150-4AF0-82C9-5F6300A13836">
+            <Title>About StoryCAD</Title>
+            <Text>StoryCAD is a software tool for fiction writers, whose purpose is to assist in creating the outline of a story. Think of a shopping list organized by aisle as an outline of a trip to the grocery store. The outline of your story is similar, but instead of bread and onions, the major parts in your story's list are 'story elements', such as characters, the conflicts that drive the story, your plot structure (scenes), and settings.
+Story elements are the building blocks of stories. They're taught in classes and writer's workshops, distilled in a story summary or synopsis, and they're what readers describe when discuss a story. They're also what you'll ponder, agonize over, and dream and have nightmares about.
+Each story element is a tangible object; you can describe it, break it down into smaller parts, and analyze it on its own. Is a character lifelike? Does he have agency? Does a setting contribue to the story's theme, or does it detract? Is your list of scenes linked by cause and effect? Does a scene have drama of its own? In StoryCAD, these story elements are created from templates- forms which organize and assist in thinking about that particular aspect of your story.
+Elements are also fungible: they can be readily changed, moved around, or even thrown out and replaced with something better.
+Once you understand story elements this way, you can think of them as parts in your story factory, designing them and fitting them together, or modifying them to better fit your design. You can even copy characters and settings from one story to another or into shared story worlds.
+StoryCAD operates somewhat like a File Explorer, but instead of a hierarch of files and folders, StoryCAD's hierarchy is major story elements, which can be added, deleted, or rearranged. Each major story element- Problem, Character, Setting, and Scene- contain tabs which provide a progression or workflow to develop it. StoryCAD lets you focus on each story element separately, which simplifies the outlining process.
+StoryCAD also provides thousands of examples for dozens of smaller story elements, in the form of pull-down lists of choices, although you're generally not required to stick to them. The examples aren't there to limit your imagination, but to encourage it; to eliminate writer's block. Together with StoryCAD's extensive documentation, they provide a short course in fiction writing. We believe that every story idea can be developed into a complete outline, ready for you to apply your unique voice and style from first draft to submission.
+StoryCAD is Open-Source, meaning that it’s [source code](https://github.com/storybuilder-org/StoryCAD) is publicly and freely available and even if you can’t tell C-Sharp from B-Flat, you can still contribute to StoryCAD by reporting issues preferably on our GitHub repository or by emailing us.</Text>
         </Document>
         <Document ID="EA704E1F-1143-4DEB-A796-8C0849210B8C">
             <Title>Tools</Title>
@@ -4512,9 +4267,6 @@ This chapter describes StoryCAD's commands for defining and refining the charact
         </Document>
         <Document ID="F3E277D2-32FF-45E8-B7EC-E5F187551788">
             <Title>Plotting with StoryCAD - SubProblems Epanded into Scenes</Title>
-        </Document>
-        <Document ID="F4006219-0332-4B9C-B135-32C84A8632F8">
-            <Title>Reports Menu</Title>
         </Document>
         <Document ID="F4006219-0332-4B9C-B135-32C84A8632F8">
             <Title>Reports Menu</Title>

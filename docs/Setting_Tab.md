@@ -4,13 +4,8 @@ Setting Tab <br/>
 
 The Setting tab contains elements which make the setting specific and unique. <br/>
 
-<<<<<<< HEAD
   <br/>
 ![](Setting-Setting-Tab.png)
-=======
-![](Clipboard-Image-19.png)
-
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 
 Locale	The location of the setting in space. <br/>
 

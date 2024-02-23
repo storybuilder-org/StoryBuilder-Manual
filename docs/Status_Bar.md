@@ -27,9 +27,3 @@ Changed Indicator <br/>
 ![](Changed-Indicator.png)
 
 The Changed Indicator displays red if any editing has been done to the outline and green if not. It’s a reminder to save your work. It’s also a command button which will save your outline if you click it. <br/>
-<<<<<<< HEAD
-=======
- <br/>
- <br/>
-[Prev](Navigation_and_Content_Panes.md)[Next](Search.md) <br/>
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes

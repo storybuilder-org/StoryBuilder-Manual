@@ -1,10 +1,4 @@
 # Tools #
-<<<<<<< HEAD
-=======
- <br/>
- <br/>
-[Prev](Story_Elements.md)[Next](Reports.md) <br/>
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 [Narrative Editor](Narrative_Editor.md) <br/><br/>
 [Key Questions](Key_Questions.md) <br/><br/>
 [Topic Information](Topic_Information.md) <br/><br/>

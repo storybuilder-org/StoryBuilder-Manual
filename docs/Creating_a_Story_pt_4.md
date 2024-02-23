@@ -51,22 +51,13 @@ Leonard Kraskin, trying to capture the drug dealer Charlie Lacas. Lacas has avoi
 
 This isn’t too satisfactorily; it has quite a few flaws. We haven’t spelled out exactly how Lacas uses his communications to his advantage, so we don’t know how our detectives are countering it. The Premise has the detectives in separate cars- are  they trying to triangulate a location?  Do they expect to send a message that Lacas will respond to? Who does he normally communicate with? Besides, he knows what the two detectives look like. Whatever they intercept wasn’t obtained with a warrant, and thus would be inadmissible.  <br/>
 
-<<<<<<< HEAD
 Not knowing Lacas uses his communications suggests two weaknesses in our outlining: research and specificity. Here’s hoping it won’t result in an FBI van parked across the street, but some research in how drug deals operate and in the communications technology  they use led to a clearer understanding of the story.  StoryCAD doesn’t have much in the way of research tools (yet), but every story element node except folders has a ‘Notes’ tab. I’ve added my research notes on the Notes tab on the ‘How will Leonard and Tony get past Charlie's tech?’ Story Problem. <br/>
-=======
-Not knowing Lacas uses his communications suggests two weaknesses in our outlining: research and specificity. Here’s hoping it won’t result in an FBI van parked across the street, but some research in how drug deals operate and in the communications technology  they use led to a clearer understanding of the story.  StoryBuilder doesn’t have much in the way of research tools (yet), but every story element node except folders has a ‘Notes’ tab. I’ve added my research notes on the Notes tab on the ‘How will Leonard and Tony get past Charlie's tech?’ Story Problem. <br/>
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 
 Let’s start with the ‘Who does he normally communicate with’ question. The tool to fix this is the same one that gave us our Concept: ‘What if?’.  Our Problem becomes: <br/>
 
 Can the detectives thwart Charlie's secretive communications network and find out when and where he'll be dealing drugs? <br/>
 
 What if Charlie Lacas normally only communicates with a handful of selected street dealers using a paging system (see Notes)? <br/>
-<<<<<<< HEAD
-=======
-
-What if Leonard and Tony acquire a system that can intercept the paging messages?  This needs someone who can set it up. And I doubt it's legal to intercept communications like this. Information Privacy Laws say something like 'Information collected by an individual can't be disclosed to other organizations or individuals unless specifically allowed by law or by consent of the individual.' <br/>
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 
 What if Leonard and Tony acquire a system that can intercept the paging messages?  This needs someone who can set it up. And I doubt it's legal to intercept communications like this. Information Privacy Laws say something like 'Information collected by an individual can't be disclosed to other organizations or individuals unless specifically allowed by law or by consent of the individual.' <br/>
 

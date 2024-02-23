@@ -8,11 +8,7 @@ The Premise is the same as the inner problem, with the extract bit (scene) added
 
 Most stories have more than one problem, but an important thing to keep in mind is that only one of them is the story problem. The story problem’s easy to recognize: when it’s resolved: the story is over. Failure to understand that will lead to an unsatisfactory conclusion. The other Problem story elements must support that Problem, in various ways: inner vs. Outer problem, as a subplot, etc. If a Problem doesn’t relate to the story problem, it doesn’t belong to this story. The main problem is often implicit in the original story idea, but not always. You may find out which question your story is going to answer only after exploring the various problems. <br/>
 
-<<<<<<< HEAD
 StoryCAD acknowledges the need for a main story problem by having you pick the Problem that is your story problem, back on the Overview node. Overview’s Premise tab looks like this: <br/>
-=======
-StoryBuilder acknowledges the need for a main story problem by having you pick the Problem that is your story problem, back on the Overview node. Overview’s Premise tab looks like this: <br/>
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
 
 ![](Overview-Empty-Premis-tab.png)
 
@@ -55,9 +51,3 @@ The copy function populated the Scene folder with a series of plot points which 
 ![](Danger-Calls-Narrative-Hook.png)
 
 Although these are Scene story elements, they are not scenes, but placeholders: a reminder of things that your scenes need to do,   and roughly the order they need to do them in. In short, they are the structure of your story, its spine. Since your story is centered on one of your Problems, the main Story Problem, the story’s structure is the structure of that problem.   <br/>
-<<<<<<< HEAD
-=======
- <br/>
- <br/>
-[Prev](Creating_a_Story_pt_4.md)[Next](Creating_a_Story_pt_6.md) <br/>
->>>>>>> Save refactoring of user manual in conjunction with Conflict Builder changes
