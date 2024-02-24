@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="342E5DD6-5812-45AB-982C-E2EAC46CF8EE" Creator="SCRWIN-3.1.5.1" Device="Minerva" Modified="2024-02-23 14:52:28 -0500" ModID="6110EDE3-1FE5-487C-9F3A-4E8DBA1DA86B">
+<ScrivenerProject Template="No" Version="2.0" Identifier="342E5DD6-5812-45AB-982C-E2EAC46CF8EE" Creator="SCRWIN-3.1.5.1" Device="Minerva" Modified="2024-02-24 07:38:14 -0500" ModID="44EE276F-457C-443C-87CD-B51E28B1CB8A">
     <Binder>
         <BinderItem UUID="9FFBA333-8432-41C1-91F5-1302DFE283CA" Type="Text" Created="2019-05-14 14:29:37 -0500" Modified="2019-05-14 14:29:46 -0500">
             <Title>Non-Fiction Format</Title>
@@ -2485,7 +2485,7 @@
                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                     </MediaSettings>
                 </BinderItem>
-                <BinderItem UUID="ECBB4E6D-6ECA-4DBB-9CD1-B5E5294F6E3B" Type="Image" Created="2022-04-20 06:09:07 -0500" Modified="2023-06-28 14:56:03 -0500">
+                <BinderItem UUID="ECBB4E6D-6ECA-4DBB-9CD1-B5E5294F6E3B" Type="Image" Created="2022-04-20 06:09:07 -0500" Modified="2024-02-24 07:38:14 -0500">
                     <Title>StoryCAD</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -2499,7 +2499,6 @@
                     </MediaSettings>
                     <Bookmarks>
                         <Bookmark BinderUUID="027E1FC5-135A-48C4-9AC9-D722169DAAD3">Front Page (Image)</Bookmark>
-                        <Bookmark BinderUUID="DC79A87C-A6F8-4707-B164-53353295214A">Front Page</Bookmark>
                     </Bookmarks>
                 </BinderItem>
                 <BinderItem UUID="50436068-86AC-4BBA-8C89-69ED107818C1" Type="Image" Created="2022-04-20 06:09:07 -0500" Modified="2022-08-14 18:11:31 -0500">
@@ -4198,214 +4197,6 @@
         <BinderItem UUID="A41BA2A1-C599-43C2-99CC-8C1A7FFC2C24" Type="TrashFolder" Created="2019-05-14 14:29:37 -0500" Modified="2019-05-14 14:29:37 -0500">
             <Title>Trash</Title>
             <MetaData/>
-            <Children>
-                <BinderItem UUID="66C0C71D-3D6A-4192-9087-08BFE8F19A90" Type="Text" Created="2022-09-30 18:27:00 -0500" Modified="2022-09-30 18:27:00 -0500">
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="2C7D7A61-6989-4E56-8891-5DE98B2C9F26" Type="Text" Created="2023-01-27 07:34:46 -0500" Modified="2023-01-27 07:34:50 -0500">
-                    <Title>Content Pane</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="4C8A6534-0C9F-4C3D-BAA7-92D135DA80FD" Type="Text" Created="2023-01-27 07:34:29 -0500" Modified="2023-01-27 10:43:00 -0500">
-                    <Title>Navigation and Content Panes</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>33,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="6F1C5153-DAD2-4EB0-B596-6AF840D4AD91" Type="Text" Created="2021-10-30 16:21:52 -0500" Modified="2022-08-24 05:16:00 -0500">
-                    <Title>Copy Characters and Settings</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>rtf</FileExtension>
-                        <NotesTextSelection>25,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>171,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="21C00625-689E-4DAE-81F6-D32DB8CC5046" Type="Text" Created="2023-01-28 00:57:26 -0500" Modified="2023-01-28 01:10:42 -0500">
-                    <Title>Print Reports</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>131,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="1BF9DD25-1597-4554-9A15-2F5CB54E2E3B" Type="Text" Created="2023-01-30 09:01:19 -0500" Modified="2023-01-30 09:01:19 -0500">
-                    <Title>Print Reports-1</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>rtf</FileExtension>
-                        <NotesTextSelection>43,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="5F6E0960-9C74-4FBC-9843-F78043724CE4" Type="Image" Created="2022-04-20 06:09:07 -0500" Modified="2022-08-14 18:09:23 -0500">
-                    <Title>Preferences Dialog</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>png</FileExtension>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                    </MetaData>
-                    <MediaSettings>
-                        <ImageScaleFactor>1</ImageScaleFactor>
-                        <ImageRotation>None</ImageRotation>
-                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
-                    </MediaSettings>
-                    <Bookmarks>
-                        <Bookmark BinderUUID="CA07AE88-BF28-4073-B8A1-9E2CE5DC0913">Preferences</Bookmark>
-                    </Bookmarks>
-                </BinderItem>
-                <BinderItem UUID="5500ABCA-957C-41B4-9E7E-799D81958367" Type="Folder" Created="2023-01-28 00:29:00 -0500" Modified="2023-01-30 09:50:42 -0500">
-                    <Title>Preferences</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>12,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="4E6195D2-E458-4FD3-B12B-0DF2F5B1BD5B" Type="Text" Created="2022-07-03 18:53:18 -0500" Modified="2023-04-01 04:54:36 -0500">
-                    <Title>ChangeLog Pop-up</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>16,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="B7ACB928-3E71-48ED-A026-0F6638EE5A5A" Type="Text" Created="2023-01-28 01:19:48 -0500" Modified="2023-01-28 01:23:29 -0500">
-                    <Title>Flaw Builder</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>12,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="872003BB-7FA7-4ABD-9629-7C55F81DBA3F" Type="Folder" Created="2023-01-30 09:48:51 -0500" Modified="2023-01-30 09:48:57 -0500">
-                    <Title>Preferences Menu</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="676C5515-CA39-4F95-9104-0A904E12D3B4" Type="Text" Created="2023-06-21 15:04:35 -0500" Modified="2023-06-21 15:04:35 -0500">
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="8CD92572-1119-44AE-B599-0CAC09FA1EC3" Type="Image" Created="2023-06-21 15:47:10 -0500" Modified="2023-06-21 15:47:35 -0500">
-                    <Title>CharPhysTab</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>png</FileExtension>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                    </MetaData>
-                    <MediaSettings>
-                        <ImageScaleFactor>1</ImageScaleFactor>
-                        <ImageRotation>None</ImageRotation>
-                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
-                    </MediaSettings>
-                    <Bookmarks>
-                        <Bookmark BinderUUID="67C0817A-D695-420E-81EA-6117B897DFC5">Physical Tab</Bookmark>
-                    </Bookmarks>
-                    <Children>
-                        <BinderItem UUID="ECE4F68C-44D4-43FA-ABED-08E9AB67FF1C" Type="Image" Created="2023-06-21 15:47:10 -0500" Modified="2023-06-21 15:48:57 -0500">
-                            <Title>CharPhysTab</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>png</FileExtension>
-                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                            </MetaData>
-                            <MediaSettings>
-                                <ImageScaleFactor>1</ImageScaleFactor>
-                                <ImageRotation>None</ImageRotation>
-                                <ImageScalesProportionally>Yes</ImageScalesProportionally>
-                            </MediaSettings>
-                        </BinderItem>
-                    </Children>
-                </BinderItem>
-                <BinderItem UUID="FB380487-E096-4CD0-91CD-46363595C936" Type="Image" Created="2022-04-20 06:09:07 -0500" Modified="2022-04-20 06:09:07 -0500">
-                    <Title>Character Appearance Tab</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>bmp</FileExtension>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                    </MetaData>
-                    <MediaSettings>
-                        <ImageScaleFactor>1</ImageScaleFactor>
-                        <ImageRotation>None</ImageRotation>
-                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
-                    </MediaSettings>
-                </BinderItem>
-                <BinderItem UUID="936471BC-3FBF-4BC1-881F-D35ED1DBD915" Type="Image" Created="2022-04-20 06:09:07 -0500" Modified="2022-04-20 06:09:07 -0500">
-                    <Title>Character Appearance Tab</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>png</FileExtension>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                    </MetaData>
-                    <MediaSettings>
-                        <ImageScaleFactor>1</ImageScaleFactor>
-                        <ImageRotation>None</ImageRotation>
-                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
-                    </MediaSettings>
-                </BinderItem>
-                <BinderItem UUID="37C89B13-ED23-41B4-8CAD-1F673BA763B1" Type="Image" Created="2022-04-20 06:09:07 -0500" Modified="2022-04-20 06:09:07 -0500">
-                    <Title>Character Apperance Tab</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>png</FileExtension>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                    </MetaData>
-                    <MediaSettings>
-                        <ImageScaleFactor>1</ImageScaleFactor>
-                        <ImageRotation>None</ImageRotation>
-                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
-                    </MediaSettings>
-                </BinderItem>
-                <BinderItem UUID="DC79A87C-A6F8-4707-B164-53353295214A" Type="Text" Created="2023-06-28 14:55:34 -0500" Modified="2023-06-28 14:56:03 -0500">
-                    <Title>Front Page</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>1,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-            </Children>
-        </BinderItem>
-        <BinderItem UUID="5E377126-A01B-46DD-A9FD-FD6E068B182A" Type="Folder" Created="2024-02-23 14:47:28 -0500" Modified="2024-02-23 14:47:28 -0500">
-            <Title>Recovered Files (2/23/2024, 2:47 PM)</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-                <IconFileName>Warning.tiff</IconFileName>
-            </MetaData>
-            <TextSettings>
-                <TextSelection>0,0</TextSelection>
-            </TextSettings>
         </BinderItem>
     </Binder>
     <Collections>
@@ -4478,14 +4269,14 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2024-02-23 14:52:28 -0500"/>
+        <PreviousSession Words="0" Characters="0" Date="2024-02-24 07:38:14 -0500"/>
     </ProjectTargets>
     <BookmarksFolderUUID>07B0D7C6-57CE-4D6F-8AD9-11F06A261A5F</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2024-02-23 00:00:00 -0500">
+    <RecentWritingHistory Date="2024-02-24 00:00:00 -0500">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+        <OtherWordCount>-234</OtherWordCount>
+        <OtherCharCount>-1349</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>

@@ -452,25 +452,6 @@ See if my doc is up to date; I’ve added the 7-point master plot.</Notes>
         <Document ID="18E0E9B0-E553-41DE-9B4D-1C879951CE6C">
             <Title>Inverse Relationship</Title>
         </Document>
-        <Document ID="1BF9DD25-1597-4554-9A15-2F5CB54E2E3B">
-            <Title>Print Reports-1</Title>
-            <Text>Scrivener Reports
-
-If you use Scrivener, clicking Scrivener Reports will open a file picker to allow you to select a Scrivener .scrivx file from a Scrivener project. The Scrivener project you select is the one you’ll be writing your draft in, and it must have been created before you generate the reports.
-
-#
-
-When the reports are done:    #  you can open your Scrivener project. You’ll see a set of nodes added to the Binder, which contain your reports:
-
-#
-
-A convenient way to use these embedded reports is to split your screen, with one pane open to a text node in the Manuscript and the other to a node in the outline:
-
-#</Text>
-            <Notes>Multiple User Inputs Note.docx
-
-Needs added</Notes>
-        </Document>
         <Document ID="1C01E3E1-FC6B-429D-B867-B8C815B7543A">
             <Title>Inner Traits</Title>
             <Text>Inner Traits Tab
@@ -668,14 +649,6 @@ This button toggles the Navigation Pane to either display or be hidden. Hiding t
         <Document ID="21367FCF-411C-4F60-AC86-6F91F91E357D">
             <Title>Tools Key Questions</Title>
         </Document>
-        <Document ID="21C00625-689E-4DAE-81F6-D32DB8CC5046">
-            <Title>Print Reports</Title>
-            <Text>If you select the Print Reports option, a dialog will appear which allows you to check the particular reports you wish to print:
-
-#
-
-Clicking Generate will cause all of the selected reports to print on your default printer.</Text>
-        </Document>
         <Document ID="227FF3CA-13BE-44A4-A7C2-DA6C48AA2DEB">
             <Title>PlottingWithStoryCADOldManCharArc</Title>
         </Document>
@@ -813,9 +786,6 @@ Story Narrator View is the view you’ll use when you’re ready to structure yo
         </Document>
         <Document ID="2C36ADB2-13B2-4D74-B489-02F92CB2DE87">
             <Title>Tutorial 4 - Lacas gets the drop on Kraskin</Title>
-        </Document>
-        <Document ID="2C7D7A61-6989-4E56-8891-5DE98B2C9F26">
-            <Title>Content Pane</Title>
         </Document>
         <Document ID="2CCBF812-DD9C-4651-8D32-C6F20F526538">
             <Title>Prefences CommandBar Button</Title>
@@ -1116,9 +1086,6 @@ Story Idea				This is the place to record the original idea that led you to want
         <Document ID="3748F747-B0F8-4DFB-8F91-E85E0605EFEB">
             <Title>Tutorial 2 - Detective Role</Title>
         </Document>
-        <Document ID="37C89B13-ED23-41B4-8CAD-1F673BA763B1">
-            <Title>Character Apperance Tab</Title>
-        </Document>
         <Document ID="38A0909F-EB79-4DFD-A3CB-4FB6088CFB69">
             <Title>Character Inner Traits Tab</Title>
         </Document>
@@ -1392,13 +1359,6 @@ Refer to the replacement to Polti. Also, need to change the tool itself to use t
         <Document ID="4C503087-4471-444C-948C-C1AAD8DF8229">
             <Title>Navigation Pane Flyout CommandBar</Title>
         </Document>
-        <Document ID="4C8A6534-0C9F-4C3D-BAA7-92D135DA80FD">
-            <Title>Navigation and Content Panes</Title>
-            <Text>Navigation and Content Panes
-
-The
-</Text>
-        </Document>
         <Document ID="4D4CCDD3-95DD-44BD-8BBF-A45E5302112C">
             <Title>Creating a Story pt 5</Title>
             <Text>The original external problem (‘Catching the drug dealer Lacas’) is solved through the resolution of the inner problem (‘Leonard's impulsiveness lets Lacas capture him’.) The story's turning point is the resolution of the inner problem, but an additional bit is needed, what we started with, getting the drop on Lacas. We should state the resolution of the external problem.  Clicking on the first problem from the list at the left of the screen, and then on the Resolution tab, allows us to key the Premise:
@@ -1495,16 +1455,6 @@ Can two friends sleep together and still love each other in the morning?
         </Document>
         <Document ID="4DD0D68F-0C0B-41CD-8137-125CE85D2A90">
             <Title>Plotting with StoryCAD - Complication SubProblems</Title>
-        </Document>
-        <Document ID="4E6195D2-E458-4FD3-B12B-0DF2F5B1BD5B">
-            <Title>ChangeLog Pop-up</Title>
-            <Text>ChangeLog Pop-up
-When you update StoryCAD to a new version, a ChangeLog window will be shown. This will summarise what has changed in this update and which developer made that change.
-#
-
-If you decide you want to see this popup again, you can access it in Preferences.
-
-#</Text>
         </Document>
         <Document ID="50436068-86AC-4BBA-8C89-69ED107818C1">
             <Title>Tabs</Title>
@@ -1614,11 +1564,6 @@ Contains brief descriptions of some of  the finer classifications of a particula
 
 &lt;$author&gt;</Text>
             <Notes>These tags get replaced with the information set in the Metadata pane of Compile. Alternatively, you can simply replace this text altogether.</Notes>
-        </Document>
-        <Document ID="5500ABCA-957C-41B4-9E7E-799D81958367">
-            <Title>Preferences</Title>
-            <Text>Preferences
-</Text>
         </Document>
         <Document ID="55251B68-CDE2-4EC6-8ED4-5E7F469AB6AA">
             <Title>Tutorial 1 - Empty Story Idea Tab</Title>
@@ -1774,14 +1719,8 @@ The menu bar buttons either display drop-down menus (such as File), or launch pa
 </Text>
             <Notes>MENUBAR</Notes>
         </Document>
-        <Document ID="5E377126-A01B-46DD-A9FD-FD6E068B182A">
-            <Title>Recovered Files (2/23/2024, 2:47 PM)</Title>
-        </Document>
         <Document ID="5EB57E3F-37FC-489E-8D1E-B47871FA637A">
             <Title>NarrativeEditors</Title>
-        </Document>
-        <Document ID="5F6E0960-9C74-4FBC-9843-F78043724CE4">
-            <Title>Preferences Dialog</Title>
         </Document>
         <Document ID="6007F7C8-29A7-4E07-BFE2-80C6724C0F65">
             <Title>SearchBar</Title>
@@ -2145,7 +2084,6 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
         <Document ID="64FD0DF6-2B14-47CF-AB61-EA596D02A6C4">
             <Title>Create New Story Dialog</Title>
         </Document>
-        <Document ID="66C0C71D-3D6A-4192-9087-08BFE8F19A90"/>
         <Document ID="67173266-8C12-4379-ADDA-78A5EB636731">
             <Title>Button ToolTips</Title>
         </Document>
@@ -2238,7 +2176,6 @@ Does this work?  The story's over when Lacas is captured, and Leonard's inner pr
             <Notes>TUTOR04
 </Notes>
         </Document>
-        <Document ID="676C5515-CA39-4F95-9104-0A904E12D3B4"/>
         <Document ID="6784B238-628F-4D6C-80A7-C3A3DECE024E">
             <Title>Dialogs</Title>
         </Document>
@@ -2340,14 +2277,6 @@ The gap between these two perspectives,  and the answer to the original question
         </Document>
         <Document ID="6E91D8A2-2F6A-4C70-AE1F-B7E40CCB0642">
             <Title>Dramatic Situations List of SItuations</Title>
-        </Document>
-        <Document ID="6F1C5153-DAD2-4EB0-B596-6AF840D4AD91">
-            <Title>Copy Characters and Settings</Title>
-            <Text>Copy Characters &amp; Settings
-
-This tool is coming soon. The purpose is to allow you to copy story elements from one story outline to another, such as in a series of novels.
-</Text>
-            <Notes>Function is not coded yet</Notes>
         </Document>
         <Document ID="707865B7-D30D-4080-9B7F-B455F9A488DD">
             <Title>Lacas Role</Title>
@@ -2781,9 +2710,6 @@ The urge will be to create a scene for every plot point.  But you have a wonderf
         <Document ID="86F528E8-82A5-4C27-B680-F5DB6CA42E99">
             <Title>Tutorial 4 - Trait Builder</Title>
         </Document>
-        <Document ID="872003BB-7FA7-4ABD-9629-7C55F81DBA3F">
-            <Title>Preferences Menu</Title>
-        </Document>
         <Document ID="873DAC74-F16E-402C-91F1-B398FD43AAD4">
             <Title>Plotting Tools</Title>
             <Synopsis>PLPINSC</Synopsis>
@@ -2858,9 +2784,6 @@ Unlike Dramatic Situations, this tool works just with Scenes. One use is to help
         <Document ID="8B97C5F7-9DCC-4ECD-ADF5-7F0B50A5B812">
             <Title>Plotting with StoryCAD - Premise</Title>
         </Document>
-        <Document ID="8CD92572-1119-44AE-B599-0CAC09FA1EC3">
-            <Title>CharPhysTab</Title>
-        </Document>
         <Document ID="8D7BEA86-220B-4876-8D71-30623A83A8F1">
             <Title>Story Elements</Title>
         </Document>
@@ -2901,9 +2824,6 @@ We have now got a map of our fictional word and can start planning our story aro
 
 Note: The Website Form requires the Microsoft Edge WebView 2 runtime, most 		Windows computers will already have this installed by default however if you are for any reason missing it, StoryCAD will ask to install it for you.
 </Text>
-        </Document>
-        <Document ID="936471BC-3FBF-4BC1-881F-D35ED1DBD915">
-            <Title>Character Appearance Tab</Title>
         </Document>
         <Document ID="93BD73CF-E299-4042-A788-4CD5CEFBCBB9">
             <Title>File Open Dialog</Title>
@@ -3350,10 +3270,6 @@ Your dedication here.</Text>
         </Document>
         <Document ID="B669EE55-F3E9-4E31-B211-1F81ABD519F9">
             <Title>Tools Dramatic Situations</Title>
-        </Document>
-        <Document ID="B7ACB928-3E71-48ED-A026-0F6638EE5A5A">
-            <Title>Flaw Builder</Title>
-            <Text>Flaw Builder</Text>
         </Document>
         <Document ID="B83180E3-DC93-48F6-A53A-DCDA272F5799">
             <Title>Stock Scenes Categories</Title>
@@ -4047,10 +3963,6 @@ Needs added</Notes>
             <Notes>Move to Front Matter outside of manuscript?
 See sect. 7.6 (structure, section type)</Notes>
         </Document>
-        <Document ID="DC79A87C-A6F8-4707-B164-53353295214A">
-            <Title>Front Page</Title>
-            <Text>#</Text>
-        </Document>
         <Document ID="E0D1F7E0-6875-4473-B6F0-3E26263DFC98">
             <Title>Navigation Pane Flyout CommandBar</Title>
             <Text>Navigation Pane Flyout Commands
@@ -4191,9 +4103,6 @@ StoryCAD is Open-Source, meaning that it’s [source code](https://github.com/st
 
 #</Text>
         </Document>
-        <Document ID="ECE4F68C-44D4-43FA-ABED-08E9AB67FF1C">
-            <Title>CharPhysTab</Title>
-        </Document>
         <Document ID="EEEAFE25-3BBC-43BA-A930-F116053650A3">
             <Title>Psychological Tab</Title>
             <Text>Psychological Tab
@@ -4323,9 +4232,6 @@ The Add to Narrative/Remove from Narrative buttons copy a Scene story element to
 
 </Text>
             <Notes>FILEMENU</Notes>
-        </Document>
-        <Document ID="FB380487-E096-4CD0-91CD-46363595C936">
-            <Title>Character Appearance Tab</Title>
         </Document>
         <Document ID="FC05F9D4-0029-46B7-9C24-A77FC7E78B2C">
             <Title>Show and Hide Navigation</Title>
