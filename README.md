@@ -1,13 +1,14 @@
 # About StoryBuilder's User Manual
 
-The StoryBuilder User Manual is the GitHub Pages website located
+The production StoryBuilder User Manual is the GitHub Pages website located
 at https://storybuilder-org.github.io/StoryBuilder-2/ which is 
 associated with the project's repository:
 https://github.com/storybuilder-org/StoryBuilder-2
+This manual is also the online help system for StoryCAD.
 
 The User Manual is generated from a series of static pages in 
 Markdown (.md) format, but StoryBuilder's user manual is stored
-as a Scrivener project and compiled as a MultiMarkdown file.
+and editied as a Scrivener project and compiled as a MultiMarkdown file.
 
 Scrivener is a popular WSIWYG ('what you see is what you get') text editor
 which allows generating its output in multiple formats.Scrivener's 
@@ -40,11 +41,11 @@ to update the StoryBuilder User Manual.
 
 NOTE: The Scrivener project can only be edited by one person at 
 a time. If multiple people are working on documentation changes,
-coordinate with each other.
+they must manually coordinate with each other.
 
 ## Edit the User Manual
 
-1. IMPORTANT: Make sure you are in the 'manual' branch. 
+1. IMPORTANT: Make sure you are in the 'gh-pages' branch. 
 2. Navigate to the manual.scriv folder in your StoryBUilder-Manual 
 repository clone  and open the manual.scrivx file using Scrivener.
 3. Make you text changes as per any large Scrivener document.
@@ -71,11 +72,11 @@ Reserch folder in manual.scrivx.
 select 'Markdown Splitter' under Markdown Formats.
 4. Click on the Compile button.
 5. In the destination file picker, select manual.md in the manual.md folder. Again,
-this folder is contained within the StoryBuilder-Manual repository. 
+this folder is contained within the StoryBuilder-Manual repository's gh-branch. 
 6. Allow the Compile to run to completion. 
  
 The output of the compile, in Markdown (.md) format, will be in the markdown.md
-folder and will consist of a single .md file (StoryBuilder User Manual.md) 
+folder and will consist of a single .md file (manual.md) 
 and all of the .png images contained in it. 
 
 The website **could** be generated direclty from this file, but would consist of
@@ -86,9 +87,8 @@ hierarchy of multiple files, each of which contains links to its child markdown
 pages, using a program, MarkdownSplitter, which is also included in the
 StoryBuilder-Manual repository.
 
-7. Find and click on MarkdownSPlitter.exe by browsing to the ..\bin\debug 
-folder in your clone of the repository. 
-8. Click on the 'Select manual.md folder' button and browse to the \manial.md
+7. Find and click on MarkdownSPlitter shortcut in the SStoryBuilder-Manual repository.
+8. Click on the 'Select manual.md folder' button and browse to the \manual.md
 folder, which contains your Scrivener Compile output. 
 9. Click Run. The StoryBuilder-Manual repo contains a /docs folder. The MarkdownSplitter 
 program will replace the contents of the \docs folder with the manual.md contents 
