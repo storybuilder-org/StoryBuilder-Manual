@@ -64,6 +64,8 @@ select Insert | Image Linked to Document and select your .png image from  under 
 Reserch folder in manual.scrivx.
 5. Save your work.
 
+Formatting is controlled by section selection (Heading1, Heading2, No Heading, etc.)
+
 ## Build and test the StoryBuilder User Manual
 
 1. After you've made your revisions and saved them to manual.scrivx (see above):
