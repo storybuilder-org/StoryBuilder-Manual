@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="342E5DD6-5812-45AB-982C-E2EAC46CF8EE" Creator="SCRWIN-3.1.5.1" Device="Minerva" Modified="2024-02-24 09:36:51 -0500" ModID="9CFEDF73-C894-472B-BBDB-422F4406EE9B">
+<ScrivenerProject Template="No" Version="2.0" Identifier="342E5DD6-5812-45AB-982C-E2EAC46CF8EE" Creator="SCRWIN-3.1.5.1" Device="Minerva" Modified="2024-02-26 06:31:40 -0500" ModID="5D3622FA-939E-4987-8180-631C369987E0">
     <Binder>
         <BinderItem UUID="9FFBA333-8432-41C1-91F5-1302DFE283CA" Type="Text" Created="2019-05-14 14:29:37 -0500" Modified="2019-05-14 14:29:46 -0500">
             <Title>Non-Fiction Format</Title>
@@ -46,14 +46,14 @@
                                 <TextSelection>5,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="A2BDE106-56CD-40E4-94B1-8DE71C9BB183" Type="Text" Created="2024-02-23 14:47:28 -0500" Modified="2024-02-24 09:35:39 -0500">
+                        <BinderItem UUID="A2BDE106-56CD-40E4-94B1-8DE71C9BB183" Type="Text" Created="2024-02-23 14:47:28 -0500" Modified="2024-02-26 06:24:43 -0500">
                             <Title>Important Notice to StoryCAD Users</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1693,0</TextSelection>
+                                <TextSelection>2181,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="3AD05160-D71C-40A2-AAD3-9334D0E506B9" Type="Text" Created="2021-12-19 12:09:30 -0500" Modified="2023-06-28 15:18:00 -0500">
@@ -4269,14 +4269,14 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="3" Characters="25" Date="2024-02-24 09:36:51 -0500"/>
+        <PreviousSession Words="35" Characters="260" Date="2024-02-26 06:31:40 -0500"/>
     </ProjectTargets>
     <BookmarksFolderUUID>07B0D7C6-57CE-4D6F-8AD9-11F06A261A5F</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2024-02-24 00:00:00 -0500">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>1</DraftCharCount>
-        <OtherWordCount>-234</OtherWordCount>
-        <OtherCharCount>-1349</OtherCharCount>
+    <RecentWritingHistory Date="2024-02-26 00:00:00 -0500">
+        <DraftWordCount>35</DraftWordCount>
+        <DraftCharCount>260</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
