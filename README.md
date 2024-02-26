@@ -48,7 +48,13 @@ they must manually coordinate with each other.
 1. IMPORTANT: Make sure you are in the 'gh-pages' branch. 
 2. Navigate to the manual.scriv folder in your StoryBUilder-Manual 
 repository clone  and open the manual.scrivx file using Scrivener.
-3. Make you text changes as per any large Scrivener document.
+3. Make you text changes as per any large Scrivener document, but with several provisos:
+4. Formatting is controlled by section selection (Heading1, Heading2, No Heading, etc.)
+These generate Markdown sections (#, ##, etc.)
+5. For technical reasons, Scrivener's edit tool bar options for bold and italics aren't brought
+converted to Markdown syntax. To use bold and italics (other than those associated with sections),
+use Markdown syntax right in your scrivx file (**text** for bold and *text* for italics.) Be
+sure to check your work after you've generated the test website.
 
 The StoryBuilder Scrivener project has a great many images, mostly 
 screenshots of StoryBuilder. Because the StoryBuilder-Manual repository
@@ -65,6 +71,8 @@ Reserch folder in manual.scrivx.
 5. Save your work.
 
 Formatting is controlled by section selection (Heading1, Heading2, No Heading, etc.)
+There are two 
+
 
 ## Build and test the StoryBuilder User Manual
 
