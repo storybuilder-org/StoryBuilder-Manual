@@ -83,7 +83,7 @@ select 'Markdown Splitter' under Markdown Formats.
 4. Click on the Compile button.
 5. In the destination file picker, select manual.md in the manual.md folder. Again,
 this folder is contained within the StoryBuilder-Manual repository's gh-branch. 
-6. Allow the Compile to run to completion. 
+6. Allow the Compile to run to completion (that is, the Compile window closes.)
  
 The output of the compile, in Markdown (.md) format, will be in the markdown.md
 folder and will consist of a single .md file (manual.md) 
