@@ -1,7 +1,7 @@
 ### Role Tab ###
 Role Tab <br/>
 
-![](Clipboard-Image-1.png)
+![](CharRoleTab.png)
 
 The role tab contains the information which defines the relationship between this character and the story. <br/>
 
@@ -21,7 +21,7 @@ The story role is the relative importance of the character's part  to the story'
 
 The more significant a character is to the story, the more fully developed he or she should be.  The characters in major roles should ideally be so rounded out that they 'come alive'.  Writing scenes for such a well-developed character often becomes a matter of putting him in a situation and watching how he reacts. <br/>
 
-StoryBuilder assigns four levels to characters: <br/>
+StoryCAD assigns four levels to characters: <br/>
 
 Major Role <br/>
 The protagonist and antagonist are major characters.  If the story's dramatic arc hinges on other parts, they may also be major characters.  A love triangle involves three major roles: protagonist, love interest, and rival. <br/>
@@ -63,6 +63,3 @@ Character Sketch <br/>
 
 Use these notes to provide a thumbnail picture of the character and the overall impression he makes. <br/>
 
- <br/>
- <br/>
-[Prev](Conflict_Builder.md)[Next](Physical_Tab.md) <br/>

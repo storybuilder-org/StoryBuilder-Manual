@@ -19,7 +19,7 @@ Motivation is closely tied to character--- it could be thought of as the place w
 
 The list of provided motivations is not meant to be exhaustive, but covers many of those found in literature. <br/>
 
-As with many other controls, you can modify the motivations listed to suit your own needs and interests.  See "Customizing StoryBuilder" for details. <br/>
+As with many other controls, you can modify the motivations listed to suit your own needs and interests.  See "Customizing StoryCAD" for details. <br/>
 
 Goal <br/>
 
@@ -28,6 +28,3 @@ The Goal is the result or end toward which the character's efforts are directed.
 As with all story elements, the more specific the goal, the better.  The Goal control lists a number of generic goals, which is certainly not a comprehensive list.  Even if one of these is selected, you should convert it into a specific desire: rather than 'To find a missing object', your goal should be 'To find the Maltese Falcon.' <br/>
 
 
- <br/>
- <br/>
-[Prev](Problem_Tab.md)[Next](Antagonist_Tab.md) <br/>

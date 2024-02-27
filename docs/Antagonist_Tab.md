@@ -22,6 +22,3 @@ Goal, Motivation, Conflict Builder, Conflict <br/>
 
 
 
- <br/>
- <br/>
-[Prev](Protagonist_Tab.md)[Next](Conflict_Builder.md) <br/>

@@ -11,8 +11,6 @@ Initially, phrase your concept as a "what if" question. Then use ‘What if? And
 
 A good concept sparks more “what if” questions. <br/>
 
-[tk: Move exapanded discussion and the following examples to Reference] <br/>
-
 Other Examples: <br/>
 
 The da Vinci Code <br/>
@@ -43,6 +41,3 @@ When Harry Met Sally <br/>
 
 		 <br/>
 
- <br/>
- <br/>
-[Prev](Story_Idea_Tab.md)[Next](Premise_Tab.md) <br/>

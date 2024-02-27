@@ -4,8 +4,8 @@ Setting Tab <br/>
 
 The Setting tab contains elements which make the setting specific and unique. <br/>
 
-![](Clipboard-Image-4.png)
-
+  <br/>
+![](Setting-Setting-Tab.png)
 
 Locale	The location of the setting in space. <br/>
 
@@ -20,6 +20,3 @@ Props	These elements make the scene specific for the characters, and therefore f
 
 If a setting is used in multiple scenes, but the significance of the setting changes, with a different atmosphere or props, you may want to create a separate outline entry for the new setting. <br/>
 
- <br/>
- <br/>
-[Prev](Outer_Traits.md)[Next](Sensations_Tab.md) <br/>

@@ -1,7 +1,4 @@
 ## Character Form ##
- <br/>
- <br/>
-[Prev](Problem_Form.md)[Next](Setting_Form.md) <br/>
 [Role Tab](Role_Tab.md) <br/><br/>
 [Physical Tab](Physical_Tab.md) <br/><br/>
 [Appearance Tab](Appearance_Tab.md) <br/><br/>
