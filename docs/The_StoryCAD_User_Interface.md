@@ -11,6 +11,9 @@ The form’s sections are as follows. They’ll be explained in more detail as w
 	•	Content Pane - The contents of the currently selected Story Element <br/>
 
 
+ <br/>
+ <br/>
+[Prev](Reading_and_Writing_Outlines.md)[Next](Navigating_in_StoryCAD.md) <br/>
 [Menu Bar](Menu_Bar.md) <br/><br/>
 [Navigation and  Content Panes](Navigation_and_Content_Panes.md) <br/><br/>
 [Status Bar](Status_Bar.md) <br/><br/>

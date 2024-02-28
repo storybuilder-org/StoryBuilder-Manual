@@ -1,4 +1,7 @@
 # Tools #
+ <br/>
+ <br/>
+[Prev](Story_Elements.md)[Next](Reports.md) <br/>
 [Narrative Editor](Narrative_Editor.md) <br/><br/>
 [Key Questions](Key_Questions.md) <br/><br/>
 [Topic Information](Topic_Information.md) <br/><br/>

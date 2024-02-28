@@ -8,3 +8,6 @@ A character flaw is a negative trait that affects your character or others in a 
 The Flaw Builder tool can help you find a flaw suitable to your character. <br/>
 
 
+ <br/>
+ <br/>
+[Prev](Relationships_Tab.md)[Next](Backstory_Tab.md) <br/>

@@ -63,3 +63,6 @@ Character Sketch <br/>
 
 Use these notes to provide a thumbnail picture of the character and the overall impression he makes. <br/>
 
+ <br/>
+ <br/>
+[Prev](Resolution_Tab.md)[Next](Physical_Tab.md) <br/>

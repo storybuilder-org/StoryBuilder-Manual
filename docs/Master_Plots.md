@@ -18,3 +18,6 @@ Ronald Tobias' excellent book 20 Master Plots (And How to Build Them) is a detai
 
 
 
+ <br/>
+ <br/>
+[Prev](Flaw_Builder.md)[Next](Dramatic_Situations.md) <br/>

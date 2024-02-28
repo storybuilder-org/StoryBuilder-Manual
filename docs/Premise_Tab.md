@@ -13,3 +13,6 @@ Premise <br/>
 The Premise field on the Story Overview form is a read-only copy of the Premise field on the selected Story Problem’s Resolution tab.  Every Problem can contain a Premise, and you would do well to create one for each problem. <br/>
 
 
+ <br/>
+ <br/>
+[Prev](Concept_Tab.md)[Next](Structure_Tab.md) <br/>

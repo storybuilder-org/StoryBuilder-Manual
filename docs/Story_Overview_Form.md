@@ -1,4 +1,7 @@
 ## Story Overview Form ##
+ <br/>
+ <br/>
+[Prev](Rearranging_Content.md)[Next](Problem_Form.md) <br/>
 [Story Idea Tab](Story_Idea_Tab.md) <br/><br/>
 [Concept Tab](Concept_Tab.md) <br/><br/>
 [Premise Tab](Premise_Tab.md) <br/><br/>

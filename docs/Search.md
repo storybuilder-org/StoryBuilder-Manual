@@ -6,3 +6,6 @@ StoryCAD contains a search field, located at the left on the Menu Bar, which wil
 
 To clear the search, click on the search button a second time. <br/>
 
+ <br/>
+ <br/>
+[Prev](Status_Bar.md)[Next](Show_Hide_Navigation_Pane.md) <br/>

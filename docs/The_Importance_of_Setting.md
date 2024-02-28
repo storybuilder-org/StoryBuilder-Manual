@@ -18,3 +18,6 @@ A Scene’s settings ties characters and their actions together.  Generally, unl
 
 Confined settings increase dramatic tension: for example, Murder on the Orient Express, or Titanic.  Setting also establishes the framework of beliefs and scope of action which some characters are more comfortable in.  A cowboy belongs in a western setting in ways that a ballet dancer or biochemist don't.  But placing characters in unusual settings can create or increase drama. <br/>
 
+ <br/>
+ <br/>
+[Prev](Defining_Characters.md)[Next](Plotting_in_Scenes.md) <br/>

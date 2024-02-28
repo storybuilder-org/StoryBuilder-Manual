@@ -68,3 +68,6 @@ Remember to save your work frequently. <br/>
 
 
 
+ <br/>
+ <br/>
+[Prev](Creating_a_Story_pt_1.md)[Next](Creating_a_Story_pt_3.md) <br/>

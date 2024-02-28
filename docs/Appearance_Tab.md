@@ -13,3 +13,6 @@ Some writers  will select a photograph of someone which they use when describing
 
 In writing plays, where the characters must be cast, try to avoid writing dialog or situations which describe the characters more than necessary.  The producer will cast the part from available actors and actresses, and too detailed a description makes this task more difficult. <br/>
 
+ <br/>
+ <br/>
+[Prev](Physical_Tab.md)[Next](Relationships_Tab.md) <br/>

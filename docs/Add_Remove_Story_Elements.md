@@ -17,3 +17,6 @@ The Remove Element button (trashcan icon) moves a Story Element to the Trashcan.
 The Add to Narrative/Remove from Narrative buttons copy a Scene story element to the Narrative Explorer View or remove it from that view.  These do not remove the Scene from Story Explorer View. <br/>
 
 
+ <br/>
+ <br/>
+[Prev](File_Menu.md)[Next](Move_Story_Elements.md) <br/>

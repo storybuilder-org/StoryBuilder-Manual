@@ -1,4 +1,7 @@
 ## Navigating in StoryCAD ##
+ <br/>
+ <br/>
+[Prev](The_StoryCAD_User_Interface.md)[Next](Menu_Bar.md) <br/>
 [Story Elements](Story_Elements.md) <br/><br/>
 [Navigation Pane Flyout CommandBar](Navigation_Pane_Flyout_CommandBar.md) <br/><br/>
 [Tabs](Tabs.md) <br/><br/>

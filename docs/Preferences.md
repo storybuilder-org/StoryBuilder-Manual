@@ -69,3 +69,6 @@ What’s New tab: <br/>
 ![](Preferences-Whats-New-tb.png)
 
 The What’s New tab displays the Changelog for the current release.  <br/>
+ <br/>
+ <br/>
+[Prev](Reports.md)[Next](Researching_your_story.md) <br/>

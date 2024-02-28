@@ -26,3 +26,6 @@ Your character’s problem will often be a character arc- an  internal problem i
 
 
 
+ <br/>
+ <br/>
+[Prev](Other_Uses_of_StoryCAD.md)[Next](After_the_First_Draft.md) <br/>

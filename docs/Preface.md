@@ -12,3 +12,6 @@ StoryCAD’s layout provides a workflow to get you started, but you can work on 
 StoryCAD frees your creativity and makes it fun. Mistakes in a StoryCAD outline aren't costly; you don't fill your trash can with them.  You're free to change and revise, to make mistakes, and to experiment.   <br/>
 
 We hope you enjoy StoryCAD and find it useful to your craft.  <br/>
+ <br/>
+ <br/>
+[Prev](Front_Page_(Image).md)[Next](Important_Notice_to_StoryCAD_Users.md) <br/>

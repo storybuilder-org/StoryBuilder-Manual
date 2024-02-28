@@ -73,3 +73,6 @@ When you’re done with an editing session, you can Close your outline using the
 
 
 
+ <br/>
+ <br/>
+[Prev](Notes_Form.md)[Next](Creating_a_Story_pt_2.md) <br/>

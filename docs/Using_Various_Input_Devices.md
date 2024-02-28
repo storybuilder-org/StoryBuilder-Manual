@@ -13,3 +13,6 @@ Touchpad		Right Touchpad button <br/>
 The menu key(sometimes called document key) looks like this:  <br/>
 
 ![](Keyboard-Right-Mouse-Key.png)
+ <br/>
+ <br/>
+[Prev](Legal_Matters.md)[Next](Starting_and_Stopping_StoryCAD.md) <br/>
