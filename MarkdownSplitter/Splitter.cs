@@ -257,11 +257,14 @@ namespace MarkdownSplitter
             sb.AppendLine($" <br/>");
             if (previousBlock.Previous != null)
             {
-                sb.Append($"[Prev]({previousBlock.Previous.Filename})");
+                sb.Append($"[Previously - {previousBlock.Title}]({previousBlock.Previous.Filename})");
+                sb.AppendLine($" <br/>");
+                sb.AppendLine($" <br/>");
             }
             if (previousBlock.Next != null)
             {
-                sb.Append($"[Next]({previousBlock.Next.Filename})");
+                sb.Append($"[Next - {previousBlock.Next.Title}]({previousBlock.Next.Filename})");
+                sb.AppendLine($" <br/>");
             }
             previousBlock.Text.Add(sb.ToString());
             previousBlock = current;
