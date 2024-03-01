@@ -367,3 +367,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+#Miscellaneous (mostly VS related)
+slnx.sqlite
