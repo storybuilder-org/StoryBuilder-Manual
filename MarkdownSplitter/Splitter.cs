@@ -257,11 +257,17 @@ namespace MarkdownSplitter
             sb.AppendLine($" <br/>");
             if (previousBlock.Previous != null)
             {
-                sb.Append($"[Previously - {previousBlock.Title}]({previousBlock.Previous.Filename})");
+                sb.Append($"[Previously - {previousBlock.Previous.Title}]({previousBlock.Previous.Filename})");
                 sb.AppendLine($" <br/>");
                 sb.AppendLine($" <br/>");
             }
-            if (previousBlock.Next != null)
+
+            if (previousBlock.Children.Count != 0)
+            {
+                sb.Append($"[Next - {previousBlock.Children[0].Title}]({previousBlock.Children[0].Filename})");
+                sb.AppendLine($" <br/>");
+            }
+            else if (previousBlock.Next != null)
             {
                 sb.Append($"[Next - {previousBlock.Next.Title}]({previousBlock.Next.Filename})");
                 sb.AppendLine($" <br/>");
