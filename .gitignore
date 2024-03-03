@@ -403,3 +403,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+.vs/ProjectSettings.json
+.vs/StoryBuilder-Manual/v17/.suo
+.vs/StoryBuilder-Manual/v17/workspaceFileList.bin
+.vs/VSWorkspaceState.json
