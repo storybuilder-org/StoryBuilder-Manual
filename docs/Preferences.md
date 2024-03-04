@@ -3,7 +3,7 @@ Preferences <br/>
 
 The Preferences Dialog will be displayed when you press the Preferences button on the Menu Bar: <br/>
 
-![](Prefences-CommandBar-Button-3.png)
+![](Prefences-CommandBar-Button-4.png)
 
 
 
@@ -69,3 +69,9 @@ What’s New tab: <br/>
 ![](Preferences-Whats-New-tb.png)
 
 The What’s New tab displays the Changelog for the current release.  <br/>
+ <br/>
+ <br/>
+[Previously - Reports](Reports.md) <br/>
+ <br/>
+[Next - Researching your story](Researching_your_story.md) <br/>
+ <br/>

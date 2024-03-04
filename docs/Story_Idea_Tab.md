@@ -21,3 +21,9 @@ Story Idea				This is the place to record the original idea that led you to want
 
 
 
+ <br/>
+ <br/>
+[Previously - Scene Form](Scene_Form.md) <br/>
+ <br/>
+[Next - Concept Tab](Concept_Tab.md) <br/>
+ <br/>

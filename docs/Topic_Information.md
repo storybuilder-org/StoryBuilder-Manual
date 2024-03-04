@@ -21,3 +21,9 @@ Subgenres <br/>
 
 Contains brief descriptions of some of  the finer classifications of a particular genre. <br/>
 
+ <br/>
+ <br/>
+[Previously - Key Questions](Key_Questions.md) <br/>
+ <br/>
+[Next - Plotting Aids](Plotting_Aids.md) <br/>
+ <br/>

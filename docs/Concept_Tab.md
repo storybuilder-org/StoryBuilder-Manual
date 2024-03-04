@@ -41,3 +41,9 @@ When Harry Met Sally <br/>
 
 		 <br/>
 
+ <br/>
+ <br/>
+[Previously - Story Idea Tab](Story_Idea_Tab.md) <br/>
+ <br/>
+[Next - Premise Tab](Premise_Tab.md) <br/>
+ <br/>

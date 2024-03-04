@@ -48,3 +48,9 @@ Religion is not widely used in fictional character development except in religio
 
 But religion can provide a foundation for characters in crisis, a source of comfort and strength when things are at their darkest. Consider It’s a Wonderful Life. A religious background can provide the basis for character choices at the turning point.  This is especially true for stories in which the protagonist is on the brink of a fall into immoral or unethical behavior.  <br/>
 
+ <br/>
+ <br/>
+[Previously - Backstory Tab](Backstory_Tab.md) <br/>
+ <br/>
+[Next - Psychological Tab](Psychological_Tab.md) <br/>
+ <br/>

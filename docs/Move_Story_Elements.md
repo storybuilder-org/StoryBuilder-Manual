@@ -14,3 +14,9 @@ The Move Story Element button displays a pop-up which allows you to move the sel
 
 
 
+ <br/>
+ <br/>
+[Previously - Add/Remove Story Elements](Add_Remove_Story_Elements.md) <br/>
+ <br/>
+[Next - Tools Menu](Tools_Menu.md) <br/>
+ <br/>

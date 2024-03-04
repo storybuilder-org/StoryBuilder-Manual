@@ -8,3 +8,9 @@ Protecting Your Work: To ensure the security of your manuscript, please use a de
 StoryCAD's Backup and Autosave Features: To enhance your experience and safeguard your work, StoryCAD includes built-in backup options and an autosave feature. Our two backup options periodically save your outlines and notes, reducing the risk of data loss. Meanwhile, the autosave function works silently in the background, automatically saving your progress as you work. These features are part of our commitment to providing a reliable and user-friendly platform for your creative process. <br/>
 We understand the challenges and setbacks that come with losing valuable work. Our commitment is minimize this risk and to help you integrate StoryCAD into your workflow in the most effective manner. <br/>
 Thank you for choosing StoryCAD as a companion in your writing endeavors. We look forward to reading or viewing the incredible stories you'll create. <br/>
+ <br/>
+ <br/>
+[Previously - Preface](Preface.md) <br/>
+ <br/>
+[Next - Getting Help](Getting_Help.md) <br/>
+ <br/>

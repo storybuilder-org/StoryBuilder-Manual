@@ -1,4 +1,10 @@
 # Quick Start #
+ <br/>
+ <br/>
+[Previously - Front Matter](Front_Matter.md) <br/>
+ <br/>
+[Next - Using Various Input Devices](Using_Various_Input_Devices.md) <br/>
+ <br/>
 [Using Various Input Devices](Using_Various_Input_Devices.md) <br/><br/>
 [Starting and Stopping StoryCAD](Starting_and_Stopping_StoryCAD.md) <br/><br/>
 [Reading and Writing Outlines](Reading_and_Writing_Outlines.md) <br/><br/>

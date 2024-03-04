@@ -17,7 +17,7 @@ To do so in StoryCAD, launch the program. The first time you launch the program,
 
 Back to our story idea. Use the File menu’s  Open/Create file option: <br/>
 
-![](File-Open-Dialog-3.png)
+![](File-Open-Dialog-4.png)
 
 Click on Create New Story to start a new outline: <br/>
 
@@ -51,7 +51,7 @@ At the moment, the story outline for "Danger Calls" exists only in your computer
 
 The indicator will change from red to green, indicating that all changes have been saved to disk. <br/>
 
-![](Changed-Indicator-3.png)
+![](Changed-Indicator-4.png)
 
 Alternatively, from the File menu, you can select Save Story, or enter the Ctrl+S shortcut keys.  Remember to save your work periodically. <br/>
 
@@ -73,3 +73,9 @@ When you’re done with an editing session, you can Close your outline using the
 
 
 
+ <br/>
+ <br/>
+[Previously - Notes Form](Notes_Form.md) <br/>
+ <br/>
+[Next - Creating a Story pt 2](Creating_a_Story_pt_2.md) <br/>
+ <br/>
