@@ -38,4 +38,7 @@ Every major form also has a full-page tab (labeled Notes) which holds your gener
 
  <br/>
  <br/>
-[Prev](Menu_Bar.md)[Next](Status_Bar.md) <br/>
+[Previously - Menu Bar](Menu_Bar.md) <br/>
+ <br/>
+[Next - Status Bar](Status_Bar.md) <br/>
+ <br/>

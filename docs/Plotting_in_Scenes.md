@@ -17,4 +17,7 @@ The things that happen at a certain place in the plot (introduce the protagonist
 
  <br/>
  <br/>
-[Prev](The_Importance_of_Setting.md)[Next](Plotting_Tools.md) <br/>
+[Previously - The Importance of Setting](The_Importance_of_Setting.md) <br/>
+ <br/>
+[Next - Plotting Tools](Plotting_Tools.md) <br/>
+ <br/>

@@ -16,4 +16,7 @@ Scene Sketch		A thumbnail sketch of the scene. <br/>
 
  <br/>
  <br/>
-[Prev](Sensations_Tab.md)[Next](Develpment_Tab.md) <br/>
+[Previously - Sensations Tab](Sensations_Tab.md) <br/>
+ <br/>
+[Next - Develpment Tab](Develpment_Tab.md) <br/>
+ <br/>

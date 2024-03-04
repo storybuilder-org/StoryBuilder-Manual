@@ -23,4 +23,7 @@ Contains brief descriptions of some of  the finer classifications of a particula
 
  <br/>
  <br/>
-[Prev](Key_Questions.md)[Next](Plotting_Aids.md) <br/>
+[Previously - Key Questions](Key_Questions.md) <br/>
+ <br/>
+[Next - Plotting Aids](Plotting_Aids.md) <br/>
+ <br/>

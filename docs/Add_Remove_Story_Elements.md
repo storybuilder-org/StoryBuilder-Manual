@@ -19,4 +19,7 @@ The Add to Narrative/Remove from Narrative buttons copy a Scene story element to
 
  <br/>
  <br/>
-[Prev](File_Menu.md)[Next](Move_Story_Elements.md) <br/>
+[Previously - File Menu](File_Menu.md) <br/>
+ <br/>
+[Next - Move Story Elements](Move_Story_Elements.md) <br/>
+ <br/>

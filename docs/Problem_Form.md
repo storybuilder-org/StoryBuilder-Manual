@@ -1,7 +1,10 @@
 ## Problem Form ##
  <br/>
  <br/>
-[Prev](Story_Overview_Form.md)[Next](Character_Form.md) <br/>
+[Previously - Story Overview Form](Story_Overview_Form.md) <br/>
+ <br/>
+[Next - Problem Tab](Problem_Tab.md) <br/>
+ <br/>
 [Problem Tab](Problem_Tab.md) <br/><br/>
 [Protagonist Tab](Protagonist_Tab.md) <br/><br/>
 [Antagonist Tab](Antagonist_Tab.md) <br/><br/>

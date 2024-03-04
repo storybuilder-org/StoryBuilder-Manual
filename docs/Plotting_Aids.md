@@ -12,7 +12,10 @@ The Stock Scenes tool provides lists of scenes frequently found in certain plott
 
  <br/>
  <br/>
-[Prev](Topic_Information.md)[Next](Conflict_Builder.md) <br/>
+[Previously - Topic Information](Topic_Information.md) <br/>
+ <br/>
+[Next - Master Plots](Master_Plots.md) <br/>
+ <br/>
 [Master Plots](Master_Plots.md) <br/><br/>
 [Dramatic Situations](Dramatic_Situations.md) <br/><br/>
 [Stock Scenes](Stock_Scenes.md) <br/><br/>

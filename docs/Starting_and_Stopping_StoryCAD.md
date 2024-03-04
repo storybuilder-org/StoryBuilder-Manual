@@ -9,4 +9,7 @@ StoryCAD follows regular Windows conventions.  The app can be re-sized, maximize
 
  <br/>
  <br/>
-[Prev](Using_Various_Input_Devices.md)[Next](Reading_and_Writing_Outlines.md) <br/>
+[Previously - Using Various Input Devices](Using_Various_Input_Devices.md) <br/>
+ <br/>
+[Next - Reading and Writing Outlines](Reading_and_Writing_Outlines.md) <br/>
+ <br/>

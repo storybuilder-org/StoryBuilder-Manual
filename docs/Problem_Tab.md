@@ -63,4 +63,7 @@ The provided choices are generalized sources from which many problems spring. Be
 
  <br/>
  <br/>
-[Prev](Structure_Tab.md)[Next](Protagonist_Tab.md) <br/>
+[Previously - Structure Tab](Structure_Tab.md) <br/>
+ <br/>
+[Next - Protagonist Tab](Protagonist_Tab.md) <br/>
+ <br/>

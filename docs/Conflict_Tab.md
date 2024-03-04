@@ -26,4 +26,7 @@ The Dramatic Situations tool on the Plotting Aids sub‑  menu of the Tools  men
 
  <br/>
  <br/>
-[Prev](Develpment_Tab.md)[Next](Sequel_Tab.md) <br/>
+[Previously - Develpment Tab](Develpment_Tab.md) <br/>
+ <br/>
+[Next - Sequel Tab](Sequel_Tab.md) <br/>
+ <br/>

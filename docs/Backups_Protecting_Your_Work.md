@@ -18,4 +18,7 @@ See Preferences in this manual for further information. <br/>
 
  <br/>
  <br/>
-[Prev](Critiquing_with_StoryCAD.md)[Next](Developing_StoryCAD.md) <br/>
+[Previously - Critiquing with StoryCAD](Critiquing_with_StoryCAD.md) <br/>
+ <br/>
+[Next - Developing StoryCAD](Developing_StoryCAD.md) <br/>
+ <br/>

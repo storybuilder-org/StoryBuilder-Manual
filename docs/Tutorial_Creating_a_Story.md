@@ -1,7 +1,10 @@
 # Tutorial: Creating a Story #
  <br/>
  <br/>
-[Prev](Researching_your_story.md)[Next](Writing_with_StoryCAD.md) <br/>
+[Previously - Researching your story](Researching_your_story.md) <br/>
+ <br/>
+[Next - Creating a Story pt 1](Creating_a_Story_pt_1.md) <br/>
+ <br/>
 [Creating a Story pt 1](Creating_a_Story_pt_1.md) <br/><br/>
 [Creating a Story pt 2](Creating_a_Story_pt_2.md) <br/><br/>
 [Creating a Story pt 3](Creating_a_Story_pt_3.md) <br/><br/>

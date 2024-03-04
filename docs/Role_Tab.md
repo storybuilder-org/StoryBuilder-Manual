@@ -65,4 +65,7 @@ Use these notes to provide a thumbnail picture of the character and the overall 
 
  <br/>
  <br/>
-[Prev](Resolution_Tab.md)[Next](Physical_Tab.md) <br/>
+[Previously - Resolution Tab](Resolution_Tab.md) <br/>
+ <br/>
+[Next - Physical Tab](Physical_Tab.md) <br/>
+ <br/>

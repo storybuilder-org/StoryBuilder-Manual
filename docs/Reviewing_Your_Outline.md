@@ -7,4 +7,7 @@ We recommend using Key Questions frequently, as you work, rather than waiting un
 
  <br/>
  <br/>
-[Prev](Defining_Scenes.md)[Next](Other_Uses_of_StoryCAD.md) <br/>
+[Previously - Defining Scenes](Defining_Scenes.md) <br/>
+ <br/>
+[Next - Other Uses of StoryCAD](Other_Uses_of_StoryCAD.md) <br/>
+ <br/>

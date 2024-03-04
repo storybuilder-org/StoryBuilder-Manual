@@ -29,4 +29,7 @@ Changed Indicator <br/>
 The Changed Indicator displays red if any editing has been done to the outline and green if not. It’s a reminder to save your work. It’s also a command button which will save your outline if you click it. <br/>
  <br/>
  <br/>
-[Prev](Navigation_and_Content_Panes.md)[Next](Search.md) <br/>
+[Previously - Navigation and  Content Panes](Navigation_and_Content_Panes.md) <br/>
+ <br/>
+[Next - Search](Search.md) <br/>
+ <br/>

@@ -1,5 +1,8 @@
 # Back Matter #
  <br/>
  <br/>
-[Prev](Miscellaneous.md)[Next](Front_Page_(Image).md) <br/>
+[Previously - Miscellaneous](Miscellaneous.md) <br/>
+ <br/>
+[Next - Glossary](Glossary.md) <br/>
+ <br/>
 [Glossary](Glossary.md) <br/><br/>

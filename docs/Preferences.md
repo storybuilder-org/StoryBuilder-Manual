@@ -71,4 +71,7 @@ What’s New tab: <br/>
 The What’s New tab displays the Changelog for the current release.  <br/>
  <br/>
  <br/>
-[Prev](Reports.md)[Next](Researching_your_story.md) <br/>
+[Previously - Reports](Reports.md) <br/>
+ <br/>
+[Next - Researching your story](Researching_your_story.md) <br/>
+ <br/>

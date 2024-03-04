@@ -45,4 +45,7 @@ The character may discover that what he thinks is important isn't, or that value
 
  <br/>
  <br/>
-[Prev](Social_Tab.md)[Next](Inner_Traits.md) <br/>
+[Previously - Social Tab](Social_Tab.md) <br/>
+ <br/>
+[Next - Inner Traits](Inner_Traits.md) <br/>
+ <br/>

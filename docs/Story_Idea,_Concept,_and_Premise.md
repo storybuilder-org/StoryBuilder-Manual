@@ -99,4 +99,7 @@ Creating a narrative <br/>
 	Braids <br/>
  <br/>
  <br/>
-[Prev](Workflow.md)[Next](Problem_and_Character_Development.md) <br/>
+[Previously - Workflow](Workflow.md) <br/>
+ <br/>
+[Next - Problem and Character Development](Problem_and_Character_Development.md) <br/>
+ <br/>

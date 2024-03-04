@@ -3,4 +3,7 @@
 ![](StoryCAD.png)
  <br/>
  <br/>
-[Prev](Back_Matter.md)[Next](Preface.md) <br/>
+[Previously - Back Matter](Back_Matter.md) <br/>
+ <br/>
+[Next - Preface](Preface.md) <br/>
+ <br/>

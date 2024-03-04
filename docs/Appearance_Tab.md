@@ -15,4 +15,7 @@ In writing plays, where the characters must be cast, try to avoid writing dialog
 
  <br/>
  <br/>
-[Prev](Physical_Tab.md)[Next](Relationships_Tab.md) <br/>
+[Previously - Physical Tab](Physical_Tab.md) <br/>
+ <br/>
+[Next - Relationships Tab](Relationships_Tab.md) <br/>
+ <br/>

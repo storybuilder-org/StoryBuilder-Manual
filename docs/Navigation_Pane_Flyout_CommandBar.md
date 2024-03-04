@@ -15,4 +15,7 @@ In order of top to bottom, the flyout items do the following: <br/>
 
  <br/>
  <br/>
-[Prev](Story_Elements.md)[Next](Tabs.md) <br/>
+[Previously - Story Elements](Story_Elements.md) <br/>
+ <br/>
+[Next - Tabs](Tabs.md) <br/>
+ <br/>

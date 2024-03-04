@@ -10,4 +10,7 @@ The Flaw Builder tool can help you find a flaw suitable to your character. <br/>
 
  <br/>
  <br/>
-[Prev](Relationships_Tab.md)[Next](Backstory_Tab.md) <br/>
+[Previously - Relationships Tab](Relationships_Tab.md) <br/>
+ <br/>
+[Next - Backstory Tab](Backstory_Tab.md) <br/>
+ <br/>

@@ -18,4 +18,7 @@ The Done button closes the Narrative Editor when you’re finished. <br/>
 
  <br/>
  <br/>
-[Prev](Sequel_Tab.md)[Next](Key_Questions.md) <br/>
+[Previously - Sequel Tab](Sequel_Tab.md) <br/>
+ <br/>
+[Next - Key Questions](Key_Questions.md) <br/>
+ <br/>

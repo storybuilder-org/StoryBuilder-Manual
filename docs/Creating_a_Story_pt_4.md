@@ -84,4 +84,7 @@ Does this work?  The story's over when Lacas is captured, and Leonard's inner pr
 
  <br/>
  <br/>
-[Prev](Creating_a_Story_pt_3.md)[Next](Creating_a_Story_pt_5.md) <br/>
+[Previously - Creating a Story pt 3](Creating_a_Story_pt_3.md) <br/>
+ <br/>
+[Next - Creating a Story pt 5](Creating_a_Story_pt_5.md) <br/>
+ <br/>

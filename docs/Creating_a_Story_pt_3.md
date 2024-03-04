@@ -35,4 +35,7 @@ Neither of these problems are fleshed out, but we’ll work on that in a minute.
 
  <br/>
  <br/>
-[Prev](Creating_a_Story_pt_2.md)[Next](Creating_a_Story_pt_4.md) <br/>
+[Previously - Creating a Story pt 2](Creating_a_Story_pt_2.md) <br/>
+ <br/>
+[Next - Creating a Story pt 4](Creating_a_Story_pt_4.md) <br/>
+ <br/>

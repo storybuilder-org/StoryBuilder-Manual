@@ -59,4 +59,7 @@ If you feel that the relationship takes too much space up you can hide the extra
 
  <br/>
  <br/>
-[Prev](Appearance_Tab.md)[Next](Flaw_Tab.md) <br/>
+[Previously - Appearance Tab](Appearance_Tab.md) <br/>
+ <br/>
+[Next - Flaw Tab](Flaw_Tab.md) <br/>
+ <br/>

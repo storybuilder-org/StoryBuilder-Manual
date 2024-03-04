@@ -128,4 +128,7 @@ As with all story elements, the more specific, the better.  You might change 'Pl
 
  <br/>
  <br/>
-[Prev](Problem_and_Character_Development.md)[Next](Defining_Characters.md) <br/>
+[Previously - Problem and Character Development](Problem_and_Character_Development.md) <br/>
+ <br/>
+[Next - Defining Characters](Defining_Characters.md) <br/>
+ <br/>
