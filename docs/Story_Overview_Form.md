@@ -1,7 +1,7 @@
 ## Story Overview Form ##
  <br/>
  <br/>
-[Previously - Rearranging Content](Rearranging_Content.md) <br/>
+[Previous - Rearranging Content](Rearranging_Content.md) <br/>
  <br/>
 [Next - Story Idea Tab](Story_Idea_Tab.md) <br/>
  <br/>

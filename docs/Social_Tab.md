@@ -50,7 +50,7 @@ But religion can provide a foundation for characters in crisis, a source of comf
 
  <br/>
  <br/>
-[Previously - Backstory Tab](Backstory_Tab.md) <br/>
+[Previous - Backstory Tab](Backstory_Tab.md) <br/>
  <br/>
 [Next - Psychological Tab](Psychological_Tab.md) <br/>
  <br/>

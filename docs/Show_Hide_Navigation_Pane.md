@@ -9,7 +9,7 @@ This button toggles the Navigation Pane to either display or be hidden. Hiding t
 (Hint: StoryCAD detects and reports spelling errors on most text fields.) <br/>
  <br/>
  <br/>
-[Previously - Search](Search.md) <br/>
+[Previous - Search](Search.md) <br/>
  <br/>
 [Next - File Menu](File_Menu.md) <br/>
  <br/>

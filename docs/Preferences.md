@@ -3,7 +3,7 @@ Preferences <br/>
 
 The Preferences Dialog will be displayed when you press the Preferences button on the Menu Bar: <br/>
 
-![](Prefences-CommandBar-Button-15.png)
+![](Prefences-CommandBar-Button-1.png)
 
 
 
@@ -50,11 +50,15 @@ Wrap node names - Wraps node names in the Story Explorer and Narrator treeviews,
 
 Automatically Save - This function will automatically save your story  story outline every X seconds. It operates exactly as if you’d used File > Save or clicked on the edit button on the status bar.  You’ll see a verification of the save event on the status bar and the edit button will turn green.  <br/>
 
+Preferred Search Engine - This is the search engine that will be used within web nodes. <br/>
+
+Preferred Theme - This is the theme that StoryCAD will use. You can select between Light Theme, Dark Theme or to Use System theme, which will match the theme you have set within windows. <br/>
+
 About tab: <br/>
 
 ![](Preferences-About-tab.png)
 
-This tab identifies the current version. <br/>
+This tab identifies the current version and has links to keep up with StoryCAD on Social Media. You can also review StoryCAD here; additionally, you will also be prompted to review StoryCAD roughly once every six months. <br/>
 
 The logs folder is a subfolder of the installation folder. It contains a list of the most recent log files written by StoryCAD (one file per day.) <br/>
 
@@ -71,7 +75,7 @@ What’s New tab: <br/>
 The What’s New tab displays the Changelog for the current release.  <br/>
  <br/>
  <br/>
-[Previously - Reports](Reports.md) <br/>
+[Previous - Reports](Reports.md) <br/>
  <br/>
 [Next - Researching your story](Researching_your_story.md) <br/>
  <br/>

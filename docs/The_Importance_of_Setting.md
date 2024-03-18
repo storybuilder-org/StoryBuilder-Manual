@@ -20,7 +20,7 @@ Confined settings increase dramatic tension: for example, Murder on the Orient E
 
  <br/>
  <br/>
-[Previously - Defining Characters](Defining_Characters.md) <br/>
+[Previous - Defining Characters](Defining_Characters.md) <br/>
  <br/>
 [Next - Plotting in Scenes](Plotting_in_Scenes.md) <br/>
  <br/>

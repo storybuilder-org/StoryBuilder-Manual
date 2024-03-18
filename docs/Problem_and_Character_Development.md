@@ -12,7 +12,7 @@ Always honor your muse by recording whatever it gifts you about your story: a bi
 
  <br/>
  <br/>
-[Previously - Story Idea, Concept, and Premise](Story_Idea,_Concept,_and_Premise.md) <br/>
+[Previous - Story Idea, Concept, and Premise](Story_Idea,_Concept,_and_Premise.md) <br/>
  <br/>
 [Next - Defining Problems](Defining_Problems.md) <br/>
  <br/>

@@ -19,7 +19,7 @@ The menu bar buttons either display drop-down menus (such as File), or launch pa
 
  <br/>
  <br/>
-[Previously - Navigating in StoryCAD](Navigating_in_StoryCAD.md) <br/>
+[Previous - Navigating in StoryCAD](Navigating_in_StoryCAD.md) <br/>
  <br/>
 [Next - Search](Search.md) <br/>
  <br/>

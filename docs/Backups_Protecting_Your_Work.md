@@ -18,7 +18,7 @@ See Preferences in this manual for further information. <br/>
 
  <br/>
  <br/>
-[Previously - Critiquing with StoryCAD](Critiquing_with_StoryCAD.md) <br/>
+[Previous - Critiquing with StoryCAD](Critiquing_with_StoryCAD.md) <br/>
  <br/>
 [Next - Developing StoryCAD](Developing_StoryCAD.md) <br/>
  <br/>

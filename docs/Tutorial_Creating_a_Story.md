@@ -1,7 +1,7 @@
 # Tutorial: Creating a Story #
  <br/>
  <br/>
-[Previously - Researching your story](Researching_your_story.md) <br/>
+[Previous - Researching your story](Researching_your_story.md) <br/>
  <br/>
 [Next - Creating a Story pt 1](Creating_a_Story_pt_1.md) <br/>
  <br/>

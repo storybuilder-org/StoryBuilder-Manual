@@ -16,7 +16,7 @@ The questions for a story element type are a circular list.  That is, when you'v
 
  <br/>
  <br/>
-[Previously - Narrative Editor](Narrative_Editor.md) <br/>
+[Previous - Narrative Editor](Narrative_Editor.md) <br/>
  <br/>
 [Next - Topic Information](Topic_Information.md) <br/>
  <br/>

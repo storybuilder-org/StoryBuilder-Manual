@@ -1,7 +1,7 @@
 # Story Elements #
  <br/>
  <br/>
-[Previously - Quick Start](Quick_Start.md) <br/>
+[Previous - Quick Start](Quick_Start.md) <br/>
  <br/>
 [Next - Story Overview Form](Story_Overview_Form.md) <br/>
  <br/>

@@ -10,7 +10,7 @@ Use the Appearance tab to round out the physical description of the character wi
 
  <br/>
  <br/>
-[Previously - Role Tab](Role_Tab.md) <br/>
+[Previous - Role Tab](Role_Tab.md) <br/>
  <br/>
 [Next - Appearance Tab](Appearance_Tab.md) <br/>
  <br/>

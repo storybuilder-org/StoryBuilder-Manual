@@ -15,7 +15,7 @@ The menu key(sometimes called document key) looks like this:  <br/>
 ![](Keyboard-Right-Mouse-Key.png)
  <br/>
  <br/>
-[Previously - Legal Matters](Legal_Matters.md) <br/>
+[Previous - Legal Matters](Legal_Matters.md) <br/>
  <br/>
 [Next - Starting and Stopping StoryCAD](Starting_and_Stopping_StoryCAD.md) <br/>
  <br/>

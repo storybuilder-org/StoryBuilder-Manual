@@ -228,7 +228,7 @@ namespace MarkdownSplitter
         {
             if (line.Contains("[Front Page (Image)](Front_Page_(Image).md)"))
             {
-                return "![](StoryBuilder.png)";
+                return ""/*"![](StoryBuilder.png)"*/;
             }
 
             if (line == " <br/>")
@@ -251,29 +251,31 @@ namespace MarkdownSplitter
             previousBlock.Next = current;
             Debug.Assert(previousBlock != null, nameof(previousBlock) + " != null");
             current.Previous = previousBlock;
+
             // Append the previous and next links to the previous block's text.
             StringBuilder sb = new();
             sb.AppendLine($" <br/>");
             sb.AppendLine($" <br/>");
             if (previousBlock.Previous != null)
             {
-                sb.Append($"[Previously - {previousBlock.Previous.Title}]({previousBlock.Previous.Filename})");
-                sb.AppendLine($" <br/>");
-                sb.AppendLine($" <br/>");
+	            if (previousBlock.Previous.Filename == "index.md") { previousBlock.Previous.Title = "Table of Contents"; }
+	            sb.Append($"[Previous - {previousBlock.Previous.Title}]({previousBlock.Previous.Filename})");
+	            sb.AppendLine($" <br/>");
+	            sb.AppendLine($" <br/>");
             }
 
             if (previousBlock.Children.Count != 0)
             {
-                sb.Append($"[Next - {previousBlock.Children[0].Title}]({previousBlock.Children[0].Filename})");
-                sb.AppendLine($" <br/>");
+	            sb.Append($"[Next - {previousBlock.Children[0].Title}]({previousBlock.Children[0].Filename})");
+	            sb.AppendLine($" <br/>");
             }
             else if (previousBlock.Next != null)
             {
-                sb.Append($"[Next - {previousBlock.Next.Title}]({previousBlock.Next.Filename})");
-                sb.AppendLine($" <br/>");
+	            sb.Append($"[Next - {previousBlock.Next.Title}]({previousBlock.Next.Filename})");
+	            sb.AppendLine($" <br/>");
             }
             previousBlock.Text.Add(sb.ToString());
             previousBlock = current;
-        }
+		}
     }
 }

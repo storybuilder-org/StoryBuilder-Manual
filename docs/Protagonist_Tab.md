@@ -30,7 +30,7 @@ As with all story elements, the more specific the goal, the better.  The Goal co
 
  <br/>
  <br/>
-[Previously - Problem Tab](Problem_Tab.md) <br/>
+[Previous - Problem Tab](Problem_Tab.md) <br/>
  <br/>
 [Next - Antagonist Tab](Antagonist_Tab.md) <br/>
  <br/>

@@ -9,7 +9,7 @@ Using your outline as your guide gives you a number of places to start editing- 
 
  <br/>
  <br/>
-[Previously - StoryCAD for Pantsers](StoryCAD_for_Pantsers.md) <br/>
+[Previous - StoryCAD for Pantsers](StoryCAD_for_Pantsers.md) <br/>
  <br/>
 [Next - Critiquing with StoryCAD](Critiquing_with_StoryCAD.md) <br/>
  <br/>

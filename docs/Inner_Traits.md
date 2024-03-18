@@ -15,7 +15,7 @@ Both the Inner Traits tab and the Virtues and Vices list in StoryCAD can be tail
 
  <br/>
  <br/>
-[Previously - Psychological Tab](Psychological_Tab.md) <br/>
+[Previous - Psychological Tab](Psychological_Tab.md) <br/>
  <br/>
 [Next - Outer Traits](Outer_Traits.md) <br/>
  <br/>

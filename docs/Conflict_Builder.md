@@ -31,7 +31,7 @@ Value conflicts are caused by perceived or actual incompatible belief systems. V
 
  <br/>
  <br/>
-[Previously - Plotting Aids](Plotting_Aids.md) <br/>
+[Previous - Plotting Aids](Plotting_Aids.md) <br/>
  <br/>
 [Next - Flaw Builder](Flaw_Builder.md) <br/>
  <br/>

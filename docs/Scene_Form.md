@@ -1,7 +1,7 @@
 ## Scene Form ##
  <br/>
  <br/>
-[Previously - Setting Form](Setting_Form.md) <br/>
+[Previous - Setting Form](Setting_Form.md) <br/>
  <br/>
 [Next - Scene Tab](Scene_Tab.md) <br/>
  <br/>

@@ -3,7 +3,7 @@ Add/Remove Story Elements <br/>
 
 You can add or remove Story Elements in two ways. There’s a Menu Bar button which opens an ‘Add/Remove Story Elements’ menu: <br/>
 
-![](Menu-Bar-15.png)
+![](Menu-Bar-1.png)
 
 There’s also a pop-up menu which displays when you right-click on any Story Element node in the Navigation Pane: <br/>
 
@@ -19,7 +19,7 @@ The Add to Narrative/Remove from Narrative buttons copy a Scene story element to
 
  <br/>
  <br/>
-[Previously - File Menu](File_Menu.md) <br/>
+[Previous - File Menu](File_Menu.md) <br/>
  <br/>
 [Next - Move Story Elements](Move_Story_Elements.md) <br/>
  <br/>

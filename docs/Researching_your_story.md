@@ -1,7 +1,7 @@
 # Researching your story #
  <br/>
  <br/>
-[Previously - Preferences](Preferences.md) <br/>
+[Previous - Preferences](Preferences.md) <br/>
  <br/>
 [Next - Website Form](Website_Form.md) <br/>
  <br/>

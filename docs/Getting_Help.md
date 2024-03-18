@@ -13,7 +13,7 @@ Please write us with ideas or suggestions for improvements.  We want to make Sto
 
  <br/>
  <br/>
-[Previously - Important Notice to StoryCAD Users](Important_Notice_to_StoryCAD_Users.md) <br/>
+[Previous - Important Notice to StoryCAD Users](Important_Notice_to_StoryCAD_Users.md) <br/>
  <br/>
 [Next - Legal Matters](Legal_Matters.md) <br/>
  <br/>

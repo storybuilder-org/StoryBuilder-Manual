@@ -60,7 +60,7 @@ A quite different answer to the ‘How many scenes?’ question is ‘As few as 
 The urge will be to create a scene for every plot point.  But you have a wonderful tool at your disposal, your reader’s imagination. If you can remove a scene and the reader can follow your story line, that thing can and should be cut. <br/>
  <br/>
  <br/>
-[Previously - Plotting Tools](Plotting_Tools.md) <br/>
+[Previous - Plotting Tools](Plotting_Tools.md) <br/>
  <br/>
 [Next - Defining Scenes](Defining_Scenes.md) <br/>
  <br/>

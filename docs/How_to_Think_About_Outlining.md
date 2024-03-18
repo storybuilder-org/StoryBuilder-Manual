@@ -25,7 +25,7 @@ The gap between these two perspectives,  and the answer to the original question
 
  <br/>
  <br/>
-[Previously - Creating a Story pt 9](Creating_a_Story_pt_9.md) <br/>
+[Previous - Creating a Story pt 9](Creating_a_Story_pt_9.md) <br/>
  <br/>
 [Next - Workflow](Workflow.md) <br/>
  <br/>

@@ -13,7 +13,7 @@ The form’s sections are as follows. They’ll be explained in more detail as w
 
  <br/>
  <br/>
-[Previously - Reading and Writing Outlines](Reading_and_Writing_Outlines.md) <br/>
+[Previous - Reading and Writing Outlines](Reading_and_Writing_Outlines.md) <br/>
  <br/>
 [Next - Menu Bar](Menu_Bar.md) <br/>
  <br/>

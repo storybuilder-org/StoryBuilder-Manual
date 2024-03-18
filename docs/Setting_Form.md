@@ -1,7 +1,7 @@
 ## Setting Form ##
  <br/>
  <br/>
-[Previously - Character Form](Character_Form.md) <br/>
+[Previous - Character Form](Character_Form.md) <br/>
  <br/>
 [Next - Setting Tab](Setting_Tab.md) <br/>
  <br/>

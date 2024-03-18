@@ -36,7 +36,7 @@ Note: The Website Form requires the Microsoft Edge WebView 2 runtime, most 		Win
 
  <br/>
  <br/>
-[Previously - Scrivener Reports](Scrivener_Reports.md) <br/>
+[Previous - Scrivener Reports](Scrivener_Reports.md) <br/>
  <br/>
 [Next - Notes Form](Notes_Form.md) <br/>
  <br/>

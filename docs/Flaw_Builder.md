@@ -9,7 +9,7 @@ Generally, a character flaw should become a problem of its own, a ‘person agai
 
  <br/>
  <br/>
-[Previously - Conflict Builder](Conflict_Builder.md) <br/>
+[Previous - Conflict Builder](Conflict_Builder.md) <br/>
  <br/>
 [Next - Master Plots](Master_Plots.md) <br/>
  <br/>

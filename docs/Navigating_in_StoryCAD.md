@@ -1,7 +1,7 @@
 ## Navigating in StoryCAD ##
  <br/>
  <br/>
-[Previously - The StoryCAD User Interface](The_StoryCAD_User_Interface.md) <br/>
+[Previous - The StoryCAD User Interface](The_StoryCAD_User_Interface.md) <br/>
  <br/>
 [Next - Story Elements](Story_Elements.md) <br/>
  <br/>

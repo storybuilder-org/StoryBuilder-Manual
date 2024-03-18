@@ -1,7 +1,7 @@
 # Quick Start #
  <br/>
  <br/>
-[Previously - Front Matter](Front_Matter.md) <br/>
+[Previous - Front Matter](Front_Matter.md) <br/>
  <br/>
 [Next - Using Various Input Devices](Using_Various_Input_Devices.md) <br/>
  <br/>

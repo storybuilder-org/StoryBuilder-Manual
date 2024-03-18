@@ -1,7 +1,7 @@
 ## Other Uses of StoryCAD ##
  <br/>
  <br/>
-[Previously - Reviewing Your Outline](Reviewing_Your_Outline.md) <br/>
+[Previous - Reviewing Your Outline](Reviewing_Your_Outline.md) <br/>
  <br/>
 [Next - StoryCAD for Pantsers](StoryCAD_for_Pantsers.md) <br/>
  <br/>

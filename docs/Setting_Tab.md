@@ -22,7 +22,7 @@ If a setting is used in multiple scenes, but the significance of the setting cha
 
  <br/>
  <br/>
-[Previously - Outer Traits](Outer_Traits.md) <br/>
+[Previous - Outer Traits](Outer_Traits.md) <br/>
  <br/>
 [Next - Sensations Tab](Sensations_Tab.md) <br/>
  <br/>

@@ -8,7 +8,7 @@ Backstory Tab <br/>
 Backstory deserves caution for two reasons, however. If you’re shoehorning explanations for your character’s behavior into backstory, it can easily feel contrived. Also, it’s not easy to reveal backstory as your story unfolds. It’s a major cause of the dreaded ‘data dump.’ <br/>
  <br/>
  <br/>
-[Previously - Flaw Tab](Flaw_Tab.md) <br/>
+[Previous - Flaw Tab](Flaw_Tab.md) <br/>
  <br/>
 [Next - Social Tab](Social_Tab.md) <br/>
  <br/>

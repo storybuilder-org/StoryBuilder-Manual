@@ -40,7 +40,7 @@ Plotting is usually the last thing in story design to worry about, for several r
 
  <br/>
  <br/>
-[Previously - Creating a Story pt 5](Creating_a_Story_pt_5.md) <br/>
+[Previous - Creating a Story pt 5](Creating_a_Story_pt_5.md) <br/>
  <br/>
 [Next - Creating a Story pt 7](Creating_a_Story_pt_7.md) <br/>
  <br/>

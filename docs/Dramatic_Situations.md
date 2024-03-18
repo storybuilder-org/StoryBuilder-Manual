@@ -15,7 +15,7 @@ This tool works with the Scene tab on the Plot form to help define the conflict 
 
  <br/>
  <br/>
-[Previously - Master Plots](Master_Plots.md) <br/>
+[Previous - Master Plots](Master_Plots.md) <br/>
  <br/>
 [Next - Stock Scenes](Stock_Scenes.md) <br/>
  <br/>
