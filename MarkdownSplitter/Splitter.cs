@@ -11,7 +11,7 @@ namespace MarkdownSplitter
     ///
     /// The .md markdown files are rewritten as a tree of nodes (blocks) each 
     /// of which contains links to its child nodes, according to its depth
-    /// or indententation nestingLevel in the Scrivener file.
+    /// or indentation nestingLevel in the Scrivener file.
     /// 
     /// The workflow is as follows:
     ///    Empty the (output) /docs folder. This folder is where the final
