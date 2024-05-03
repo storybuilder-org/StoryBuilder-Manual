@@ -82,6 +82,7 @@ Does this work?  The story's over when Lacas is captured, and Leonard's inner pr
 
  You can find out more about Problems here. 
 
- <br/> <br/>
+ <br/>
+ <br/>
 [Previous - Tutorial: Creating a Story](Tutorial_Creating_a_Story.md) <br/>
 [Next - Creating a Story pt 5](Creating_a_Story_pt_5.md) <br/>

@@ -13,6 +13,7 @@ Story Narrator View is the view you’ll use when you’re ready to structure yo
 
 
 
- <br/> <br/>
+ <br/>
+ <br/>
 [Previous - Navigating in StoryCAD](Navigating_in_StoryCAD.md) <br/>
 [Next - Rearranging Content](Rearranging_Content.md) <br/>

@@ -33,6 +33,7 @@ Neither of these problems are fleshed out, but we’ll work on that in a minute.
 
 
 
- <br/> <br/>
+ <br/>
+ <br/>
 [Previous - Tutorial: Creating a Story](Tutorial_Creating_a_Story.md) <br/>
 [Next - Creating a Story pt 4](Creating_a_Story_pt_4.md) <br/>

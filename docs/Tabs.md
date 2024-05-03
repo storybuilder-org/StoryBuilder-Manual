@@ -9,6 +9,7 @@ In some cases (and particularly if you resize the StoryCAD window smaller) not a
 
 ![](Tabs.png)
 
- <br/> <br/>
+ <br/>
+ <br/>
 [Previous - Navigating in StoryCAD](Navigating_in_StoryCAD.md) <br/>
 [Next - Story Explorer and Story Narrator Views](Story_Explorer_and_Story_Narrator_Views.md) <br/>

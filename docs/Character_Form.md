@@ -9,6 +9,7 @@
 [Psychological Tab](Psychological_Tab.md) <br/><br/>
 [Inner Traits](Inner_Traits.md) <br/><br/>
 [Outer Traits](Outer_Traits.md) <br/><br/>
- <br/> <br/>
+ <br/>
+ <br/>
 [Previous - Story Elements](Story_Elements.md) <br/>
 [Next - Setting Form](Setting_Form.md) <br/>

@@ -7,6 +7,7 @@ You can leave StoryCAD at any time by either selecting Exit from the File Menu o
 
 StoryCAD follows regular Windows conventions.  The app can be re-sized, maximized or minimized to an icon. However you can only have one instance of StoryCAD open at once. If you try to open another instance of StoryCAD whilst the first one is open, it will instead bring forward the original instance.
 
- <br/> <br/>
+ <br/>
+ <br/>
 [Previous - Quick Start](Quick_Start.md) <br/>
 [Next - Reading and Writing Outlines](Reading_and_Writing_Outlines.md) <br/>

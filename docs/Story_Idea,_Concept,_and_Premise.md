@@ -97,6 +97,7 @@ Setting and Worldbuilding
 Creating a narrative
 	Narrative View and why it’s distinct from Story Explorer
 	Braids
- <br/> <br/>
+ <br/>
+ <br/>
 [Previous - Writing with StoryCAD](Writing_with_StoryCAD.md) <br/>
 [Next - Problem and Character Development](Problem_and_Character_Development.md) <br/>

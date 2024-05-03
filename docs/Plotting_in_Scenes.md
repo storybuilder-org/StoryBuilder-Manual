@@ -15,6 +15,7 @@ The things that happen at a certain place in the plot (introduce the protagonist
 
 
 
- <br/> <br/>
+ <br/>
+ <br/>
 [Previous - Writing with StoryCAD](Writing_with_StoryCAD.md) <br/>
 [Next - Plotting Tools](Plotting_Tools.md) <br/>

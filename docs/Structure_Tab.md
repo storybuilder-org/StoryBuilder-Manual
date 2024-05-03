@@ -26,6 +26,7 @@ Tense						Tense indicates when events or actions occurred in time---in the past
 Style						Style is the way you use language, based on word choice, tone, syntax, and use of literary devices. Particular style are chosen depending on the desired effect.
 
 Tone						Tone indicates the mood or impression you wish the reader to feel.
- <br/> <br/>
+ <br/>
+ <br/>
 [Previous - Story Overview Form](Story_Overview_Form.md) <br/>
 [Next - Story Overview Form](Story_Overview_Form.md) <br/>

@@ -11,6 +11,7 @@ We plan to provide an on-line help request form as soon as possible.
 
 Please write us with ideas or suggestions for improvements.  We want to make StoryCAD the best possible tool to help you achieve your fiction writing goals.
 
- <br/> <br/>
+ <br/>
+ <br/>
 [Previous - Front Matter](Front_Matter.md) <br/>
 [Next - Legal Matters](Legal_Matters.md) <br/>

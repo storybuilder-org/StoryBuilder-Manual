@@ -43,6 +43,7 @@ The character's Focus is where he places his attention and activity.  His Focus 
 A character's Focus and his Values can be at odds, as a source of conflict in the story.
 The character may discover that what he thinks is important isn't, or that values and focus he has neglected are truly important to him.  Stories of discovery and decision are often concerned with these traits.
 
- <br/> <br/>
+ <br/>
+ <br/>
 [Previous - Character Form](Character_Form.md) <br/>
 [Next - Inner Traits](Inner_Traits.md) <br/>

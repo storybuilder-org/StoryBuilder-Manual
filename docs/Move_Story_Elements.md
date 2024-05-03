@@ -14,6 +14,7 @@ The Move Story Element button displays a pop-up which allows you to move the sel
 
 
 
- <br/> <br/>
+ <br/>
+ <br/>
 [Previous - Menu Bar](Menu_Bar.md) <br/>
 [Next - Tools Menu](Tools_Menu.md) <br/>

@@ -126,6 +126,7 @@ As with all story elements, the more specific, the better.  You might change 'Pl
 
 
 
- <br/> <br/>
+ <br/>
+ <br/>
 [Previous - Writing with StoryCAD](Writing_with_StoryCAD.md) <br/>
 [Next - Defining Characters](Defining_Characters.md) <br/>

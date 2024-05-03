@@ -4,6 +4,7 @@
 [Tabs](Tabs.md) <br/><br/>
 [Story Explorer and Story Narrator Views](Story_Explorer_and_Story_Narrator_Views.md) <br/><br/>
 [Rearranging Content](Rearranging_Content.md) <br/><br/>
- <br/> <br/>
+ <br/>
+ <br/>
 [Previous - Quick Start](Quick_Start.md) <br/>
 [Next - Quick Start](Quick_Start.md) <br/>

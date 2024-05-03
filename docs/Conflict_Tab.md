@@ -24,6 +24,7 @@ The result of the scene, from the Protagonist's point of view.  Most scenes shou
 
 The Dramatic Situations tool on the Plotting Aids sub‑  menu of the Tools  menu can help to define a scene's conflict, and works with the Conflict tab.
 
- <br/> <br/>
+ <br/>
+ <br/>
 [Previous - Scene Form](Scene_Form.md) <br/>
 [Next - Sequel Tab](Sequel_Tab.md) <br/>

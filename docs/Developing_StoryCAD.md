@@ -25,6 +25,7 @@ Developer Notes
 	- Attempt to launch the app again
 	- The first instance of the app should now be brought on top of all the window
 
- <br/> <br/>
+ <br/>
+ <br/>
 [Previous - Miscellaneous](Miscellaneous.md) <br/>
 [Next - Miscellaneous](Miscellaneous.md) <br/>

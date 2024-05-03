@@ -5,6 +5,7 @@ Key Questions, from the Tools menu, provides a checklist for each of the major s
 
 We recommend using Key Questions frequently, as you work, rather than waiting until the outline’s complete before you review it.
 
- <br/> <br/>
+ <br/>
+ <br/>
 [Previous - Writing with StoryCAD](Writing_with_StoryCAD.md) <br/>
 [Next - Other Uses of StoryCAD](Other_Uses_of_StoryCAD.md) <br/>

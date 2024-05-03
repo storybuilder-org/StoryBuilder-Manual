@@ -57,6 +57,7 @@ Show and Hide a relationship
 If you feel that the relationship takes too much space up you can hide the extra info (Traits, Attitude and notes) by click the little arrow in top right of the relationship. You can click the arrow to show this info again.
 
 
- <br/> <br/>
+ <br/>
+ <br/>
 [Previous - Character Form](Character_Form.md) <br/>
 [Next - Flaw Tab](Flaw_Tab.md) <br/>

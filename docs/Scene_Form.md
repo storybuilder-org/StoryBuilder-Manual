@@ -3,6 +3,7 @@
 [Develpment Tab](Develpment_Tab.md) <br/><br/>
 [Conflict Tab](Conflict_Tab.md) <br/><br/>
 [Sequel Tab](Sequel_Tab.md) <br/><br/>
- <br/> <br/>
+ <br/>
+ <br/>
 [Previous - Story Elements](Story_Elements.md) <br/>
 [Next - Story Elements](Story_Elements.md) <br/>

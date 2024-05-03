@@ -19,6 +19,7 @@ To enhance your experience and safeguard your work, StoryCAD includes built-in b
 
 
 Thank you for choosing StoryCAD as a companion in your writing endeavors. We look forward to reading or viewing the incredible stories you'll create.
- <br/> <br/>
+ <br/>
+ <br/>
 [Previous - Front Matter](Front_Matter.md) <br/>
 [Next - Getting Help](Getting_Help.md) <br/>

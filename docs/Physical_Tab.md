@@ -8,6 +8,7 @@ These character traits describe the external physical characteristics and appear
 Use the Appearance tab to round out the physical description of the character with looks, style of dress, etc.
 
 
- <br/> <br/>
+ <br/>
+ <br/>
 [Previous - Character Form](Character_Form.md) <br/>
 [Next - Appearance Tab](Appearance_Tab.md) <br/>

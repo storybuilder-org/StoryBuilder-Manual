@@ -22,6 +22,7 @@ Goal, Motivation, Conflict Builder, Conflict
 
 
 
- <br/> <br/>
+ <br/>
+ <br/>
 [Previous - Problem Form](Problem_Form.md) <br/>
 [Next - Resolution Tab](Resolution_Tab.md) <br/>

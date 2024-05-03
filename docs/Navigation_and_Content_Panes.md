@@ -36,6 +36,7 @@ Your outline has only one Story Overview; it’s created automatically when you 
 Every major form also has a full-page tab (labeled Notes) which holds your general notes and thoughts regarding the story element. We won’t talk about these again; just be aware that they’re there.
 
 
- <br/> <br/>
+ <br/>
+ <br/>
 [Previous - The StoryCAD User Interface](The_StoryCAD_User_Interface.md) <br/>
 [Next - Status Bar](Status_Bar.md) <br/>

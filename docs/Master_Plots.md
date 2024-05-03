@@ -18,6 +18,7 @@ Ronald Tobias' excellent book 20 Master Plots (And How to Build Them) is a detai
 
 
 
- <br/> <br/>
+ <br/>
+ <br/>
 [Previous - Plotting Aids](Plotting_Aids.md) <br/>
 [Next - Dramatic Situations](Dramatic_Situations.md) <br/>

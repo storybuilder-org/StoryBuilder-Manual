@@ -30,6 +30,7 @@ Revision
 These workflow phases are outside of StoryCAD’s scope and depend on other tools. We recommend Scrivener, which StoryCAD has an interface to, but you can of course use the word processor of your choice. 
 
 Saying that drafting and revising your story is outside of StoryCAD’s scope is not quite accurate; outlining can be useful during both phases, and we discuss that in Other Uses of StoryCAD.
- <br/> <br/>
+ <br/>
+ <br/>
 [Previous - Writing with StoryCAD](Writing_with_StoryCAD.md) <br/>
 [Next - Story Idea, Concept, and Premise](Story_Idea,_Concept,_and_Premise.md) <br/>

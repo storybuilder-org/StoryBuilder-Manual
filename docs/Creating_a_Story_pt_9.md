@@ -61,6 +61,7 @@ In this tutorial we've produced most of a story outline.  We've worked through p
 
   
 
- <br/> <br/>
+ <br/>
+ <br/>
 [Previous - Tutorial: Creating a Story](Tutorial_Creating_a_Story.md) <br/>
 [Next - Tutorial: Creating a Story](Tutorial_Creating_a_Story.md) <br/>

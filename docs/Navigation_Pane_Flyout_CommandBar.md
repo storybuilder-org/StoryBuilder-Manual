@@ -13,6 +13,7 @@ In order of top to bottom, the flyout items do the following:
 	•	Remove From Narrative - This removes the element from the Narrative View.
 	•	Print Node -  This quickly prints a report for that element.
 
- <br/> <br/>
+ <br/>
+ <br/>
 [Previous - Navigating in StoryCAD](Navigating_in_StoryCAD.md) <br/>
 [Next - Tabs](Tabs.md) <br/>

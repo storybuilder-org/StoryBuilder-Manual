@@ -22,6 +22,7 @@ The Menu Bar’s Move Story Element button can be used for finer control, such a
 
 
 
- <br/> <br/>
+ <br/>
+ <br/>
 [Previous - Navigating in StoryCAD](Navigating_in_StoryCAD.md) <br/>
 [Next - Navigating in StoryCAD](Navigating_in_StoryCAD.md) <br/>
