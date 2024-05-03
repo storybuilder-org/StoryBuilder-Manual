@@ -1,7 +1,4 @@
 #### Tools Menu ####
- <br/>
- <br/>
-[Previous - Move Story Elements](Move_Story_Elements.md) <br/>
- <br/>
+ <br/> <br/>
+[Previous - Menu Bar](Menu_Bar.md) <br/>
 [Next - Reports](Reports.md) <br/>
- <br/>

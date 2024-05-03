@@ -1,9 +1,6 @@
 ## Front Page (Image) ##
 
 ![](StoryCAD.png)
- <br/>
- <br/>
-[Previous - Back Matter](Back_Matter.md) <br/>
- <br/>
+ <br/> <br/>
+[Previous - Front Matter](Front_Matter.md) <br/>
 [Next - Preface](Preface.md) <br/>
- <br/>

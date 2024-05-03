@@ -1,7 +1,10 @@
 ## Notes Form ##
-Notes Form <br/>
+Notes Form
 
-Notes forms can be used to store any information you wish anywhere in the outline, this can be useful for writing down background information about your characters. <br/>
+Notes forms can be used to store any information you wish anywhere in the outline, this can be useful for writing down background information about your characters.
 
 
 ![](NotesElement.png)
+ <br/> <br/>
+[Previous - Researching your story](Researching_your_story.md) <br/>
+[Next - Researching your story](Researching_your_story.md) <br/>

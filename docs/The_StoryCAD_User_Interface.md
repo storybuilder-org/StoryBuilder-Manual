@@ -1,22 +1,19 @@
 ## The StoryCAD User Interface ##
-The StoryCAD User Interface <br/>
+The StoryCAD User Interface
 
 ![](User-Interface.png)
 
-The form’s sections are as follows. They’ll be explained in more detail as we go. <br/>
+The form’s sections are as follows. They’ll be explained in more detail as we go.
 
-	•	Menu Bar -  Access to common tasks <br/>
-	•	Status Bar - Displays program status information <br/>
-	•	Navigation Pane - A tree of Story Elements <br/>
-	•	Content Pane - The contents of the currently selected Story Element <br/>
+	•	Menu Bar -  Access to common tasks
+	•	Status Bar - Displays program status information
+	•	Navigation Pane - A tree of Story Elements
+	•	Content Pane - The contents of the currently selected Story Element
 
 
- <br/>
- <br/>
-[Previous - Reading and Writing Outlines](Reading_and_Writing_Outlines.md) <br/>
- <br/>
-[Next - Menu Bar](Menu_Bar.md) <br/>
- <br/>
 [Menu Bar](Menu_Bar.md) <br/><br/>
 [Navigation and  Content Panes](Navigation_and_Content_Panes.md) <br/><br/>
 [Status Bar](Status_Bar.md) <br/><br/>
+ <br/> <br/>
+[Previous - Quick Start](Quick_Start.md) <br/>
+[Next - Navigating in StoryCAD](Navigating_in_StoryCAD.md) <br/>
