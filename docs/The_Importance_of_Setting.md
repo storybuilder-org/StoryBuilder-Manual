@@ -20,5 +20,5 @@ Confined settings increase dramatic tension: for example, Murder on the Orient E
 
  <br/>
  <br/>
-[Previous - Writing with StoryCAD](Writing_with_StoryCAD.md) <br/>
+[Previous - Defining Characters](Defining_Characters.md) <br/>
 [Next - Plotting in Scenes](Plotting_in_Scenes.md) <br/>

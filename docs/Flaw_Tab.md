@@ -10,5 +10,5 @@ The Flaw Builder tool can help you find a flaw suitable to your character.
 
  <br/>
  <br/>
-[Previous - Character Form](Character_Form.md) <br/>
+[Previous - Relationships Tab](Relationships_Tab.md) <br/>
 [Next - Backstory Tab](Backstory_Tab.md) <br/>

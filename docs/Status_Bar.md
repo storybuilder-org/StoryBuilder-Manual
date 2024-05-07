@@ -29,5 +29,5 @@ Changed Indicator
 The Changed Indicator displays red if any editing has been done to the outline and green if not. It’s a reminder to save your work. It’s also a command button which will save your outline if you click it.
  <br/>
  <br/>
-[Previous - The StoryCAD User Interface](The_StoryCAD_User_Interface.md) <br/>
+[Previous - Navigation and  Content Panes](Navigation_and_Content_Panes.md) <br/>
 [Next - The StoryCAD User Interface](The_StoryCAD_User_Interface.md) <br/>

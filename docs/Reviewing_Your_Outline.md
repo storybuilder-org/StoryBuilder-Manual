@@ -7,5 +7,5 @@ We recommend using Key Questions frequently, as you work, rather than waiting un
 
  <br/>
  <br/>
-[Previous - Writing with StoryCAD](Writing_with_StoryCAD.md) <br/>
+[Previous - Defining Scenes](Defining_Scenes.md) <br/>
 [Next - Other Uses of StoryCAD](Other_Uses_of_StoryCAD.md) <br/>

@@ -30,5 +30,5 @@ There's always a question of how much detail to provide, for characters, problem
 
  <br/>
  <br/>
-[Previous - Tutorial: Creating a Story](Tutorial_Creating_a_Story.md) <br/>
+[Previous - Creating a Story pt 6](Creating_a_Story_pt_6.md) <br/>
 [Next - Creating a Story pt 8](Creating_a_Story_pt_8.md) <br/>

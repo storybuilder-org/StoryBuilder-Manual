@@ -19,5 +19,5 @@ See "Scene and Sequel" for more information.
 
  <br/>
  <br/>
-[Previous - Scene Form](Scene_Form.md) <br/>
+[Previous - Conflict Tab](Conflict_Tab.md) <br/>
 [Next - Scene Form](Scene_Form.md) <br/>

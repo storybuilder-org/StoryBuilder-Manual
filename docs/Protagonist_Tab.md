@@ -30,5 +30,5 @@ As with all story elements, the more specific the goal, the better.  The Goal co
 
  <br/>
  <br/>
-[Previous - Problem Form](Problem_Form.md) <br/>
+[Previous - Problem Tab](Problem_Tab.md) <br/>
 [Next - Antagonist Tab](Antagonist_Tab.md) <br/>

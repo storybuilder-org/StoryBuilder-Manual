@@ -128,5 +128,5 @@ As with all story elements, the more specific, the better.  You might change 'Pl
 
  <br/>
  <br/>
-[Previous - Writing with StoryCAD](Writing_with_StoryCAD.md) <br/>
+[Previous - Problem and Character Development](Problem_and_Character_Development.md) <br/>
 [Next - Defining Characters](Defining_Characters.md) <br/>

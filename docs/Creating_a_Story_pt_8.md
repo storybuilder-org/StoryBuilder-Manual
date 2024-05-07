@@ -36,5 +36,5 @@ Danger Calls is melodramatic and its characters aren’t as well drawn as they s
 
  <br/>
  <br/>
-[Previous - Tutorial: Creating a Story](Tutorial_Creating_a_Story.md) <br/>
+[Previous - Creating a Story pt 7](Creating_a_Story_pt_7.md) <br/>
 [Next - Creating a Story pt 9](Creating_a_Story_pt_9.md) <br/>

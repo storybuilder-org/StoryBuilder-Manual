@@ -56,5 +56,5 @@ Unlike Dramatic Situations, this tool works just with Scenes. One use is to help
 
  <br/>
  <br/>
-[Previous - Writing with StoryCAD](Writing_with_StoryCAD.md) <br/>
+[Previous - Plotting in Scenes](Plotting_in_Scenes.md) <br/>
 [Next - Plotting with StoryCAD](Plotting_with_StoryCAD.md) <br/>

@@ -4,5 +4,5 @@
 [Critiquing with StoryCAD](Critiquing_with_StoryCAD.md) <br/><br/>
  <br/>
  <br/>
-[Previous - Writing with StoryCAD](Writing_with_StoryCAD.md) <br/>
+[Previous - Reviewing Your Outline](Reviewing_Your_Outline.md) <br/>
 [Next - StoryCAD for Pantsers](StoryCAD_for_Pantsers.md) <br/>

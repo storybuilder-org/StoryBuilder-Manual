@@ -15,5 +15,5 @@ The Stock Scenes tool provides lists of scenes frequently found in certain plott
 [Stock Scenes](Stock_Scenes.md) <br/><br/>
  <br/>
  <br/>
-[Previous - Tools](Tools.md) <br/>
+[Previous - Topic Information](Topic_Information.md) <br/>
 [Next - Master Plots](Master_Plots.md) <br/>

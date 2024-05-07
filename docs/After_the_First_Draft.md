@@ -9,5 +9,5 @@ Using your outline as your guide gives you a number of places to start editing- 
 
  <br/>
  <br/>
-[Previous - Other Uses of StoryCAD](Other_Uses_of_StoryCAD.md) <br/>
+[Previous - StoryCAD for Pantsers](StoryCAD_for_Pantsers.md) <br/>
 [Next - Critiquing with StoryCAD](Critiquing_with_StoryCAD.md) <br/>

@@ -20,5 +20,5 @@ StoryBuilder Organization
 
  <br/>
  <br/>
-[Previous - Front Matter](Front_Matter.md) <br/>
+[Previous - Getting Help](Getting_Help.md) <br/>
 [Next - Front Matter](Front_Matter.md) <br/>

@@ -9,5 +9,5 @@ StoryCAD follows regular Windows conventions.  The app can be re-sized, maximize
 
  <br/>
  <br/>
-[Previous - Quick Start](Quick_Start.md) <br/>
+[Previous - Using Various Input Devices](Using_Various_Input_Devices.md) <br/>
 [Next - Reading and Writing Outlines](Reading_and_Writing_Outlines.md) <br/>

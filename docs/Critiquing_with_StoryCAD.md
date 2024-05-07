@@ -8,5 +8,5 @@ Critiquing others’ stories is a great way to improve your art, because it’s 
 
  <br/>
  <br/>
-[Previous - Other Uses of StoryCAD](Other_Uses_of_StoryCAD.md) <br/>
+[Previous - After the First Draft](After_the_First_Draft.md) <br/>
 [Next - Other Uses of StoryCAD](Other_Uses_of_StoryCAD.md) <br/>

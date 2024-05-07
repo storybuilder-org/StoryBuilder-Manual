@@ -12,5 +12,5 @@ Always honor your muse by recording whatever it gifts you about your story: a bi
 
  <br/>
  <br/>
-[Previous - Writing with StoryCAD](Writing_with_StoryCAD.md) <br/>
+[Previous - Story Idea, Concept, and Premise](Story_Idea,_Concept,_and_Premise.md) <br/>
 [Next - Defining Problems](Defining_Problems.md) <br/>

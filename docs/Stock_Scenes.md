@@ -13,5 +13,5 @@ Stock Scenes can be tailored to display any sub-menus of stock scenes you wish. 
 
  <br/>
  <br/>
-[Previous - Plotting Aids](Plotting_Aids.md) <br/>
+[Previous - Dramatic Situations](Dramatic_Situations.md) <br/>
 [Next - Plotting Aids](Plotting_Aids.md) <br/>

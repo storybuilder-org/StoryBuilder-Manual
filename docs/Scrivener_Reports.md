@@ -16,5 +16,5 @@ A convenient way to use these embedded reports is to split your screen, with one
 ![](Scrivener-Split-Screen-with-StoryCAD.png)
  <br/>
  <br/>
-[Previous - Reports](Reports.md) <br/>
+[Previous - Print Reports](Print_Reports.md) <br/>
 [Next - Reports](Reports.md) <br/>

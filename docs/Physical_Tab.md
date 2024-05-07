@@ -10,5 +10,5 @@ Use the Appearance tab to round out the physical description of the character wi
 
  <br/>
  <br/>
-[Previous - Character Form](Character_Form.md) <br/>
+[Previous - Role Tab](Role_Tab.md) <br/>
 [Next - Appearance Tab](Appearance_Tab.md) <br/>

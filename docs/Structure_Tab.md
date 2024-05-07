@@ -28,5 +28,5 @@ Style						Style is the way you use language, based on word choice, tone, syntax
 Tone						Tone indicates the mood or impression you wish the reader to feel.
  <br/>
  <br/>
-[Previous - Story Overview Form](Story_Overview_Form.md) <br/>
+[Previous - Premise Tab](Premise_Tab.md) <br/>
 [Next - Story Overview Form](Story_Overview_Form.md) <br/>

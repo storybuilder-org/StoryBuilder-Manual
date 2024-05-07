@@ -5,5 +5,5 @@
 [Sequel Tab](Sequel_Tab.md) <br/><br/>
  <br/>
  <br/>
-[Previous - Story Elements](Story_Elements.md) <br/>
+[Previous - Setting Form](Setting_Form.md) <br/>
 [Next - Scene Tab](Scene_Tab.md) <br/>

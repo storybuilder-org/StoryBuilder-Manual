@@ -38,5 +38,5 @@ Every major form also has a full-page tab (labeled Notes) which holds your gener
 
  <br/>
  <br/>
-[Previous - The StoryCAD User Interface](The_StoryCAD_User_Interface.md) <br/>
+[Previous - Menu Bar](Menu_Bar.md) <br/>
 [Next - Status Bar](Status_Bar.md) <br/>

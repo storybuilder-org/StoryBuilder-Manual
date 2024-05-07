@@ -282,10 +282,14 @@ namespace MarkdownSplitter
 			{
 				sb.AppendLine($"[Previous - {block.Previous.Title}]({block.Previous.Filename}) <br/>");
 			}
+			else if (Parent.Children.IndexOf(block) != 0)
+			{
+				sb.AppendLine($"[Previous - {Parent.Children[Parent.Children.IndexOf(block) - 1].Title}]" +
+				              $"({Parent.Children[Parent.Children.IndexOf(block) - 1].Filename}) <br/>");
+			}
 			else
 			{
 				sb.AppendLine($"[Previous - {Parent.Title}]({Parent.Filename}) <br/>");
-
 			}
 
 			// If there is a next block, append a link to it.

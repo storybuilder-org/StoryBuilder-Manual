@@ -6,5 +6,5 @@
 [Rearranging Content](Rearranging_Content.md) <br/><br/>
  <br/>
  <br/>
-[Previous - Quick Start](Quick_Start.md) <br/>
+[Previous - The StoryCAD User Interface](The_StoryCAD_User_Interface.md) <br/>
 [Next - Story Elements](Story_Elements.md) <br/>

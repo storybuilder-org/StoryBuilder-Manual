@@ -24,5 +24,5 @@ Only one story outline can be open at a time.  If you open a new file you'll be 
 
  <br/>
  <br/>
-[Previous - Quick Start](Quick_Start.md) <br/>
+[Previous - Starting and Stopping StoryCAD](Starting_and_Stopping_StoryCAD.md) <br/>
 [Next - The StoryCAD User Interface](The_StoryCAD_User_Interface.md) <br/>

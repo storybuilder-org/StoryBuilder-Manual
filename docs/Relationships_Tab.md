@@ -59,5 +59,5 @@ If you feel that the relationship takes too much space up you can hide the extra
 
  <br/>
  <br/>
-[Previous - Character Form](Character_Form.md) <br/>
+[Previous - Appearance Tab](Appearance_Tab.md) <br/>
 [Next - Flaw Tab](Flaw_Tab.md) <br/>

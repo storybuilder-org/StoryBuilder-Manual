@@ -5,5 +5,5 @@
 [Resolution Tab](Resolution_Tab.md) <br/><br/>
  <br/>
  <br/>
-[Previous - Story Elements](Story_Elements.md) <br/>
+[Previous - Story Overview Form](Story_Overview_Form.md) <br/>
 [Next - Problem Tab](Problem_Tab.md) <br/>

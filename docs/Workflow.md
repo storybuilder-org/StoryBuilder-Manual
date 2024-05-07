@@ -32,5 +32,5 @@ These workflow phases are outside of StoryCAD’s scope and depend on other tool
 Saying that drafting and revising your story is outside of StoryCAD’s scope is not quite accurate; outlining can be useful during both phases, and we discuss that in Other Uses of StoryCAD.
  <br/>
  <br/>
-[Previous - Writing with StoryCAD](Writing_with_StoryCAD.md) <br/>
+[Previous - How to Think About Outlining](How_to_Think_About_Outlining.md) <br/>
 [Next - Story Idea, Concept, and Premise](Story_Idea,_Concept,_and_Premise.md) <br/>

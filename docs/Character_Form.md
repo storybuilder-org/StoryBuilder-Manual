@@ -11,5 +11,5 @@
 [Outer Traits](Outer_Traits.md) <br/><br/>
  <br/>
  <br/>
-[Previous - Story Elements](Story_Elements.md) <br/>
+[Previous - Problem Form](Problem_Form.md) <br/>
 [Next - Role Tab](Role_Tab.md) <br/>

@@ -9,5 +9,5 @@ Generally, a character flaw should become a problem of its own, a ‘person agai
 
  <br/>
  <br/>
-[Previous - Tools](Tools.md) <br/>
+[Previous - Conflict Builder](Conflict_Builder.md) <br/>
 [Next - Tools](Tools.md) <br/>

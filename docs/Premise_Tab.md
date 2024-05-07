@@ -15,5 +15,5 @@ The Premise field on the Story Overview form is a read-only copy of the Premise 
 
  <br/>
  <br/>
-[Previous - Story Overview Form](Story_Overview_Form.md) <br/>
+[Previous - Concept Tab](Concept_Tab.md) <br/>
 [Next - Structure Tab](Structure_Tab.md) <br/>

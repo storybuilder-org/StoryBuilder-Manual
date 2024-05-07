@@ -13,5 +13,5 @@ When you assign one of these traits to your character, think of how he came to h
 
  <br/>
  <br/>
-[Previous - Character Form](Character_Form.md) <br/>
+[Previous - Inner Traits](Inner_Traits.md) <br/>
 [Next - Character Form](Character_Form.md) <br/>

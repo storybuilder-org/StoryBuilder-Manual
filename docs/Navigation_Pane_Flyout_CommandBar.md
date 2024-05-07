@@ -15,5 +15,5 @@ In order of top to bottom, the flyout items do the following:
 
  <br/>
  <br/>
-[Previous - Navigating in StoryCAD](Navigating_in_StoryCAD.md) <br/>
+[Previous - Story Elements](Story_Elements.md) <br/>
 [Next - Tabs](Tabs.md) <br/>
