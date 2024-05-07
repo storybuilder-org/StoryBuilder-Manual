@@ -18,4 +18,4 @@
  <br/>
  <br/>
 [Previous - Tutorial: Creating a Story](Tutorial_Creating_a_Story.md) <br/>
-[Next - Miscellaneous](Miscellaneous.md) <br/>
+[Next - How to Think About Outlining](How_to_Think_About_Outlining.md) <br/>

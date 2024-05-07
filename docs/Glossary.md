@@ -398,7 +398,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 
 [Preferences-Other-tab]: Preferences-Other-tab.png width=554px height=586px
 
-[Preferences-About-tab]: Preferences-About-tab.png width=555px height=576px
+[Preferences-About-tab]: Preferences-About-tab.png width=546px height=581px
 
 [Logs-Folder-Display]: Logs-Folder-Display.png width=680px height=238px
 

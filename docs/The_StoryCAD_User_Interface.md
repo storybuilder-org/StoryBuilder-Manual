@@ -17,4 +17,4 @@ The form’s sections are as follows. They’ll be explained in more detail as w
  <br/>
  <br/>
 [Previous - Quick Start](Quick_Start.md) <br/>
-[Next - Navigating in StoryCAD](Navigating_in_StoryCAD.md) <br/>
+[Next - Menu Bar](Menu_Bar.md) <br/>

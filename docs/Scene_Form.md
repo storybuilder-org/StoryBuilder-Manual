@@ -6,4 +6,4 @@
  <br/>
  <br/>
 [Previous - Story Elements](Story_Elements.md) <br/>
-[Next - Story Elements](Story_Elements.md) <br/>
+[Next - Scene Tab](Scene_Tab.md) <br/>

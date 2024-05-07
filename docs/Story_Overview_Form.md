@@ -6,4 +6,4 @@
  <br/>
  <br/>
 [Previous - Story Elements](Story_Elements.md) <br/>
-[Next - Problem Form](Problem_Form.md) <br/>
+[Next - Story Idea Tab](Story_Idea_Tab.md) <br/>

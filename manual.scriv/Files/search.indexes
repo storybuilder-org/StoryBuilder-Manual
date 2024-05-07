@@ -296,8 +296,8 @@ The questions for a story element type are a circular list.  That is, when you'v
             <Notes>KEYQUEST</Notes>
         </Document>
         <Document ID="0A3F974B-344B-4F89-80D9-E6F0AC13EC2D">
-            <Title>Reports</Title>
-            <Text>Reports
+            <Title>Reports Menu</Title>
+            <Text>Reports Menu
 
 Clicking on the Reports button on the Menu Bar displays a fly-out menu with two reporting options:
 

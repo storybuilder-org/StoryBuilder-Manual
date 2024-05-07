@@ -289,23 +289,23 @@ namespace MarkdownSplitter
 			}
 
 			// If there is a next block, append a link to it.
-			if (block.Next != null)
+			if (block.Children.Count == 0) //dead end
 			{
-				sb.AppendLine($"[Next - {block.Next.Title}]({block.Next.Filename}) <br/>"); 
-			}
-			else
-			{
-				if (Parent.Children.IndexOf(block) == Parent.Children.Count - 1)
+				if (Parent.Children.IndexOf(block) == Parent.Children.Count - 1) // Dead-end
 				{
 					sb.AppendLine($"[Next - {Parent.Title}]({Parent.Filename}) <br/>");
-
 				}
 				else
 				{
 					sb.AppendLine($"[Next - {Parent.Children[Parent.Children.IndexOf(block) + 1].Title}]" +
 					              $"({Parent.Children[Parent.Children.IndexOf(block) + 1].Filename}) <br/>");
-
 				}
+			}
+			else
+			{
+				sb.AppendLine($"[Next - {block.Children.First().Title}]" +
+				              $"({block.Children.First().Filename}) <br/>");
+
 			}
 		}
 	}

@@ -7,4 +7,4 @@
  <br/>
  <br/>
 [Previous - Quick Start](Quick_Start.md) <br/>
-[Next - Quick Start](Quick_Start.md) <br/>
+[Next - Story Elements](Story_Elements.md) <br/>

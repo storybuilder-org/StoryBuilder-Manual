@@ -11,4 +11,4 @@
  <br/>
  <br/>
 [Previous - Story Elements](Story_Elements.md) <br/>
-[Next - Reports](Reports.md) <br/>
+[Next - Narrative Editor](Narrative_Editor.md) <br/>

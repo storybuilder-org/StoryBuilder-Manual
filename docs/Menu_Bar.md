@@ -29,4 +29,4 @@ The menu bar buttons either display drop-down menus (such as File), or launch pa
  <br/>
  <br/>
 [Previous - The StoryCAD User Interface](The_StoryCAD_User_Interface.md) <br/>
-[Next - Navigation and  Content Panes](Navigation_and_Content_Panes.md) <br/>
+[Next - Search](Search.md) <br/>

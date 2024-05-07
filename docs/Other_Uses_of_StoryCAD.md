@@ -5,4 +5,4 @@
  <br/>
  <br/>
 [Previous - Writing with StoryCAD](Writing_with_StoryCAD.md) <br/>
-[Next - Writing with StoryCAD](Writing_with_StoryCAD.md) <br/>
+[Next - StoryCAD for Pantsers](StoryCAD_for_Pantsers.md) <br/>
