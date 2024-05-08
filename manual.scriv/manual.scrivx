@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="342E5DD6-5812-45AB-982C-E2EAC46CF8EE" Creator="SCRWIN-3.1.5.1" Device="DREAMLAND" Modified="2024-05-07 12:55:21 +0100" ModID="20E15565-E139-4D05-AE99-58710A11AD84">
+<ScrivenerProject Template="No" Version="2.0" Identifier="342E5DD6-5812-45AB-982C-E2EAC46CF8EE" Creator="SCRWIN-3.1.5.1" Device="DREAMLAND" Modified="2024-05-08 20:49:31 +0100" ModID="E1D49549-4C24-4F8A-837B-7C5CD58717F4">
     <Binder>
         <BinderItem UUID="9FFBA333-8432-41C1-91F5-1302DFE283CA" Type="Text" Created="2019-05-14 20:29:37 +0100" Modified="2019-05-14 20:29:46 +0100">
             <Title>Non-Fiction Format</Title>
@@ -807,7 +807,7 @@
                                 <NotesTextSelection>43,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>12,0</TextSelection>
+                                <TextSelection>6,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="004046DB-9565-49EA-BA6C-7C77A313EF00" Type="Text" Created="2023-01-30 13:58:46 +0100" Modified="2023-06-22 21:45:12 +0100">
@@ -1198,7 +1198,16 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>305,0</TextSelection>
+                                <TextSelection Caret="19">0,19</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="D506F662-E901-4555-BF66-977D7DA9AFC9" Type="Text" Created="2024-05-08 20:27:22 +0100" Modified="2024-05-08 20:49:24 +0100">
+                            <Title>Leaving Feedback</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>52,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -4101,6 +4110,22 @@
                         <Bookmark BinderUUID="8659C044-F417-4DB0-9F49-3B8A41EB8BD9">Plotting with StoryCAD</Bookmark>
                     </Bookmarks>
                 </BinderItem>
+                <BinderItem UUID="E7199632-3227-45E9-9442-41B85D0DCE74" Type="Image" Created="2024-05-08 20:39:24 +0100" Modified="2024-05-08 20:39:50 +0100">
+                    <Title>ShellBar</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>png</FileExtension>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScaleFactor>1</ImageScaleFactor>
+                        <ImageRotation>None</ImageRotation>
+                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                    </MediaSettings>
+                    <Bookmarks>
+                        <Bookmark BinderUUID="D506F662-E901-4555-BF66-977D7DA9AFC9">Leaving Feedback</Bookmark>
+                    </Bookmarks>
+                </BinderItem>
                 <BinderItem UUID="BAAAE3CA-B5F4-4CE1-BBD7-41CC37EC38C6" Type="Folder" Created="2023-06-29 21:31:01 +0100" Modified="2023-06-29 21:31:04 +0100">
                     <Title>Tutorial9</Title>
                     <MetaData>
@@ -4192,6 +4217,22 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
+                <BinderItem UUID="D1217981-FAB3-4821-9406-A7158CEE73D0" Type="Image" Created="2024-05-08 20:34:36 +0100" Modified="2024-05-08 20:35:55 +0100">
+                    <Title>LeaveAReview</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>png</FileExtension>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScaleFactor>1</ImageScaleFactor>
+                        <ImageRotation>None</ImageRotation>
+                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                    </MediaSettings>
+                    <Bookmarks>
+                        <Bookmark BinderUUID="D506F662-E901-4555-BF66-977D7DA9AFC9">Leaving Feedback</Bookmark>
+                    </Bookmarks>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem UUID="A41BA2A1-C599-43C2-99CC-8C1A7FFC2C24" Type="TrashFolder" Created="2019-05-14 20:29:37 +0100" Modified="2019-05-14 20:29:37 +0100">
@@ -4205,7 +4246,7 @@
         </Collection>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.901961 0.901961 0.980392">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No">Report</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No">feedback</SearchSettings>
         </Collection>
         <Collection Type="Arbitrary" ID="F213E08F-E501-4C48-BA48-9EA034B250D9" Color="0.878630 0.990005 0.841505">
             <Title>New Collection</Title>
@@ -4269,12 +4310,12 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="1" Characters="5" Date="2024-05-07 12:55:21 +0100"/>
+        <PreviousSession Words="100" Characters="555" Date="2024-05-08 20:49:31 +0100"/>
     </ProjectTargets>
     <BookmarksFolderUUID>07B0D7C6-57CE-4D6F-8AD9-11F06A261A5F</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2024-05-07 00:00:00 +0100">
-        <DraftWordCount>1</DraftWordCount>
-        <DraftCharCount>5</DraftCharCount>
+    <RecentWritingHistory Date="2024-05-08 00:00:00 +0100">
+        <DraftWordCount>100</DraftWordCount>
+        <DraftCharCount>555</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>

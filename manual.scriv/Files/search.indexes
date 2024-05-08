@@ -3698,6 +3698,9 @@ The scene is the actions your character takes to achieve a goal (and the actions
         <Document ID="D0AE9A0E-7B2E-4807-AEA3-B7A89F968C76">
             <Title>WebsiteNodeWithSearchEngine</Title>
         </Document>
+        <Document ID="D1217981-FAB3-4821-9406-A7158CEE73D0">
+            <Title>LeaveAReview</Title>
+        </Document>
         <Document ID="D38D213D-0DDB-4475-AC05-75992094B890">
             <Title>Structure Tab</Title>
             <Text>Structure Tab
@@ -3730,6 +3733,15 @@ Tone						Tone indicates the mood or impression you wish the reader to feel.</Te
         </Document>
         <Document ID="D48D1B21-D02A-42D2-BD82-137168380C57">
             <Title>WebNodeHighlighted</Title>
+        </Document>
+        <Document ID="D506F662-E901-4555-BF66-977D7DA9AFC9">
+            <Title>Leaving Feedback</Title>
+            <Text>Leaving Feedback
+Occasionally, you may want to leave feedback, suggestions, or report issues you have found within StoryCAD. Should you wish to leave feedback about or review StoryCAD, you can open the settings menu and on the about page, there is a link to leave a review on StoryCAD via the Microsoft Store.
+#
+
+If you wish to suggest a feature or report a problem with StoryCAD, then there is a report feedback button. This will open a menu where you can explain your feature and how it should work or about the issue you ran into and how it happened.
+#</Text>
         </Document>
         <Document ID="D553C999-C896-4982-96B1-8F43723416C3">
             <Title>Opening Scene - Conflict</Title>
@@ -3896,6 +3908,9 @@ The provided choices are generalized sources from which many problems spring. Be
         </Document>
         <Document ID="E6A69997-F8C4-45E6-8A09-40A3D42A36ED">
             <Title>Traits and Habbits Tab</Title>
+        </Document>
+        <Document ID="E7199632-3227-45E9-9442-41B85D0DCE74">
+            <Title>ShellBar</Title>
         </Document>
         <Document ID="E8363C6D-188E-4D88-9273-686CD1B17F70">
             <Title>Scene Form</Title>

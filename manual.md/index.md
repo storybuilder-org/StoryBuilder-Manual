@@ -2592,6 +2592,13 @@ Developer Notes
 	- Attempt to launch the app again
 	- The first instance of the app should now be brought on top of all the window
 
+## Leaving Feedback ##
+Leaving Feedback
+Occasionally, you may want to leave feedback, suggestions, or report issues you have found within StoryCAD. Should you wish to leave feedback about or review StoryCAD, you can open the settings menu and on the about page, there is a link to leave a review on StoryCAD via the Microsoft Store.
+![][Research-LeaveAReview]
+
+If you wish to suggest a feature or report a problem with StoryCAD, then there is a report feedback button. This will open a menu where you can explain your feature and how it should work or about the issue you ran into and how it happened.
+![][Research-ShellBar]
 # Back Matter #
 ## Glossary ##
 
@@ -3154,3 +3161,7 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 [Clipboard-Image-5]: Clipboard-Image-5.png width=543px height=281px
 
 [Clipboard-Image-6]: Clipboard-Image-6.png width=568px height=355px
+
+[Research-LeaveAReview]: Research-LeaveAReview.png width=562px height=589px
+
+[Research-ShellBar]: Research-ShellBar.png width=655px height=51px

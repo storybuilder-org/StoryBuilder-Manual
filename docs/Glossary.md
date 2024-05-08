@@ -559,6 +559,10 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
 [Clipboard-Image-5]: Clipboard-Image-5.png width=543px height=281px
 
 [Clipboard-Image-6]: Clipboard-Image-6.png width=568px height=355px
+
+[Research-LeaveAReview]: Research-LeaveAReview.png width=562px height=589px
+
+[Research-ShellBar]: Research-ShellBar.png width=655px height=51px
  <br/>
  <br/>
 [Previous - Back Matter](Back_Matter.md) <br/>
