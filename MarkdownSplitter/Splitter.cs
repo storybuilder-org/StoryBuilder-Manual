@@ -278,11 +278,12 @@ namespace MarkdownSplitter
 			sb.AppendLine($" <br/>");
 
 			// If there is a previous block, append a link to it.
-			if (block.Previous != null)
+			if (block.Previous != null && !block.Previous.Title.Contains("Front Page (Image)"))
 			{
 				sb.AppendLine($"[Previous - {block.Previous.Title}]({block.Previous.Filename}) <br/>");
 			}
-			else if (Parent.Children.IndexOf(block) != 0)
+			else if (Parent.Children.IndexOf(block) != 0 &&
+			         Parent.Children[Parent.Children.IndexOf(block) - 1].Title != "Front Page (Image)")
 			{
 				sb.AppendLine($"[Previous - {Parent.Children[Parent.Children.IndexOf(block) - 1].Title}]" +
 				              $"({Parent.Children[Parent.Children.IndexOf(block) - 1].Filename}) <br/>");
@@ -307,9 +308,16 @@ namespace MarkdownSplitter
 			}
 			else
 			{
-				sb.AppendLine($"[Next - {block.Children.First().Title}]" +
-				              $"({block.Children.First().Filename}) <br/>");
-
+				if (block.Children[0].Title.Contains("Front Page (Image)")) //Do not show frontpage image as next page no matter what.
+				{
+					sb.AppendLine($"[Next - {block.Children[1].Title}]" +
+					              $"({block.Children[1].Filename}) <br/>");
+				}
+				else
+				{
+					sb.AppendLine($"[Next - {block.Children.First().Title}]" +
+					              $"({block.Children.First().Filename}) <br/>");
+				}
 			}
 		}
 	}
