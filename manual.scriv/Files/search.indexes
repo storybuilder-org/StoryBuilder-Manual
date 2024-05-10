@@ -227,11 +227,15 @@ Wrap node names - Wraps node names in the Story Explorer and Narrator treeviews,
 
 Automatically Save - This function will automatically save your story  story outline every X seconds. It operates exactly as if you’d used File &gt; Save or clicked on the edit button on the status bar.  You’ll see a verification of the save event on the status bar and the edit button will turn green. 
 
+Preferred Search Engine - This is the search engine that will be used within web nodes.
+
+Preferred Theme - This is the theme that StoryCAD will use. You can select between Light Theme, Dark Theme or to Use System theme, which will match the theme you have set within windows.
+
 About tab:
 
 #
 
-This tab identifies the current version.
+This tab identifies the current version and has links to keep up with StoryCAD on Social Media. You can also review StoryCAD here; additionally, you will also be prompted to review StoryCAD roughly once every six months.
 
 The logs folder is a subfolder of the installation folder. It contains a list of the most recent log files written by StoryCAD (one file per day.)
 
@@ -292,8 +296,8 @@ The questions for a story element type are a circular list.  That is, when you'v
             <Notes>KEYQUEST</Notes>
         </Document>
         <Document ID="0A3F974B-344B-4F89-80D9-E6F0AC13EC2D">
-            <Title>Reports</Title>
-            <Text>Reports
+            <Title>Reports Menu</Title>
+            <Text>Reports Menu
 
 Clicking on the Reports button on the Menu Bar displays a fly-out menu with two reporting options:
 
@@ -451,25 +455,6 @@ See if my doc is up to date; I’ve added the 7-point master plot.</Notes>
         </Document>
         <Document ID="18E0E9B0-E553-41DE-9B4D-1C879951CE6C">
             <Title>Inverse Relationship</Title>
-        </Document>
-        <Document ID="1BF9DD25-1597-4554-9A15-2F5CB54E2E3B">
-            <Title>Print Reports-1</Title>
-            <Text>Scrivener Reports
-
-If you use Scrivener, clicking Scrivener Reports will open a file picker to allow you to select a Scrivener .scrivx file from a Scrivener project. The Scrivener project you select is the one you’ll be writing your draft in, and it must have been created before you generate the reports.
-
-#
-
-When the reports are done:    #  you can open your Scrivener project. You’ll see a set of nodes added to the Binder, which contain your reports:
-
-#
-
-A convenient way to use these embedded reports is to split your screen, with one pane open to a text node in the Manuscript and the other to a node in the outline:
-
-#</Text>
-            <Notes>Multiple User Inputs Note.docx
-
-Needs added</Notes>
         </Document>
         <Document ID="1C01E3E1-FC6B-429D-B867-B8C815B7543A">
             <Title>Inner Traits</Title>
@@ -668,14 +653,6 @@ This button toggles the Navigation Pane to either display or be hidden. Hiding t
         <Document ID="21367FCF-411C-4F60-AC86-6F91F91E357D">
             <Title>Tools Key Questions</Title>
         </Document>
-        <Document ID="21C00625-689E-4DAE-81F6-D32DB8CC5046">
-            <Title>Print Reports</Title>
-            <Text>If you select the Print Reports option, a dialog will appear which allows you to check the particular reports you wish to print:
-
-#
-
-Clicking Generate will cause all of the selected reports to print on your default printer.</Text>
-        </Document>
         <Document ID="227FF3CA-13BE-44A4-A7C2-DA6C48AA2DEB">
             <Title>PlottingWithStoryCADOldManCharArc</Title>
         </Document>
@@ -813,9 +790,6 @@ Story Narrator View is the view you’ll use when you’re ready to structure yo
         </Document>
         <Document ID="2C36ADB2-13B2-4D74-B489-02F92CB2DE87">
             <Title>Tutorial 4 - Lacas gets the drop on Kraskin</Title>
-        </Document>
-        <Document ID="2C7D7A61-6989-4E56-8891-5DE98B2C9F26">
-            <Title>Content Pane</Title>
         </Document>
         <Document ID="2CCBF812-DD9C-4651-8D32-C6F20F526538">
             <Title>Prefences CommandBar Button</Title>
@@ -1116,9 +1090,6 @@ Story Idea				This is the place to record the original idea that led you to want
         <Document ID="3748F747-B0F8-4DFB-8F91-E85E0605EFEB">
             <Title>Tutorial 2 - Detective Role</Title>
         </Document>
-        <Document ID="37C89B13-ED23-41B4-8CAD-1F673BA763B1">
-            <Title>Character Apperance Tab</Title>
-        </Document>
         <Document ID="38A0909F-EB79-4DFD-A3CB-4FB6088CFB69">
             <Title>Character Inner Traits Tab</Title>
         </Document>
@@ -1163,18 +1134,7 @@ Of course, I don’t have one yet…</Notes>
         </Document>
         <Document ID="3B425F17-6AEB-4983-8C67-5167CFE5B4E9">
             <Title>Dedication</Title>
-            <Text>
-
-
-
-
-
-
-
-
-
-
-Insert dedication here.</Text>
+            <Text>Insert dedication here.</Text>
             <Notes>Feel free to delete this document if you don’t need it.</Notes>
         </Document>
         <Document ID="3C6964B4-22EC-41F0-A71E-D434CF7C2B80">
@@ -1271,28 +1231,7 @@ We hope you enjoy StoryCAD and find it useful to your craft. </Text>
         </Document>
         <Document ID="3ECF6511-EC5A-4B9A-B12F-039C0CDD2CB7">
             <Title>Copyright</Title>
-            <Text>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Copyright © &lt;$year&gt; &lt;$author&gt;
-All rights reserved.
-ISBN:
-ISBN-13:
-</Text>
+            <Text>Copyright © &lt;$year&gt; &lt;$author&gt;All rights reserved.ISBN:ISBN-13:</Text>
             <Notes>Feel free to delete this document if you don’t need it, or edit it for your needs.</Notes>
         </Document>
         <Document ID="403C7EA5-4910-4461-BFA5-23110C2A36FB">
@@ -1392,13 +1331,6 @@ Refer to the replacement to Polti. Also, need to change the tool itself to use t
         <Document ID="4C503087-4471-444C-948C-C1AAD8DF8229">
             <Title>Navigation Pane Flyout CommandBar</Title>
         </Document>
-        <Document ID="4C8A6534-0C9F-4C3D-BAA7-92D135DA80FD">
-            <Title>Navigation and Content Panes</Title>
-            <Text>Navigation and Content Panes
-
-The
-</Text>
-        </Document>
         <Document ID="4D4CCDD3-95DD-44BD-8BBF-A45E5302112C">
             <Title>Creating a Story pt 5</Title>
             <Text>The original external problem (‘Catching the drug dealer Lacas’) is solved through the resolution of the inner problem (‘Leonard's impulsiveness lets Lacas capture him’.) The story's turning point is the resolution of the inner problem, but an additional bit is needed, what we started with, getting the drop on Lacas. We should state the resolution of the external problem.  Clicking on the first problem from the list at the left of the screen, and then on the Resolution tab, allows us to key the Premise:
@@ -1496,16 +1428,6 @@ Can two friends sleep together and still love each other in the morning?
         <Document ID="4DD0D68F-0C0B-41CD-8137-125CE85D2A90">
             <Title>Plotting with StoryCAD - Complication SubProblems</Title>
         </Document>
-        <Document ID="4E6195D2-E458-4FD3-B12B-0DF2F5B1BD5B">
-            <Title>ChangeLog Pop-up</Title>
-            <Text>ChangeLog Pop-up
-When you update StoryCAD to a new version, a ChangeLog window will be shown. This will summarise what has changed in this update and which developer made that change.
-#
-
-If you decide you want to see this popup again, you can access it in Preferences.
-
-#</Text>
-        </Document>
         <Document ID="50436068-86AC-4BBA-8C89-69ED107818C1">
             <Title>Tabs</Title>
         </Document>
@@ -1599,26 +1521,8 @@ Contains brief descriptions of some of  the finer classifications of a particula
         </Document>
         <Document ID="520C484F-808A-4651-B417-C1CF776CEA07">
             <Title>Title Page</Title>
-            <Text>
-
-
-
-
-
-
-
-
-
-
-&lt;$PROJECTTITLE&gt;
-
-&lt;$author&gt;</Text>
+            <Text>&lt;$PROJECTTITLE&gt;&lt;$author&gt;</Text>
             <Notes>These tags get replaced with the information set in the Metadata pane of Compile. Alternatively, you can simply replace this text altogether.</Notes>
-        </Document>
-        <Document ID="5500ABCA-957C-41B4-9E7E-799D81958367">
-            <Title>Preferences</Title>
-            <Text>Preferences
-</Text>
         </Document>
         <Document ID="55251B68-CDE2-4EC6-8ED4-5E7F469AB6AA">
             <Title>Tutorial 1 - Empty Story Idea Tab</Title>
@@ -1774,14 +1678,8 @@ The menu bar buttons either display drop-down menus (such as File), or launch pa
 </Text>
             <Notes>MENUBAR</Notes>
         </Document>
-        <Document ID="5E377126-A01B-46DD-A9FD-FD6E068B182A">
-            <Title>Recovered Files (2/23/2024, 2:47 PM)</Title>
-        </Document>
         <Document ID="5EB57E3F-37FC-489E-8D1E-B47871FA637A">
             <Title>NarrativeEditors</Title>
-        </Document>
-        <Document ID="5F6E0960-9C74-4FBC-9843-F78043724CE4">
-            <Title>Preferences Dialog</Title>
         </Document>
         <Document ID="6007F7C8-29A7-4E07-BFE2-80C6724C0F65">
             <Title>SearchBar</Title>
@@ -2145,7 +2043,6 @@ villain: A character who represents an evil or unwelcome force.  The villain is 
         <Document ID="64FD0DF6-2B14-47CF-AB61-EA596D02A6C4">
             <Title>Create New Story Dialog</Title>
         </Document>
-        <Document ID="66C0C71D-3D6A-4192-9087-08BFE8F19A90"/>
         <Document ID="67173266-8C12-4379-ADDA-78A5EB636731">
             <Title>Button ToolTips</Title>
         </Document>
@@ -2238,7 +2135,6 @@ Does this work?  The story's over when Lacas is captured, and Leonard's inner pr
             <Notes>TUTOR04
 </Notes>
         </Document>
-        <Document ID="676C5515-CA39-4F95-9104-0A904E12D3B4"/>
         <Document ID="6784B238-628F-4D6C-80A7-C3A3DECE024E">
             <Title>Dialogs</Title>
         </Document>
@@ -2340,14 +2236,6 @@ The gap between these two perspectives,  and the answer to the original question
         </Document>
         <Document ID="6E91D8A2-2F6A-4C70-AE1F-B7E40CCB0642">
             <Title>Dramatic Situations List of SItuations</Title>
-        </Document>
-        <Document ID="6F1C5153-DAD2-4EB0-B596-6AF840D4AD91">
-            <Title>Copy Characters and Settings</Title>
-            <Text>Copy Characters &amp; Settings
-
-This tool is coming soon. The purpose is to allow you to copy story elements from one story outline to another, such as in a series of novels.
-</Text>
-            <Notes>Function is not coded yet</Notes>
         </Document>
         <Document ID="707865B7-D30D-4080-9B7F-B455F9A488DD">
             <Title>Lacas Role</Title>
@@ -2781,9 +2669,6 @@ The urge will be to create a scene for every plot point.  But you have a wonderf
         <Document ID="86F528E8-82A5-4C27-B680-F5DB6CA42E99">
             <Title>Tutorial 4 - Trait Builder</Title>
         </Document>
-        <Document ID="872003BB-7FA7-4ABD-9629-7C55F81DBA3F">
-            <Title>Preferences Menu</Title>
-        </Document>
         <Document ID="873DAC74-F16E-402C-91F1-B398FD43AAD4">
             <Title>Plotting Tools</Title>
             <Synopsis>PLPINSC</Synopsis>
@@ -2858,9 +2743,6 @@ Unlike Dramatic Situations, this tool works just with Scenes. One use is to help
         <Document ID="8B97C5F7-9DCC-4ECD-ADF5-7F0B50A5B812">
             <Title>Plotting with StoryCAD - Premise</Title>
         </Document>
-        <Document ID="8CD92572-1119-44AE-B599-0CAC09FA1EC3">
-            <Title>CharPhysTab</Title>
-        </Document>
         <Document ID="8D7BEA86-220B-4876-8D71-30623A83A8F1">
             <Title>Story Elements</Title>
         </Document>
@@ -2902,9 +2784,6 @@ We have now got a map of our fictional word and can start planning our story aro
 Note: The Website Form requires the Microsoft Edge WebView 2 runtime, most 		Windows computers will already have this installed by default however if you are for any reason missing it, StoryCAD will ask to install it for you.
 </Text>
         </Document>
-        <Document ID="936471BC-3FBF-4BC1-881F-D35ED1DBD915">
-            <Title>Character Appearance Tab</Title>
-        </Document>
         <Document ID="93BD73CF-E299-4042-A788-4CD5CEFBCBB9">
             <Title>File Open Dialog</Title>
         </Document>
@@ -2943,11 +2822,7 @@ Only one story outline can be open at a time.  If you open a new file you'll be 
         </Document>
         <Document ID="96776348-B035-46DA-A5A5-210E99B93774">
             <Title>Front Matter</Title>
-            <Notes>Note that in the “Metadata” pane of the Inspector, under “Section Type”, the “Default Subdocument Type” is set to “Front Matter”. This setting causes all subdocuments of this folder to use the “Front Matter” section type by default (that is, when “Structure-Based” is selected as the section type).
-
-This saves us from having to manually assign the “Front Matter” section type for each document we place into this folder.
-
-During Compile, documents assigned the “Front Matter” section type will be laid out differently from documents in the main body of the manuscript.</Notes>
+            <Notes>Note that in the “Metadata” pane of the Inspector, under “Section Type”, the “Default Subdocument Type” is set to “Front Matter”. This setting causes all subdocuments of this folder to use the “Front Matter” section type by default (that is, when “Structure-Based” is selected as the section type).This saves us from having to manually assign the “Front Matter” section type for each document we place into this folder.During Compile, documents assigned the “Front Matter” section type will be laid out differently from documents in the main body of the manuscript.</Notes>
         </Document>
         <Document ID="96C9B71A-8232-4DB4-BC13-CA1E17849800">
             <Title>File Menu </Title>
@@ -3052,125 +2927,7 @@ In writing plays, where the characters must be cast, try to avoid writing dialog
         </Document>
         <Document ID="9FFBA333-8432-41C1-91F5-1302DFE283CA">
             <Title>Non-Fiction Format</Title>
-            <Text>GENERAL NON-FICTION
-
-About This Template
-When compiled (File &gt; Compile), this project will generate a document in the standard manuscript format used for many types of non-fiction. Settings are also provided to make it easy to compile to a paperback-style PDF for self-publishing or an EPUB or Kindle ebook.
-
-How To Use This Template
-Inside the “Manuscript” folder, create a new folder for each chapter and title each folder with the name of the chapter. (You do not need to—and indeed shouldn’t—title the folders “Chapter One” and so on, because chapter numbering will be taken care of automatically during the Compile process.) The first chapter folder has been created for you with the placeholder title “Chapter”.
-Note: The “Manuscript” folder is what we refer to in the documentation as the “Draft folder”. It’s just been renamed “Manuscript” in this template.
-Create a new text document for each section inside the chapter folders. (Upon export, sections will be separated with the “#” character for standard manuscript format, or with a blank line for other formats.)
-If you don’t require a foreword, move the “Foreword” document to the Trash folder. Alternatively, rename it “Preface” or “Introduction” if you prefer.
-“Notes” and “Ideas” folders have been provided for your convenience, although you can replace them or create different top-level folders for your research materials if necessary (these are just regular folders that have had custom icons assigned to them using the Documents &gt; Change Icon feature).
-
-Tables and Figures
-If you need to use tables or figures in your manuscript, you can label them using the following tags, replacing “KEYWORD” with a unique word that identifies your table or figure.
-
-!fig(KEYWORD)
-!table(KEYWORD)
-
-These tags will be replaced with numbers in the compiled document, with the numbering stream for figures being separate from the numbering stream for tables.
-
-You can refer to such tags as follows:
-
-#fig(KEYWORD)
-#table(KEYWORD)
-
-Here’s an example:
-
-Table !table(sales): Sales 2011
-Table !table(dates): Shipment dates
-Figure !fig(skeleton): The skeleton of the gnu.
-Figure !fig(malcolmreynolds): The second coolest character in Firefly.
-
-… (For sales figures, see table #table(sales))… For shipment dates, see table #table(dates)… where he discovered the skeleton of a gnarled gnu (see figure #fig(skeleton))… Chronicles providing a similar role, albeit without the Castle actor (see figure #fig(malcolmreynolds)).
-
-In the compiled document, the above text would look like this:
-
-Table 1: Sales 2011
-Table 2: Shipment dates
-Figure 1: The skeleton of the gnu.
-Figure 2: The second coolest character in Firefly.
-
-… (For sales figures, see table 1)… For shipment dates, see table 2… where he discovered the skeleton of a gnarled gnu (see figure 1)… Chronicles providing a similar role, albeit without the Castle actor (see figure 2).
-
-Compiling
-Title pages and front matter are all provided in the “Front Matter” folder. Different front matter is used for different formats.
-A “Back Matter” folder is also provided. Here you can add any back matter that is specific to each Compile format. Currently this only contains documents for storying endnotes (see below).
-Tip: You can open this document in a Quick Reference panel and have it open alongside the Compile panel if you need to refer to these instructions while compiling.
-
-To compile to standard manuscript format:
-Edit the “Title Page” document inside the Front Matter/Manuscript Format folder to ensure that it contains the correct information (by default it will use information from Contacts).
-To create your table of contents:
-Holding down the Command key, select all the documents you wish to be included in the contents listing. (Usually this will be “Foreword” and all chapter folders, but not the individual sections inside chapter folders. If you have footnotes and wish them to be added to the end of the manuscript as endnotes, you should also include the “Endnotes” document inside “Back Matter”.)
-Go to Edit &gt; Copy Special &gt; Copy Documents as ToC.
-Paste into the “Contents” document in the “Manuscript Format” front matter folder. (Tip: Use Format &gt; Font &gt; Underline to change or remove the dotted underline between the chapter names and page numbers.)
-The resulting linked text and page number tags will be replaced with the final chapter names and page numbers in the compiled document.
-Note that you don’t need to do this every time you compile, only when chapters have been added, deleted, renamed or moved around. (Note to Microsoft Word users: If you export to Word, you may need to generate a print preview in Word to force the page numbers to show up correctly - they may appear as question marks before doing so.)
-You don’t have to use “Copy Documents as ToC” to create a table of contents, by the way. You could equally construct one yourself using document links and placeholders - see “List of All Placeholders…” in the Help menu for more information on the latter.
-Go to File &gt; Compile…
-Next to “Compile for”, select “Print”, “PDF” or one of the rich text file formats such as RTF, Word or OpenOffice.
-Select either “Non-Fiction Manuscript (Courier)” or “Non-Fiction Manuscript (Times)” from the list of formats on the left.
-Ensure that the “Add front matter” button is ticked under the contents list on the right and that the “Manuscript Format” folder is selected in the pop-up button next to it. (This has already been set up for you.)
-If you have footnotes in your text, they can either be included at the end of each page (the default) or as endnotes. To have them included as endnotes:
-Beneath the list of documents on the right side of the Compile pane, tick “Add back matter”. This will include the “Endnotes” document from the Back Matter/Manuscript Format folder.
-Click on the gear icon in the right-most header bar in Compile.
-Tick “Export inspector footnotes as endnotes” and “Export inline footnotes as endnotes”.
-Click on “Compile”.
-
-•	To compile to paperback PDF format:
-Edit the front matter pages contained inside the Front Matter/Paperback folder.
-Follow the instructions under compiling for standard manuscript format for creating a table of contents, but this time paste the contents list into the Front Matter/Paperback/Contents document.
-Go to File &gt; Compile…
-Next to “Compile for”, select “PDF”.
-Select “Paperback (5.06” x 7.81”)” from the list of formats on the left.
-Ensure that the “Add front matter” button is ticked under the contents list on the right and that the “Paperback” folder is selected in the pop-up button next to it if it. (This has already been set up for you.)
-If you have footnotes in your text, they can either be included at the end of each page or as endnotes. See the instructions under compiling for standard manuscript format for information on how to include footnotes as endnotes (in this case, however, clicking “Add Back Matter” will include the “Paperback” back matter folder).
-Click on “Compile”.
-
-To compile to ebook format:
-Edit or remove the dedication page contained inside the Front Matter/Ebook folder. Feel free to add any other front matter documents as required.
-Import a cover image (preferably in JPG or PNG format).
-You can store this anywhere, but it makes sense to place it in the “Ebook” front matter folder. A placeholder cover image is already provided—you will want to delete that once you have imported your own.
-Be sure to check online for recommended image sizes, because the recommendations are constantly changing. The sample cover image provided is 2,500 x 1,563 pixels, based on Amazon’s recommended size and proportions for a Kindle cover at the time this template was created.
-Go to File &gt; Compile…
-From the “Compile for” menu, select one of the ebook formats.
-To create an ePub file, choose the “ePub 3” format.
-To create a Kindle file, choose the “Kindle KF8/Mobi” format.
-“ePub 2” and “Kindle Mobi” are older versions of the formats. They are mainly provided for supporting projects created in older versions of Scrivener.
-Select “Ebook” from the list of formats on the left.
-If you have front matter documents other than the cover image, ensure that the “Add front matter” button is ticked under the contents list on the right and that the “Ebook” folder is selected in the pop-up button next to it. If you don’t have any front matter documents, you can un-tick “Add front matter”. (Un-ticking this does not affect the cover image.)
-Above the contents list in the rightmost header bar are six buttons. Click on each of them in turn to go through the various available settings, changing what you need. In particular:
-Fill in the metadata such as author name and book title.
-Ensure your cover image is selected and shown.
-Click on “Compile”.
-
-Adding Sub-Heads
-If you want your chapters divided into sections that each have their own sub-headings, simply use blank file groups for each heading, with each section under that heading a subdocument of the file group, like this:
-
-#
-
-Customising the Ebook Table of Contents
-When exporting to ebook format, Scrivener automatically generates a table of contents. If you would like to customise what appears in the contents, follow these instructions:
-Create a document for your table of contents inside the Front Matter/Ebook folder.
-Name the document “Contents”.
-In the binder, select the documents you would like to appear in the table of contents (hold down Command to select more than one document).
-For a simple flat list, hit Cmd-C or use Edit &gt; Copy. Alternatively, if you would like the table of contents indented to match the binder structure, go to Edit &gt; Copy Special &gt; Copy Documents as Structured Link List.
-Click into the text of the “Contents” document and hit Cmd-V or use Edit &gt; Paste. The documents you wish to appear in the table of contents will now appear as a list of links.
-If you intend to export to an older ebook format (ePub 2 or non-KF8 Mobi), select all of the text and change it to use a 12-point font.
-If you wish to centre the table of contents, select the text and centre it.
-In the Inspector, change the “Section Type” of the “Contents” document to “Table of Contents”. Now, when you Compile, your custom “Contents” document will be used instead of the automatically-generated one. The titles in the links of the “Contents” document will automatically be updated to match those of the final compiled ebook.
-
-Sample Document
-See the “Sample MS” PDF file in the Research folder for an example of a document that has been created using this template.
-
-Final Note
-Scrivener project templates are flexible and are not intended to restrict you to a particular workflow. You can change, delete or move the files and folders contained in the template to suit how you work.
-
-Like all templates in Scrivener, this project was originally created from the “Blank” template. We’ve simply added a few folders and set everything up in ways that should be useful to non-fiction authors. Everything you can do with this project, you could equally do by creating a “Blank” project and setting it up yourself.
-
-You can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File &gt; Save As Template.</Text>
+            <Text>GENERAL NON-FICTIONAbout This TemplateWhen compiled (File &gt; Compile), this project will generate a document in the standard manuscript format used for many types of non-fiction. Settings are also provided to make it easy to compile to a paperback-style PDF for self-publishing or an EPUB or Kindle ebook.How To Use This TemplateInside the “Manuscript” folder, create a new folder for each chapter and title each folder with the name of the chapter. (You do not need to—and indeed shouldn’t—title the folders “Chapter One” and so on, because chapter numbering will be taken care of automatically during the Compile process.) The first chapter folder has been created for you with the placeholder title “Chapter”.Note: The “Manuscript” folder is what we refer to in the documentation as the “Draft folder”. It’s just been renamed “Manuscript” in this template.Create a new text document for each section inside the chapter folders. (Upon export, sections will be separated with the “#” character for standard manuscript format, or with a blank line for other formats.)If you don’t require a foreword, move the “Foreword” document to the Trash folder. Alternatively, rename it “Preface” or “Introduction” if you prefer.“Notes” and “Ideas” folders have been provided for your convenience, although you can replace them or create different top-level folders for your research materials if necessary (these are just regular folders that have had custom icons assigned to them using the Documents &gt; Change Icon feature).Tables and FiguresIf you need to use tables or figures in your manuscript, you can label them using the following tags, replacing “KEYWORD” with a unique word that identifies your table or figure.!fig(KEYWORD)!table(KEYWORD)These tags will be replaced with numbers in the compiled document, with the numbering stream for figures being separate from the numbering stream for tables.You can refer to such tags as follows:#fig(KEYWORD)#table(KEYWORD)Here’s an example:Table !table(sales): Sales 2011Table !table(dates): Shipment datesFigure !fig(skeleton): The skeleton of the gnu.Figure !fig(malcolmreynolds): The second coolest character in Firefly.… (For sales figures, see table #table(sales))… For shipment dates, see table #table(dates)… where he discovered the skeleton of a gnarled gnu (see figure #fig(skeleton))… Chronicles providing a similar role, albeit without the Castle actor (see figure #fig(malcolmreynolds)).In the compiled document, the above text would look like this:Table 1: Sales 2011Table 2: Shipment datesFigure 1: The skeleton of the gnu.Figure 2: The second coolest character in Firefly.… (For sales figures, see table 1)… For shipment dates, see table 2… where he discovered the skeleton of a gnarled gnu (see figure 1)… Chronicles providing a similar role, albeit without the Castle actor (see figure 2).CompilingTitle pages and front matter are all provided in the “Front Matter” folder. Different front matter is used for different formats.A “Back Matter” folder is also provided. Here you can add any back matter that is specific to each Compile format. Currently this only contains documents for storying endnotes (see below).Tip: You can open this document in a Quick Reference panel and have it open alongside the Compile panel if you need to refer to these instructions while compiling.To compile to standard manuscript format:Edit the “Title Page” document inside the Front Matter/Manuscript Format folder to ensure that it contains the correct information (by default it will use information from Contacts).To create your table of contents:Holding down the Command key, select all the documents you wish to be included in the contents listing. (Usually this will be “Foreword” and all chapter folders, but not the individual sections inside chapter folders. If you have footnotes and wish them to be added to the end of the manuscript as endnotes, you should also include the “Endnotes” document inside “Back Matter”.)Go to Edit &gt; Copy Special &gt; Copy Documents as ToC.Paste into the “Contents” document in the “Manuscript Format” front matter folder. (Tip: Use Format &gt; Font &gt; Underline to change or remove the dotted underline between the chapter names and page numbers.)The resulting linked text and page number tags will be replaced with the final chapter names and page numbers in the compiled document.Note that you don’t need to do this every time you compile, only when chapters have been added, deleted, renamed or moved around. (Note to Microsoft Word users: If you export to Word, you may need to generate a print preview in Word to force the page numbers to show up correctly - they may appear as question marks before doing so.)You don’t have to use “Copy Documents as ToC” to create a table of contents, by the way. You could equally construct one yourself using document links and placeholders - see “List of All Placeholders…” in the Help menu for more information on the latter.Go to File &gt; Compile…Next to “Compile for”, select “Print”, “PDF” or one of the rich text file formats such as RTF, Word or OpenOffice.Select either “Non-Fiction Manuscript (Courier)” or “Non-Fiction Manuscript (Times)” from the list of formats on the left.Ensure that the “Add front matter” button is ticked under the contents list on the right and that the “Manuscript Format” folder is selected in the pop-up button next to it. (This has already been set up for you.)If you have footnotes in your text, they can either be included at the end of each page (the default) or as endnotes. To have them included as endnotes:Beneath the list of documents on the right side of the Compile pane, tick “Add back matter”. This will include the “Endnotes” document from the Back Matter/Manuscript Format folder.Click on the gear icon in the right-most header bar in Compile.Tick “Export inspector footnotes as endnotes” and “Export inline footnotes as endnotes”.Click on “Compile”.•	To compile to paperback PDF format:Edit the front matter pages contained inside the Front Matter/Paperback folder.Follow the instructions under compiling for standard manuscript format for creating a table of contents, but this time paste the contents list into the Front Matter/Paperback/Contents document.Go to File &gt; Compile…Next to “Compile for”, select “PDF”.Select “Paperback (5.06” x 7.81”)” from the list of formats on the left.Ensure that the “Add front matter” button is ticked under the contents list on the right and that the “Paperback” folder is selected in the pop-up button next to it if it. (This has already been set up for you.)If you have footnotes in your text, they can either be included at the end of each page or as endnotes. See the instructions under compiling for standard manuscript format for information on how to include footnotes as endnotes (in this case, however, clicking “Add Back Matter” will include the “Paperback” back matter folder).Click on “Compile”.To compile to ebook format:Edit or remove the dedication page contained inside the Front Matter/Ebook folder. Feel free to add any other front matter documents as required.Import a cover image (preferably in JPG or PNG format).You can store this anywhere, but it makes sense to place it in the “Ebook” front matter folder. A placeholder cover image is already provided—you will want to delete that once you have imported your own.Be sure to check online for recommended image sizes, because the recommendations are constantly changing. The sample cover image provided is 2,500 x 1,563 pixels, based on Amazon’s recommended size and proportions for a Kindle cover at the time this template was created.Go to File &gt; Compile…From the “Compile for” menu, select one of the ebook formats.To create an ePub file, choose the “ePub 3” format.To create a Kindle file, choose the “Kindle KF8/Mobi” format.“ePub 2” and “Kindle Mobi” are older versions of the formats. They are mainly provided for supporting projects created in older versions of Scrivener.Select “Ebook” from the list of formats on the left.If you have front matter documents other than the cover image, ensure that the “Add front matter” button is ticked under the contents list on the right and that the “Ebook” folder is selected in the pop-up button next to it. If you don’t have any front matter documents, you can un-tick “Add front matter”. (Un-ticking this does not affect the cover image.)Above the contents list in the rightmost header bar are six buttons. Click on each of them in turn to go through the various available settings, changing what you need. In particular:Fill in the metadata such as author name and book title.Ensure your cover image is selected and shown.Click on “Compile”.Adding Sub-HeadsIf you want your chapters divided into sections that each have their own sub-headings, simply use blank file groups for each heading, with each section under that heading a subdocument of the file group, like this:#Customising the Ebook Table of ContentsWhen exporting to ebook format, Scrivener automatically generates a table of contents. If you would like to customise what appears in the contents, follow these instructions:Create a document for your table of contents inside the Front Matter/Ebook folder.Name the document “Contents”.In the binder, select the documents you would like to appear in the table of contents (hold down Command to select more than one document).For a simple flat list, hit Cmd-C or use Edit &gt; Copy. Alternatively, if you would like the table of contents indented to match the binder structure, go to Edit &gt; Copy Special &gt; Copy Documents as Structured Link List.Click into the text of the “Contents” document and hit Cmd-V or use Edit &gt; Paste. The documents you wish to appear in the table of contents will now appear as a list of links.If you intend to export to an older ebook format (ePub 2 or non-KF8 Mobi), select all of the text and change it to use a 12-point font.If you wish to centre the table of contents, select the text and centre it.In the Inspector, change the “Section Type” of the “Contents” document to “Table of Contents”. Now, when you Compile, your custom “Contents” document will be used instead of the automatically-generated one. The titles in the links of the “Contents” document will automatically be updated to match those of the final compiled ebook.Sample DocumentSee the “Sample MS” PDF file in the Research folder for an example of a document that has been created using this template.Final NoteScrivener project templates are flexible and are not intended to restrict you to a particular workflow. You can change, delete or move the files and folders contained in the template to suit how you work.Like all templates in Scrivener, this project was originally created from the “Blank” template. We’ve simply added a few folders and set everything up in ways that should be useful to non-fiction authors. Everything you can do with this project, you could equally do by creating a “Blank” project and setting it up yourself.You can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File &gt; Save As Template.</Text>
         </Document>
         <Document ID="A1D3D631-8A82-4906-9A62-F6305758D38F">
             <Title>Scene Development Tab</Title>
@@ -3187,14 +2944,25 @@ Backstory deserves caution for two reasons, however. If you’re shoehorning exp
         </Document>
         <Document ID="A2BDE106-56CD-40E4-94B1-8DE71C9BB183">
             <Title>Important Notice to StoryCAD Users</Title>
-            <Text>Important Notice to  StoryCAD Users
-As the creators of StoryCAD, we're committed to offering a robust tool that aids fiction writers in outlining and planning their novels with ease. Our platform supports rich text formatting (RTF), enabling effective organization and visualization of your story's structure. However, it's essential to understand the specific applications and limitations of StoryCAD to minimize data loss or inconvenience.
-Understanding StoryCAD's Scope: While StoryCAD supports RTF (rich field text) for detailed note-taking and outlining, it can’t replace a full-featured word processor. The application helps writers conceptualize the framework of their stories, rather than serve as the primary tool for manuscript writing.
-Recommended Word Processing Integration: For drafting and preserving your novel's manuscript, we recommend using established word processing software. StoryCAD seamlessly integrates with Scrivener, a comprehensive tool for writers that supports extensive manuscript management and editing features. Our interface complements Scrivener, allowing split-screen editing where you view the outline while writing your draft. 
+            <Text>Important Notice to StoryCAD Users
+
+As the creators of StoryCAD, we're committed to offering a robust tool that aids fiction writers in planning and outlining their novels with ease. However, it's essential to understand the specific applications and limitations of StoryCAD to minimize data loss or inconvenience.
+
+**Understanding StoryCAD's Scope:**
+ While StoryCAD supports RTF (rich field text) for detailed note-taking and outlining, it can’t replace a full-featured word processor. Our application focuses on the structure and planning phase of your writing. It is *not* meant to serve as your primary tool for manuscript writing. It’s missing standard word processor features like font selection, rich section, paragraph and word styles, etc., and, more importantly, doesn’t support editing multiple documents simultaneously or breaking a large document into smaller sections. 
+
+**Recommended Word Processing Integration:**
+For drafting and preserving your novel's manuscript, we recommend using established word processing software. StoryCAD seamlessly integrates with Scrivener, a comprehensive tool for writers that supports extensive manuscript management and editing features. Our interface complements Scrivener, allowing split-screen editing where you view the outline while writing your draft. 
 StoryCAD is also compatible with widely used word processors like Microsoft Word and Google Docs. We generate reports you can import into these tools, allowing you to reference your outline but still take full advantage of each tool's strengths in your writing journey.
-Protecting Your Work: To ensure the security of your manuscript, please use a dedicated word processing application for drafting and storing your novel. By doing so, you'll not only protect your work but also maximize StoryCAD's potential as an outliner.
-StoryCAD's Backup and Autosave Features: To enhance your experience and safeguard your work, StoryCAD includes built-in backup options and an autosave feature. Our two backup options periodically save your outlines and notes, reducing the risk of data loss. Meanwhile, the autosave function works silently in the background, automatically saving your progress as you work. These features are part of our commitment to providing a reliable and user-friendly platform for your creative process.
-We understand the challenges and setbacks that come with losing valuable work. Our commitment is minimize this risk and to help you integrate StoryCAD into your workflow in the most effective manner.
+
+**Protecting Your Work:**
+To ensure the security of your manuscript, please use a dedicated word processing application for drafting and storing your novel. By doing so, you'll not only protect your work but also maximize StoryCAD's potential as an outliner. These mainstream programs are inherently more stable than our app, which is relatively new and has a much smaller user base (and development staff.)
+
+**StoryCAD's Backup and Autosave Features:** 
+To enhance your experience and safeguard your work, StoryCAD includes built-in backup options and an Autosave feature. Our two backup options periodically save your outlines and notes, reducing the risk of data loss. Meanwhile, the Autosave function works silently in the background, automatically saving your progress as you work. These features are part of our commitment to providing a reliable and user-friendly platform for your creative process. We understand the challenges and setbacks that come with losing valuable work. Our commitment is to minimize this risk and to help you integrate StoryCAD into your workflow in the most effective manner.
+
+
+
 Thank you for choosing StoryCAD as a companion in your writing endeavors. We look forward to reading or viewing the incredible stories you'll create.</Text>
         </Document>
         <Document ID="A5182ADD-AD83-455F-9F9F-8AFA6A708165">
@@ -3340,20 +3108,11 @@ StoryBuilder Organization
         </Document>
         <Document ID="B5BAD6CD-B8F5-469F-9D65-288D1D5001DD">
             <Title>Dedication</Title>
-            <Text>
-
-
-
-
-Your dedication here.</Text>
+            <Text>Your dedication here.</Text>
             <Notes>Feel free to delete this document if you don’t need it.</Notes>
         </Document>
         <Document ID="B669EE55-F3E9-4E31-B211-1F81ABD519F9">
             <Title>Tools Dramatic Situations</Title>
-        </Document>
-        <Document ID="B7ACB928-3E71-48ED-A026-0F6638EE5A5A">
-            <Title>Flaw Builder</Title>
-            <Text>Flaw Builder</Text>
         </Document>
         <Document ID="B83180E3-DC93-48F6-A53A-DCDA272F5799">
             <Title>Stock Scenes Categories</Title>
@@ -3473,13 +3232,7 @@ Developer Notes
 &lt;$projecttitle&gt;
 
 by &lt;$fullname&gt;</Text>
-            <Notes>This is the title page of the manuscript. Note that its “Section Type” is automatically set to “Front Matter” in the Metadata pane of the Inspector, allowing the title page to be formatted differently from body text during Compile.
-
-The &lt;$PROJECTTITLE&gt; and &lt;$fullname&gt; tags get replaced with metadata information you can set when compiling. Other information is taken from Contacts when the project is created.
-
-The &lt;$wc100&gt; words tag will be replaced with the word count rounded to the nearest 100 during Compile (this and other tags can be inserted from the Insert menu).
-
-Feel free to edit the text of the title page as required.</Notes>
+            <Notes>This is the title page of the manuscript. Note that its “Section Type” is automatically set to “Front Matter” in the Metadata pane of the Inspector, allowing the title page to be formatted differently from body text during Compile.The &lt;$PROJECTTITLE&gt; and &lt;$fullname&gt; tags get replaced with metadata information you can set when compiling. Other information is taken from Contacts when the project is created.The &lt;$wc100&gt; words tag will be replaced with the word count rounded to the nearest 100 during Compile (this and other tags can be inserted from the Insert menu).Feel free to edit the text of the title page as required.</Notes>
         </Document>
         <Document ID="BC0DC62B-D666-419C-A37C-870C3C678050">
             <Title>Manuscript Format</Title>
@@ -3945,6 +3698,9 @@ The scene is the actions your character takes to achieve a goal (and the actions
         <Document ID="D0AE9A0E-7B2E-4807-AEA3-B7A89F968C76">
             <Title>WebsiteNodeWithSearchEngine</Title>
         </Document>
+        <Document ID="D1217981-FAB3-4821-9406-A7158CEE73D0">
+            <Title>LeaveAReview</Title>
+        </Document>
         <Document ID="D38D213D-0DDB-4475-AC05-75992094B890">
             <Title>Structure Tab</Title>
             <Text>Structure Tab
@@ -3977,6 +3733,15 @@ Tone						Tone indicates the mood or impression you wish the reader to feel.</Te
         </Document>
         <Document ID="D48D1B21-D02A-42D2-BD82-137168380C57">
             <Title>WebNodeHighlighted</Title>
+        </Document>
+        <Document ID="D506F662-E901-4555-BF66-977D7DA9AFC9">
+            <Title>Leaving Feedback</Title>
+            <Text>Leaving Feedback
+Occasionally, you may want to leave feedback, suggestions, or report issues you have found within StoryCAD. Should you wish to leave feedback about or review StoryCAD, you can open the settings menu and on the about page, there is a link to leave a review on StoryCAD via the Microsoft Store.
+#
+
+If you wish to suggest a feature or report a problem with StoryCAD, then there is a report feedback button. This will open a menu where you can explain your feature and how it should work or about the issue you ran into and how it happened.
+#</Text>
         </Document>
         <Document ID="D553C999-C896-4982-96B1-8F43723416C3">
             <Title>Opening Scene - Conflict</Title>
@@ -4046,10 +3811,6 @@ Needs added</Notes>
             <Title>Front Matter</Title>
             <Notes>Move to Front Matter outside of manuscript?
 See sect. 7.6 (structure, section type)</Notes>
-        </Document>
-        <Document ID="DC79A87C-A6F8-4707-B164-53353295214A">
-            <Title>Front Page</Title>
-            <Text>#</Text>
         </Document>
         <Document ID="E0D1F7E0-6875-4473-B6F0-3E26263DFC98">
             <Title>Navigation Pane Flyout CommandBar</Title>
@@ -4148,6 +3909,9 @@ The provided choices are generalized sources from which many problems spring. Be
         <Document ID="E6A69997-F8C4-45E6-8A09-40A3D42A36ED">
             <Title>Traits and Habbits Tab</Title>
         </Document>
+        <Document ID="E7199632-3227-45E9-9442-41B85D0DCE74">
+            <Title>ShellBar</Title>
+        </Document>
         <Document ID="E8363C6D-188E-4D88-9273-686CD1B17F70">
             <Title>Scene Form</Title>
             <Text>Scene Form
@@ -4190,9 +3954,6 @@ StoryCAD is Open-Source, meaning that it’s [source code](https://github.com/st
             <Text>Development Tab
 
 #</Text>
-        </Document>
-        <Document ID="ECE4F68C-44D4-43FA-ABED-08E9AB67FF1C">
-            <Title>CharPhysTab</Title>
         </Document>
         <Document ID="EEEAFE25-3BBC-43BA-A930-F116053650A3">
             <Title>Psychological Tab</Title>
@@ -4323,9 +4084,6 @@ The Add to Narrative/Remove from Narrative buttons copy a Scene story element to
 
 </Text>
             <Notes>FILEMENU</Notes>
-        </Document>
-        <Document ID="FB380487-E096-4CD0-91CD-46363595C936">
-            <Title>Character Appearance Tab</Title>
         </Document>
         <Document ID="FC05F9D4-0029-46B7-9C24-A77FC7E78B2C">
             <Title>Show and Hide Navigation</Title>

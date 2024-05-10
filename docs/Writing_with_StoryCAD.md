@@ -1,10 +1,7 @@
 # Writing with StoryCAD #
  <br/>
  <br/>
-[Previously - Tutorial: Creating a Story](Tutorial_Creating_a_Story.md) <br/>
- <br/>
-[Next - How to Think About Outlining](How_to_Think_About_Outlining.md) <br/>
- <br/>
+
 [How to Think About Outlining](How_to_Think_About_Outlining.md) <br/><br/>
 [Workflow](Workflow.md) <br/><br/>
 [Story Idea, Concept, and Premise](Story_Idea,_Concept,_and_Premise.md) <br/><br/>
@@ -18,3 +15,7 @@
 [Defining Scenes](Defining_Scenes.md) <br/><br/>
 [Reviewing Your Outline](Reviewing_Your_Outline.md) <br/><br/>
 [Other Uses of StoryCAD](Other_Uses_of_StoryCAD.md) <br/><br/>
+ <br/>
+ <br/>
+[Previous - Tutorial: Creating a Story](Tutorial_Creating_a_Story.md) <br/>
+[Next - How to Think About Outlining](How_to_Think_About_Outlining.md) <br/>
