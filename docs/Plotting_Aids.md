@@ -10,6 +10,12 @@ The Dramatic Situations tool uses standard dramatic situations to help you beef 
 
 The Stock Scenes tool provides lists of scenes frequently found in certain plotting situations, or in a particular genre.
 
+ <br/>
+ <br/>
+[Previously - Topic Information](Topic_Information.md) <br/>
+ <br/>
+[Next - Master Plots](Master_Plots.md) <br/>
+ <br/>
 [Master Plots](Master_Plots.md) <br/><br/>
 [Dramatic Situations](Dramatic_Situations.md) <br/><br/>
 [Stock Scenes](Stock_Scenes.md) <br/><br/>
