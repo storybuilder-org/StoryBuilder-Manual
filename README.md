@@ -113,9 +113,12 @@ test version of the user manual.
 [StoryBuilder-Manual](https://github.com/storybuilder-org/StoryBuilder-Manual).
 11. Push your changes. This expose the /docs folder and cause the GitHub Pages
 action to invoke the YAML compiler to build the website. 
-12. There is no need to merge the 'manual' branch changes to master. Just
-repeat the above process until you're satisfied. Keep the 'manual' branch
-for further revisions. 
+12. There is no need to merge the 'manual' branch changes to master as  you edit.
+Just repeat the above process until you're satisfied. Keep the 'manual' branch
+for further revisions.
+13. Once you've reached the desired result, and when you're ready to update
+the production User Manual with you changes, you will want to PR and merge the
+gh-pages branch into main. DO NOT delete gh-pages, however.
 
 ## Update the production User Manual
 
