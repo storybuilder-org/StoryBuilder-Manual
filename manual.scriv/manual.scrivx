@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="342E5DD6-5812-45AB-982C-E2EAC46CF8EE" Creator="SCRWIN-3.1.5.1" Device="DREAMLAND" Modified="2024-06-03 21:21:39 +0100" ModID="383CE41B-5B2F-4EE1-870F-8D86896063CA">
+<ScrivenerProject Template="No" Version="2.0" Identifier="342E5DD6-5812-45AB-982C-E2EAC46CF8EE" Creator="SCRWIN-3.1.5.1" Device="DREAMLAND" Modified="2024-06-03 21:37:37 +0100" ModID="78C9C11F-743C-42C7-B8A7-ABB62D85151E">
     <Binder>
         <BinderItem UUID="9FFBA333-8432-41C1-91F5-1302DFE283CA" Type="Text" Created="2019-05-14 20:29:37 +0100" Modified="2019-05-14 20:29:46 +0100">
             <Title>Non-Fiction Format</Title>
@@ -1210,13 +1210,13 @@
                                 <TextSelection Caret="16">0,16</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="C64A9ACD-5747-439E-B24C-B6C74196D0EE" Type="Text" Created="2024-06-03 01:16:59 +0100" Modified="2024-06-03 21:21:36 +0100">
+                        <BinderItem UUID="C64A9ACD-5747-439E-B24C-B6C74196D0EE" Type="Text" Created="2024-06-03 01:16:59 +0100" Modified="2024-06-03 21:37:16 +0100">
                             <Title>Troubleshooting Cloud Storage Providers</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1989,0</TextSelection>
+                                <TextSelection>1142,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -4319,12 +4319,12 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="350" Characters="2109" Date="2024-06-03 21:21:39 +0100"/>
+        <PreviousSession Words="353" Characters="2115" Date="2024-06-03 21:37:37 +0100"/>
     </ProjectTargets>
     <BookmarksFolderUUID>07B0D7C6-57CE-4D6F-8AD9-11F06A261A5F</BookmarksFolderUUID>
     <RecentWritingHistory Date="2024-06-03 00:00:00 +0100">
-        <DraftWordCount>335</DraftWordCount>
-        <DraftCharCount>1989</DraftCharCount>
+        <DraftWordCount>337</DraftWordCount>
+        <DraftCharCount>1985</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
