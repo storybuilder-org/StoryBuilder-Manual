@@ -8,4 +8,4 @@ If you wish to suggest a feature or report a problem with StoryCAD, then there i
  <br/>
  <br/>
 [Previous - Developing StoryCAD](Developing_StoryCAD.md) <br/>
-[Next - Cloud Storage Providers](Cloud_Storage_Providers.md) <br/>
+[Next - Troubleshooting Cloud Storage Providers](Troubleshooting_Cloud_Storage_Providers.md) <br/>
